@@ -1,14 +1,13 @@
 # Old Portfolio Master Index
 
-This is the navigation layer for the pre-2024 portfolio. Use it to find the GitHub repo for each project, the imported papers/reports/presentations, the local documentation indexes, and the original Google Drive source when heavy files or data were intentionally kept out of GitHub.
+This is the navigation layer for the pre-2024 portfolio. Use it to find each project repo, imported papers/reports/presentations, local documentation indexes, and the original Google Drive source for heavy or Drive-only material.
 
-- Generated: 2026-05-31 06:33 EDT
 - Hub repo: https://github.com/pzg8794/old-portafolio
 - Rule: GitHub contains code and lightweight evidence. Google Drive remains the reference for videos, large data, installers, archives, and other heavy binaries.
 
 ## Needs Drive Review
 
-These repos imported many GitHub-appropriate files, but the full Drive copy hit a timeout. Their `DRIVE_ONLY.md` files include the Drive source and status, so the master index does not hide that risk.
+These repos imported many GitHub-appropriate files, but the full Drive copy hit a timeout. Their `DRIVE_ONLY.md` files include the source and status.
 
 - `opc-cpp-oop`
 - `opc-java-oop`
@@ -24,11 +23,9 @@ These repos imported many GitHub-appropriate files, but the full Drive copy hit 
 
 | Area | Repo | Visibility | Code files | Papers | Reports | Presentations | Docs/indexes | Import status |
 |---|---|---:|---:|---:|---:|---:|---:|---|
-| Publications | [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications) | PUBLIC | 0 | 1 | 8 | 0 | 8 | completed |
-| Resume-CV | [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) | PUBLIC | 0 | 1 | 35 | 0 | 6 | completed |
-| Persona | [old-portafolio-persona](https://github.com/pzg8794/old-portafolio-persona) | PRIVATE | 0 | 0 | 1 | 15 | 7 | completed |
-| Persona / Coursework | [old-portafolio-bcs230-math3](https://github.com/pzg8794/old-portafolio-bcs230-math3) | PUBLIC | 1 | 0 | 4 | 0 | 8 | completed |
 | PHD | [old-portafolio-phd](https://github.com/pzg8794/old-portafolio-phd) | PUBLIC | 0 | 0 | 23 | 0 | 10 | completed |
+| Persona | [old-portafolio-bcs230-math3](https://github.com/pzg8794/old-portafolio-bcs230-math3) | PUBLIC | 1 | 0 | 4 | 0 | 8 | completed |
+| Persona | [old-portafolio-persona](https://github.com/pzg8794/old-portafolio-persona) | PRIVATE | 0 | 0 | 1 | 15 | 7 | completed |
 | Projects-Code | [opc-3dpong](https://github.com/pzg8794/opc-3dpong) | PUBLIC | 64 | 0 | 4 | 3 | 63 | completed |
 | Projects-Code | [opc-algo](https://github.com/pzg8794/opc-algo) | PUBLIC | 0 | 0 | 92 | 3 | 30 | completed |
 | Projects-Code | [opc-apgv](https://github.com/pzg8794/opc-apgv) | PUBLIC | 1 | 15 | 117 | 4 | 54 | completed |
@@ -37,13 +34,13 @@ These repos imported many GitHub-appropriate files, but the full Drive copy hit 
 | Projects-Code | [opc-cpp-oop](https://github.com/pzg8794/opc-cpp-oop) | PUBLIC | 687 | 0 | 1341 | 46 | 1634 | needs Drive review |
 | Projects-Code | [opc-cryptography](https://github.com/pzg8794/opc-cryptography) | PUBLIC | 1 | 0 | 47 | 0 | 16 | completed |
 | Projects-Code | [opc-csharp](https://github.com/pzg8794/opc-csharp) | PUBLIC | 0 | 0 | 0 | 0 | 6 | completed |
-| Projects-Code | [opc-data-mining](https://github.com/pzg8794/opc-data-mining) | PUBLIC | 184 | 86 | 538 | 24 | 570 | completed |
+| Projects-Code | [opc-data-mining](https://github.com/pzg8794/opc-data-mining) | PUBLIC | 184 | 86 | 538 | 24 | 504 | completed |
 | Projects-Code | [opc-eets](https://github.com/pzg8794/opc-eets) | PUBLIC | 9 | 0 | 302 | 0 | 73 | completed |
 | Projects-Code | [opc-eets-2](https://github.com/pzg8794/opc-eets-2) | PUBLIC | 7 | 0 | 99 | 0 | 44 | completed |
 | Projects-Code | [opc-fct](https://github.com/pzg8794/opc-fct) | PUBLIC | 4 | 1 | 224 | 4 | 76 | completed |
 | Projects-Code | [opc-final-bs-project](https://github.com/pzg8794/opc-final-bs-project) | PUBLIC | 9 | 2 | 8 | 0 | 20 | completed |
 | Projects-Code | [opc-java-oop](https://github.com/pzg8794/opc-java-oop) | PUBLIC | 856 | 0 | 756 | 31 | 663 | needs Drive review |
-| Projects-Code | [opc-klm](https://github.com/pzg8794/opc-klm) | PUBLIC | 40 | 2 | 2505 | 6 | 243 | needs Drive review |
+| Projects-Code | [opc-klm](https://github.com/pzg8794/opc-klm) | PUBLIC | 40 | 2 | 2505 | 6 | 227 | needs Drive review |
 | Projects-Code | [opc-labs-undergrad](https://github.com/pzg8794/opc-labs-undergrad) | PUBLIC | 0 | 0 | 49 | 0 | 34 | completed |
 | Projects-Code | [opc-matlab](https://github.com/pzg8794/opc-matlab) | PUBLIC | 578 | 14 | 270 | 55 | 340 | needs Drive review |
 | Projects-Code | [opc-projects-workspace](https://github.com/pzg8794/opc-projects-workspace) | PUBLIC | 438 | 0 | 165 | 7 | 221 | needs Drive review |
@@ -51,7 +48,7 @@ These repos imported many GitHub-appropriate files, but the full Drive copy hit 
 | Projects-Code | [opc-senior-project](https://github.com/pzg8794/opc-senior-project) | PUBLIC | 171 | 0 | 50 | 2 | 94 | completed |
 | Projects-Code | [opc-stuff](https://github.com/pzg8794/opc-stuff) | PUBLIC | 0 | 6 | 33 | 2 | 42 | completed |
 | Projects-Code | [opc-unix-programming](https://github.com/pzg8794/opc-unix-programming) | PUBLIC | 0 | 0 | 36 | 5 | 11 | completed |
-| Projects-Code | [opc-work-project](https://github.com/pzg8794/opc-work-project) | PUBLIC | 558 | 5 | 190 | 10 | 83 | needs Drive review |
+| Projects-Code | [opc-work-project](https://github.com/pzg8794/opc-work-project) | PUBLIC | 558 | 5 | 190 | 10 | 81 | needs Drive review |
 | Projects-No-Code | [opn-calculus-i](https://github.com/pzg8794/opn-calculus-i) | PUBLIC | 0 | 0 | 12 | 0 | 8 | completed |
 | Projects-No-Code | [opn-calculus-ii](https://github.com/pzg8794/opn-calculus-ii) | PUBLIC | 0 | 0 | 2 | 0 | 8 | completed |
 | Projects-No-Code | [opn-differential-equations](https://github.com/pzg8794/opn-differential-equations) | PUBLIC | 0 | 0 | 12 | 0 | 8 | completed |
@@ -62,214 +59,14 @@ These repos imported many GitHub-appropriate files, but the full Drive copy hit 
 | Projects-No-Code | [opn-home-automation-power-control](https://github.com/pzg8794/opn-home-automation-power-control) | PUBLIC | 0 | 0 | 0 | 0 | 6 | completed |
 | Projects-No-Code | [opn-math](https://github.com/pzg8794/opn-math) | PUBLIC | 0 | 0 | 36 | 0 | 16 | completed |
 | Projects-No-Code | [opn-physics](https://github.com/pzg8794/opn-physics) | PUBLIC | 0 | 3 | 13 | 0 | 10 | completed |
-| Work-Projects | [opw-madchefkitchen](https://github.com/pzg8794/opw-madchefkitchen) | PUBLIC | 801 | 0 | 85 | 19 | 87 | needs Drive review |
+| Publications | [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications) | PUBLIC | 0 | 1 | 8 | 0 | 8 | completed |
+| Resume-CV | [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) | PUBLIC | 0 | 1 | 35 | 0 | 6 | completed |
+| Work-Projects | [opw-madchefkitchen](https://github.com/pzg8794/opw-madchefkitchen) | PUBLIC | 801 | 0 | 85 | 19 | 85 | needs Drive review |
 | Work-Projects | [opw-qualitrol-projects](https://github.com/pzg8794/opw-qualitrol-projects) | PUBLIC | 227 | 1 | 102 | 0 | 70 | completed |
 | Work-Projects | [opw-tiburonlockers](https://github.com/pzg8794/opw-tiburonlockers) | PUBLIC | 1 | 0 | 11 | 0 | 11 | completed |
 | Work-Projects | [opw-trueinteraction](https://github.com/pzg8794/opw-trueinteraction) | PUBLIC | 18 | 13 | 250 | 123 | 122 | needs Drive review |
 
 ## Detailed Index
-
-<details>
-
-<summary>Publications / old-portafolio-publications - 1 papers, 8 reports, 0 presentations, 8 docs/indexes</summary>
-
-- GitHub: https://github.com/pzg8794/old-portafolio-publications
-- Hub path: `Publications/old-portafolio-publications`
-- Visibility: `PUBLIC`
-- Drive source(s): https://drive.google.com/drive/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ
-- Import status: `completed`
-- Total indexed files in repo: `18`
-
-### Code / Project Location
-
-- No source-code root detected; this repo may be documentation/coursework/support material.
-
-### Papers
-- `papers/FinalReport-IndependentStudy.pdf`
-
-### Reports / Written Documentation
-- `reports/CVPROJECT-1.docx`
-- `reports/CVPROJECT-1.pdf`
-- `reports/ColorHistogramPart3.pdf`
-- `reports/Final Project Report USE.pdf`
-- `reports/FinalReport.pdf`
-- `reports/report (1).pdf`
-- `reports/report (2).pdf`
-- `reports/report.pdf`
-
-### Presentations
-- None indexed.
-
-### Repo Documentation / Local Indexes
-- `-Inventory.md`
-- `DRIVE_ONLY.md`
-- `DRIVE_OVERVIEW.md`
-- `IMPORT_NOTES.md`
-- `OVERLEAF_PREP.md`
-- `README.md`
-- `papers/README.md`
-- `reports/README.md`
-
-</details>
-
-<details>
-
-<summary>Resume-CV / CV_Piter-Garcia - 1 papers, 35 reports, 0 presentations, 6 docs/indexes</summary>
-
-- GitHub: https://github.com/pzg8794/CV_Piter-Garcia
-- Hub path: `Resume-CV/CV_Piter-Garcia`
-- Visibility: `PUBLIC`
-- Drive source(s): https://drive.google.com/drive/folders/1-V2h2ghDW13q3o7oTUU6W4CDGySum4ea
-- Import status: `completed`
-- Total indexed files in repo: `43`
-
-### Code / Project Location
-
-- No source-code root detected; this repo may be documentation/coursework/support material.
-
-### Papers
-- `papers/intended_area_of_study.md`
-
-### Reports / Written Documentation
-- `LICENSE.md`
-- `reports/CS Developer Interview Preparation--from-repo-legacy-interview-prep.docx`
-- `reports/CS Developer Interview Preparation.docx`
-- `reports/CS Developer Interview Preparation.odt`
-- `reports/Candidate Profile Sheet.doc`
-- `reports/Data Analyst Interview Preparation--from-repo-legacy-interview-prep.docx`
-- `reports/Data Analyst Interview Preparation.docx`
-- `reports/Data Analyst Interview Preparation.odt`
-- `reports/Piter_Garcia-Resume.pdf`
-- `reports/a3d3_postbac_fellowship_application.pdf`
-- `reports/account_setup_checklists.md`
-- `reports/account_setup_tracker.md`
-- `reports/ai_hub_resume.pdf`
-- `reports/ai_hub_resume.tex`
-- `reports/cv_piter_garcia_2026.pdf`
-- `reports/developercv.cls`
-- `reports/dr_rodriguez_rna_fairness_outreach.md`
-- `reports/fontawesome.pdf`
-- `reports/job_posting.md`
-- `reports/leadership_essay.md`
-- `reports/leadership_essay.pdf`
-- `reports/main.pdf`
-- `reports/main.tex`
-- `reports/main2.pdf`
-- `reports/main2.tex`
-- `reports/main3.pdf`
-- `reports/main3.tex`
-- `reports/profile_master_source.md`
-- `reports/recommendation_request_packet.md`
-- `reports/resume.tex`
-- `reports/resume_AI_Hub.tex`
-- `reports/resume_revision_todo.md`
-- `reports/scholarship_resume.md`
-- `reports/strategy_plan.md`
-- `reports/update_packet.md`
-
-### Presentations
-- None indexed.
-
-### Repo Documentation / Local Indexes
-- `-Inventory.md`
-- `DRIVE_ONLY.md`
-- `OVERLEAF_PREP.md`
-- `README.md`
-- `papers/README.md`
-- `reports/README.md`
-
-</details>
-
-<details>
-
-<summary>Persona / old-portafolio-persona - 0 papers, 1 reports, 15 presentations, 7 docs/indexes</summary>
-
-- GitHub: https://github.com/pzg8794/old-portafolio-persona
-- Hub path: `Persona/old-portafolio-persona`
-- Visibility: `PRIVATE`
-- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1gLGzwnuCDIylvnOXgkQLBmrSEFtl3fl1
-- Import status: `completed`
-- Total indexed files in repo: `24`
-
-### Code / Project Location
-
-- No source-code root detected; this repo may be documentation/coursework/support material.
-
-### Papers
-- None indexed.
-
-### Reports / Written Documentation
-- `reports/AMARCORD (2013_03_30 07_27_35 UTC).wps`
-
-### Presentations
-- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHAS (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHASMUSICA (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/Cuando el camino me cansa y la sed (2013_03_30 07_27_35 UTC).pps`
-- `presentations/DIA TRAS DIA SIN SONIDO, (2013_03_30 07_27_35 UTC).pps`
-- `presentations/DIA TRAS DIA, (2013_03_30 07_27_35 UTC).pps`
-- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).pps`
-- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/NO QUIERO AMOR QUE NO SABE DOMINARSE (2013_03_30 07_27_35 UTC).pps`
-- `presentations/NuevoPresentacióndeMicrosoftPowerPoint[1][1]. (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/TU CARTA1 (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/TU HAS ROTO MIS ATADURAS (2013_03_30 07_27_35 UTC).pps`
-- `presentations/la lagrima (2013_03_30 07_27_35 UTC).pps`
-- `presentations/la lagrima (2013_03_30 07_27_35 UTC).ppt`
-- `presentations/mirame (2013_03_30 07_27_35 UTC).pps`
-- `presentations/tu libro (2013_03_30 07_27_35 UTC).pps`
-
-### Repo Documentation / Local Indexes
-- `-Inventory.md`
-- `DRIVE_ONLY.md`
-- `DRIVE_SOURCE.md`
-- `OVERLEAF_PREP.md`
-- `README.md`
-- `presentations/README.md`
-- `reports/README.md`
-
-</details>
-
-<details>
-
-<summary>Persona / Coursework / old-portafolio-bcs230-math3 - 0 papers, 4 reports, 0 presentations, 8 docs/indexes</summary>
-
-- GitHub: https://github.com/pzg8794/old-portafolio-bcs230-math3
-- Hub path: `Persona/old-portafolio-bcs230-math3`
-- Visibility: `PUBLIC`
-- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1aqy1jOg0loT_olRjQJ8X1u09aJQ8SfoC
-- Import status: `completed`
-- Total indexed files in repo: `15`
-
-### Code / Project Location
-
-- `bcs230-12-math3/`
-
-Project marker files:
-- `bcs230-12-math3/LabAssignment11 (2013_03_30 07_27_35 UTC).vcproj`
-
-### Papers
-- None indexed.
-
-### Reports / Written Documentation
-- `reports/LabNo11 (2013_03_30 07_27_35 UTC).txt`
-- `reports/LabNo11_output (2013_03_30 07_27_35 UTC).txt`
-- `reports/Math-Project-hw3-2 (Repaired) (2013_03_30 07_27_35 UTC).docx`
-- `reports/Networked Businesses (2013_03_30 07_27_35 UTC).docx`
-
-### Presentations
-- None indexed.
-
-### Repo Documentation / Local Indexes
-- `-Inventory.md`
-- `DRIVE_ONLY.md`
-- `DRIVE_SOURCE.md`
-- `OVERLEAF_PREP.md`
-- `README.md`
-- `bcs230-12-math3/-Inventory.md`
-- `bcs230-12-math3/README.md`
-- `reports/README.md`
-
-</details>
 
 <details>
 
@@ -327,6 +124,97 @@ Project marker files:
 - `MS/RIT/README.md`
 - `OVERLEAF_PREP.md`
 - `README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Persona / old-portafolio-bcs230-math3 - 0 papers, 4 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-bcs230-math3
+- Hub path: `Persona/old-portafolio-bcs230-math3`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1aqy1jOg0loT_olRjQJ8X1u09aJQ8SfoC
+- Import status: `completed`
+- Total indexed files in repo: `15`
+
+### Code / Project Location
+
+- `bcs230-12-math3/`
+
+Project marker files:
+- `bcs230-12-math3/LabAssignment11 (2013_03_30 07_27_35 UTC).vcproj`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/LabNo11 (2013_03_30 07_27_35 UTC).txt`
+- `reports/LabNo11_output (2013_03_30 07_27_35 UTC).txt`
+- `reports/Math-Project-hw3-2 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- `reports/Networked Businesses (2013_03_30 07_27_35 UTC).docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_SOURCE.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `bcs230-12-math3/-Inventory.md`
+- `bcs230-12-math3/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Persona / old-portafolio-persona - 0 papers, 1 reports, 15 presentations, 7 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-persona
+- Hub path: `Persona/old-portafolio-persona`
+- Visibility: `PRIVATE`
+- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1gLGzwnuCDIylvnOXgkQLBmrSEFtl3fl1
+- Import status: `completed`
+- Total indexed files in repo: `24`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/AMARCORD (2013_03_30 07_27_35 UTC).wps`
+
+### Presentations
+- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHAS (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHASMUSICA (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/Cuando el camino me cansa y la sed (2013_03_30 07_27_35 UTC).pps`
+- `presentations/DIA TRAS DIA SIN SONIDO, (2013_03_30 07_27_35 UTC).pps`
+- `presentations/DIA TRAS DIA, (2013_03_30 07_27_35 UTC).pps`
+- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).pps`
+- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/NO QUIERO AMOR QUE NO SABE DOMINARSE (2013_03_30 07_27_35 UTC).pps`
+- `presentations/NuevoPresentacióndeMicrosoftPowerPoint[1][1]. (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/TU CARTA1 (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/TU HAS ROTO MIS ATADURAS (2013_03_30 07_27_35 UTC).pps`
+- `presentations/la lagrima (2013_03_30 07_27_35 UTC).pps`
+- `presentations/la lagrima (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/mirame (2013_03_30 07_27_35 UTC).pps`
+- `presentations/tu libro (2013_03_30 07_27_35 UTC).pps`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_SOURCE.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `presentations/README.md`
 - `reports/README.md`
 
 </details>
@@ -4590,14 +4478,14 @@ Project marker files:
 
 <details>
 
-<summary>Projects-Code / opc-data-mining - 86 papers, 538 reports, 24 presentations, 570 docs/indexes</summary>
+<summary>Projects-Code / opc-data-mining - 86 papers, 538 reports, 24 presentations, 504 docs/indexes</summary>
 
 - GitHub: https://github.com/pzg8794/opc-data-mining
 - Hub path: `Projects-Code/opc-data-mining`
 - Visibility: `PUBLIC`
 - Drive source(s): https://drive.google.com/drive/folders/1A2zgFRN7sovwpr9JqKaohbfIA7h5UBCI
 - Import status: `completed`
-- Total indexed files in repo: `1819`
+- Total indexed files in repo: `1753`
 
 ### Code / Project Location
 
@@ -5305,10 +5193,6 @@ Project marker files:
 - `Data Cleaning & Processing/Class Documents/README.md`
 - `Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
 - `Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
-- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/-Inventory.md`
-- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/README.md`
-- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/-Inventory.md`
-- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/README.md`
 - `Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
 - `Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/-Inventory.md`
@@ -5316,10 +5200,6 @@ Project marker files:
 - `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/README.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
-- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/-Inventory.md`
-- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/README.md`
-- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/-Inventory.md`
-- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/README.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
 - `Data Cleaning & Processing/Data Cleaning & Processing/Data Files/-Inventory.md`
@@ -5480,64 +5360,6 @@ Project marker files:
 - `Data Cleaning & Processing/Weeks/Week4/README.md`
 - `Data Cleaning & Processing/phase3/-Inventory.md`
 - `Data Cleaning & Processing/phase3/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/BestVacation/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/BestVacation/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/images/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/images/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/cities/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/cities/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/plots/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/plots/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/js/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/js/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/city/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/city/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/26/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/26/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/28/-Inventory.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/28/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/README.md`
-- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/README.md`
 - `Data Cleaning & Processing/phase3/phase3/-Inventory.md`
 - `Data Cleaning & Processing/phase3/phase3/README.md`
 - `Data Cleaning & Processing/phase3/phase3/code/-Inventory.md`
@@ -8328,14 +8150,14 @@ Project marker files:
 
 <details>
 
-<summary>Projects-Code / opc-klm - 2 papers, 2505 reports, 6 presentations, 243 docs/indexes</summary>
+<summary>Projects-Code / opc-klm - 2 papers, 2505 reports, 6 presentations, 227 docs/indexes</summary>
 
 - GitHub: https://github.com/pzg8794/opc-klm
 - Hub path: `Projects-Code/opc-klm`
 - Visibility: `PUBLIC`
 - Drive source(s): https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
 - Import status: `needs Drive review`
-- Total indexed files in repo: `3257`
+- Total indexed files in repo: `3241`
 
 ### Code / Project Location
 
@@ -11076,16 +10898,6 @@ Project marker files:
 - `src/KLM/Signs/Time/README.md`
 - `src/KLM/Signs/Weather/-Inventory.md`
 - `src/KLM/Signs/Weather/README.md`
-- `src/KLM/bin/-Inventory.md`
-- `src/KLM/bin/README.md`
-- `src/KLM/bin/x86/-Inventory.md`
-- `src/KLM/bin/x86/README.md`
-- `src/KLM/obj/-Inventory.md`
-- `src/KLM/obj/README.md`
-- `src/KLM/obj/x64/-Inventory.md`
-- `src/KLM/obj/x64/README.md`
-- `src/KLM/obj/x86/-Inventory.md`
-- `src/KLM/obj/x86/README.md`
 - `src/LightBuzz.Vitruvius/-Inventory.md`
 - `src/LightBuzz.Vitruvius/Bitmaps/-Inventory.md`
 - `src/LightBuzz.Vitruvius/Bitmaps/README.md`
@@ -11102,12 +10914,6 @@ Project marker files:
 - `src/LightBuzz.Vitruvius/README.md`
 - `src/LightBuzz.Vitruvius/Tools/-Inventory.md`
 - `src/LightBuzz.Vitruvius/Tools/README.md`
-- `src/LightBuzz.Vitruvius/bin/-Inventory.md`
-- `src/LightBuzz.Vitruvius/bin/README.md`
-- `src/LightBuzz.Vitruvius/obj/-Inventory.md`
-- `src/LightBuzz.Vitruvius/obj/README.md`
-- `src/LightBuzz.Vitruvius/obj/x86/-Inventory.md`
-- `src/LightBuzz.Vitruvius/obj/x86/README.md`
 - `src/README.md`
 
 </details>
@@ -13413,14 +13219,14 @@ Project marker files:
 
 <details>
 
-<summary>Projects-Code / opc-work-project - 5 papers, 190 reports, 10 presentations, 83 docs/indexes</summary>
+<summary>Projects-Code / opc-work-project - 5 papers, 190 reports, 10 presentations, 81 docs/indexes</summary>
 
 - GitHub: https://github.com/pzg8794/opc-work-project
 - Hub path: `Projects-Code/opc-work-project`
 - Visibility: `PUBLIC`
 - Drive source(s): https://drive.google.com/drive/folders/1imPlJSNqt6v7JYMas8Dq0kuw9x8hcpDR
 - Import status: `needs Drive review`
-- Total indexed files in repo: `1085`
+- Total indexed files in repo: `1083`
 
 ### Code / Project Location
 
@@ -13650,8 +13456,6 @@ Project marker files:
 - `MadChefKitchen/-Inventory.md`
 - `MadChefKitchen/README.md`
 - `MadChefKitchen/inkzine-plus/README.md`
-- `MadChefKitchen/inkzine-plus/__MACOSX/README.md`
-- `MadChefKitchen/inkzine-plus/__MACOSX/inkzine-plus/README.md`
 - `MadChefKitchen/inkzine-plus/inkzine-plus/README.md`
 - `MadChefKitchen/inkzine-plus1/README.md`
 - `MadChefKitchen/inkzine-plus1/classes/README.md`
@@ -14348,14 +14152,125 @@ Project marker files:
 
 <details>
 
-<summary>Work-Projects / opw-madchefkitchen - 0 papers, 85 reports, 19 presentations, 87 docs/indexes</summary>
+<summary>Publications / old-portafolio-publications - 1 papers, 8 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-publications
+- Hub path: `Publications/old-portafolio-publications`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ
+- Import status: `completed`
+- Total indexed files in repo: `18`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/FinalReport-IndependentStudy.pdf`
+
+### Reports / Written Documentation
+- `reports/CVPROJECT-1.docx`
+- `reports/CVPROJECT-1.pdf`
+- `reports/ColorHistogramPart3.pdf`
+- `reports/Final Project Report USE.pdf`
+- `reports/FinalReport.pdf`
+- `reports/report (1).pdf`
+- `reports/report (2).pdf`
+- `reports/report.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Resume-CV / CV_Piter-Garcia - 1 papers, 35 reports, 0 presentations, 6 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/CV_Piter-Garcia
+- Hub path: `Resume-CV/CV_Piter-Garcia`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-V2h2ghDW13q3o7oTUU6W4CDGySum4ea
+- Import status: `completed`
+- Total indexed files in repo: `43`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/intended_area_of_study.md`
+
+### Reports / Written Documentation
+- `LICENSE.md`
+- `reports/CS Developer Interview Preparation--from-repo-legacy-interview-prep.docx`
+- `reports/CS Developer Interview Preparation.docx`
+- `reports/CS Developer Interview Preparation.odt`
+- `reports/Candidate Profile Sheet.doc`
+- `reports/Data Analyst Interview Preparation--from-repo-legacy-interview-prep.docx`
+- `reports/Data Analyst Interview Preparation.docx`
+- `reports/Data Analyst Interview Preparation.odt`
+- `reports/Piter_Garcia-Resume.pdf`
+- `reports/a3d3_postbac_fellowship_application.pdf`
+- `reports/account_setup_checklists.md`
+- `reports/account_setup_tracker.md`
+- `reports/ai_hub_resume.pdf`
+- `reports/ai_hub_resume.tex`
+- `reports/cv_piter_garcia_2026.pdf`
+- `reports/developercv.cls`
+- `reports/dr_rodriguez_rna_fairness_outreach.md`
+- `reports/fontawesome.pdf`
+- `reports/job_posting.md`
+- `reports/leadership_essay.md`
+- `reports/leadership_essay.pdf`
+- `reports/main.pdf`
+- `reports/main.tex`
+- `reports/main2.pdf`
+- `reports/main2.tex`
+- `reports/main3.pdf`
+- `reports/main3.tex`
+- `reports/profile_master_source.md`
+- `reports/recommendation_request_packet.md`
+- `reports/resume.tex`
+- `reports/resume_AI_Hub.tex`
+- `reports/resume_revision_todo.md`
+- `reports/scholarship_resume.md`
+- `reports/strategy_plan.md`
+- `reports/update_packet.md`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Work-Projects / opw-madchefkitchen - 0 papers, 85 reports, 19 presentations, 85 docs/indexes</summary>
 
 - GitHub: https://github.com/pzg8794/opw-madchefkitchen
 - Hub path: `Work-Projects/opw-madchefkitchen`
 - Visibility: `PUBLIC`
 - Drive source(s): https://drive.google.com/drive/folders/1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge
 - Import status: `needs Drive review`
-- Total indexed files in repo: `1658`
+- Total indexed files in repo: `1656`
 
 ### Code / Project Location
 
@@ -14573,8 +14488,6 @@ Project marker files:
 - `MadChefKichen Work-2015/Gift Certificates/README.md`
 - `MadChefKichen Work-2015/MadChefKitchen/README.md`
 - `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/README.md`
-- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/__MACOSX/README.md`
-- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/__MACOSX/inkzine-plus/README.md`
 - `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/inkzine-plus/README.md`
 - `MadChefKichen Work-2015/MadChefKitchen/inkzine/README.md`
 - `MadChefKichen Work-2015/MadChefKitchen/inkzine/css/README.md`
