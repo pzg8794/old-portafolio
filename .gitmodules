@@ -1,43 +1,3 @@
-[submodule "Projects-No-Code/old-portafolio-nocode-egl-310"]
-	path = Projects-No-Code/old-portafolio-nocode-egl-310
-	url = https://github.com/pzg8794/old-portafolio-nocode-egl-310.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-egl"]
-	path = Projects-No-Code/old-portafolio-nocode-egl
-	url = https://github.com/pzg8794/old-portafolio-nocode-egl.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-egl-310-1"]
-	path = Projects-No-Code/old-portafolio-nocode-egl-310-1
-	url = https://github.com/pzg8794/old-portafolio-nocode-egl-310-1.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-home-automation-power-control"]
-	path = Projects-No-Code/old-portafolio-nocode-home-automation-power-control
-	url = https://github.com/pzg8794/old-portafolio-nocode-home-automation-power-control.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-history-west-world"]
-	path = Projects-No-Code/old-portafolio-nocode-history-west-world
-	url = https://github.com/pzg8794/old-portafolio-nocode-history-west-world.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-math"]
-	path = Projects-No-Code/old-portafolio-nocode-math
-	url = https://github.com/pzg8794/old-portafolio-nocode-math.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-calculus-i"]
-	path = Projects-No-Code/old-portafolio-nocode-calculus-i
-	url = https://github.com/pzg8794/old-portafolio-nocode-calculus-i.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-calculus-ii"]
-	path = Projects-No-Code/old-portafolio-nocode-calculus-ii
-	url = https://github.com/pzg8794/old-portafolio-nocode-calculus-ii.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-differential-equations"]
-	path = Projects-No-Code/old-portafolio-nocode-differential-equations
-	url = https://github.com/pzg8794/old-portafolio-nocode-differential-equations.git
-
-[submodule "Projects-No-Code/old-portafolio-nocode-physics"]
-	path = Projects-No-Code/old-portafolio-nocode-physics
-	url = https://github.com/pzg8794/old-portafolio-nocode-physics.git
-
 [submodule "Publications/old-portafolio-publications"]
 	path = Publications/old-portafolio-publications
 	url = https://github.com/pzg8794/old-portafolio-publications.git
@@ -53,22 +13,6 @@
 [submodule "Persona/old-portafolio-bcs230-math3"]
 	path = Persona/old-portafolio-bcs230-math3
 	url = https://github.com/pzg8794/old-portafolio-bcs230-math3.git
-
-[submodule "Work-Projects/old-portafolio-work-madchefkitchen"]
-	path = Work-Projects/old-portafolio-work-madchefkitchen
-	url = https://github.com/pzg8794/old-portafolio-work-madchefkitchen.git
-
-[submodule "Work-Projects/old-portafolio-work-qualitrol-projects"]
-	path = Work-Projects/old-portafolio-work-qualitrol-projects
-	url = https://github.com/pzg8794/old-portafolio-work-qualitrol-projects.git
-
-[submodule "Work-Projects/old-portafolio-work-tiburonlockers"]
-	path = Work-Projects/old-portafolio-work-tiburonlockers
-	url = https://github.com/pzg8794/old-portafolio-work-tiburonlockers.git
-
-[submodule "Work-Projects/old-portafolio-work-trueinteraction"]
-	path = Work-Projects/old-portafolio-work-trueinteraction
-	url = https://github.com/pzg8794/old-portafolio-work-trueinteraction.git
 
 [submodule "PHD/old-portafolio-phd"]
 	path = PHD/old-portafolio-phd
