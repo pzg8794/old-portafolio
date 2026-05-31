@@ -109,3 +109,59 @@
 [submodule "Projects-Code/opc-work-project"]
 	path = Projects-Code/opc-work-project
 	url = https://github.com/pzg8794/opc-work-project.git
+
+[submodule "Projects-No-Code/opn-calculus-i"]
+	path = Projects-No-Code/opn-calculus-i
+	url = https://github.com/pzg8794/opn-calculus-i.git
+
+[submodule "Projects-No-Code/opn-calculus-ii"]
+	path = Projects-No-Code/opn-calculus-ii
+	url = https://github.com/pzg8794/opn-calculus-ii.git
+
+[submodule "Projects-No-Code/opn-differential-equations"]
+	path = Projects-No-Code/opn-differential-equations
+	url = https://github.com/pzg8794/opn-differential-equations.git
+
+[submodule "Projects-No-Code/opn-egl"]
+	path = Projects-No-Code/opn-egl
+	url = https://github.com/pzg8794/opn-egl.git
+
+[submodule "Projects-No-Code/opn-egl-310"]
+	path = Projects-No-Code/opn-egl-310
+	url = https://github.com/pzg8794/opn-egl-310.git
+
+[submodule "Projects-No-Code/opn-egl-310-1"]
+	path = Projects-No-Code/opn-egl-310-1
+	url = https://github.com/pzg8794/opn-egl-310-1.git
+
+[submodule "Projects-No-Code/opn-history-west-world"]
+	path = Projects-No-Code/opn-history-west-world
+	url = https://github.com/pzg8794/opn-history-west-world.git
+
+[submodule "Projects-No-Code/opn-home-automation-power-control"]
+	path = Projects-No-Code/opn-home-automation-power-control
+	url = https://github.com/pzg8794/opn-home-automation-power-control.git
+
+[submodule "Projects-No-Code/opn-math"]
+	path = Projects-No-Code/opn-math
+	url = https://github.com/pzg8794/opn-math.git
+
+[submodule "Projects-No-Code/opn-physics"]
+	path = Projects-No-Code/opn-physics
+	url = https://github.com/pzg8794/opn-physics.git
+
+[submodule "Work-Projects/opw-madchefkitchen"]
+	path = Work-Projects/opw-madchefkitchen
+	url = https://github.com/pzg8794/opw-madchefkitchen.git
+
+[submodule "Work-Projects/opw-qualitrol-projects"]
+	path = Work-Projects/opw-qualitrol-projects
+	url = https://github.com/pzg8794/opw-qualitrol-projects.git
+
+[submodule "Work-Projects/opw-tiburonlockers"]
+	path = Work-Projects/opw-tiburonlockers
+	url = https://github.com/pzg8794/opw-tiburonlockers.git
+
+[submodule "Work-Projects/opw-trueinteraction"]
+	path = Work-Projects/opw-trueinteraction
+	url = https://github.com/pzg8794/opw-trueinteraction.git

@@ -1,9 +1,7 @@
 # PHD
 
-## GitHub Repositories
+See the hub [master index](../PORTFOLIO_MASTER_INDEX.md) for code, papers, reports, presentations, documentation, Drive sources, and import status.
 
-- [old-portafolio-phd](https://github.com/pzg8794/old-portafolio-phd)
+## Repositories
 
-## Notes
-
-Tracked as a git submodule in the old Portafolio hub.
+- [old-portafolio-phd](https://github.com/pzg8794/old-portafolio-phd) - `PHD/old-portafolio-phd`

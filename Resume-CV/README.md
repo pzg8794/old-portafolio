@@ -1,9 +1,7 @@
 # Resume-CV
 
-## GitHub Repositories
+See the hub [master index](../PORTFOLIO_MASTER_INDEX.md) for code, papers, reports, presentations, documentation, Drive sources, and import status.
 
-- [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia)
+## Repositories
 
-## Notes
-
-These entries are tracked as git submodules in the old Portafolio hub. Clone with `git clone --recurse-submodules` only if you need local copies; otherwise use the GitHub links.
+- [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) - `Resume-CV/CV_Piter-Garcia`

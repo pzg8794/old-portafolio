@@ -1,9 +1,7 @@
 # Publications
 
-## GitHub Repositories
+See the hub [master index](../PORTFOLIO_MASTER_INDEX.md) for code, papers, reports, presentations, documentation, Drive sources, and import status.
 
-- [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications)
+## Repositories
 
-## Notes
-
-These entries are tracked as git submodules in the old Portafolio hub. Clone with `git clone --recurse-submodules` only if you need local copies; otherwise use the GitHub links.
+- [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications) - `Publications/old-portafolio-publications`

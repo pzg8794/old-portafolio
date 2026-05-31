@@ -1,0 +1,15458 @@
+# Old Portfolio Master Index
+
+This is the navigation layer for the pre-2024 portfolio. Use it to find the GitHub repo for each project, the imported papers/reports/presentations, the local documentation indexes, and the original Google Drive source when heavy files or data were intentionally kept out of GitHub.
+
+- Generated: 2026-05-31 06:33 EDT
+- Hub repo: https://github.com/pzg8794/old-portafolio
+- Rule: GitHub contains code and lightweight evidence. Google Drive remains the reference for videos, large data, installers, archives, and other heavy binaries.
+
+## Needs Drive Review
+
+These repos imported many GitHub-appropriate files, but the full Drive copy hit a timeout. Their `DRIVE_ONLY.md` files include the Drive source and status, so the master index does not hide that risk.
+
+- `opc-cpp-oop`
+- `opc-java-oop`
+- `opc-klm`
+- `opc-matlab`
+- `opc-projects-workspace`
+- `opc-python`
+- `opc-work-project`
+- `opw-madchefkitchen`
+- `opw-trueinteraction`
+
+## Quick Map
+
+| Area | Repo | Visibility | Code files | Papers | Reports | Presentations | Docs/indexes | Import status |
+|---|---|---:|---:|---:|---:|---:|---:|---|
+| Publications | [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications) | PUBLIC | 0 | 1 | 8 | 0 | 8 | completed |
+| Resume-CV | [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) | PUBLIC | 0 | 1 | 35 | 0 | 6 | completed |
+| Persona | [old-portafolio-persona](https://github.com/pzg8794/old-portafolio-persona) | PRIVATE | 0 | 0 | 1 | 15 | 7 | completed |
+| Persona / Coursework | [old-portafolio-bcs230-math3](https://github.com/pzg8794/old-portafolio-bcs230-math3) | PUBLIC | 1 | 0 | 4 | 0 | 8 | completed |
+| PHD | [old-portafolio-phd](https://github.com/pzg8794/old-portafolio-phd) | PUBLIC | 0 | 0 | 23 | 0 | 10 | completed |
+| Projects-Code | [opc-3dpong](https://github.com/pzg8794/opc-3dpong) | PUBLIC | 64 | 0 | 4 | 3 | 63 | completed |
+| Projects-Code | [opc-algo](https://github.com/pzg8794/opc-algo) | PUBLIC | 0 | 0 | 92 | 3 | 30 | completed |
+| Projects-Code | [opc-apgv](https://github.com/pzg8794/opc-apgv) | PUBLIC | 1 | 15 | 117 | 4 | 54 | completed |
+| Projects-Code | [opc-computer-graphics](https://github.com/pzg8794/opc-computer-graphics) | PUBLIC | 0 | 0 | 0 | 0 | 6 | completed |
+| Projects-Code | [opc-cpp](https://github.com/pzg8794/opc-cpp) | PUBLIC | 35 | 0 | 57 | 0 | 70 | completed |
+| Projects-Code | [opc-cpp-oop](https://github.com/pzg8794/opc-cpp-oop) | PUBLIC | 687 | 0 | 1341 | 46 | 1634 | needs Drive review |
+| Projects-Code | [opc-cryptography](https://github.com/pzg8794/opc-cryptography) | PUBLIC | 1 | 0 | 47 | 0 | 16 | completed |
+| Projects-Code | [opc-csharp](https://github.com/pzg8794/opc-csharp) | PUBLIC | 0 | 0 | 0 | 0 | 6 | completed |
+| Projects-Code | [opc-data-mining](https://github.com/pzg8794/opc-data-mining) | PUBLIC | 184 | 86 | 538 | 24 | 570 | completed |
+| Projects-Code | [opc-eets](https://github.com/pzg8794/opc-eets) | PUBLIC | 9 | 0 | 302 | 0 | 73 | completed |
+| Projects-Code | [opc-eets-2](https://github.com/pzg8794/opc-eets-2) | PUBLIC | 7 | 0 | 99 | 0 | 44 | completed |
+| Projects-Code | [opc-fct](https://github.com/pzg8794/opc-fct) | PUBLIC | 4 | 1 | 224 | 4 | 76 | completed |
+| Projects-Code | [opc-final-bs-project](https://github.com/pzg8794/opc-final-bs-project) | PUBLIC | 9 | 2 | 8 | 0 | 20 | completed |
+| Projects-Code | [opc-java-oop](https://github.com/pzg8794/opc-java-oop) | PUBLIC | 856 | 0 | 756 | 31 | 663 | needs Drive review |
+| Projects-Code | [opc-klm](https://github.com/pzg8794/opc-klm) | PUBLIC | 40 | 2 | 2505 | 6 | 243 | needs Drive review |
+| Projects-Code | [opc-labs-undergrad](https://github.com/pzg8794/opc-labs-undergrad) | PUBLIC | 0 | 0 | 49 | 0 | 34 | completed |
+| Projects-Code | [opc-matlab](https://github.com/pzg8794/opc-matlab) | PUBLIC | 578 | 14 | 270 | 55 | 340 | needs Drive review |
+| Projects-Code | [opc-projects-workspace](https://github.com/pzg8794/opc-projects-workspace) | PUBLIC | 438 | 0 | 165 | 7 | 221 | needs Drive review |
+| Projects-Code | [opc-python](https://github.com/pzg8794/opc-python) | PUBLIC | 465 | 0 | 443 | 0 | 130 | needs Drive review |
+| Projects-Code | [opc-senior-project](https://github.com/pzg8794/opc-senior-project) | PUBLIC | 171 | 0 | 50 | 2 | 94 | completed |
+| Projects-Code | [opc-stuff](https://github.com/pzg8794/opc-stuff) | PUBLIC | 0 | 6 | 33 | 2 | 42 | completed |
+| Projects-Code | [opc-unix-programming](https://github.com/pzg8794/opc-unix-programming) | PUBLIC | 0 | 0 | 36 | 5 | 11 | completed |
+| Projects-Code | [opc-work-project](https://github.com/pzg8794/opc-work-project) | PUBLIC | 558 | 5 | 190 | 10 | 83 | needs Drive review |
+| Projects-No-Code | [opn-calculus-i](https://github.com/pzg8794/opn-calculus-i) | PUBLIC | 0 | 0 | 12 | 0 | 8 | completed |
+| Projects-No-Code | [opn-calculus-ii](https://github.com/pzg8794/opn-calculus-ii) | PUBLIC | 0 | 0 | 2 | 0 | 8 | completed |
+| Projects-No-Code | [opn-differential-equations](https://github.com/pzg8794/opn-differential-equations) | PUBLIC | 0 | 0 | 12 | 0 | 8 | completed |
+| Projects-No-Code | [opn-egl](https://github.com/pzg8794/opn-egl) | PUBLIC | 0 | 1 | 33 | 0 | 10 | completed |
+| Projects-No-Code | [opn-egl-310](https://github.com/pzg8794/opn-egl-310) | PUBLIC | 1 | 8 | 74 | 0 | 24 | completed |
+| Projects-No-Code | [opn-egl-310-1](https://github.com/pzg8794/opn-egl-310-1) | PUBLIC | 1 | 3 | 31 | 0 | 16 | completed |
+| Projects-No-Code | [opn-history-west-world](https://github.com/pzg8794/opn-history-west-world) | PUBLIC | 0 | 0 | 8 | 0 | 8 | completed |
+| Projects-No-Code | [opn-home-automation-power-control](https://github.com/pzg8794/opn-home-automation-power-control) | PUBLIC | 0 | 0 | 0 | 0 | 6 | completed |
+| Projects-No-Code | [opn-math](https://github.com/pzg8794/opn-math) | PUBLIC | 0 | 0 | 36 | 0 | 16 | completed |
+| Projects-No-Code | [opn-physics](https://github.com/pzg8794/opn-physics) | PUBLIC | 0 | 3 | 13 | 0 | 10 | completed |
+| Work-Projects | [opw-madchefkitchen](https://github.com/pzg8794/opw-madchefkitchen) | PUBLIC | 801 | 0 | 85 | 19 | 87 | needs Drive review |
+| Work-Projects | [opw-qualitrol-projects](https://github.com/pzg8794/opw-qualitrol-projects) | PUBLIC | 227 | 1 | 102 | 0 | 70 | completed |
+| Work-Projects | [opw-tiburonlockers](https://github.com/pzg8794/opw-tiburonlockers) | PUBLIC | 1 | 0 | 11 | 0 | 11 | completed |
+| Work-Projects | [opw-trueinteraction](https://github.com/pzg8794/opw-trueinteraction) | PUBLIC | 18 | 13 | 250 | 123 | 122 | needs Drive review |
+
+## Detailed Index
+
+<details>
+
+<summary>Publications / old-portafolio-publications - 1 papers, 8 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-publications
+- Hub path: `Publications/old-portafolio-publications`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ
+- Import status: `completed`
+- Total indexed files in repo: `18`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/FinalReport-IndependentStudy.pdf`
+
+### Reports / Written Documentation
+- `reports/CVPROJECT-1.docx`
+- `reports/CVPROJECT-1.pdf`
+- `reports/ColorHistogramPart3.pdf`
+- `reports/Final Project Report USE.pdf`
+- `reports/FinalReport.pdf`
+- `reports/report (1).pdf`
+- `reports/report (2).pdf`
+- `reports/report.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Resume-CV / CV_Piter-Garcia - 1 papers, 35 reports, 0 presentations, 6 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/CV_Piter-Garcia
+- Hub path: `Resume-CV/CV_Piter-Garcia`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-V2h2ghDW13q3o7oTUU6W4CDGySum4ea
+- Import status: `completed`
+- Total indexed files in repo: `43`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/intended_area_of_study.md`
+
+### Reports / Written Documentation
+- `LICENSE.md`
+- `reports/CS Developer Interview Preparation--from-repo-legacy-interview-prep.docx`
+- `reports/CS Developer Interview Preparation.docx`
+- `reports/CS Developer Interview Preparation.odt`
+- `reports/Candidate Profile Sheet.doc`
+- `reports/Data Analyst Interview Preparation--from-repo-legacy-interview-prep.docx`
+- `reports/Data Analyst Interview Preparation.docx`
+- `reports/Data Analyst Interview Preparation.odt`
+- `reports/Piter_Garcia-Resume.pdf`
+- `reports/a3d3_postbac_fellowship_application.pdf`
+- `reports/account_setup_checklists.md`
+- `reports/account_setup_tracker.md`
+- `reports/ai_hub_resume.pdf`
+- `reports/ai_hub_resume.tex`
+- `reports/cv_piter_garcia_2026.pdf`
+- `reports/developercv.cls`
+- `reports/dr_rodriguez_rna_fairness_outreach.md`
+- `reports/fontawesome.pdf`
+- `reports/job_posting.md`
+- `reports/leadership_essay.md`
+- `reports/leadership_essay.pdf`
+- `reports/main.pdf`
+- `reports/main.tex`
+- `reports/main2.pdf`
+- `reports/main2.tex`
+- `reports/main3.pdf`
+- `reports/main3.tex`
+- `reports/profile_master_source.md`
+- `reports/recommendation_request_packet.md`
+- `reports/resume.tex`
+- `reports/resume_AI_Hub.tex`
+- `reports/resume_revision_todo.md`
+- `reports/scholarship_resume.md`
+- `reports/strategy_plan.md`
+- `reports/update_packet.md`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Persona / old-portafolio-persona - 0 papers, 1 reports, 15 presentations, 7 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-persona
+- Hub path: `Persona/old-portafolio-persona`
+- Visibility: `PRIVATE`
+- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1gLGzwnuCDIylvnOXgkQLBmrSEFtl3fl1
+- Import status: `completed`
+- Total indexed files in repo: `24`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/AMARCORD (2013_03_30 07_27_35 UTC).wps`
+
+### Presentations
+- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHAS (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHASMUSICA (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/Cuando el camino me cansa y la sed (2013_03_30 07_27_35 UTC).pps`
+- `presentations/DIA TRAS DIA SIN SONIDO, (2013_03_30 07_27_35 UTC).pps`
+- `presentations/DIA TRAS DIA, (2013_03_30 07_27_35 UTC).pps`
+- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).pps`
+- `presentations/Esta mañan (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/NO QUIERO AMOR QUE NO SABE DOMINARSE (2013_03_30 07_27_35 UTC).pps`
+- `presentations/NuevoPresentacióndeMicrosoftPowerPoint[1][1]. (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/TU CARTA1 (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/TU HAS ROTO MIS ATADURAS (2013_03_30 07_27_35 UTC).pps`
+- `presentations/la lagrima (2013_03_30 07_27_35 UTC).pps`
+- `presentations/la lagrima (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/mirame (2013_03_30 07_27_35 UTC).pps`
+- `presentations/tu libro (2013_03_30 07_27_35 UTC).pps`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_SOURCE.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `presentations/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Persona / Coursework / old-portafolio-bcs230-math3 - 0 papers, 4 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-bcs230-math3
+- Hub path: `Persona/old-portafolio-bcs230-math3`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J, https://drive.google.com/drive/folders/1aqy1jOg0loT_olRjQJ8X1u09aJQ8SfoC
+- Import status: `completed`
+- Total indexed files in repo: `15`
+
+### Code / Project Location
+
+- `bcs230-12-math3/`
+
+Project marker files:
+- `bcs230-12-math3/LabAssignment11 (2013_03_30 07_27_35 UTC).vcproj`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/LabNo11 (2013_03_30 07_27_35 UTC).txt`
+- `reports/LabNo11_output (2013_03_30 07_27_35 UTC).txt`
+- `reports/Math-Project-hw3-2 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- `reports/Networked Businesses (2013_03_30 07_27_35 UTC).docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_SOURCE.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `bcs230-12-math3/-Inventory.md`
+- `bcs230-12-math3/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>PHD / old-portafolio-phd - 0 papers, 23 reports, 0 presentations, 10 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/old-portafolio-phd
+- Hub path: `PHD/old-portafolio-phd`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1shw5hnPOAkPFol_AgYCvsl06vaGB_1iq
+- Import status: `completed`
+- Total indexed files in repo: `37`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/Academic Transcipt.pdf`
+- `reports/CUNNY-MS-Application.pdf`
+- `reports/Cunny Offices and Reference.txt`
+- `reports/Farmingdale State College Webmail - NYU.pdf`
+- `reports/FinalForm - RIT.pdf`
+- `reports/Fordham University _ Piter Garcia.pdf`
+- `reports/Formulario de Beca.docx`
+- `reports/Master Essay.docx`
+- `reports/NYU-Acceptance Letter.pdf`
+- `reports/NYU-MS Application.pdf`
+- `reports/Personal Statement.docx`
+- `reports/Personal Statement.pdf`
+- `reports/Personal_Statement.docx`
+- `reports/Polytechnic Institute of New York University- Graduate Admissions _ Piter Garcia.pdf`
+- `reports/PrintApplication_Action - Fordham.pdf`
+- `reports/SquirrelMail.pdf`
+- `reports/Statement - RIT.docx`
+- `reports/Statement - RIT.pdf`
+- `reports/Statement of Intent to Fordham University.docx`
+- `reports/The City College of New York City _ Piter Garcia- Payment.pdf`
+- `reports/Traanscripts.docx`
+- `reports/https___mail-attachment.googleusercontent.com_attachment_u_0__ui=2&ik=5f670ee901&view=att&th=137cd62a0a8a0be2&attid=0.pdf`
+- `reports/~$ster Essay.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_SOURCE.md`
+- `MS/-Inventory.md`
+- `MS/README.md`
+- `MS/RIT/-Inventory.md`
+- `MS/RIT/README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-3dpong - 0 papers, 4 reports, 3 presentations, 63 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-3dpong
+- Hub path: `Projects-Code/opc-3dpong`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1JvyKbHAvCLe9qUlOYU6JtJjYB39yW7Y8
+- Import status: `completed`
+- Total indexed files in repo: `146`
+
+### Code / Project Location
+
+- `gameball.cpp`
+- `gameball.h`
+- `gamedemo.cpp`
+- `imageloader.cpp`
+- `imageloader.h`
+- `main.cpp`
+- `paddle.cpp`
+- `paddle.h`
+- `pong-leap-motion-js-master/`
+- `stdafx.cpp`
+- `stdafx.h`
+- `targetver.h`
+- `text3d.cpp`
+- `text3d.h`
+- `vec3f.cpp`
+- `vec3f.h`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/websites I closed.txt`
+
+### Presentations
+- `presentations/APCG-Presentation1--from-portfolio-safe-opc-3dpong-0mil6c4k-repo.pptx`
+- `presentations/APCG-Presentation1.pptx`
+- `presentations/APCG-Presentation1__dup2.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `3DPONG.xcodeproj/-Inventory.md`
+- `3DPONG.xcodeproj/README.md`
+- `3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG.xcodeproj/xcuserdata/-Inventory.md`
+- `3DPONG.xcodeproj/xcuserdata/README.md`
+- `3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `3DPONG.xcworkspace/-Inventory.md`
+- `3DPONG.xcworkspace/README.md`
+- `3DPONG.xcworkspace/xcuserdata/-Inventory.md`
+- `3DPONG.xcworkspace/xcuserdata/README.md`
+- `3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `pong-leap-motion-js-master/-Inventory.md`
+- `pong-leap-motion-js-master/Pong Motion/-Inventory.md`
+- `pong-leap-motion-js-master/Pong Motion/README.md`
+- `pong-leap-motion-js-master/Pong Motion/assets/-Inventory.md`
+- `pong-leap-motion-js-master/Pong Motion/assets/README.md`
+- `pong-leap-motion-js-master/README.md`
+- `pong-leap-motion-js-master/src/-Inventory.md`
+- `pong-leap-motion-js-master/src/README.md`
+- `pong-leap-motion-js-master/src/createjs/-Inventory.md`
+- `pong-leap-motion-js-master/src/createjs/README.md`
+- `pong-leap-motion-js-master/src/createjs/events/-Inventory.md`
+- `pong-leap-motion-js-master/src/createjs/events/README.md`
+- `pong-leap-motion-js-master/src/easeljs/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/README.md`
+- `pong-leap-motion-js-master/src/easeljs/display/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/display/README.md`
+- `pong-leap-motion-js-master/src/easeljs/events/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/events/README.md`
+- `pong-leap-motion-js-master/src/easeljs/filters/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/filters/README.md`
+- `pong-leap-motion-js-master/src/easeljs/geom/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/geom/README.md`
+- `pong-leap-motion-js-master/src/easeljs/ui/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/ui/README.md`
+- `pong-leap-motion-js-master/src/easeljs/utils/-Inventory.md`
+- `pong-leap-motion-js-master/src/easeljs/utils/README.md`
+- `pong-leap-motion-js-master/src/tweenjs/-Inventory.md`
+- `pong-leap-motion-js-master/src/tweenjs/README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/3DPONG.xcodeproj/-Inventory.md`
+- `reports/3DPONG.xcodeproj/README.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-algo - 0 papers, 92 reports, 3 presentations, 30 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-algo
+- Hub path: `Projects-Code/opc-algo`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW
+- Import status: `completed`
+- Total indexed files in repo: `133`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/10.1.1.32.2831.pdf`
+- `reports/131g.pdf`
+- `reports/2008_spring_hw6_solution.pdf`
+- `reports/2008_spring_hw7_solution (1).pdf`
+- `reports/2008_spring_hw7_solution.pdf`
+- `reports/66542060.pdf`
+- `reports/Advanced Algorithms Analysis and Design  - CS702 Fall 2008 Assignment 04.pdf`
+- `reports/AlgoFinal.docx`
+- `reports/AlgoHw5/Algorithms-Solutions-CH-25-Oct2010.doc`
+- `reports/AlgoHw5/BolandDumitrescuSolutions1.pdf`
+- `reports/AlgoHw5/Homework5Algo.pdf`
+- `reports/AlgoHw5/cs521_fall_2011_sol4.pdf`
+- `reports/AlgoHw5/hw3ans.doc`
+- `reports/AlgoHw6.pdf`
+- `reports/AlgoNotes.rtf`
+- `reports/Algorithm.Design..pdf`
+- `reports/Algorithms-Solutions-CH-25-Oct2010.doc`
+- `reports/AlgosFinalExam/AlgoFinal.docx`
+- `reports/AlgosFinalExam/First/lec1.pdf`
+- `reports/AlgosFinalExam/First/lec2.pdf`
+- `reports/AlgosFinalExam/First/lec3.pdf`
+- `reports/AlgosFinalExam/Fourth/hw5.pdf`
+- `reports/AlgosFinalExam/Fourth/hw6.pdf`
+- `reports/AlgosFinalExam/Fourth/hw7.pdf`
+- `reports/AlgosFinalExam/Fourth/lec17.pdf`
+- `reports/AlgosFinalExam/Fourth/lec18.pdf`
+- `reports/AlgosFinalExam/Fourth/lec19.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/131g.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution (1).pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/HW4_Sol.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/New Microsoft Word Document.docx`
+- `reports/AlgosFinalExam/HW7-ALGOs/No Title.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/No Title1.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/final-sol.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/hw7Algo.docx`
+- `reports/AlgosFinalExam/HW7-ALGOs/kevin.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/ovn5.pdf`
+- `reports/AlgosFinalExam/HW7-ALGOs/q11.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q12.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q21.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q22.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q31.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q32.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/q33.jpg`
+- `reports/AlgosFinalExam/HW7-ALGOs/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
+- `reports/AlgosFinalExam/Second/hw3.pdf`
+- `reports/AlgosFinalExam/Second/lec15.pdf`
+- `reports/AlgosFinalExam/Third/hw4.pdf`
+- `reports/AlgosFinalExam/Third/lec16.pdf`
+- `reports/AlgosFinalExam/hw1.pdf`
+- `reports/AlgosFinalExam/hw2.pdf`
+- `reports/BolandDumitrescuSolutions1.pdf`
+- `reports/FourthAssignmentAlgo.pdf`
+- `reports/HW4_Sol.pdf`
+- `reports/Homework5Algo.pdf`
+- `reports/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf`
+- `reports/MST.pdf`
+- `reports/New Microsoft Word Document.docx`
+- `reports/No Title.pdf`
+- `reports/No Title1.pdf`
+- `reports/alg07spr_hw3sol.pdf`
+- `reports/assignment4-solutions.pdf`
+- `reports/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- `reports/cs521_fall_2011_sol4.pdf`
+- `reports/final-sol.pdf`
+- `reports/hw1.pdf`
+- `reports/hw2.pdf`
+- `reports/hw3.pdf`
+- `reports/hw3ans.doc`
+- `reports/hw4.pdf`
+- `reports/hw5-solutions.pdf`
+- `reports/hw5.pdf`
+- `reports/hw6.doc`
+- `reports/hw6.pdf`
+- `reports/hw6sol.pdf`
+- `reports/hw7.pdf`
+- `reports/hw7Algo.docx`
+- `reports/kevin.pdf`
+- `reports/lec1.pdf`
+- `reports/lec15.pdf`
+- `reports/lec16.pdf`
+- `reports/lec17.pdf`
+- `reports/lec18.pdf`
+- `reports/lec19.pdf`
+- `reports/lec2.pdf`
+- `reports/lec3.pdf`
+- `reports/ovn5.pdf`
+- `reports/ps6Sol.pdf`
+- `reports/report.pdf`
+- `reports/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
+
+### Presentations
+- `presentations/8-Graph.pptx`
+- `presentations/AlgosFinalExam/HW7-ALGOs/HPtoHC.ppt`
+- `presentations/HPtoHC.ppt`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `AlgosFinalExam/HW7-ALGOs/README.md`
+- `AlgosFinalExam/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `presentations/-Inventory.md`
+- `presentations/AlgosFinalExam/-Inventory.md`
+- `presentations/AlgosFinalExam/HW7-ALGOs/-Inventory.md`
+- `presentations/AlgosFinalExam/HW7-ALGOs/README.md`
+- `presentations/AlgosFinalExam/README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/AlgoHw5/-Inventory.md`
+- `reports/AlgoHw5/README.md`
+- `reports/AlgosFinalExam/-Inventory.md`
+- `reports/AlgosFinalExam/First/-Inventory.md`
+- `reports/AlgosFinalExam/First/README.md`
+- `reports/AlgosFinalExam/Fourth/-Inventory.md`
+- `reports/AlgosFinalExam/Fourth/README.md`
+- `reports/AlgosFinalExam/HW7-ALGOs/-Inventory.md`
+- `reports/AlgosFinalExam/HW7-ALGOs/README.md`
+- `reports/AlgosFinalExam/README.md`
+- `reports/AlgosFinalExam/Second/-Inventory.md`
+- `reports/AlgosFinalExam/Second/README.md`
+- `reports/AlgosFinalExam/Third/-Inventory.md`
+- `reports/AlgosFinalExam/Third/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-apgv - 15 papers, 117 reports, 4 presentations, 54 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-apgv
+- Hub path: `Projects-Code/opc-apgv`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1TdzxYzLPdiqPiJTvpU6JX6acbTH6bt-l
+- Import status: `completed`
+- Total indexed files in repo: `242`
+
+### Code / Project Location
+
+- `CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/`
+
+### Papers
+- `papers/131-421-1-PB.pdf`
+- `papers/APGV-ProjectAbstract.docx`
+- `papers/Applied Perception/APGV-ProjectAbstract.docx`
+- `papers/Applied Perception/Papers/131-421-1-PB.pdf`
+- `papers/Applied Perception/Papers/HearThereICAD.pdf`
+- `papers/Applied Perception/Papers/UBICC_ER_IN_AS_DF_626.pdf`
+- `papers/Applied Perception/Papers/download.pdf`
+- `papers/Applied Perception/~$GV-ProjectAbstract.docx`
+- `papers/HearThereICAD.pdf`
+- `papers/IEEE_Conference_Paper_Template.doc`
+- `papers/Other/APGV-Holographic Pong Report/IEEE_Conference_Paper_Template.doc`
+- `papers/Other/APGV-Holographic Pong Report/thesis.tex`
+- `papers/UBICC_ER_IN_AS_DF_626.pdf`
+- `papers/download.pdf`
+- `papers/thesis.tex`
+
+### Reports / Written Documentation
+- `reports/APGV Topics List.pdf`
+- `reports/APGVCourseInfo.pdf`
+- `reports/APGVHistory.pdf`
+- `reports/Applied Perception/APGV-Holographic Pong/GUIDE.PDF`
+- `reports/Applied Perception/APGV-Holographic Pong/README.TXT`
+- `reports/Applied Perception/APGV-Holographic Pong/REPORT_INITIAL.PDF`
+- `reports/Applied Perception/APGV-Holographic Pong/report.pdf`
+- `reports/Applied Perception/APGV-Holographic Pong/report.tex`
+- `reports/Applied Perception/APGV-Holographic Pong/sig-alternate.tex`
+- `reports/Applied Perception/New Microsoft Word Document (1).docx`
+- `reports/Applied Perception/Part 1.docx`
+- `reports/Applied Perception/apcg-vudeos.docx`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGV Topics List.pdf`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVCourseInfo.pdf`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVHistory.pdf`
+- `reports/Final.docx`
+- `reports/FinalReport.pdf`
+- `reports/GUIDE.PDF`
+- `reports/Hardware Instructions APGV Project.docx`
+- `reports/IEEEtran.cls`
+- `reports/IEEEtran_HOWTO.pdf`
+- `reports/New Microsoft Word Document (1).docx`
+- `reports/Other/APGV-Holographic Pong Report/Capture.PNG`
+- `reports/Other/APGV-Holographic Pong Report/Final.docx`
+- `reports/Other/APGV-Holographic Pong Report/FinalReport.pdf`
+- `reports/Other/APGV-Holographic Pong Report/GUIDE.PDF`
+- `reports/Other/APGV-Holographic Pong Report/Hardware Instructions APGV Project.docx`
+- `reports/Other/APGV-Holographic Pong Report/README.TXT`
+- `reports/Other/APGV-Holographic Pong Report/REPORT_INITIAL.PDF`
+- `reports/Other/APGV-Holographic Pong Report/f.PNG`
+- `reports/Other/APGV-Holographic Pong Report/ff.PNG`
+- `reports/Other/APGV-Holographic Pong Report/fh.PNG`
+- `reports/Other/APGV-Holographic Pong Report/fly.jpg`
+- `reports/Other/APGV-Holographic Pong Report/imp.jpg`
+- `reports/Other/APGV-Holographic Pong Report/leapm.PNG`
+- `reports/Other/APGV-Holographic Pong Report/nh.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p1.png`
+- `reports/Other/APGV-Holographic Pong Report/p10.png`
+- `reports/Other/APGV-Holographic Pong Report/p11.png`
+- `reports/Other/APGV-Holographic Pong Report/p12.png`
+- `reports/Other/APGV-Holographic Pong Report/p13.png`
+- `reports/Other/APGV-Holographic Pong Report/p14.png`
+- `reports/Other/APGV-Holographic Pong Report/p2.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p3.png`
+- `reports/Other/APGV-Holographic Pong Report/p4.PNG`
+- `reports/Other/APGV-Holographic Pong Report/p5.png`
+- `reports/Other/APGV-Holographic Pong Report/p6.png`
+- `reports/Other/APGV-Holographic Pong Report/p7.png`
+- `reports/Other/APGV-Holographic Pong Report/p8.png`
+- `reports/Other/APGV-Holographic Pong Report/p9.png`
+- `reports/Other/APGV-Holographic Pong Report/photo 1.JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 2 (1).JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 2.JPG`
+- `reports/Other/APGV-Holographic Pong Report/photo 3.JPG`
+- `reports/Other/APGV-Holographic Pong Report/reflection.jpg`
+- `reports/Other/APGV-Holographic Pong Report/report - Copy.pdf`
+- `reports/Other/APGV-Holographic Pong Report/report - Copy.tex`
+- `reports/Other/APGV-Holographic Pong Report/report.docx`
+- `reports/Other/APGV-Holographic Pong Report/report.pdf`
+- `reports/Other/APGV-Holographic Pong Report/report.tex`
+- `reports/Other/APGV-Holographic Pong Report/reportFW.docx`
+- `reports/Other/APGV-Holographic Pong Report/resume.tex`
+- `reports/Other/APGV-Holographic Pong Report/resume1.tex`
+- `reports/Other/APGV-Holographic Pong Report/resume2.pdf`
+- `reports/Other/APGV-Holographic Pong Report/resume2.tex`
+- `reports/Other/APGV-Holographic Pong Report/s.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sig-alternate.pdf`
+- `reports/Other/APGV-Holographic Pong Report/sig-alternate.tex`
+- `reports/Other/APGV-Holographic Pong Report/sv.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw1.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw2.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sw3.PNG`
+- `reports/Other/APGV-Holographic Pong Report/sx.PNG`
+- `reports/Other/APGV-Holographic Pong Report/t.PNG`
+- `reports/Other/APGV-Holographic Pong Report/trans_jour.docx`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/IEEEtran_HOWTO.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/README.txt`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_adv.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.pdf`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.tex`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/changelog.txt`
+- `reports/Other/APGV-Holographic Pong Report/~$rdware Instructions APGV Project.docx`
+- `reports/Part 1.docx`
+- `reports/README--from-windows_latex_template-IEEEtran5.txt`
+- `reports/README.TXT`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/apcg-vudeos.docx`
+- `reports/bare_adv.tex`
+- `reports/bare_conf.pdf`
+- `reports/bare_conf.tex`
+- `reports/bare_jrnl.pdf`
+- `reports/bare_jrnl.tex`
+- `reports/bare_jrnl_compsoc.pdf`
+- `reports/bare_jrnl_compsoc.tex`
+- `reports/changelog.txt`
+- `reports/report - Copy.pdf`
+- `reports/report - Copy.tex`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.bib`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.pdf`
+- `reports/report--from-Other-APGV-Holographic-Pong-Report.tex`
+- `reports/report.bib`
+- `reports/report.docx`
+- `reports/report.pdf`
+- `reports/report.tex`
+- `reports/reportFW.docx`
+- `reports/resume.tex`
+- `reports/resume1.tex`
+- `reports/resume2.pdf`
+- `reports/resume2.tex`
+- `reports/sig-alternate.cls`
+- `reports/sig-alternate.pdf`
+- `reports/sig-alternate.tex`
+- `reports/trans_jour.docx`
+
+### Presentations
+- `presentations/APCG-Presentation1.pptx`
+- `presentations/Applied Perception/APCG-Presentation1.pptx`
+- `presentations/Other/APGV-Holographic Pong Report/presentation.tex`
+- `presentations/presentation.tex`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `Applied Perception/-Inventory.md`
+- `Applied Perception/APGV-Holographic Pong/-Inventory.md`
+- `Applied Perception/APGV-Holographic Pong/README.md`
+- `Applied Perception/README.md`
+- `CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/-Inventory.md`
+- `CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `Other/APGV-Holographic Pong Report/README.md`
+- `Other/README.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/Applied Perception/-Inventory.md`
+- `papers/Applied Perception/Papers/-Inventory.md`
+- `papers/Applied Perception/Papers/README.md`
+- `papers/Applied Perception/README.md`
+- `papers/Other/-Inventory.md`
+- `papers/Other/APGV-Holographic Pong Report/-Inventory.md`
+- `papers/Other/APGV-Holographic Pong Report/README.md`
+- `papers/Other/README.md`
+- `papers/README.md`
+- `presentations/-Inventory.md`
+- `presentations/Applied Perception/-Inventory.md`
+- `presentations/Applied Perception/README.md`
+- `presentations/Other/-Inventory.md`
+- `presentations/Other/APGV-Holographic Pong Report/-Inventory.md`
+- `presentations/Other/APGV-Holographic Pong Report/README.md`
+- `presentations/Other/README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/Applied Perception/-Inventory.md`
+- `reports/Applied Perception/APGV-Holographic Pong/-Inventory.md`
+- `reports/Applied Perception/APGV-Holographic Pong/README.md`
+- `reports/Applied Perception/README.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/-Inventory.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/README.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/-Inventory.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/README.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/-Inventory.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/-Inventory.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/README.md`
+- `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/README.md`
+- `reports/Other/-Inventory.md`
+- `reports/Other/APGV-Holographic Pong Report/-Inventory.md`
+- `reports/Other/APGV-Holographic Pong Report/README.md`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/-Inventory.md`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/-Inventory.md`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/README.md`
+- `reports/Other/APGV-Holographic Pong Report/windows_latex_template/README.md`
+- `reports/Other/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-computer-graphics - 0 papers, 0 reports, 0 presentations, 6 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-computer-graphics
+- Hub path: `Projects-Code/opc-computer-graphics`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Ow6uJMA49sK22tUCXm5DXNnIK4VBPNXX
+- Import status: `completed`
+- Total indexed files in repo: `7`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- None indexed.
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-cpp - 0 papers, 57 reports, 0 presentations, 70 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-cpp
+- Hub path: `Projects-Code/opc-cpp`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1kX4JD7PwXMhekrVy51BYv3gS9DOP7apr
+- Import status: `completed`
+- Total indexed files in repo: `185`
+
+### Code / Project Location
+
+- `Assignment3/`
+- `Assignment4/`
+- `LCD DISPLAY/`
+- `Lab11/`
+- `Lab22/`
+- `Lab7/`
+- `hw2/`
+- `last testing/`
+- `recursion/`
+- `test/`
+- `testing/`
+
+Project marker files:
+- `Assignment3/Assignment3.sln`
+- `Assignment3/Assignment3/Assignment3.vcxproj`
+- `Assignment4/Assignment4.sln`
+- `Assignment4/Assignment4/Assignment4.vcxproj`
+- `LCD DISPLAY/LCD DISPLAY.sln`
+- `LCD DISPLAY/LCD DISPLAY/LCD DISPLAY.vcxproj`
+- `Lab11/Lab11.sln`
+- `Lab11/Lab11/Lab11.vcxproj`
+- `Lab22/Lab22.sln`
+- `Lab22/Lab22/Lab22.vcxproj`
+- `Lab7/Lab7.sln`
+- `Lab7/Lab7/Lab7.vcxproj`
+- `hw2/hw2.sln`
+- `hw2/hw2/hw2.vcxproj`
+- `last testing/last testing.sln`
+- `last testing/last testing/last testing.vcxproj`
+- `recursion/recursion.sln`
+- `recursion/recursion/recursion.vcxproj`
+- `test/test.sln`
+- `test/test/test.vcxproj`
+- `testing/testing.sln`
+- `testing/testing/testing.vcxproj`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/Assignment2--from-hw2-hw2.txt`
+- `reports/Assignment2.txt`
+- `reports/Assignment3.txt`
+- `reports/Assignment3/Assignment3.sln`
+- `reports/Assignment3/Assignment3/Assignment3.txt`
+- `reports/Assignment3/Assignment3/Assignment3.vcxproj`
+- `reports/Assignment3/Assignment3/AuthorSignature.cpp`
+- `reports/Assignment3/Assignment3/BaseballPlayer.cpp`
+- `reports/Assignment3/Assignment3/BaseballPlayer.h`
+- `reports/Assignment3/Assignment3/MyList.cpp`
+- `reports/Assignment3/Assignment3/MyList.h`
+- `reports/Assignment3/Assignment3/TeamData.cpp`
+- `reports/Assignment3/Output-Build.txt`
+- `reports/Assignment4.txt`
+- `reports/Assignment4/Assignment4.sln`
+- `reports/Assignment4/Assignment4/Assignment4.txt`
+- `reports/Assignment4/Assignment4/Assignment4.vcxproj`
+- `reports/Assignment4/Assignment4/AuthorSignature.cpp`
+- `reports/Assignment4/Assignment4/BaseballPlayers.cpp`
+- `reports/Assignment4/Assignment4/BaseballPlayers.h`
+- `reports/Assignment4/Assignment4/BaseballPlayers4.txt`
+- `reports/Assignment4/Assignment4/MainFile.cpp`
+- `reports/Assignment4/Assignment4/MyQueue.cpp`
+- `reports/Assignment4/Assignment4/MyQueue.h`
+- `reports/Assignment4/Assignment4/MyQueue4.txt`
+- `reports/Assignment4/Assignment4/MyStack.cpp`
+- `reports/Assignment4/Assignment4/MyStack.h`
+- `reports/Assignment4/Assignment4/MyStack4.txt`
+- `reports/Assignment4/Assignment4/header4.h`
+- `reports/Assignment4/Output-Build.txt`
+- `reports/BaseballPlayers4.txt`
+- `reports/Clonefile.txt`
+- `reports/Lab11/Lab11.sln`
+- `reports/Lab11/Lab11/Lab11.cpp`
+- `reports/Lab11/Lab11/Lab11.h`
+- `reports/Lab11/Lab11/Lab11.vcxproj`
+- `reports/Lab11/Lab11/Lab11IMP.cpp`
+- `reports/Lab11/Output-Build.txt`
+- `reports/Lab22/Lab22.sln`
+- `reports/Lab22/Lab22/BinarySearch.h`
+- `reports/Lab22/Lab22/BinarySearchInside.cpp`
+- `reports/Lab22/Lab22/BinaryTreeIMP.cpp`
+- `reports/Lab22/Lab22/Lab22.vcxproj`
+- `reports/Lab22/Lab22/MyMain.cpp`
+- `reports/Lab7/Lab7.sln`
+- `reports/Lab7/Lab7/Lab7.vcxproj`
+- `reports/Lab7/Lab7/Recursion.cpp`
+- `reports/Lab7/Lab7/Recursion.h`
+- `reports/Lab7/Lab7/Recursion1.cpp`
+- `reports/MyQueue4.txt`
+- `reports/MyStack4.txt`
+- `reports/Output-Build--from-repo-Assignment3.txt`
+- `reports/Output-Build--from-repo-Assignment4.txt`
+- `reports/Output-Build.txt`
+- `reports/hw2/hw2/Assignment2.txt`
+- `reports/hw2/hw2/Clonefile.txt`
+- `reports/test/test/Assignment2.txt`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `Assignment3/Assignment3/README.md`
+- `Assignment3/README.md`
+- `Assignment4/Assignment4/README.md`
+- `Assignment4/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `LCD DISPLAY/-Inventory.md`
+- `LCD DISPLAY/LCD DISPLAY/-Inventory.md`
+- `LCD DISPLAY/LCD DISPLAY/README.md`
+- `LCD DISPLAY/README.md`
+- `Lab11/Lab11/README.md`
+- `Lab11/README.md`
+- `Lab22/Lab22/README.md`
+- `Lab22/README.md`
+- `Lab7/Lab7/README.md`
+- `Lab7/README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `hw2/-Inventory.md`
+- `hw2/README.md`
+- `hw2/hw2/-Inventory.md`
+- `hw2/hw2/README.md`
+- `last testing/-Inventory.md`
+- `last testing/README.md`
+- `last testing/last testing/-Inventory.md`
+- `last testing/last testing/README.md`
+- `recursion/-Inventory.md`
+- `recursion/README.md`
+- `recursion/recursion/-Inventory.md`
+- `recursion/recursion/README.md`
+- `reports/-Inventory.md`
+- `reports/Assignment3/-Inventory.md`
+- `reports/Assignment3/Assignment3/-Inventory.md`
+- `reports/Assignment3/Assignment3/README.md`
+- `reports/Assignment3/README.md`
+- `reports/Assignment4/-Inventory.md`
+- `reports/Assignment4/Assignment4/-Inventory.md`
+- `reports/Assignment4/Assignment4/README.md`
+- `reports/Assignment4/README.md`
+- `reports/Lab11/-Inventory.md`
+- `reports/Lab11/Lab11/-Inventory.md`
+- `reports/Lab11/Lab11/README.md`
+- `reports/Lab11/README.md`
+- `reports/Lab22/-Inventory.md`
+- `reports/Lab22/Lab22/-Inventory.md`
+- `reports/Lab22/Lab22/README.md`
+- `reports/Lab22/README.md`
+- `reports/Lab7/-Inventory.md`
+- `reports/Lab7/Lab7/-Inventory.md`
+- `reports/Lab7/Lab7/README.md`
+- `reports/Lab7/README.md`
+- `reports/README.md`
+- `reports/hw2/-Inventory.md`
+- `reports/hw2/README.md`
+- `reports/hw2/hw2/-Inventory.md`
+- `reports/hw2/hw2/README.md`
+- `reports/test/-Inventory.md`
+- `reports/test/README.md`
+- `reports/test/test/-Inventory.md`
+- `reports/test/test/README.md`
+- `test/-Inventory.md`
+- `test/README.md`
+- `test/test/-Inventory.md`
+- `test/test/README.md`
+- `testing/-Inventory.md`
+- `testing/README.md`
+- `testing/testing/-Inventory.md`
+- `testing/testing/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-cpp-oop - 0 papers, 1341 reports, 46 presentations, 1634 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-cpp-oop
+- Hub path: `Projects-Code/opc-cpp-oop`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/13xdwMiaOA7TGKIJqCEROqGLJz2dsjAmN
+- Import status: `needs Drive review`
+- Total indexed files in repo: `4243`
+
+### Code / Project Location
+
+- `3DPONG/`
+- `CppProjects/`
+- `Cpp_Prog_I_II/`
+- `CryptoHw7/`
+- `Data Extructure /`
+- `EET-110/`
+- `EET-327LAB13C++CODE/`
+- `FCTextC/`
+- `Lab4/`
+- `Programming I/`
+- `Stuff/`
+
+Project marker files:
+- `3DPONG/3DPONG/lesson30/Lesson30/Lesson30.sln`
+- `3DPONG/3DPONG/lesson30/Lesson30/Lesson30.vcproj`
+- `3DPONG/3DPONG/lesson30/Lesson30/Lesson30.vcxproj`
+- `3DPONG/HapticsGame/HapticsGame/basic_opengl.sln`
+- `3DPONG/HapticsGame/HapticsGame/basic_opengl.vcproj`
+- `3DPONG/HapticsGame/HapticsGame/basic_opengl.vcxproj`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/Project.sln`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.sln`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcproj`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcxproj`
+- `CppProjects/AssignmentNo3/AssignmentNo3.sln`
+- `CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `CppProjects/AssignmentNo4/AssignmentNo4.sln`
+- `CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `CppProjects/AssignmentNo5/AssignmentNo5.sln`
+- `CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `CppProjects/AssignmentNo6/AssignmentNo6.sln`
+- `CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `CppProjects/Assignment_2/Assignment_2.sln`
+- `CppProjects/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `CppProjects/C++_Program/C++_Program.sln`
+- `CppProjects/C++_Program/C++_Program/C++_Program.vcproj`
+- `CppProjects/Celcius_Program/Celcius_Program.sln`
+- `CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- `CppProjects/EET-317L2/EET-317L2.sln`
+- `CppProjects/EET-317L2/EET-317L2/EET-317L2.vcproj`
+- `CppProjects/ExtraCreditNo2/ExtraCreditNo2.sln`
+- `CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- `CppProjects/FixingAssignment5/FixingAssignment5.sln`
+- `CppProjects/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `CppProjects/Lab4/Lab4.sln`
+- `CppProjects/Lab4/Lab4/Lab4.vcproj`
+- `CppProjects/Lab5/Lab5.sln`
+- `CppProjects/Lab5/Lab5/Lab5.vcproj`
+- `CppProjects/LabNo.4/LabNo.4.sln`
+- `CppProjects/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `CppProjects/LabNo.5/LabNo.5.sln`
+- `CppProjects/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `CppProjects/LabNo.8/LabNo.8.sln`
+- `CppProjects/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `CppProjects/LabNo10/LabNo10.sln`
+- `CppProjects/LabNo10/LabNo10/LabNo10.vcproj`
+- `CppProjects/LabNo3/LabNo3.sln`
+- `CppProjects/LabNo3/LabNo3/LabNo3.vcproj`
+- `CppProjects/LabNo6/LabNo6.sln`
+- `CppProjects/LabNo6/LabNo6/LabNo6.vcproj`
+- `CppProjects/LabNo7/LabNo7.sln`
+- `CppProjects/LabNo7/LabNo7/LabNo7.vcproj`
+- `CppProjects/LabNo9/LabNo9.sln`
+- `CppProjects/LabNo9/LabNo9/LabNo9.vcproj`
+- `CppProjects/Lab_No2/Lab_No2.sln`
+- `CppProjects/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `CppProjects/PersonalProjects/DataBase/DataBase.sln`
+- `CppProjects/PersonalProjects/DataBase/DataBase/DataBase.vcproj`
+- `CppProjects/PersonalProjects/Hours-Program/Hours-Program.sln`
+- `CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours-Program.vcproj`
+- `CppProjects/PersonalProjects/MIke/MIke.sln`
+- `CppProjects/PersonalProjects/MIke/MIke/MIke.vcproj`
+- `CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management.sln`
+- `CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/Mark's Bill Management.vcproj`
+- `CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing.sln`
+- `CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/MarksBillComparing.vcproj`
+- `CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program.sln`
+- `CppProjects/PiterG/PiterG.sln`
+- `CppProjects/PiterG/PiterG/PiterG.vcproj`
+- `CppProjects/Pogram No. 2/Pogram No. 2.sln`
+- `CppProjects/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- `CppProjects/Programming_Assingment2/Programming_Assingment2.sln`
+- `CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- `CppProjects/ShirtDiscount_PG/ShirtDiscount_PG.sln`
+- `CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.vcproj`
+- `CppProjects/fixing/fixing.sln`
+- `CppProjects/fixing/fixing/fixing.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2.sln`
+- `Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `Cpp_Prog_I_II/Programming I/C++_Program/C++_Program.sln`
+- `Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/C++_Program.vcproj`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/Celcius_Program.sln`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1.sln`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/ExtraCreditNo1.vcproj`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2.sln`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- `Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `Cpp_Prog_I_II/Programming I/Lab4/Lab4.sln`
+- `Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.vcproj`
+- `Cpp_Prog_I_II/Programming I/Lab5/Lab5.sln`
+- `Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo10/LabNo10.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo12/LabNo12.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo13/LabNo13.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo14/LabNo14.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo15/LabNo15.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo3/LabNo3.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `Cpp_Prog_I_II/Programming I/LabNo6/LabNo6.sln`
+- `Cpp_Prog_I_II/Programming I/LabNo7/LabNo7.sln`
+- `Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2.sln`
+- `Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `Cpp_Prog_I_II/Programming I/PiterG/PiterG.sln`
+- `Cpp_Prog_I_II/Programming I/PiterG/PiterG/PiterG.vcproj`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/Pogram No. 2.sln`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2.sln`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount.sln`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/ShirtDiscount.sln`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/ShirtDiscount.vcproj`
+- `Cpp_Prog_I_II/Programming I/fixing/fixing.sln`
+- `Cpp_Prog_I_II/Programming I/fixing/fixing/fixing.vcproj`
+- `Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C.sln`
+- `Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.vcproj`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5.sln`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/AssigntmentNo.5.vcproj`
+- `Cpp_Prog_I_II/Programming II/FirstLab/FirstLab.sln`
+- `Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/FirstLab.vcproj`
+- `Cpp_Prog_I_II/Programming II/HM1/HM1.sln`
+- `Cpp_Prog_I_II/Programming II/HM1/HM1/HM1.vcproj`
+- `Cpp_Prog_I_II/Programming II/HM2/HM2.sln`
+- `Cpp_Prog_I_II/Programming II/HM2/HM2/HM2.vcproj`
+- `Cpp_Prog_I_II/Programming II/HM3/HM3.sln`
+- `Cpp_Prog_I_II/Programming II/HM3/HM3/HM3.vcproj`
+- `Cpp_Prog_I_II/Programming II/Lab14/Lab14.sln`
+- `Cpp_Prog_I_II/Programming II/Lab14/Lab14/Lab14.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/LabNo7C.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/labn7.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.vcproj`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9.sln`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.vcproj`
+- `Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.sln`
+- `Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.vcproj`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator.sln`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator.vcproj`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator.sln`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator.vcproj`
+- `Cpp_Prog_I_II/Programming II/StudentType/StudentType.sln`
+- `Cpp_Prog_I_II/Programming II/StudentType/StudentType/StudentType.vcproj`
+- `Cpp_Prog_I_II/Programming II/homeworkone/homeworkone.sln`
+- `Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/homeworkone.vcproj`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5 (2).sln`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5.sln`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5/hw5 (2).vcproj`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5/hw5.vcproj`
+- `Cpp_Prog_I_II/Programming II/lab11C/lab11C.sln`
+- `Cpp_Prog_I_II/Programming II/lab11C/lab11C/lab11C.vcproj`
+- `Cpp_Prog_I_II/Programming II/lab11b/lab11b.sln`
+- `Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.vcproj`
+- `Cpp_Prog_I_II/Programming II/lab13/lab13.sln`
+- `Cpp_Prog_I_II/Programming II/lab13/lab13/lab13.vcproj`
+- `Cpp_Prog_I_II/Programming II/lab5/lab5.sln`
+- `Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.vcproj`
+- `Data Extructure /BCS-317/Assignment3/Assignment3.sln`
+- `Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcproj`
+- `Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcxproj`
+- `Data Extructure /BCS-317/Assignment4/Assignment4.sln`
+- `Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.vcxproj`
+- `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1.sln`
+- `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcproj`
+- `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcxproj`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2.sln`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.sln`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcproj`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcxproj`
+- `Data Extructure /BCS-317/BinaryTree/BinaryTree.sln`
+- `Data Extructure /BCS-317/BinaryTree/BinaryTree/BinaryTree.vcxproj`
+- `Data Extructure /BCS-317/Facebook/Facebook.sln`
+- `Data Extructure /BCS-317/Facebook/Facebook/Facebook.vcproj`
+- `Data Extructure /BCS-317/Facebook/Facebook/Facebook.vcxproj`
+- `Data Extructure /BCS-317/Lab11/Lab11.sln`
+- `Data Extructure /BCS-317/Lab11/Lab11/Lab11.vcxproj`
+- `Data Extructure /BCS-317/Lab22/Lab22.sln`
+- `Data Extructure /BCS-317/Lab22/Lab22/Lab22.vcxproj`
+- `Data Extructure /BCS-317/Lab7/Lab7.sln`
+- `Data Extructure /BCS-317/Lab7/Lab7/Lab7.vcxproj`
+- `Data Extructure /BCS-317/TrueFalse/TrueFalse.sln`
+- `Data Extructure /BCS-317/TrueFalse/TrueFalse/TrueFalse.vcxproj`
+- `Data Extructure /BCS-317/WallPost/WallPost.sln`
+- `Data Extructure /BCS-317/WallPost/WallPost/WallPost.sln`
+- `Data Extructure /BCS-317/WallPost/WallPost/WallPost.vcproj`
+- `Data Extructure /BCS-317/WallPost/WallPost/WallPost.vcxproj`
+- `Data Extructure /BCS-317/hw2/hw2.sln`
+- `Data Extructure /BCS-317/hw2/hw2/hw2.vcxproj`
+- `Data Extructure /BCS-317/lab1/WallPost/WallPost.sln`
+- `Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcproj`
+- `Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcxproj`
+- `Data Extructure /BCS-317/last testing/last testing.sln`
+- `Data Extructure /BCS-317/last testing/last testing/last testing.vcxproj`
+- `Data Extructure /BCS-317/recursion/recursion.sln`
+- `Data Extructure /BCS-317/recursion/recursion/recursion.vcxproj`
+- `Data Extructure /BCS-317/test/test.sln`
+- `Data Extructure /BCS-317/test/test/test.vcxproj`
+- `Data Extructure /BCS-317/testing/testing.sln`
+- `Data Extructure /BCS-317/testing/testing/testing.vcproj`
+- `Data Extructure /Data Structure I/AssignmentNo1/AssignmentNo1.vcproj`
+- `Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/AssignmentNo2.vcproj`
+- `Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/AssignmentNo2.vcproj`
+- `Data Extructure /Data Structure I/AssignmentNo2/AssignmentNo2.vcproj`
+- `EET-110/Assigment#5/A4 A/A4 A.vcproj`
+- `EET-110/Assigment#5/A4 A/Solution12.sln`
+- `EET-110/Assignment 7A1/Assignment 7A1.sln`
+- `EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.vcproj`
+- `EET-110/Assignment 7A2/Assignment 7A2.sln`
+- `EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.vcproj`
+- `EET-110/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `EET-110/Assignment3/Assignment3.vcproj`
+- `EET-110/Assignment4/Assignment4.vcproj`
+- `EET-110/ExamNo2/ExamNo2.vcproj`
+- `EET-110/ExamNo4/ExamNo4.vcproj`
+- `EET-110/Visual Studio 2008/Projects/4/4.sln`
+- `EET-110/Visual Studio 2008/Projects/4/4/4.vcproj`
+- `EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).sln`
+- `EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).vcproj`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection.sln`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.vcproj`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2.sln`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4.sln`
+- `EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A).sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A).sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3).sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_.sln`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.vcproj`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__.sln`
+- `EET-327LAB13C++CODE/EET-327LAB13.sln`
+- `EET-327LAB13C++CODE/EET-327LAB13/EET-327LAB13.vcproj`
+- `Lab4/Lab4.sln`
+- `Lab4/Lab4/Lab4.vcproj`
+- `Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `Programming I/Assignment_2/Assignment_2.sln`
+- `Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `Programming I/C++_Program/C++_Program.sln`
+- `Programming I/C++_Program/C++_Program/C++_Program.vcproj`
+- `Programming I/Celcius_Program/Celcius_Program.sln`
+- `Programming I/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- `Programming I/ExtraCreditNo1/ExtraCreditNo1.sln`
+- `Programming I/ExtraCreditNo1/ExtraCreditNo1/ExtraCreditNo1.vcproj`
+- `Programming I/ExtraCreditNo2/ExtraCreditNo2.sln`
+- `Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- `Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `Programming I/Lab4/Lab4.sln`
+- `Programming I/Lab4/Lab4/Lab4.vcproj`
+- `Programming I/Lab5/Lab5.sln`
+- `Programming I/Lab5/Lab5/Lab5.vcproj`
+- `Programming I/LabNo.4/LabNo.4.sln`
+- `Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `Programming I/LabNo.5/LabNo.5.sln`
+- `Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `Programming I/LabNo.8/LabNo.8.sln`
+- `Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `Programming I/LabNo10/LabNo10.sln`
+- `Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `Programming I/LabNo12/LabNo12.sln`
+- `Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `Programming I/LabNo12a/LabNo12a.sln`
+- `Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `Programming I/LabNo13/LabNo13.sln`
+- `Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `Programming I/LabNo14/LabNo14.sln`
+- `Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `Programming I/LabNo15/LabNo15.sln`
+- `Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `Programming I/LabNo15A/LabNo15A.sln`
+- `Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `Programming I/LabNo3/LabNo3.sln`
+- `Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `Programming I/LabNo6/LabNo6.sln`
+- `Programming I/LabNo7/LabNo7.sln`
+- `Programming I/LabNo9/LabNo9.sln`
+- `Programming I/Lab_No2/Lab_No2.sln`
+- `Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `Programming I/PiterG/PiterG.sln`
+- `Programming I/PiterG/PiterG/PiterG.vcproj`
+- `Programming I/Pogram No. 2/Pogram No. 2.sln`
+- `Programming I/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- `Programming I/Programming_Assingment2/Programming_Assingment2.sln`
+- `Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- `Programming I/ShirtDiscount/ShirtDiscount.sln`
+- `Programming I/ShirtDiscount/ShirtDiscount_PG/ShirtDiscount.sln`
+- `Programming I/ShirtDiscount/ShirtDiscount_PG/ShirtDiscount.vcproj`
+- `Programming I/fixing/fixing.sln`
+- `Programming I/fixing/fixing/fixing.vcproj`
+- `Stuff/Assignment3/Assignment3.sln`
+- `Stuff/Assignment3/Assignment3/Assignment3.vcxproj`
+- `Stuff/Assignment4/Assignment4.sln`
+- `Stuff/Assignment4/Assignment4/Assignment4.vcxproj`
+- `Stuff/LCD DISPLAY/LCD DISPLAY.sln`
+- `Stuff/LCD DISPLAY/LCD DISPLAY/LCD DISPLAY.vcxproj`
+- `Stuff/Lab11/Lab11.sln`
+- `Stuff/Lab11/Lab11/Lab11.vcxproj`
+- `Stuff/Lab22/Lab22.sln`
+- `Stuff/Lab22/Lab22/Lab22.vcxproj`
+- `Stuff/Lab3/Assignmentt3.vcxproj`
+- `Stuff/Lab6/Lab6.vcxproj`
+- `Stuff/Lab7/Lab7.sln`
+- `Stuff/Lab7/Lab7/Lab7.vcxproj`
+- `Stuff/hw2/hw2.sln`
+- `Stuff/hw2/hw2/hw2.vcxproj`
+- `Stuff/last testing/last testing.sln`
+- `Stuff/last testing/last testing/last testing.vcxproj`
+- `Stuff/recursion/recursion.sln`
+- `Stuff/recursion/recursion/recursion.vcxproj`
+- `Stuff/test/test.sln`
+- `Stuff/test/test/test.vcxproj`
+- `Stuff/testing/testing.sln`
+- `Stuff/testing/testing/testing.vcxproj`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/1rst.txt`
+- `reports/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/NeHe's Readme.txt`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/Readme.txt`
+- `reports/3DPONG/3DPONG/websites I closed.txt`
+- `reports/3DPONG/HapticsGame/HapticsGame/Results.txt`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/Project.sln`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/License.txt`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.sln`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcproj`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcxproj`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Readme.txt`
+- `reports/3DPONG/websites I closed.txt`
+- `reports/9783540430728-c1.pdf`
+- `reports/AES CIPHER.Part2.doc`
+- `reports/AdvSec05_quiz1.pdf`
+- `reports/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- `reports/Assigment#5_1.txt`
+- `reports/Assigment#5_2correction.txt`
+- `reports/Assigment#5_2pgRight..txt`
+- `reports/Assigment#5_3pgRight.txt`
+- `reports/Assigment5_input.txt`
+- `reports/Assignment Lab No.10.docx`
+- `reports/Assignment2--from-AssignmentNo1-AssignmentNo1.txt`
+- `reports/Assignment2--from-AssignmentNo2-AssignmentNo2.txt`
+- `reports/Assignment2--from-hw2-hw2.txt`
+- `reports/Assignment2--from-test-test.txt`
+- `reports/Assignment2.txt`
+- `reports/Assignment3.txt`
+- `reports/Assignment4.txt`
+- `reports/Assignment5.txt`
+- `reports/AssignmentNo.7A.docx`
+- `reports/AssignmentNo2_Output.txt`
+- `reports/AssignmentNo3Output.txt`
+- `reports/AssignmentNo4.1_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- `reports/AssignmentNo4.1_output.txt`
+- `reports/AssignmentNo4_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- `reports/AssignmentNo4_output.txt`
+- `reports/AssignmentNo5_output--from-AssigntmentNo.5-AssigntmentNo.5.txt`
+- `reports/AssignmentNo5_output.txt`
+- `reports/AssignmentNo6_input.txt`
+- `reports/AssignmentNo6_output--from-AssignmentNo6-AssignmentNo6.txt`
+- `reports/AssignmentNo6_output--from-Lab_AssigntmentNo.6-Lab_AssigntmentNo.6.txt`
+- `reports/AssignmentNo6_output--from-lab5-lab5.txt`
+- `reports/AssignmentNo6_output.txt`
+- `reports/AssignmentNo8_Low_inputfile.txt`
+- `reports/AssignmentNo8_Month_inputfile.txt`
+- `reports/AssignmentNo8_input.txt`
+- `reports/AssignmentNo8_inputfile.txt`
+- `reports/AssignmentNo8_output--from-LabAssigmentNo8-LabAssigmentNo8.txt`
+- `reports/AssignmentNo8_output--from-LabAssignmentNo9-LabAssignmentNo9.txt`
+- `reports/AssignmentNo8_output.txt`
+- `reports/AssignmentNo9_output.txt`
+- `reports/Assignment_1_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_2_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_3_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_4_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_5_-_BCS_370_Data_Structures.doc`
+- `reports/BCS-230 LabNo8.docx`
+- `reports/BCS230 - Imput files.docx`
+- `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- `reports/BaseballPlayers4.txt`
+- `reports/BaseballPlayers5.txt`
+- `reports/BinarySearchTree.txt`
+- `reports/Block_cipher_method.pdf`
+- `reports/C++ Program_Output.txt`
+- `reports/Ch3_Ex6input.txt`
+- `reports/Ch3_Ex6output.txt`
+- `reports/Clonefile.txt`
+- `reports/Code.docx`
+- `reports/Commenting_Guidlines.doc`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3.sln`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4.sln`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5.sln`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6.sln`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/CppProjects/Assignment_2/Assignment_2.sln`
+- `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/CppProjects/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/CppProjects/C++_Program/C++_Program.sln`
+- `reports/CppProjects/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/CppProjects/C++_Program/C++_Program/C++_Program.cpp`
+- `reports/CppProjects/C++_Program/C++_Program/C++_Program.vcproj`
+- `reports/CppProjects/Celcius_Program/Celcius_Program.sln`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.cpp`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- `reports/CppProjects/EET-317L2/EET-317L2.sln`
+- `reports/CppProjects/EET-317L2/EET-317L2/EET-317L2.vcproj`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2.sln`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.cpp`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5.sln`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/CppProjects/Lab4/Lab4.sln`
+- `reports/CppProjects/Lab4/Lab4.txt`
+- `reports/CppProjects/Lab4/Lab4/Lab4.cpp`
+- `reports/CppProjects/Lab4/Lab4/Lab4.vcproj`
+- `reports/CppProjects/Lab4/Lab4_Output.txt`
+- `reports/CppProjects/Lab5/Lab5.sln`
+- `reports/CppProjects/Lab5/Lab5/Lab4_Input.txt`
+- `reports/CppProjects/Lab5/Lab5/Lab4_Output.txt`
+- `reports/CppProjects/Lab5/Lab5/Lab5.cpp`
+- `reports/CppProjects/Lab5/Lab5/Lab5.vcproj`
+- `reports/CppProjects/LabNo.4/LabNo.4.sln`
+- `reports/CppProjects/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/CppProjects/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5.sln`
+- `reports/CppProjects/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/CppProjects/LabNo.8/LabNo.8.sln`
+- `reports/CppProjects/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/CppProjects/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/CppProjects/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/CppProjects/LabNo10/LabNo10.sln`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/CppProjects/LabNo3/LabNo3.sln`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/CppProjects/LabNo6/LabNo6.sln`
+- `reports/CppProjects/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/CppProjects/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/CppProjects/LabNo6/LabNo6/Output.txt`
+- `reports/CppProjects/LabNo6/LabNo6/Output2.txt`
+- `reports/CppProjects/LabNo7/LabNo7.sln`
+- `reports/CppProjects/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/CppProjects/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/CppProjects/LabNo7/LabNo7/Output.txt`
+- `reports/CppProjects/LabNo9/LabNo9.sln`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/CppProjects/Lab_No2/Lab_No2.sln`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/CppProjects/Lab_No2/Lab_No2_Output.txt`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase.sln`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/DataBase.vcproj`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/SMT.h`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program.sln`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours-Program.vcproj`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours_Program.cpp`
+- `reports/CppProjects/PersonalProjects/MIke/MIke.sln`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/MIke.vcproj`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/Mike7.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management.sln`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/Mark's Bill Management.vcproj`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBill.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBillIMP.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksClass.h`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Output-Build.txt`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing.sln`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparision.h`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparisonIMP.cpp`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/ComaparingBills.cpp`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/MarksBillComparing.vcproj`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program.sln`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.cpp`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.vcproj`
+- `reports/CppProjects/PiterG/PiterG.sln`
+- `reports/CppProjects/PiterG/PiterG/PiterG.vcproj`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2.sln`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/Program2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2.sln`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG.sln`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/AssemblyInfo.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/Form1.h`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ReadMe.txt`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.vcproj`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/resource.h`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.h`
+- `reports/CppProjects/fixing/fixing.sln`
+- `reports/CppProjects/fixing/fixing/Fixing.cpp`
+- `reports/CppProjects/fixing/fixing/fixing.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/testing_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Using_Visual_C___Express.doc`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/Assigment5_input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/AssignmentNo5_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Assignment Lab No.10.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS-230 LabNo8.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS230 - Imput files.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Code.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/LABS11-13 Output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab11BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab12BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab13BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/LabNo10-BCS230-InputAndOutput.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/bcs-230-labNo9.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/chivo.docx`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab-output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab.sln`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Assignment2.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/FirstLab.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Prog01.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/Output-Build.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/HM1/output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/HM2/output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/HM3/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.h`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayTypeIMP.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/Lab14.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo14_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Low_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Month_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/AssignmentNo.7A.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignment7C.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7B.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/LabNo7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/New Text Document.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Output7A.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Output7B.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/Labn7.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/labn7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/labno10.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/outputlab10.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo9_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab Assignment 6 - Output&Input.docx`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/LabAssignmentNo6-Code.docx`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone.sln`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/HomeWorkone.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/homeworkone.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Assigment5_input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/AssignmentNo5_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Output5.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/Lab11c.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/lab11C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo13_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.h`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentTypeIMP.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/lab13.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.vcproj`
+- `reports/Credits.rtf`
+- `reports/Crypto Homework 7.docx`
+- `reports/Crypto Homework 7.pdf`
+- `reports/CryptoHw7/9783540430728-c1.pdf`
+- `reports/CryptoHw7/AES CIPHER.Part2.doc`
+- `reports/CryptoHw7/AdvSec05_quiz1.pdf`
+- `reports/CryptoHw7/Block_cipher_method.pdf`
+- `reports/CryptoHw7/Crypto Homework 7.docx`
+- `reports/CryptoHw7/Crypto Homework 7.pdf`
+- `reports/CryptoHw7/Cryptograph_Primitives_and_Protocols.pdf`
+- `reports/CryptoHw7/Homework7.docx`
+- `reports/CryptoHw7/Student Center-FallSchedule.pdf`
+- `reports/CryptoHw7/chpater_4_homework.pdf`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cry/cry/en.lproj/Credits.rtf`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cryp/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/feistelProof.pdf`
+- `reports/CryptoHw7/hw3sol.pdf`
+- `reports/CryptoHw7/introcrypto.pdf`
+- `reports/CryptoHw7/p_garcia.doc`
+- `reports/CryptoHw7/p_garcia.pdf`
+- `reports/CryptoHw7/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- `reports/Cryptograph_Primitives_and_Protocols.pdf`
+- `reports/Data Extructure /BCS-317/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- `reports/Data Extructure /BCS-317/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3.sln`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcproj`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcxproj`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/team.cpp`
+- `reports/Data Extructure /BCS-317/Assignment3/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4.sln`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.vcxproj`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/AuthorSignature.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MainFile.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/header4.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcxproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcxproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Clonefile.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/TestingAssignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/Assignment_1_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_2_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_3_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_4_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_5_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/Assignment5.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BaseballPlayers5.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BinarySearchTree.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/Output-Debug.txt`
+- `reports/Data Extructure /BCS-317/Commenting_Guidlines.doc`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/Lab 1.cpp`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11.sln`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.cpp`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.h`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11IMP.cpp`
+- `reports/Data Extructure /BCS-317/Lab11/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22.sln`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearch.h`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearchInside.cpp`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinaryTreeIMP.cpp`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/Lab22.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/MyMain.cpp`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7.sln`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Lab7.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.cpp`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.h`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion1.cpp`
+- `reports/Data Extructure /BCS-317/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/TrueFalse/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/TrueFalse/TrueFalse/ReadMe.txt`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/hw2/hw2/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/hw2/hw2/Clonefile.txt`
+- `reports/Data Extructure /BCS-317/lab1/FacebookPost.h`
+- `reports/Data Extructure /BCS-317/lab1/Lab 1.cpp`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog2.XML`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost.sln`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcproj`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcxproj`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/lab1/facebook.cpp`
+- `reports/Data Extructure /BCS-317/lab1/facebookpost.cpp`
+- `reports/Data Extructure /BCS-317/test/test/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/testing/testing/ReadMe.txt`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/AssignmentNo1.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/Assignment2.txt`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)/Assignment2.txt`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Debugging Problems.docx`
+- `reports/EET 110#2 (2).docx`
+- `reports/EET 110#2.docx`
+- `reports/EET 110.docx`
+- `reports/EET%20110#2.docx`
+- `reports/EET-110.docx`
+- `reports/EET-110/1rst.txt`
+- `reports/EET-110/Assigment#5/A4 A/ReadMe.txt`
+- `reports/EET-110/Assigment#5/A4 A/Solution12.sln`
+- `reports/EET-110/Assigment#5/Assigment#5_1.txt`
+- `reports/EET-110/Assigment#5/Assigment#5_2correction.txt`
+- `reports/EET-110/Assigment#5/Assigment#5_2pgRight..txt`
+- `reports/EET-110/Assigment#5/Assigment#5_3pgRight.txt`
+- `reports/EET-110/Assigment#5/Assignment5_1.cpp`
+- `reports/EET-110/Assigment#5/Assignment5_3.cpp`
+- `reports/EET-110/Assigment#5/Experiment_N5.cpp_code.txt`
+- `reports/EET-110/Assigment#5/Monthly Payment_4.txt`
+- `reports/EET-110/Assigment#5/New Text Document.txt`
+- `reports/EET-110/Assigment#5/Resistors in Parallel.txt`
+- `reports/EET-110/Assigment#5/To print out/EET-113-No3.docx`
+- `reports/EET-110/Assigment#5/To print out/EET-177NO.5.docx`
+- `reports/EET-110/Assigment#5/To print out/MortgageCalculator2..txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Piter Garcia.cpp`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#1.txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2jpg2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Questionjpg2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing_Question.cpp`
+- `reports/EET-110/Assigment#5/Writing a Program with Two Functions.txt`
+- `reports/EET-110/Assignment (a).jpg`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1.sln`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.vcproj`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/ReadMe.txt`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/app.ico`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/resource.h`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.h`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2.sln`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.vcproj`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/ReadMe.txt`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/app.ico`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/resource.h`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.h`
+- `reports/EET-110/Assignment2 (3A)2/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `reports/EET-110/Assignment2 (3A)2/ReadMe.txt`
+- `reports/EET-110/Assignment2 (3A)2/app.ico`
+- `reports/EET-110/Assignment2 (3A)2/resource.h`
+- `reports/EET-110/Assignment2 (3A)2/stdafx.cpp`
+- `reports/EET-110/Assignment2 (3A)2/stdafx.h`
+- `reports/EET-110/Assignment3/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment3/Assignment3.cpp`
+- `reports/EET-110/Assignment3/Assignment3.vcproj`
+- `reports/EET-110/Assignment3/ReadMe.txt`
+- `reports/EET-110/Assignment3/app.ico`
+- `reports/EET-110/Assignment3/resource.h`
+- `reports/EET-110/Assignment3/stdafx.cpp`
+- `reports/EET-110/Assignment3/stdafx.h`
+- `reports/EET-110/Assignment4/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment4/Assignment4.cpp`
+- `reports/EET-110/Assignment4/Assignment4.vcproj`
+- `reports/EET-110/Assignment4/ReadMe.txt`
+- `reports/EET-110/Assignment4/app.ico`
+- `reports/EET-110/Assignment4/resource.h`
+- `reports/EET-110/Assignment4/stdafx.cpp`
+- `reports/EET-110/Assignment4/stdafx.h`
+- `reports/EET-110/Debugging Problems.docx`
+- `reports/EET-110/EET 110#2 (2).docx`
+- `reports/EET-110/EET 110#2.docx`
+- `reports/EET-110/EET 110.docx`
+- `reports/EET-110/EET%20110#2.docx`
+- `reports/EET-110/EET-110.docx`
+- `reports/EET-110/ExamNo.1.cpp`
+- `reports/EET-110/ExamNo2.cpp`
+- `reports/EET-110/ExamNo2/AssemblyInfo.cpp`
+- `reports/EET-110/ExamNo2/ExamNo2.cpp`
+- `reports/EET-110/ExamNo2/ExamNo2.vcproj`
+- `reports/EET-110/ExamNo2/ReadMe.txt`
+- `reports/EET-110/ExamNo2/app.ico`
+- `reports/EET-110/ExamNo2/resource.h`
+- `reports/EET-110/ExamNo2/stdafx.cpp`
+- `reports/EET-110/ExamNo2/stdafx.h`
+- `reports/EET-110/ExamNo4.cpp`
+- `reports/EET-110/ExamNo4/AssemblyInfo.cpp`
+- `reports/EET-110/ExamNo4/ExamNo4.cpp`
+- `reports/EET-110/ExamNo4/ExamNo4.vcproj`
+- `reports/EET-110/ExamNo4/ReadMe.txt`
+- `reports/EET-110/ExamNo4/app.ico`
+- `reports/EET-110/ExamNo4/resource.h`
+- `reports/EET-110/ExamNo4/stdafx.cpp`
+- `reports/EET-110/ExamNo4/stdafx.h`
+- `reports/EET-110/Experiment_No5_3cpp.txt`
+- `reports/EET-110/Parallel_Circuit.5.txt`
+- `reports/EET-110/Ray B.docx`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223-LabExp4/EET-223-LabExp4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223LabExp/EET-223LabExp.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-LAB/EET-LAB.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-Lab Report/EET-Lab Report.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/correction.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.h`
+- `reports/EET-110/assignment4.jpg`
+- `reports/EET-110/exam.jpg`
+- `reports/EET-110/exam1st.cpp`
+- `reports/EET-110/exam2nd.cpp`
+- `reports/EET-110/examrd.cpp`
+- `reports/EET-113-No3.docx`
+- `reports/EET-177NO.5.docx`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13.sln`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/EET-327LAB13.vcproj`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/EET327LabNo13_output.txt`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/LAB13.cpp`
+- `reports/EET327LabNo13_output.txt`
+- `reports/Experiment_N5.cpp_code.txt`
+- `reports/Experiment_No5_3cpp.txt`
+- `reports/ExtraCreditNo.2-Output.txt`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.pbxproj`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/FirstLab-output.txt`
+- `reports/Homework7.docx`
+- `reports/LAB20.txt`
+- `reports/LABS11-13 Output.txt`
+- `reports/Lab Assignment 6 - Output&Input.docx`
+- `reports/Lab11BCS.docx`
+- `reports/Lab12BCS.docx`
+- `reports/Lab13BCS.docx`
+- `reports/Lab4.txt`
+- `reports/Lab4/Lab4.sln`
+- `reports/Lab4/Lab4/Lab4.cpp`
+- `reports/Lab4/Lab4/Lab4.txt`
+- `reports/Lab4/Lab4/Lab4.vcproj`
+- `reports/Lab4/Lab4/Lab4_Output.txt`
+- `reports/Lab4_Input.txt`
+- `reports/Lab4_Output--from-Lab5-Lab5.txt`
+- `reports/Lab4_Output--from-LabNo.5-LabNo.5.txt`
+- `reports/Lab4_Output.txt`
+- `reports/LabAssignmentNo6-Code.docx`
+- `reports/LabNo10-BCS230-InputAndOutput.docx`
+- `reports/LabNo10_Output.txt`
+- `reports/LabNo10_input.txt`
+- `reports/LabNo11--from-LabAssignment11-LabAssignment11.txt`
+- `reports/LabNo11--from-lab11C-lab11C.txt`
+- `reports/LabNo11--from-lab11b-lab11b.txt`
+- `reports/LabNo11.txt`
+- `reports/LabNo11_output--from-LabAssignment11-LabAssignment11.txt`
+- `reports/LabNo11_output--from-lab11C-lab11C.txt`
+- `reports/LabNo11_output--from-lab11b-lab11b.txt`
+- `reports/LabNo11_output.txt`
+- `reports/LabNo13_output.txt`
+- `reports/LabNo14_output.txt`
+- `reports/LabNo3_Output.txt`
+- `reports/LabNo7B.docx`
+- `reports/LabNo7C.docx`
+- `reports/LabNo9_Input.txt`
+- `reports/LabNo9_Output.txt`
+- `reports/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Lab_No2_Output--from-Lab_No2-Lab_No2.txt`
+- `reports/Lab_No2_Output.txt`
+- `reports/License.txt`
+- `reports/Losing Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Losing Example.txt`
+- `reports/Monthly Payment_4.txt`
+- `reports/MortgageCalculator2..txt`
+- `reports/MyQueue4.txt`
+- `reports/MyStack4.txt`
+- `reports/NeHe's Readme.txt`
+- `reports/Neutral Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Neutral Example.txt`
+- `reports/New Text Document--from-EET-110-Assigment-5.txt`
+- `reports/New Text Document.txt`
+- `reports/Output--from-AssignmentNo7-AssignmentNo7.txt`
+- `reports/Output--from-HM3-HM3.txt`
+- `reports/Output--from-LabNo12-LabNo12.txt`
+- `reports/Output--from-LabNo12a-LabNo12a.txt`
+- `reports/Output--from-LabNo6-LabNo6.txt`
+- `reports/Output--from-LabNo7-LabNo7.txt`
+- `reports/Output-Build--from-BCS-317-Assignment4.txt`
+- `reports/Output-Build--from-BCS-317-AssignmentNo2.txt`
+- `reports/Output-Build--from-BCS-317-BinaryTree.txt`
+- `reports/Output-Build--from-BCS-317-Lab11.txt`
+- `reports/Output-Build--from-BCS-317-TrueFalse.txt`
+- `reports/Output-Build--from-Data-Extructure--BCS-317.txt`
+- `reports/Output-Build--from-PersonalProjects-Mark-s-Bill-Management.txt`
+- `reports/Output-Build--from-Stuff-Assignment3.txt`
+- `reports/Output-Build--from-Stuff-Assignment4.txt`
+- `reports/Output-Build--from-Stuff-Lab11.txt`
+- `reports/Output-Build.txt`
+- `reports/Output-Debug.txt`
+- `reports/Output-Premium-NoneExceeded.txt`
+- `reports/Output-Premium-a&bExceeded.txt`
+- `reports/Output-Premium-aExceeded.txt`
+- `reports/Output-Premium-bExceeded.txt`
+- `reports/Output-Regular1.txt`
+- `reports/Output-Regular2.txt`
+- `reports/Output2--from-LabNo6-LabNo6.txt`
+- `reports/Output2.txt`
+- `reports/Output5.txt`
+- `reports/Output7A.txt`
+- `reports/Output7B.txt`
+- `reports/Output_File.txt`
+- `reports/Output_Game--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Output_Game.txt`
+- `reports/Output_Game2--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Output_Game2.txt`
+- `reports/PA2_Output.txt`
+- `reports/Parallel_Circuit.5.txt`
+- `reports/Programing Question#1.txt`
+- `reports/Programing Question#2.txt`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- `reports/Programming I/Assignment_2/Assignment_2.sln`
+- `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- `reports/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/Programming I/Lab4/Lab4.sln`
+- `reports/Programming I/Lab4/Lab4.txt`
+- `reports/Programming I/Lab4/Lab4/Lab4.cpp`
+- `reports/Programming I/Lab4/Lab4/Lab4.vcproj`
+- `reports/Programming I/Lab4/Lab4_Output.txt`
+- `reports/Programming I/Lab5/Lab5.sln`
+- `reports/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- `reports/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- `reports/Programming I/Lab5/Lab5/Lab5.cpp`
+- `reports/Programming I/Lab5/Lab5/Lab5.vcproj`
+- `reports/Programming I/LabNo.4/LabNo.4.sln`
+- `reports/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5.sln`
+- `reports/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/Programming I/LabNo.8/LabNo.8.sln`
+- `reports/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/Programming I/LabNo10/LabNo10.sln`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/Programming I/LabNo12/LabNo12.sln`
+- `reports/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- `reports/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `reports/Programming I/LabNo12/LabNo12/Output.txt`
+- `reports/Programming I/LabNo12a/LabNo12a.sln`
+- `reports/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- `reports/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `reports/Programming I/LabNo12a/LabNo12a/Output.txt`
+- `reports/Programming I/LabNo13/LabNo13.sln`
+- `reports/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- `reports/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `reports/Programming I/LabNo13/LabNo13/output.txt`
+- `reports/Programming I/LabNo14/LabNo14.sln`
+- `reports/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `reports/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- `reports/Programming I/LabNo14/LabNo14/output.txt`
+- `reports/Programming I/LabNo14/LabNo14/testing_output.txt`
+- `reports/Programming I/LabNo15/LabNo15.sln`
+- `reports/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `reports/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- `reports/Programming I/LabNo15/LabNo15/output.txt`
+- `reports/Programming I/LabNo15A/LabNo15A.sln`
+- `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `reports/Programming I/LabNo3/LabNo3.sln`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/Programming I/LabNo6/LabNo6.sln`
+- `reports/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/Programming I/LabNo6/LabNo6/Output.txt`
+- `reports/Programming I/LabNo6/LabNo6/Output2.txt`
+- `reports/Programming I/LabNo7/LabNo7.sln`
+- `reports/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/Programming I/LabNo7/LabNo7/Output.txt`
+- `reports/Programming I/LabNo9/LabNo9.sln`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/Programming I/Lab_No2/Lab_No2.sln`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/Programming I/Lab_No2/Lab_No2_Output.txt`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- `reports/Programming I/Using_Visual_C___Express.doc`
+- `reports/Ray B.docx`
+- `reports/ReadMe--from-4-4.txt`
+- `reports/ReadMe--from-ASSIGMENT2-3A--ASSIGMENT2-3A.txt`
+- `reports/ReadMe--from-AnotherCurrection-AnotherCurrection.txt`
+- `reports/ReadMe--from-AnotherCurrection2-AnotherCurrection2.txt`
+- `reports/ReadMe--from-Assigment-5-A4-A.txt`
+- `reports/ReadMe--from-Assigment4-Assigment4.txt`
+- `reports/ReadMe--from-Assignment-7A1-Assignment-7A1.txt`
+- `reports/ReadMe--from-Assignment-7A2-Assignment-7A2.txt`
+- `reports/ReadMe--from-Assignment2-2A--Assignment2-2A.txt`
+- `reports/ReadMe--from-Assignment2-3A--Assignment2-3A.txt`
+- `reports/ReadMe--from-Assignment2-3A-2-Assignment2-3A-2.txt`
+- `reports/ReadMe--from-Assignment3-3--Assignment3-3.txt`
+- `reports/ReadMe--from-Assignment3-Assignment3.txt`
+- `reports/ReadMe--from-Assignment4-Assignment4.txt`
+- `reports/ReadMe--from-Assignment4_1-Assignment4_1.txt`
+- `reports/ReadMe--from-Assignment4_1_-Assignment4_1_.txt`
+- `reports/ReadMe--from-Assignment4_2-Assignment4_2.txt`
+- `reports/ReadMe--from-Assignment4_2_-Assignment4_2_.txt`
+- `reports/ReadMe--from-EET-110-Assignment2-3A-2.txt`
+- `reports/ReadMe--from-EET-110-Assignment3.txt`
+- `reports/ReadMe--from-EET-110-Assignment4.txt`
+- `reports/ReadMe--from-EET-110-ExamNo2.txt`
+- `reports/ReadMe--from-EET-110-ExamNo4.txt`
+- `reports/ReadMe--from-ShirtDiscount_PG-ShirtDiscount_PG.txt`
+- `reports/ReadMe--from-TrueFalse-TrueFalse.txt`
+- `reports/ReadMe--from-testing-testing.txt`
+- `reports/ReadMe.txt`
+- `reports/Readme--from-lesson30-Lesson30.txt`
+- `reports/Readme--from-shadowmap-Shadow-Mapping.txt`
+- `reports/Refilling_funds Output--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Refilling_funds Output.txt`
+- `reports/Resistors in Parallel.txt`
+- `reports/Results.txt`
+- `reports/Student Center-FallSchedule.pdf`
+- `reports/Stuff/Assignment3/Assignment3.sln`
+- `reports/Stuff/Assignment3/Assignment3/Assignment3.txt`
+- `reports/Stuff/Assignment3/Assignment3/Assignment3.vcxproj`
+- `reports/Stuff/Assignment3/Assignment3/AuthorSignature.cpp`
+- `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.cpp`
+- `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.h`
+- `reports/Stuff/Assignment3/Assignment3/MyList.cpp`
+- `reports/Stuff/Assignment3/Assignment3/MyList.h`
+- `reports/Stuff/Assignment3/Assignment3/TeamData.cpp`
+- `reports/Stuff/Assignment3/Output-Build.txt`
+- `reports/Stuff/Assignment4/Assignment4.sln`
+- `reports/Stuff/Assignment4/Assignment4/Assignment4.txt`
+- `reports/Stuff/Assignment4/Assignment4/Assignment4.vcxproj`
+- `reports/Stuff/Assignment4/Assignment4/AuthorSignature.cpp`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.cpp`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.h`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers4.txt`
+- `reports/Stuff/Assignment4/Assignment4/MainFile.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue.h`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue4.txt`
+- `reports/Stuff/Assignment4/Assignment4/MyStack.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyStack.h`
+- `reports/Stuff/Assignment4/Assignment4/MyStack4.txt`
+- `reports/Stuff/Assignment4/Assignment4/header4.h`
+- `reports/Stuff/Assignment4/Output-Build.txt`
+- `reports/Stuff/Lab1/LAB1.asm`
+- `reports/Stuff/Lab1/lab1.txt`
+- `reports/Stuff/Lab1/lab1answers.txt`
+- `reports/Stuff/Lab11/Lab11.sln`
+- `reports/Stuff/Lab11/Lab11/Lab11.cpp`
+- `reports/Stuff/Lab11/Lab11/Lab11.h`
+- `reports/Stuff/Lab11/Lab11/Lab11.vcxproj`
+- `reports/Stuff/Lab11/Lab11/Lab11IMP.cpp`
+- `reports/Stuff/Lab11/Output-Build.txt`
+- `reports/Stuff/Lab17/lab17-answers.txt`
+- `reports/Stuff/Lab17/lab17.asm`
+- `reports/Stuff/Lab19/LAB19.asm`
+- `reports/Stuff/Lab19/LAB19b.asm`
+- `reports/Stuff/Lab19/lab19- answers.txt`
+- `reports/Stuff/Lab19/lab19b- answers.txt`
+- `reports/Stuff/Lab20/LAB20.txt`
+- `reports/Stuff/Lab20/lab25-answers.txt`
+- `reports/Stuff/Lab22/Lab22.sln`
+- `reports/Stuff/Lab22/Lab22/BinarySearch.h`
+- `reports/Stuff/Lab22/Lab22/BinarySearchInside.cpp`
+- `reports/Stuff/Lab22/Lab22/BinaryTreeIMP.cpp`
+- `reports/Stuff/Lab22/Lab22/Lab22.vcxproj`
+- `reports/Stuff/Lab22/Lab22/MyMain.cpp`
+- `reports/Stuff/Lab3/Assignment3.h`
+- `reports/Stuff/Lab3/Assignmentt3.cpp`
+- `reports/Stuff/Lab3/Assignmentt3.vcxproj`
+- `reports/Stuff/Lab6/Lab6.vcxproj`
+- `reports/Stuff/Lab7/Lab7.sln`
+- `reports/Stuff/Lab7/Lab7/Lab7.vcxproj`
+- `reports/Stuff/Lab7/Lab7/Recursion.cpp`
+- `reports/Stuff/Lab7/Lab7/Recursion.h`
+- `reports/Stuff/Lab7/Lab7/Recursion1.cpp`
+- `reports/Stuff/Lab7/lab7.asm`
+- `reports/Stuff/Lab7/lab7.m`
+- `reports/Stuff/ReadMe.txt`
+- `reports/Stuff/hw2/hw2/Assignment2.txt`
+- `reports/Stuff/hw2/hw2/Clonefile.txt`
+- `reports/Stuff/test/test/Assignment2.txt`
+- `reports/TestingAssignment2.txt`
+- `reports/Using_Visual_C___Express.doc`
+- `reports/Winning Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Winning Example.txt`
+- `reports/Writing a Program with Two Functions.txt`
+- `reports/bcs-230-labNo9.docx`
+- `reports/checking_grades.txt`
+- `reports/chivo.docx`
+- `reports/chpater_4_homework.pdf`
+- `reports/feistelProof.pdf`
+- `reports/hw3sol.pdf`
+- `reports/introcrypto.pdf`
+- `reports/lab1.txt`
+- `reports/lab17-answers.txt`
+- `reports/lab19- answers.txt`
+- `reports/lab19b- answers.txt`
+- `reports/lab1answers.txt`
+- `reports/lab25-answers.txt`
+- `reports/output--from-HM1-HM1.txt`
+- `reports/output--from-HM2-HM2.txt`
+- `reports/output--from-LabNo13-LabNo13.txt`
+- `reports/output--from-LabNo14-LabNo14.txt`
+- `reports/output.txt`
+- `reports/outputlab10.txt`
+- `reports/p_garcia.doc`
+- `reports/p_garcia.pdf`
+- `reports/testing_output.txt`
+- `reports/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- `reports/websites I closed.txt`
+
+### Presentations
+- `presentations/BCS_370_L10_-_Ch_4.ppt`
+- `presentations/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- `presentations/BCS_370_L12_-_Exam_2_Review.ppt`
+- `presentations/BCS_370_L13_-_Ch_5_p1.ppt`
+- `presentations/BCS_370_L15_-_Ch_5_p2.ppt`
+- `presentations/BCS_370_L17_-_Ch_7.ppt`
+- `presentations/BCS_370_L18_Lab_-_Recursion.ppt`
+- `presentations/BCS_370_L19_-_Ch_8_p1.ppt`
+- `presentations/BCS_370_L1_-_C___Review (1).ppt`
+- `presentations/BCS_370_L1_-_C___Review.ppt`
+- `presentations/BCS_370_L20_-_Ch_8_p2.ppt`
+- `presentations/BCS_370_L21_-_Ch_8_p3.ppt`
+- `presentations/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- `presentations/BCS_370_L2_-_Classes_p1.ppt`
+- `presentations/BCS_370_L2_-_Classes_p2.ppt`
+- `presentations/BCS_370_L3_-_Pointers_p1.ppt`
+- `presentations/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- `presentations/BCS_370_L5_-_Pointers_p2.ppt`
+- `presentations/BCS_370_L7_-_Ch_2.ppt`
+- `presentations/BCS_370_L8_-_Ch_3.ppt`
+- `presentations/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- `presentations/CryptoHw7/S4-AES.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L10_-_Ch_4.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L12_-_Exam_2_Review.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L13_-_Ch_5_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L15_-_Ch_5_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L17_-_Ch_7.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L18_Lab_-_Recursion.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L19_-_Ch_8_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review (1).ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L20_-_Ch_8_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L21_-_Ch_8_p3.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L3_-_Pointers_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L5_-_Pointers_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L7_-_Ch_2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L8_-_Ch_3.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- `presentations/Data Extructure /BCS-317/LinkedUnsortedLists.ppt`
+- `presentations/LinkedUnsortedLists.ppt`
+- `presentations/S4-AES.ppt`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `3DPONG/-Inventory.md`
+- `3DPONG/3DPONG.xcodeproj/-Inventory.md`
+- `3DPONG/3DPONG.xcodeproj/README.md`
+- `3DPONG/3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/-Inventory.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/README.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `3DPONG/3DPONG.xcworkspace/-Inventory.md`
+- `3DPONG/3DPONG.xcworkspace/README.md`
+- `3DPONG/3DPONG.xcworkspace/xcuserdata/-Inventory.md`
+- `3DPONG/3DPONG.xcworkspace/xcuserdata/README.md`
+- `3DPONG/3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG/3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/README.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/xcuserdata/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/xcuserdata/README.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `3DPONG/3DPONG/3DPONG.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `3DPONG/3DPONG/README.md`
+- `3DPONG/3DPONG/leapong-master/-Inventory.md`
+- `3DPONG/3DPONG/leapong-master/README.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/-Inventory.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/README.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/assets/-Inventory.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/assets/README.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/leapong/-Inventory.md`
+- `3DPONG/3DPONG/leapong-master/leapong-master/leapong/README.md`
+- `3DPONG/3DPONG/lesson30/-Inventory.md`
+- `3DPONG/3DPONG/lesson30/Lesson30/-Inventory.md`
+- `3DPONG/3DPONG/lesson30/Lesson30/README.md`
+- `3DPONG/3DPONG/lesson30/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/Pong Motion/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/Pong Motion/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/Pong Motion/assets/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/Pong Motion/assets/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/createjs/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/createjs/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/createjs/events/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/createjs/events/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/display/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/display/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/events/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/events/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/filters/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/filters/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/geom/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/geom/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/ui/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/ui/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/utils/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/easeljs/utils/README.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/tweenjs/-Inventory.md`
+- `3DPONG/3DPONG/pong-leap-motion-js-master/src/tweenjs/README.md`
+- `3DPONG/HapticsGame/-Inventory.md`
+- `3DPONG/HapticsGame/HapticsGame/-Inventory.md`
+- `3DPONG/HapticsGame/HapticsGame/README.md`
+- `3DPONG/HapticsGame/Lighting1/-Inventory.md`
+- `3DPONG/HapticsGame/Lighting1/README.md`
+- `3DPONG/HapticsGame/README.md`
+- `3DPONG/HapticsGame/shadowmap/-Inventory.md`
+- `3DPONG/HapticsGame/shadowmap/README.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/-Inventory.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/README.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Maths/-Inventory.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/Maths/README.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/README.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/extensions/-Inventory.md`
+- `3DPONG/HapticsGame/shadowmap/Shadow Mapping/extensions/README.md`
+- `3DPONG/README.md`
+- `3DPONG/pong-leap-motion-js-master/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/Pong Motion/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/Pong Motion/README.md`
+- `3DPONG/pong-leap-motion-js-master/Pong Motion/assets/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/Pong Motion/assets/README.md`
+- `3DPONG/pong-leap-motion-js-master/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/createjs/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/createjs/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/createjs/events/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/createjs/events/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/display/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/display/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/events/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/events/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/filters/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/filters/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/geom/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/geom/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/ui/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/ui/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/utils/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/easeljs/utils/README.md`
+- `3DPONG/pong-leap-motion-js-master/src/tweenjs/-Inventory.md`
+- `3DPONG/pong-leap-motion-js-master/src/tweenjs/README.md`
+- `CppProjects/AssignmentNo3/AssignmentNo3/README.md`
+- `CppProjects/AssignmentNo3/README.md`
+- `CppProjects/AssignmentNo4/AssignmentNo4/README.md`
+- `CppProjects/AssignmentNo4/README.md`
+- `CppProjects/AssignmentNo5/AssignmentNo5/README.md`
+- `CppProjects/AssignmentNo5/README.md`
+- `CppProjects/AssignmentNo6/AssignmentNo6/README.md`
+- `CppProjects/AssignmentNo6/README.md`
+- `CppProjects/Assignment_2/Assignment_2/README.md`
+- `CppProjects/Assignment_2/README.md`
+- `CppProjects/C++_Program/C++_Program/README.md`
+- `CppProjects/C++_Program/README.md`
+- `CppProjects/Celcius_Program/Celcius_Program/README.md`
+- `CppProjects/Celcius_Program/README.md`
+- `CppProjects/EET-317L2/EET-317L2/README.md`
+- `CppProjects/EET-317L2/README.md`
+- `CppProjects/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `CppProjects/ExtraCreditNo2/README.md`
+- `CppProjects/FixingAssignment5/FixingAssignment5/README.md`
+- `CppProjects/FixingAssignment5/README.md`
+- `CppProjects/Lab4/Lab4/README.md`
+- `CppProjects/Lab4/README.md`
+- `CppProjects/Lab5/Lab5/README.md`
+- `CppProjects/Lab5/README.md`
+- `CppProjects/LabNo.4/LabNo.4/README.md`
+- `CppProjects/LabNo.4/README.md`
+- `CppProjects/LabNo.5/LabNo.5/README.md`
+- `CppProjects/LabNo.5/README.md`
+- `CppProjects/LabNo.8/LabNo.8/README.md`
+- `CppProjects/LabNo.8/README.md`
+- `CppProjects/LabNo10/LabNo10/README.md`
+- `CppProjects/LabNo10/README.md`
+- `CppProjects/LabNo3/LabNo3/README.md`
+- `CppProjects/LabNo3/README.md`
+- `CppProjects/LabNo6/LabNo6/README.md`
+- `CppProjects/LabNo6/README.md`
+- `CppProjects/LabNo7/LabNo7/README.md`
+- `CppProjects/LabNo7/README.md`
+- `CppProjects/LabNo9/LabNo9/README.md`
+- `CppProjects/LabNo9/README.md`
+- `CppProjects/Lab_No2/Lab_No2/README.md`
+- `CppProjects/Lab_No2/README.md`
+- `CppProjects/PersonalProjects/DataBase/DataBase/README.md`
+- `CppProjects/PersonalProjects/DataBase/README.md`
+- `CppProjects/PersonalProjects/Hours-Program/Hours-Program/README.md`
+- `CppProjects/PersonalProjects/Hours-Program/README.md`
+- `CppProjects/PersonalProjects/MIke/MIke/README.md`
+- `CppProjects/PersonalProjects/MIke/README.md`
+- `CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/README.md`
+- `CppProjects/PersonalProjects/Mark's Bill Management/README.md`
+- `CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/README.md`
+- `CppProjects/PersonalProjects/MarksBillComparing/README.md`
+- `CppProjects/PersonalProjects/README.md`
+- `CppProjects/PersonalProjects/Worked_Hours-Program/README.md`
+- `CppProjects/PiterG/PiterG/README.md`
+- `CppProjects/PiterG/README.md`
+- `CppProjects/Pogram No. 2/Pogram No. 2/README.md`
+- `CppProjects/Pogram No. 2/README.md`
+- `CppProjects/Programming_Assingment2/Programming_Assingment2/README.md`
+- `CppProjects/Programming_Assingment2/README.md`
+- `CppProjects/README.md`
+- `CppProjects/ShirtDiscount_PG/README.md`
+- `CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/README.md`
+- `CppProjects/fixing/README.md`
+- `CppProjects/fixing/fixing/README.md`
+- `Cpp_Prog_I_II/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo3/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo4/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo5/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo6/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo7/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/README.md`
+- `Cpp_Prog_I_II/Programming I/AssignmentNo8/README.md`
+- `Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/README.md`
+- `Cpp_Prog_I_II/Programming I/Assignment_2/README.md`
+- `Cpp_Prog_I_II/Programming I/C++_Program/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/README.md`
+- `Cpp_Prog_I_II/Programming I/C++_Program/README.md`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/Celcius_Program/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/Celcius_Program/README.md`
+- `Cpp_Prog_I_II/Programming I/Celcius_Program/README.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/README.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo1/README.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `Cpp_Prog_I_II/Programming I/ExtraCreditNo2/README.md`
+- `Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/README.md`
+- `Cpp_Prog_I_II/Programming I/FixingAssignment5/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab4/Lab4/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab4/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab5/Lab5/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab5/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.4/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.5/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo.8/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo10/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo12/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo12a/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo13/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo14/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo15/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo15A/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo3/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo6/README.md`
+- `Cpp_Prog_I_II/Programming I/LabNo7/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/README.md`
+- `Cpp_Prog_I_II/Programming I/Lab_No2/README.md`
+- `Cpp_Prog_I_II/Programming I/PiterG/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/PiterG/PiterG/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/PiterG/PiterG/README.md`
+- `Cpp_Prog_I_II/Programming I/PiterG/README.md`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/Pogram No. 2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/Pogram No. 2/README.md`
+- `Cpp_Prog_I_II/Programming I/Pogram No. 2/README.md`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/README.md`
+- `Cpp_Prog_I_II/Programming I/Programming_Assingment2/README.md`
+- `Cpp_Prog_I_II/Programming I/README.md`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/README.md`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/README.md`
+- `Cpp_Prog_I_II/Programming I/fixing/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/fixing/README.md`
+- `Cpp_Prog_I_II/Programming I/fixing/fixing/-Inventory.md`
+- `Cpp_Prog_I_II/Programming I/fixing/fixing/README.md`
+- `Cpp_Prog_I_II/Programming II/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/README.md`
+- `Cpp_Prog_I_II/Programming II/Assignment7C/README.md`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/README.md`
+- `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/README.md`
+- `Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/README.md`
+- `Cpp_Prog_I_II/Programming II/FirstLab/README.md`
+- `Cpp_Prog_I_II/Programming II/HM1/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM1/HM1/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM1/HM1/README.md`
+- `Cpp_Prog_I_II/Programming II/HM1/README.md`
+- `Cpp_Prog_I_II/Programming II/HM2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM2/HM2/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM2/HM2/README.md`
+- `Cpp_Prog_I_II/Programming II/HM2/README.md`
+- `Cpp_Prog_I_II/Programming II/HM3/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM3/HM3/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/HM3/HM3/README.md`
+- `Cpp_Prog_I_II/Programming II/HM3/README.md`
+- `Cpp_Prog_I_II/Programming II/Lab14/Lab14/README.md`
+- `Cpp_Prog_I_II/Programming II/Lab14/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssigmentNo8/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment11/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo10/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/README.md`
+- `Cpp_Prog_I_II/Programming II/LabAssignmentNo9/README.md`
+- `Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/README.md`
+- `Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/README.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/README.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/README.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/README.md`
+- `Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/README.md`
+- `Cpp_Prog_I_II/Programming II/README.md`
+- `Cpp_Prog_I_II/Programming II/StudentType/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/StudentType/README.md`
+- `Cpp_Prog_I_II/Programming II/StudentType/StudentType/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/StudentType/StudentType/README.md`
+- `Cpp_Prog_I_II/Programming II/homeworkone/README.md`
+- `Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/README.md`
+- `Cpp_Prog_I_II/Programming II/hw5/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/hw5/README.md`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5/-Inventory.md`
+- `Cpp_Prog_I_II/Programming II/hw5/hw5/README.md`
+- `Cpp_Prog_I_II/Programming II/lab11C/README.md`
+- `Cpp_Prog_I_II/Programming II/lab11C/lab11C/README.md`
+- `Cpp_Prog_I_II/Programming II/lab11b/README.md`
+- `Cpp_Prog_I_II/Programming II/lab11b/lab11b/README.md`
+- `Cpp_Prog_I_II/Programming II/lab13/README.md`
+- `Cpp_Prog_I_II/Programming II/lab13/lab13/README.md`
+- `Cpp_Prog_I_II/Programming II/lab5/README.md`
+- `Cpp_Prog_I_II/Programming II/lab5/lab5/README.md`
+- `Cpp_Prog_I_II/README.md`
+- `CryptoHw7/-Inventory.md`
+- `CryptoHw7/README.md`
+- `CryptoHw7/cry/-Inventory.md`
+- `CryptoHw7/cry/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/-Inventory.md`
+- `CryptoHw7/cry/cry.xcodeproj/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/cry/cry.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/cry/cry/-Inventory.md`
+- `CryptoHw7/cry/cry/README.md`
+- `CryptoHw7/cry/cryTests/-Inventory.md`
+- `CryptoHw7/cry/cryTests/README.md`
+- `CryptoHw7/crycryp/-Inventory.md`
+- `CryptoHw7/crycryp/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/-Inventory.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/-Inventory.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/README.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/crycryp/crycryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/crym/-Inventory.md`
+- `CryptoHw7/crym/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/-Inventory.md`
+- `CryptoHw7/crym/crym.xcodeproj/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/-Inventory.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/README.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/crym/crym/-Inventory.md`
+- `CryptoHw7/crym/crym/README.md`
+- `CryptoHw7/cryp/-Inventory.md`
+- `CryptoHw7/cryp/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/-Inventory.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/cryp/cryp/README.md`
+- `CryptoHw7/cryp/cryp/cryp.xcodeproj/README.md`
+- `CryptoHw7/cryp/crypTests/-Inventory.md`
+- `CryptoHw7/cryp/crypTests/README.md`
+- `CryptoHw7/crypto/-Inventory.md`
+- `CryptoHw7/crypto/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/-Inventory.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/crypto/crypto.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/crypto/crypto/-Inventory.md`
+- `CryptoHw7/crypto/crypto/README.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/README.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/xcuserdata/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/xcuserdata/README.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cry.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crypto/crypto/cryp/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cryp/README.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/README.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/README.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `CryptoHw7/crypto/cryptoTests/-Inventory.md`
+- `CryptoHw7/crypto/cryptoTests/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Data Extructure /-Inventory.md`
+- `Data Extructure /BCS-317/-Inventory.md`
+- `Data Extructure /BCS-317/Assignment3/Assignment3/README.md`
+- `Data Extructure /BCS-317/Assignment3/README.md`
+- `Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/Assignment4/Assignment4/README.md`
+- `Data Extructure /BCS-317/Assignment4/README.md`
+- `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/README.md`
+- `Data Extructure /BCS-317/AssignmentNo1/README.md`
+- `Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/README.md`
+- `Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/AssignmentNo2/README.md`
+- `Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/BinaryTree/-Inventory.md`
+- `Data Extructure /BCS-317/BinaryTree/BinaryTree/-Inventory.md`
+- `Data Extructure /BCS-317/BinaryTree/BinaryTree/README.md`
+- `Data Extructure /BCS-317/BinaryTree/README.md`
+- `Data Extructure /BCS-317/C++ Tutorial  Quiz - Linked List_files/-Inventory.md`
+- `Data Extructure /BCS-317/C++ Tutorial  Quiz - Linked List_files/README.md`
+- `Data Extructure /BCS-317/Dynamic memory with C++  Linked lists -ElectroSofts.com_files/-Inventory.md`
+- `Data Extructure /BCS-317/Dynamic memory with C++  Linked lists -ElectroSofts.com_files/README.md`
+- `Data Extructure /BCS-317/Facebook/-Inventory.md`
+- `Data Extructure /BCS-317/Facebook/Facebook/-Inventory.md`
+- `Data Extructure /BCS-317/Facebook/Facebook/README.md`
+- `Data Extructure /BCS-317/Facebook/README.md`
+- `Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/Lab11/Lab11/README.md`
+- `Data Extructure /BCS-317/Lab11/README.md`
+- `Data Extructure /BCS-317/Lab22/Lab22/README.md`
+- `Data Extructure /BCS-317/Lab22/README.md`
+- `Data Extructure /BCS-317/Lab7/Lab7/README.md`
+- `Data Extructure /BCS-317/Lab7/README.md`
+- `Data Extructure /BCS-317/README.md`
+- `Data Extructure /BCS-317/TrueFalse/-Inventory.md`
+- `Data Extructure /BCS-317/TrueFalse/README.md`
+- `Data Extructure /BCS-317/TrueFalse/TrueFalse/-Inventory.md`
+- `Data Extructure /BCS-317/TrueFalse/TrueFalse/README.md`
+- `Data Extructure /BCS-317/WallPost/-Inventory.md`
+- `Data Extructure /BCS-317/WallPost/README.md`
+- `Data Extructure /BCS-317/WallPost/WallPost/-Inventory.md`
+- `Data Extructure /BCS-317/WallPost/WallPost/README.md`
+- `Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/hw2/-Inventory.md`
+- `Data Extructure /BCS-317/hw2/README.md`
+- `Data Extructure /BCS-317/hw2/hw2/-Inventory.md`
+- `Data Extructure /BCS-317/hw2/hw2/README.md`
+- `Data Extructure /BCS-317/lab1/README.md`
+- `Data Extructure /BCS-317/lab1/WallPost/README.md`
+- `Data Extructure /BCS-317/lab1/WallPost/WallPost/README.md`
+- `Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/README.md`
+- `Data Extructure /BCS-317/last testing/-Inventory.md`
+- `Data Extructure /BCS-317/last testing/README.md`
+- `Data Extructure /BCS-317/last testing/last testing/-Inventory.md`
+- `Data Extructure /BCS-317/last testing/last testing/README.md`
+- `Data Extructure /BCS-317/recursion/-Inventory.md`
+- `Data Extructure /BCS-317/recursion/README.md`
+- `Data Extructure /BCS-317/recursion/recursion/-Inventory.md`
+- `Data Extructure /BCS-317/recursion/recursion/README.md`
+- `Data Extructure /BCS-317/test/-Inventory.md`
+- `Data Extructure /BCS-317/test/README.md`
+- `Data Extructure /BCS-317/test/test/-Inventory.md`
+- `Data Extructure /BCS-317/test/test/README.md`
+- `Data Extructure /BCS-317/testing/-Inventory.md`
+- `Data Extructure /BCS-317/testing/README.md`
+- `Data Extructure /BCS-317/testing/testing/-Inventory.md`
+- `Data Extructure /BCS-317/testing/testing/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo1/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo2 (1)/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo2 (2)/README.md`
+- `Data Extructure /Data Structure I/AssignmentNo2/README.md`
+- `Data Extructure /Data Structure I/README.md`
+- `Data Extructure /README.md`
+- `EET-110/-Inventory.md`
+- `EET-110/A 7/-Inventory.md`
+- `EET-110/A 7/README.md`
+- `EET-110/A 8/-Inventory.md`
+- `EET-110/A 8/README.md`
+- `EET-110/Assigment#5/-Inventory.md`
+- `EET-110/Assigment#5/A4 A/-Inventory.md`
+- `EET-110/Assigment#5/A4 A/README.md`
+- `EET-110/Assigment#5/README.md`
+- `EET-110/Assigment#5/To print out/-Inventory.md`
+- `EET-110/Assigment#5/To print out/Programing Questions      (Exams)/README.md`
+- `EET-110/Assigment#5/To print out/README.md`
+- `EET-110/Assignment 7A1/Assignment 7A1/README.md`
+- `EET-110/Assignment 7A1/README.md`
+- `EET-110/Assignment 7A2/Assignment 7A2/README.md`
+- `EET-110/Assignment 7A2/README.md`
+- `EET-110/Assignment2 (3A)2/README.md`
+- `EET-110/Assignment3/README.md`
+- `EET-110/Assignment4/README.md`
+- `EET-110/ExamNo2/README.md`
+- `EET-110/ExamNo4/README.md`
+- `EET-110/README.md`
+- `EET-110/Visual Studio 2008/Projects/4/4/README.md`
+- `EET-110/Visual Studio 2008/Projects/4/README.md`
+- `EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/README.md`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection/README.md`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/README.md`
+- `EET-110/Visual Studio 2008/Projects/AnotherCurrection2/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assigment4/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment3(3)/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment3/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_1_/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2_/README.md`
+- `EET-110/Visual Studio 2008/Projects/Assignment4_2__/README.md`
+- `EET-110/Visual Studio 2008/Projects/README.md`
+- `EET-110/Visual Studio 2008/README.md`
+- `EET-327LAB13C++CODE/EET-327LAB13/README.md`
+- `EET-327LAB13C++CODE/README.md`
+- `FCTextC/-Inventory.md`
+- `FCTextC/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/-Inventory.md`
+- `FCTextC/extracreditFCT.xcodeproj/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/-Inventory.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/-Inventory.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcdebugger/README.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/-Inventory.md`
+- `FCTextC/extracreditFCT.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `FCTextC/extracreditFCT/-Inventory.md`
+- `FCTextC/extracreditFCT/README.md`
+- `IMPORT_NOTES.md`
+- `Lab4/Lab4/README.md`
+- `Lab4/README.md`
+- `OVERLEAF_PREP.md`
+- `Programming I/-Inventory.md`
+- `Programming I/AssignmentNo3/AssignmentNo3/README.md`
+- `Programming I/AssignmentNo3/README.md`
+- `Programming I/AssignmentNo4/AssignmentNo4/README.md`
+- `Programming I/AssignmentNo4/README.md`
+- `Programming I/AssignmentNo5/AssignmentNo5/README.md`
+- `Programming I/AssignmentNo5/README.md`
+- `Programming I/AssignmentNo6/AssignmentNo6/README.md`
+- `Programming I/AssignmentNo6/README.md`
+- `Programming I/AssignmentNo7/AssignmentNo7/README.md`
+- `Programming I/AssignmentNo7/README.md`
+- `Programming I/AssignmentNo8/AssignmentNo8/README.md`
+- `Programming I/AssignmentNo8/README.md`
+- `Programming I/Assignment_2/Assignment_2/README.md`
+- `Programming I/Assignment_2/README.md`
+- `Programming I/C++_Program/-Inventory.md`
+- `Programming I/C++_Program/C++_Program/-Inventory.md`
+- `Programming I/C++_Program/C++_Program/README.md`
+- `Programming I/C++_Program/README.md`
+- `Programming I/Celcius_Program/-Inventory.md`
+- `Programming I/Celcius_Program/Celcius_Program/-Inventory.md`
+- `Programming I/Celcius_Program/Celcius_Program/README.md`
+- `Programming I/Celcius_Program/README.md`
+- `Programming I/ExtraCreditNo1/-Inventory.md`
+- `Programming I/ExtraCreditNo1/ExtraCreditNo1/-Inventory.md`
+- `Programming I/ExtraCreditNo1/ExtraCreditNo1/README.md`
+- `Programming I/ExtraCreditNo1/README.md`
+- `Programming I/ExtraCreditNo2/-Inventory.md`
+- `Programming I/ExtraCreditNo2/ExtraCreditNo2/-Inventory.md`
+- `Programming I/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `Programming I/ExtraCreditNo2/README.md`
+- `Programming I/FixingAssignment5/FixingAssignment5/README.md`
+- `Programming I/FixingAssignment5/README.md`
+- `Programming I/Lab4/Lab4/README.md`
+- `Programming I/Lab4/README.md`
+- `Programming I/Lab5/Lab5/README.md`
+- `Programming I/Lab5/README.md`
+- `Programming I/LabNo.4/LabNo.4/README.md`
+- `Programming I/LabNo.4/README.md`
+- `Programming I/LabNo.5/LabNo.5/README.md`
+- `Programming I/LabNo.5/README.md`
+- `Programming I/LabNo.8/LabNo.8/README.md`
+- `Programming I/LabNo.8/README.md`
+- `Programming I/LabNo10/LabNo10/README.md`
+- `Programming I/LabNo10/README.md`
+- `Programming I/LabNo12/LabNo12/README.md`
+- `Programming I/LabNo12/README.md`
+- `Programming I/LabNo12a/LabNo12a/README.md`
+- `Programming I/LabNo12a/README.md`
+- `Programming I/LabNo13/LabNo13/README.md`
+- `Programming I/LabNo13/README.md`
+- `Programming I/LabNo14/LabNo14/README.md`
+- `Programming I/LabNo14/README.md`
+- `Programming I/LabNo15/LabNo15/README.md`
+- `Programming I/LabNo15/README.md`
+- `Programming I/LabNo15A/LabNo15A/README.md`
+- `Programming I/LabNo15A/README.md`
+- `Programming I/LabNo3/LabNo3/README.md`
+- `Programming I/LabNo3/README.md`
+- `Programming I/LabNo6/README.md`
+- `Programming I/LabNo7/README.md`
+- `Programming I/LabNo9/README.md`
+- `Programming I/Lab_No2/Lab_No2/README.md`
+- `Programming I/Lab_No2/README.md`
+- `Programming I/PiterG/-Inventory.md`
+- `Programming I/PiterG/PiterG/-Inventory.md`
+- `Programming I/PiterG/PiterG/README.md`
+- `Programming I/PiterG/README.md`
+- `Programming I/Pogram No. 2/-Inventory.md`
+- `Programming I/Pogram No. 2/Pogram No. 2/-Inventory.md`
+- `Programming I/Pogram No. 2/Pogram No. 2/README.md`
+- `Programming I/Pogram No. 2/README.md`
+- `Programming I/Programming_Assingment2/-Inventory.md`
+- `Programming I/Programming_Assingment2/Programming_Assingment2/-Inventory.md`
+- `Programming I/Programming_Assingment2/Programming_Assingment2/README.md`
+- `Programming I/Programming_Assingment2/README.md`
+- `Programming I/README.md`
+- `Programming I/ShirtDiscount/-Inventory.md`
+- `Programming I/ShirtDiscount/README.md`
+- `Programming I/ShirtDiscount/ShirtDiscount_PG/-Inventory.md`
+- `Programming I/ShirtDiscount/ShirtDiscount_PG/README.md`
+- `Programming I/fixing/-Inventory.md`
+- `Programming I/fixing/README.md`
+- `Programming I/fixing/fixing/-Inventory.md`
+- `Programming I/fixing/fixing/README.md`
+- `README.md`
+- `Stuff/-Inventory.md`
+- `Stuff/Assignment3/Assignment3/README.md`
+- `Stuff/Assignment3/README.md`
+- `Stuff/Assignment4/Assignment4/README.md`
+- `Stuff/Assignment4/README.md`
+- `Stuff/LCD DISPLAY/-Inventory.md`
+- `Stuff/LCD DISPLAY/LCD DISPLAY/-Inventory.md`
+- `Stuff/LCD DISPLAY/LCD DISPLAY/README.md`
+- `Stuff/LCD DISPLAY/README.md`
+- `Stuff/Lab1/README.md`
+- `Stuff/Lab11/Lab11/README.md`
+- `Stuff/Lab11/README.md`
+- `Stuff/Lab17/README.md`
+- `Stuff/Lab19/README.md`
+- `Stuff/Lab22/Lab22/README.md`
+- `Stuff/Lab22/README.md`
+- `Stuff/Lab3/README.md`
+- `Stuff/Lab6/README.md`
+- `Stuff/Lab7/Lab7/README.md`
+- `Stuff/Lab7/README.md`
+- `Stuff/README.md`
+- `Stuff/hw2/-Inventory.md`
+- `Stuff/hw2/README.md`
+- `Stuff/hw2/hw2/-Inventory.md`
+- `Stuff/hw2/hw2/README.md`
+- `Stuff/last testing/-Inventory.md`
+- `Stuff/last testing/README.md`
+- `Stuff/last testing/last testing/-Inventory.md`
+- `Stuff/last testing/last testing/README.md`
+- `Stuff/recursion/-Inventory.md`
+- `Stuff/recursion/README.md`
+- `Stuff/recursion/recursion/-Inventory.md`
+- `Stuff/recursion/recursion/README.md`
+- `Stuff/test/-Inventory.md`
+- `Stuff/test/README.md`
+- `Stuff/test/test/-Inventory.md`
+- `Stuff/test/test/README.md`
+- `Stuff/testing/-Inventory.md`
+- `Stuff/testing/README.md`
+- `Stuff/testing/testing/-Inventory.md`
+- `Stuff/testing/testing/README.md`
+- `presentations/-Inventory.md`
+- `presentations/CryptoHw7/-Inventory.md`
+- `presentations/CryptoHw7/README.md`
+- `presentations/Data Extructure /-Inventory.md`
+- `presentations/Data Extructure /BCS-317/-Inventory.md`
+- `presentations/Data Extructure /BCS-317/README.md`
+- `presentations/Data Extructure /README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/3DPONG/-Inventory.md`
+- `reports/3DPONG/3DPONG.xcodeproj/-Inventory.md`
+- `reports/3DPONG/3DPONG.xcodeproj/README.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/3DPONG/3DPONG/-Inventory.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/-Inventory.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/README.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/README.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/3DPONG/3DPONG/README.md`
+- `reports/3DPONG/3DPONG/lesson30/-Inventory.md`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/-Inventory.md`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/README.md`
+- `reports/3DPONG/3DPONG/lesson30/README.md`
+- `reports/3DPONG/HapticsGame/-Inventory.md`
+- `reports/3DPONG/HapticsGame/HapticsGame/-Inventory.md`
+- `reports/3DPONG/HapticsGame/HapticsGame/README.md`
+- `reports/3DPONG/HapticsGame/README.md`
+- `reports/3DPONG/HapticsGame/shadowmap/-Inventory.md`
+- `reports/3DPONG/HapticsGame/shadowmap/README.md`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/-Inventory.md`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/-Inventory.md`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/README.md`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/README.md`
+- `reports/3DPONG/README.md`
+- `reports/CppProjects/-Inventory.md`
+- `reports/CppProjects/AssignmentNo3/-Inventory.md`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/-Inventory.md`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/README.md`
+- `reports/CppProjects/AssignmentNo3/README.md`
+- `reports/CppProjects/AssignmentNo4/-Inventory.md`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/-Inventory.md`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/README.md`
+- `reports/CppProjects/AssignmentNo4/README.md`
+- `reports/CppProjects/AssignmentNo5/-Inventory.md`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/-Inventory.md`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/README.md`
+- `reports/CppProjects/AssignmentNo5/README.md`
+- `reports/CppProjects/AssignmentNo6/-Inventory.md`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/-Inventory.md`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/README.md`
+- `reports/CppProjects/AssignmentNo6/README.md`
+- `reports/CppProjects/Assignment_2/-Inventory.md`
+- `reports/CppProjects/Assignment_2/Assignment_2/-Inventory.md`
+- `reports/CppProjects/Assignment_2/Assignment_2/README.md`
+- `reports/CppProjects/Assignment_2/README.md`
+- `reports/CppProjects/C++_Program/-Inventory.md`
+- `reports/CppProjects/C++_Program/C++_Program/-Inventory.md`
+- `reports/CppProjects/C++_Program/C++_Program/README.md`
+- `reports/CppProjects/C++_Program/README.md`
+- `reports/CppProjects/Celcius_Program/-Inventory.md`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/-Inventory.md`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/README.md`
+- `reports/CppProjects/Celcius_Program/README.md`
+- `reports/CppProjects/EET-317L2/-Inventory.md`
+- `reports/CppProjects/EET-317L2/EET-317L2/-Inventory.md`
+- `reports/CppProjects/EET-317L2/EET-317L2/README.md`
+- `reports/CppProjects/EET-317L2/README.md`
+- `reports/CppProjects/ExtraCreditNo2/-Inventory.md`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/-Inventory.md`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `reports/CppProjects/ExtraCreditNo2/README.md`
+- `reports/CppProjects/FixingAssignment5/-Inventory.md`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5/-Inventory.md`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5/README.md`
+- `reports/CppProjects/FixingAssignment5/README.md`
+- `reports/CppProjects/Lab4/-Inventory.md`
+- `reports/CppProjects/Lab4/Lab4/-Inventory.md`
+- `reports/CppProjects/Lab4/Lab4/README.md`
+- `reports/CppProjects/Lab4/README.md`
+- `reports/CppProjects/Lab5/-Inventory.md`
+- `reports/CppProjects/Lab5/Lab5/-Inventory.md`
+- `reports/CppProjects/Lab5/Lab5/README.md`
+- `reports/CppProjects/Lab5/README.md`
+- `reports/CppProjects/LabNo.4/-Inventory.md`
+- `reports/CppProjects/LabNo.4/LabNo.4/-Inventory.md`
+- `reports/CppProjects/LabNo.4/LabNo.4/README.md`
+- `reports/CppProjects/LabNo.4/README.md`
+- `reports/CppProjects/LabNo.5/-Inventory.md`
+- `reports/CppProjects/LabNo.5/LabNo.5/-Inventory.md`
+- `reports/CppProjects/LabNo.5/LabNo.5/README.md`
+- `reports/CppProjects/LabNo.5/README.md`
+- `reports/CppProjects/LabNo.8/-Inventory.md`
+- `reports/CppProjects/LabNo.8/LabNo.8/-Inventory.md`
+- `reports/CppProjects/LabNo.8/LabNo.8/README.md`
+- `reports/CppProjects/LabNo.8/README.md`
+- `reports/CppProjects/LabNo10/-Inventory.md`
+- `reports/CppProjects/LabNo10/LabNo10/-Inventory.md`
+- `reports/CppProjects/LabNo10/LabNo10/README.md`
+- `reports/CppProjects/LabNo10/README.md`
+- `reports/CppProjects/LabNo3/-Inventory.md`
+- `reports/CppProjects/LabNo3/LabNo3/-Inventory.md`
+- `reports/CppProjects/LabNo3/LabNo3/README.md`
+- `reports/CppProjects/LabNo3/README.md`
+- `reports/CppProjects/LabNo6/-Inventory.md`
+- `reports/CppProjects/LabNo6/LabNo6/-Inventory.md`
+- `reports/CppProjects/LabNo6/LabNo6/README.md`
+- `reports/CppProjects/LabNo6/README.md`
+- `reports/CppProjects/LabNo7/-Inventory.md`
+- `reports/CppProjects/LabNo7/LabNo7/-Inventory.md`
+- `reports/CppProjects/LabNo7/LabNo7/README.md`
+- `reports/CppProjects/LabNo7/README.md`
+- `reports/CppProjects/LabNo9/-Inventory.md`
+- `reports/CppProjects/LabNo9/LabNo9/-Inventory.md`
+- `reports/CppProjects/LabNo9/LabNo9/README.md`
+- `reports/CppProjects/LabNo9/README.md`
+- `reports/CppProjects/Lab_No2/-Inventory.md`
+- `reports/CppProjects/Lab_No2/Lab_No2/-Inventory.md`
+- `reports/CppProjects/Lab_No2/Lab_No2/README.md`
+- `reports/CppProjects/Lab_No2/README.md`
+- `reports/CppProjects/PersonalProjects/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/DataBase/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/README.md`
+- `reports/CppProjects/PersonalProjects/DataBase/README.md`
+- `reports/CppProjects/PersonalProjects/Hours-Program/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/README.md`
+- `reports/CppProjects/PersonalProjects/Hours-Program/README.md`
+- `reports/CppProjects/PersonalProjects/MIke/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/README.md`
+- `reports/CppProjects/PersonalProjects/MIke/README.md`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/README.md`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/README.md`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/README.md`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/README.md`
+- `reports/CppProjects/PersonalProjects/README.md`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/README.md`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/-Inventory.md`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/README.md`
+- `reports/CppProjects/PiterG/-Inventory.md`
+- `reports/CppProjects/PiterG/PiterG/-Inventory.md`
+- `reports/CppProjects/PiterG/PiterG/README.md`
+- `reports/CppProjects/PiterG/README.md`
+- `reports/CppProjects/Pogram No. 2/-Inventory.md`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/-Inventory.md`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/README.md`
+- `reports/CppProjects/Pogram No. 2/README.md`
+- `reports/CppProjects/Programming_Assingment2/-Inventory.md`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/-Inventory.md`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/README.md`
+- `reports/CppProjects/Programming_Assingment2/README.md`
+- `reports/CppProjects/README.md`
+- `reports/CppProjects/ShirtDiscount_PG/-Inventory.md`
+- `reports/CppProjects/ShirtDiscount_PG/README.md`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/-Inventory.md`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/README.md`
+- `reports/CppProjects/fixing/-Inventory.md`
+- `reports/CppProjects/fixing/README.md`
+- `reports/CppProjects/fixing/fixing/-Inventory.md`
+- `reports/CppProjects/fixing/fixing/README.md`
+- `reports/Cpp_Prog_I_II/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/README.md`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/HM1/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/HM1/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/HM2/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/HM2/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/HM3/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/HM3/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/README.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/-Inventory.md`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/README.md`
+- `reports/Cpp_Prog_I_II/README.md`
+- `reports/CryptoHw7/-Inventory.md`
+- `reports/CryptoHw7/README.md`
+- `reports/CryptoHw7/cry/-Inventory.md`
+- `reports/CryptoHw7/cry/README.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/README.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/README.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/CryptoHw7/cry/cry/-Inventory.md`
+- `reports/CryptoHw7/cry/cry/README.md`
+- `reports/CryptoHw7/cry/cry/en.lproj/-Inventory.md`
+- `reports/CryptoHw7/cry/cry/en.lproj/README.md`
+- `reports/CryptoHw7/crycryp/-Inventory.md`
+- `reports/CryptoHw7/crycryp/README.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/README.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/README.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/CryptoHw7/crym/-Inventory.md`
+- `reports/CryptoHw7/crym/README.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/README.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/README.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/CryptoHw7/cryp/-Inventory.md`
+- `reports/CryptoHw7/cryp/README.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/README.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/README.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/CryptoHw7/cryp/cryp/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp/README.md`
+- `reports/CryptoHw7/cryp/cryp/cryp.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/cryp/cryp/cryp.xcodeproj/README.md`
+- `reports/CryptoHw7/crypto/-Inventory.md`
+- `reports/CryptoHw7/crypto/README.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/README.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/README.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/CryptoHw7/crypto/crypto/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto/README.md`
+- `reports/CryptoHw7/crypto/crypto/cryp/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto/cryp/README.md`
+- `reports/CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/-Inventory.md`
+- `reports/CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/README.md`
+- `reports/Data Extructure /-Inventory.md`
+- `reports/Data Extructure /BCS-317/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment3/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/README.md`
+- `reports/Data Extructure /BCS-317/Assignment3/README.md`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/Assignment4/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/README.md`
+- `reports/Data Extructure /BCS-317/Assignment4/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/README.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/BinaryTree/-Inventory.md`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/-Inventory.md`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/README.md`
+- `reports/Data Extructure /BCS-317/BinaryTree/README.md`
+- `reports/Data Extructure /BCS-317/Facebook/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Facebook/README.md`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/Lab11/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/README.md`
+- `reports/Data Extructure /BCS-317/Lab11/README.md`
+- `reports/Data Extructure /BCS-317/Lab22/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/README.md`
+- `reports/Data Extructure /BCS-317/Lab22/README.md`
+- `reports/Data Extructure /BCS-317/Lab7/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/-Inventory.md`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/README.md`
+- `reports/Data Extructure /BCS-317/Lab7/README.md`
+- `reports/Data Extructure /BCS-317/README.md`
+- `reports/Data Extructure /BCS-317/TrueFalse/-Inventory.md`
+- `reports/Data Extructure /BCS-317/TrueFalse/README.md`
+- `reports/Data Extructure /BCS-317/TrueFalse/TrueFalse/-Inventory.md`
+- `reports/Data Extructure /BCS-317/TrueFalse/TrueFalse/README.md`
+- `reports/Data Extructure /BCS-317/WallPost/-Inventory.md`
+- `reports/Data Extructure /BCS-317/WallPost/README.md`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/-Inventory.md`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/README.md`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/hw2/-Inventory.md`
+- `reports/Data Extructure /BCS-317/hw2/README.md`
+- `reports/Data Extructure /BCS-317/hw2/hw2/-Inventory.md`
+- `reports/Data Extructure /BCS-317/hw2/hw2/README.md`
+- `reports/Data Extructure /BCS-317/lab1/-Inventory.md`
+- `reports/Data Extructure /BCS-317/lab1/README.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/-Inventory.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/README.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/-Inventory.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/README.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/-Inventory.md`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/README.md`
+- `reports/Data Extructure /BCS-317/test/-Inventory.md`
+- `reports/Data Extructure /BCS-317/test/README.md`
+- `reports/Data Extructure /BCS-317/test/test/-Inventory.md`
+- `reports/Data Extructure /BCS-317/test/test/README.md`
+- `reports/Data Extructure /BCS-317/testing/-Inventory.md`
+- `reports/Data Extructure /BCS-317/testing/README.md`
+- `reports/Data Extructure /BCS-317/testing/testing/-Inventory.md`
+- `reports/Data Extructure /BCS-317/testing/testing/README.md`
+- `reports/Data Extructure /Data Structure I/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)/README.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/-Inventory.md`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/README.md`
+- `reports/Data Extructure /Data Structure I/README.md`
+- `reports/Data Extructure /README.md`
+- `reports/EET-110/-Inventory.md`
+- `reports/EET-110/Assigment#5/-Inventory.md`
+- `reports/EET-110/Assigment#5/A4 A/-Inventory.md`
+- `reports/EET-110/Assigment#5/A4 A/README.md`
+- `reports/EET-110/Assigment#5/README.md`
+- `reports/EET-110/Assigment#5/To print out/-Inventory.md`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/-Inventory.md`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/README.md`
+- `reports/EET-110/Assigment#5/To print out/README.md`
+- `reports/EET-110/Assignment 7A1/-Inventory.md`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/-Inventory.md`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/README.md`
+- `reports/EET-110/Assignment 7A1/README.md`
+- `reports/EET-110/Assignment 7A2/-Inventory.md`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/-Inventory.md`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/README.md`
+- `reports/EET-110/Assignment 7A2/README.md`
+- `reports/EET-110/Assignment2 (3A)2/-Inventory.md`
+- `reports/EET-110/Assignment2 (3A)2/README.md`
+- `reports/EET-110/Assignment3/-Inventory.md`
+- `reports/EET-110/Assignment3/README.md`
+- `reports/EET-110/Assignment4/-Inventory.md`
+- `reports/EET-110/Assignment4/README.md`
+- `reports/EET-110/ExamNo2/-Inventory.md`
+- `reports/EET-110/ExamNo2/README.md`
+- `reports/EET-110/ExamNo4/-Inventory.md`
+- `reports/EET-110/ExamNo4/README.md`
+- `reports/EET-110/README.md`
+- `reports/EET-110/Visual Studio 2008/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223-LabExp4/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223-LabExp4/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223LabExp/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223LabExp/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-LAB/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-LAB/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-Lab Report/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-Lab Report/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/README.md`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/-Inventory.md`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/README.md`
+- `reports/EET-110/Visual Studio 2008/README.md`
+- `reports/EET-327LAB13C++CODE/-Inventory.md`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/-Inventory.md`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/README.md`
+- `reports/EET-327LAB13C++CODE/README.md`
+- `reports/FCTextC/-Inventory.md`
+- `reports/FCTextC/README.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/-Inventory.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/README.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/-Inventory.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/README.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/-Inventory.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/-Inventory.md`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `reports/Lab4/-Inventory.md`
+- `reports/Lab4/Lab4/-Inventory.md`
+- `reports/Lab4/Lab4/README.md`
+- `reports/Lab4/README.md`
+- `reports/Programming I/-Inventory.md`
+- `reports/Programming I/AssignmentNo3/-Inventory.md`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/-Inventory.md`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/README.md`
+- `reports/Programming I/AssignmentNo3/README.md`
+- `reports/Programming I/AssignmentNo4/-Inventory.md`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/-Inventory.md`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/README.md`
+- `reports/Programming I/AssignmentNo4/README.md`
+- `reports/Programming I/AssignmentNo5/-Inventory.md`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/-Inventory.md`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/README.md`
+- `reports/Programming I/AssignmentNo5/README.md`
+- `reports/Programming I/AssignmentNo6/-Inventory.md`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/-Inventory.md`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/README.md`
+- `reports/Programming I/AssignmentNo6/README.md`
+- `reports/Programming I/AssignmentNo7/-Inventory.md`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/-Inventory.md`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/README.md`
+- `reports/Programming I/AssignmentNo7/README.md`
+- `reports/Programming I/AssignmentNo8/-Inventory.md`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/-Inventory.md`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/README.md`
+- `reports/Programming I/AssignmentNo8/README.md`
+- `reports/Programming I/Assignment_2/-Inventory.md`
+- `reports/Programming I/Assignment_2/Assignment_2/-Inventory.md`
+- `reports/Programming I/Assignment_2/Assignment_2/README.md`
+- `reports/Programming I/Assignment_2/README.md`
+- `reports/Programming I/C++_Program/-Inventory.md`
+- `reports/Programming I/C++_Program/C++_Program/-Inventory.md`
+- `reports/Programming I/C++_Program/C++_Program/README.md`
+- `reports/Programming I/C++_Program/README.md`
+- `reports/Programming I/ExtraCreditNo1/-Inventory.md`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/-Inventory.md`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/README.md`
+- `reports/Programming I/ExtraCreditNo1/README.md`
+- `reports/Programming I/ExtraCreditNo2/-Inventory.md`
+- `reports/Programming I/ExtraCreditNo2/ExtraCreditNo2/-Inventory.md`
+- `reports/Programming I/ExtraCreditNo2/ExtraCreditNo2/README.md`
+- `reports/Programming I/ExtraCreditNo2/README.md`
+- `reports/Programming I/FixingAssignment5/-Inventory.md`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5/-Inventory.md`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5/README.md`
+- `reports/Programming I/FixingAssignment5/README.md`
+- `reports/Programming I/Lab4/-Inventory.md`
+- `reports/Programming I/Lab4/Lab4/-Inventory.md`
+- `reports/Programming I/Lab4/Lab4/README.md`
+- `reports/Programming I/Lab4/README.md`
+- `reports/Programming I/Lab5/-Inventory.md`
+- `reports/Programming I/Lab5/Lab5/-Inventory.md`
+- `reports/Programming I/Lab5/Lab5/README.md`
+- `reports/Programming I/Lab5/README.md`
+- `reports/Programming I/LabNo.4/-Inventory.md`
+- `reports/Programming I/LabNo.4/LabNo.4/-Inventory.md`
+- `reports/Programming I/LabNo.4/LabNo.4/README.md`
+- `reports/Programming I/LabNo.4/README.md`
+- `reports/Programming I/LabNo.5/-Inventory.md`
+- `reports/Programming I/LabNo.5/LabNo.5/-Inventory.md`
+- `reports/Programming I/LabNo.5/LabNo.5/README.md`
+- `reports/Programming I/LabNo.5/README.md`
+- `reports/Programming I/LabNo.8/-Inventory.md`
+- `reports/Programming I/LabNo.8/LabNo.8/-Inventory.md`
+- `reports/Programming I/LabNo.8/LabNo.8/README.md`
+- `reports/Programming I/LabNo.8/README.md`
+- `reports/Programming I/LabNo10/-Inventory.md`
+- `reports/Programming I/LabNo10/LabNo10/-Inventory.md`
+- `reports/Programming I/LabNo10/LabNo10/README.md`
+- `reports/Programming I/LabNo10/README.md`
+- `reports/Programming I/LabNo12/-Inventory.md`
+- `reports/Programming I/LabNo12/LabNo12/-Inventory.md`
+- `reports/Programming I/LabNo12/LabNo12/README.md`
+- `reports/Programming I/LabNo12/README.md`
+- `reports/Programming I/LabNo12a/-Inventory.md`
+- `reports/Programming I/LabNo12a/LabNo12a/-Inventory.md`
+- `reports/Programming I/LabNo12a/LabNo12a/README.md`
+- `reports/Programming I/LabNo12a/README.md`
+- `reports/Programming I/LabNo13/-Inventory.md`
+- `reports/Programming I/LabNo13/LabNo13/-Inventory.md`
+- `reports/Programming I/LabNo13/LabNo13/README.md`
+- `reports/Programming I/LabNo13/README.md`
+- `reports/Programming I/LabNo14/-Inventory.md`
+- `reports/Programming I/LabNo14/LabNo14/-Inventory.md`
+- `reports/Programming I/LabNo14/LabNo14/README.md`
+- `reports/Programming I/LabNo14/README.md`
+- `reports/Programming I/LabNo15/-Inventory.md`
+- `reports/Programming I/LabNo15/LabNo15/-Inventory.md`
+- `reports/Programming I/LabNo15/LabNo15/README.md`
+- `reports/Programming I/LabNo15/README.md`
+- `reports/Programming I/LabNo15A/-Inventory.md`
+- `reports/Programming I/LabNo15A/LabNo15A/-Inventory.md`
+- `reports/Programming I/LabNo15A/LabNo15A/README.md`
+- `reports/Programming I/LabNo15A/README.md`
+- `reports/Programming I/LabNo3/-Inventory.md`
+- `reports/Programming I/LabNo3/LabNo3/-Inventory.md`
+- `reports/Programming I/LabNo3/LabNo3/README.md`
+- `reports/Programming I/LabNo3/README.md`
+- `reports/Programming I/LabNo6/-Inventory.md`
+- `reports/Programming I/LabNo6/LabNo6/-Inventory.md`
+- `reports/Programming I/LabNo6/LabNo6/README.md`
+- `reports/Programming I/LabNo6/README.md`
+- `reports/Programming I/LabNo7/-Inventory.md`
+- `reports/Programming I/LabNo7/LabNo7/-Inventory.md`
+- `reports/Programming I/LabNo7/LabNo7/README.md`
+- `reports/Programming I/LabNo7/README.md`
+- `reports/Programming I/LabNo9/-Inventory.md`
+- `reports/Programming I/LabNo9/LabNo9/-Inventory.md`
+- `reports/Programming I/LabNo9/LabNo9/README.md`
+- `reports/Programming I/LabNo9/README.md`
+- `reports/Programming I/Lab_No2/-Inventory.md`
+- `reports/Programming I/Lab_No2/Lab_No2/-Inventory.md`
+- `reports/Programming I/Lab_No2/Lab_No2/README.md`
+- `reports/Programming I/Lab_No2/README.md`
+- `reports/Programming I/Programming_Assingment2/-Inventory.md`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/-Inventory.md`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/README.md`
+- `reports/Programming I/Programming_Assingment2/README.md`
+- `reports/Programming I/README.md`
+- `reports/Programming I/ShirtDiscount/-Inventory.md`
+- `reports/Programming I/ShirtDiscount/README.md`
+- `reports/Programming I/ShirtDiscount/ShirtDiscount_PG/-Inventory.md`
+- `reports/Programming I/ShirtDiscount/ShirtDiscount_PG/README.md`
+- `reports/README.md`
+- `reports/Stuff/-Inventory.md`
+- `reports/Stuff/Assignment3/-Inventory.md`
+- `reports/Stuff/Assignment3/Assignment3/-Inventory.md`
+- `reports/Stuff/Assignment3/Assignment3/README.md`
+- `reports/Stuff/Assignment3/README.md`
+- `reports/Stuff/Assignment4/-Inventory.md`
+- `reports/Stuff/Assignment4/Assignment4/-Inventory.md`
+- `reports/Stuff/Assignment4/Assignment4/README.md`
+- `reports/Stuff/Assignment4/README.md`
+- `reports/Stuff/Lab1/-Inventory.md`
+- `reports/Stuff/Lab1/README.md`
+- `reports/Stuff/Lab11/-Inventory.md`
+- `reports/Stuff/Lab11/Lab11/-Inventory.md`
+- `reports/Stuff/Lab11/Lab11/README.md`
+- `reports/Stuff/Lab11/README.md`
+- `reports/Stuff/Lab17/-Inventory.md`
+- `reports/Stuff/Lab17/README.md`
+- `reports/Stuff/Lab19/-Inventory.md`
+- `reports/Stuff/Lab19/README.md`
+- `reports/Stuff/Lab20/-Inventory.md`
+- `reports/Stuff/Lab20/README.md`
+- `reports/Stuff/Lab22/-Inventory.md`
+- `reports/Stuff/Lab22/Lab22/-Inventory.md`
+- `reports/Stuff/Lab22/Lab22/README.md`
+- `reports/Stuff/Lab22/README.md`
+- `reports/Stuff/Lab3/-Inventory.md`
+- `reports/Stuff/Lab3/README.md`
+- `reports/Stuff/Lab6/-Inventory.md`
+- `reports/Stuff/Lab6/README.md`
+- `reports/Stuff/Lab7/-Inventory.md`
+- `reports/Stuff/Lab7/Lab7/-Inventory.md`
+- `reports/Stuff/Lab7/Lab7/README.md`
+- `reports/Stuff/Lab7/README.md`
+- `reports/Stuff/README.md`
+- `reports/Stuff/hw2/-Inventory.md`
+- `reports/Stuff/hw2/README.md`
+- `reports/Stuff/hw2/hw2/-Inventory.md`
+- `reports/Stuff/hw2/hw2/README.md`
+- `reports/Stuff/test/-Inventory.md`
+- `reports/Stuff/test/README.md`
+- `reports/Stuff/test/test/-Inventory.md`
+- `reports/Stuff/test/test/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-cryptography - 0 papers, 47 reports, 0 presentations, 16 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-cryptography
+- Hub path: `Projects-Code/opc-cryptography`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1dPgNtC9rmbp9CHKD0utqpEf_mDWuKJ9s
+- Import status: `completed`
+- Total indexed files in repo: `84`
+
+### Code / Project Location
+
+- `crypto.m`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/940115assign5Solutions.pdf`
+- `reports/940115assign6Solutions.pdf`
+- `reports/Assignment 4.docx`
+- `reports/CRYPEXAM&NOTES.txt`
+- `reports/CRYPT.txt`
+- `reports/CrypNotes.txt`
+- `reports/CryptHW2.docx`
+- `reports/CryptNotes.txt`
+- `reports/CryptNotes5.txt`
+- `reports/CryptNotesWeek8.txt`
+- `reports/Crypto Homework 5.docx`
+- `reports/Crypto Homework 5.pdf`
+- `reports/CryptoHw4/940115assign5Solutions.pdf`
+- `reports/CryptoHw4/Assignment 4.docx`
+- `reports/CryptoHw4/Cryptohw4.pdf`
+- `reports/CryptoHw4/assignment3.pdf`
+- `reports/CryptoHw4/hw5sol.pdf`
+- `reports/CryptoHw5/Crypto Homework 5.docx`
+- `reports/CryptoHw5/Crypto Homework 5.pdf`
+- `reports/CryptoHw5/FRINTNewCh2324.pdf`
+- `reports/CryptoHw5/Probability.pdf`
+- `reports/CryptoHw5/chapter_8_homework.pdf`
+- `reports/CryptoHw5/recitation12-3.pdf`
+- `reports/CryptoNotes.txt`
+- `reports/CryptoNotes7.txt`
+- `reports/Cryptography Theory And Practice - Douglas Stinson.pdf`
+- `reports/Cryptohw4 copy.docx`
+- `reports/Cryptohw4--from-repo-CryptoHw4.pdf`
+- `reports/Cryptohw4.docx`
+- `reports/Cryptohw4.pdf`
+- `reports/ExtraCredit - Cryptography.docx`
+- `reports/FRINTNewCh2324.pdf`
+- `reports/PS11.pdf`
+- `reports/Probability.pdf`
+- `reports/Trappe_W.,_Washington_L.C.-Introduction_to_Cryptography_with_Coding_Theory-Pearson_Education_Int(2006).pdf`
+- `reports/assignment3.pdf`
+- `reports/chapter_8_homework.pdf`
+- `reports/crypto2007tt.pdf`
+- `reports/cryptoNotes copy.txt`
+- `reports/crypto_5_29.pdf`
+- `reports/crypto_6_03.pdf`
+- `reports/hw5sol.pdf`
+- `reports/intro.pdf`
+- `reports/recitation12-3.pdf`
+- `reports/rsa-example.pdf`
+- `reports/sebenta_EN.pdf`
+- `reports/section 20 hill cipher.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `CryptoHw4/-Inventory.md`
+- `CryptoHw4/README.md`
+- `CryptoHw5/-Inventory.md`
+- `CryptoHw5/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/CryptoHw4/-Inventory.md`
+- `reports/CryptoHw4/README.md`
+- `reports/CryptoHw5/-Inventory.md`
+- `reports/CryptoHw5/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-csharp - 0 papers, 0 reports, 0 presentations, 6 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-csharp
+- Hub path: `Projects-Code/opc-csharp`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/15nBPQ4untE57C62hFJeaOCuz5eflQHHY
+- Import status: `completed`
+- Total indexed files in repo: `7`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- None indexed.
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-data-mining - 86 papers, 538 reports, 24 presentations, 570 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-data-mining
+- Hub path: `Projects-Code/opc-data-mining`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1A2zgFRN7sovwpr9JqKaohbfIA7h5UBCI
+- Import status: `completed`
+- Total indexed files in repo: `1819`
+
+### Code / Project Location
+
+- `BigData/`
+- `Data Cleaning & Processing/`
+
+Project marker files:
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/jobs/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cflib1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cregistry/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/darwintracelib1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/macports1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/package1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/pextlib1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port1.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/portindex/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/registry2.0/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/case-insensitive-deactivate/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/envvariables/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/trace/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal-2/Makefile`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal/Makefile`
+
+### Papers
+- `papers/AnnotatedBibliographyHowTo.pdf`
+- `papers/Big Data Medical Diagnosis - Paper2.pdf`
+- `papers/Big Data Medical Diagnosis - Paper3.pdf`
+- `papers/Big Data Medical Diagnosis - PaperII.pdf`
+- `papers/CSCI 721TermPaper.pdf`
+- `papers/Data Cleaning & Processing/Class Documents/CSCI 721TermPaper.pdf`
+- `papers/Data Cleaning & Processing/Class Documents/SampleTermPaper.pdf`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/SampleTermPaper.pdf`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/GUIDE.PDF`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.TXT`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/TERMPAPER_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/sig-alternate.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI 721TermPaper.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/SampleTermPaper.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/SampleTermPaper.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/GUIDE.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.TXT`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/TERMPAPER_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/sig-alternate.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper1.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper2.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper3.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/TermPaper1.docx`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/PaperReading.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/REPORT_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/report.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/report.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/sig-alternate.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/REPORT_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper1.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper2.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper3.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/report.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/report.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/sig-alternate.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/REPORT_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper1.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper2.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper3.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/report.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/report.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/sig-alternate.tex`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - PaperII.pdf`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/TermPhase2.txt`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/termpaper2.docx`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/termpaper2.odt`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/TERMPAPER_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/TERMPAPER_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/TERMPAPER_INITIAL.PDF`
+- `papers/Data Cleaning & Processing/Paper1.pdf`
+- `papers/Data Cleaning & Processing/Paper2.pdf`
+- `papers/Data Cleaning & Processing/Paper3.pdf`
+- `papers/Data Cleaning & Processing/TermPaper1.docx`
+- `papers/Data Cleaning & Processing/Weeks/Week1/PaperReading.pdf`
+- `papers/GUIDE.PDF`
+- `papers/Paper1.pdf`
+- `papers/Paper2.pdf`
+- `papers/Paper3.pdf`
+- `papers/PaperReading.pdf`
+- `papers/README.TXT`
+- `papers/REPORT_INITIAL.PDF`
+- `papers/SampleTermPaper.pdf`
+- `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.PDF`
+- `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.PDF`
+- `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.PDF`
+- `papers/TERMPAPER_INITIAL.PDF`
+- `papers/TermPaper1.docx`
+- `papers/TermPaper1.pdf`
+- `papers/TermPaper2.pdf`
+- `papers/TermPaper3.pdf`
+- `papers/TermPhase2.txt`
+- `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos-2.pdf`
+- `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos-2.tex`
+- `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.pdf`
+- `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.tex`
+- `papers/report.pdf`
+- `papers/report.tex`
+- `papers/sig-alternate--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.cls`
+- `papers/sig-alternate--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.tex`
+- `papers/sig-alternate.cls`
+- `papers/sig-alternate.tex`
+- `papers/termpaper.bib`
+- `papers/termpaper2.docx`
+- `papers/termpaper2.odt`
+
+### Reports / Written Documentation
+- `reports/1-s2.0-S0957417408007306-main_2.pdf`
+- `reports/10Problems-06.pdf`
+- `reports/1866.full.pdf`
+- `reports/216.full.pdf`
+- `reports/304-1434-1-PB.pdf`
+- `reports/310.full.pdf`
+- `reports/43.pdf`
+- `reports/59-70.pdf`
+- `reports/612259.pdf`
+- `reports/Analysis--from-Hw3-W_Normalization.odt`
+- `reports/Analysis.doc`
+- `reports/Analysis.docx`
+- `reports/Analysis.odt`
+- `reports/Bands.csv`
+- `reports/BigData/BDHW6/HW6.pdf`
+- `reports/BigData/BDHW6/Homework (1).docx`
+- `reports/BigData/BDHW6/Homework.docx`
+- `reports/BigData/BDHW6/Homework6.docx`
+- `reports/BigData/BDHW6/Homework6.pdf`
+- `reports/BigData/HW9.pdf`
+- `reports/BigData/Homework9.doc`
+- `reports/BigData/Q2Hw8/RQ2Hw8/1st test/Rouput.txt`
+- `reports/BigData/Q2Hw8/RQ2Hw8/1st test/output.txt`
+- `reports/BigData/h7bd/HW7.pdf`
+- `reports/BigData/h7bd/HW7Q3/HW7.pdf`
+- `reports/BigData/h7bd/HW7Q3/Homework7.doc`
+- `reports/BigData/h7bd/HW7Q3/Homework7.pdf`
+- `reports/BigData/h7bd/Homework7.doc`
+- `reports/BigData/h7bd/Homework7.pdf`
+- `reports/BigData/h7bd/solution2.pdf`
+- `reports/BigData/hw5/Homework5.docx`
+- `reports/BigData/hw8bd/HW8.pdf`
+- `reports/BigData/hw8bd/Weka_clustering.pdf`
+- `reports/BigData/hw8bd/homework8 (1).doc`
+- `reports/BigData/hw8bd/homework8.doc`
+- `reports/BigData/hw8bd/homework8.docx`
+- `reports/BigData/hw8bd/homework8.pdf`
+- `reports/BigData/hw9.doc`
+- `reports/C25.pdf`
+- `reports/CRISP-DM.pdf`
+- `reports/CSCI721GroupProject.pdf`
+- `reports/CSCI721Syllabus.pdf`
+- `reports/CSCI721W1_Overview.pdf`
+- `reports/CSCI721W2_DataTypes.pdf`
+- `reports/CSCI721W4DataAnalysis.pdf`
+- `reports/CSCI721W4_Extra_Graphing data.pdf`
+- `reports/CSCI721W5Non_numerics.pdf`
+- `reports/CSCI721W5Non_numerics1.pdf`
+- `reports/CSCI721W9_MissingData.pdf`
+- `reports/DC&P.docx`
+- `reports/Data Cleaning & Processing/Class Documents/CSCI721GroupProject.pdf`
+- `reports/Data Cleaning & Processing/Class Documents/CSCI721Syllabus.pdf`
+- `reports/Data Cleaning & Processing/Class Documents/DataCleaning&PreparationBook.pdf`
+- `reports/Data Cleaning & Processing/Class Documents/GroupProjectInst.pdf`
+- `reports/Data Cleaning & Processing/Class Documents/Syllabus.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI721GroupProject.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI721Syllabus.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/DataCleaning&PreparationBook.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/GroupProjectInst.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/Syllabus.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/Bands.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/australian-crabs.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/bands_attribute_names.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/flea.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/olive.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/tips.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/Phases/Phase01.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/CSCI721W1_Overview.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/IntroductionToBigData.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/DC&P.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/10Problems-06.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/43.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/59-70.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/download.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/CSCI721W2_DataTypes.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/HW1.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/Review.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1Sol.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1Sol.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1read1.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/612259.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/dmi5420.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/week3.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/1-s2.0-S0957417408007306-main_2.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/1866.full.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/216.full.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/304-1434-1-PB.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/310.full.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/CSCI721W4DataAnalysis.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/CSCI721W4_Extra_Graphing data.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/DataAnalysisExercise.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Diabetes.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/HW9Sol.doc`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Icann-Iconip2003-2.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Project1-13.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/WEEK4 .docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/bayes-example.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/condition.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q5.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv.xlsx`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q91.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/level2_rename_mean_5.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics1.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/report (1).pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/report.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/DataCleaningPreparationBook.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Analysis.doc`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Analysis.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Hungarian.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/TreeAS.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZClassifiersErrors.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZScoreNN.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/Zclassification.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-22.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/Zscorehungarian1-2[1].png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/classification.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/classifierError.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1ntn.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1tree.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/treeNAS.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/wekaTree.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/zscoresH1classifierErrors.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/HungarianDataset.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output1.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output2.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output3.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Rplot01.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZNNRplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput1.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput2.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput3.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZRplot02.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZScoreNumRplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1-1.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1-3.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1Rplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreHungDataSet.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/zscoreH1-2.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/Zclustering.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/Zscorecluster1-2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/cluster.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/hungariancluster.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/zscoresMH1.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/Hungarian_normalized_minmax.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/MInMaxRplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/MMNNRplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/ModelNumRplot.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/max_minmodel.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxmin-2.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxmin1-1.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxminNN.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_decimal_10.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_decimal_e.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_minmax.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_unnormalized.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Analysis.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Analysis.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_decimal_10.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_decimal_e.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_minmax.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_unnormalized.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/data_dictionary.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/hungarian.data.processed.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/notes.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/Hungarian_j48_results_decimal_10.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/Hungarian_j48_results_unnormalized.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/ZAnalysis1.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/data_dictionary.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/matrix2.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/notes.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/Diabetes.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/Second.jpg`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/first.jpg`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/hw4-1.m`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/hw4.m`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/smothedDataset.jpg`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Diabetes.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/Screenshot from 2014-04-14 21_58_23.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/Screenshot from 2014-04-14 22_04_50.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_31_00.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_32_58.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_46_53.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_55_38.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/extra work.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/hw4.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/hw4.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/C25.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/MidtermEssay.txt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/essay copy.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/essay.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/midterm.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/quiz.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/MissingData2.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/MissingData3.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Outlier.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Phase3.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/WEEK4 .docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/Week6nd7 Discussion.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/Week10/WEEK10BLG2.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/CSCI721W9_MissingData.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Missing Values Weka Methods.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Missing Values Weka Methods.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/MissingData.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 1.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 2.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 3.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/weather.csv`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Phase3.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cities.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityD.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityS.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityT.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/data.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/dataT.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform3.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/search.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/searchT.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/userP.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/imp1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/imp2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/IDEAN.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/JCL1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/JCL2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-15-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-15b-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-All-All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-AllB-All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCL1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCL2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-15A-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-15B-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-AllA-All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM_AllB_All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-15A-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-15B-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-AllA-All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-AllB-All.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL3.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL4.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-3.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-4.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-5.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL6.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL7.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL8.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/table.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/RCL1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/RCL15.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1-1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1-12.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot10.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot11.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot12.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot13.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot14.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot15.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot2.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot3.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot4.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot5.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot6.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot7.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot8.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot9.png`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/ProjectTempStuff.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Untitled 1.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/GUIDE.PDF`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/New Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.TXT`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p365-pinto.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p415-radinsky.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p435-kokkodis.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/report.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/report.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/sig-alternate.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/sig-alternate.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/~$w Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/GUIDE.PDF`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/New Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.TXT`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p365-pinto.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p415-radinsky.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p435-kokkodis.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/report.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/report.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/sig-alternate.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/sig-alternate.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/~$w Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/GUIDE.PDF`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/New Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.TXT`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p365-pinto.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p415-radinsky.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p435-kokkodis.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/report.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/report.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/sig-alternate.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/sig-alternate.tex`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/~$w Microsoft Word Document.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/phase1.odt`
+- `reports/Data Cleaning & Processing/Data Cleaning/report.pdf`
+- `reports/Data Cleaning & Processing/Data Cleaning/week12.docx`
+- `reports/Data Cleaning & Processing/Data Cleaning/week14.odt`
+- `reports/Data Cleaning & Processing/Data Files/Bands.csv`
+- `reports/Data Cleaning & Processing/Data Files/australian-crabs.csv`
+- `reports/Data Cleaning & Processing/Data Files/bands_attribute_names.txt`
+- `reports/Data Cleaning & Processing/Data Files/flea.csv`
+- `reports/Data Cleaning & Processing/Data Files/olive.csv`
+- `reports/Data Cleaning & Processing/Data Files/tips.csv`
+- `reports/Data Cleaning & Processing/GroupProject/Phases/Phase01.pdf`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.TXT`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/ReadMe.rtf`
+- `reports/Data Cleaning & Processing/Phase2/Phase2.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/CSCI721W1_Overview.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/IntroductionToBigData.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/DC&P.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/10Problems-06.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/43.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/59-70.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/download.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week2/CSCI721W2_DataTypes.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week2/HW1.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week2/Review.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week2/hw1Sol.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week2/hw1Sol.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week2/hw1read1.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week3/612259.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week3/dmi5420.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week3/week3.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week4/1-s2.0-S0957417408007306-main_2.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/1866.full.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/216.full.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/304-1434-1-PB.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/310.full.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/CSCI721W4DataAnalysis.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/CSCI721W4_Extra_Graphing data.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/DataAnalysisExercise.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week4/Diabetes.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week4/Diabetes1.xlsx`
+- `reports/Data Cleaning & Processing/Weeks/Week4/HW9Sol.doc`
+- `reports/Data Cleaning & Processing/Weeks/Week4/Icann-Iconip2003-2.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/Project1-13.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week4/WEEK4 .docx`
+- `reports/Data Cleaning & Processing/Weeks/Week4/bayes-example.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/condition.txt`
+- `reports/Data Cleaning & Processing/Weeks/Week4/hw2.docx`
+- `reports/Data Cleaning & Processing/Weeks/Week4/hw2.pdf`
+- `reports/Data Cleaning & Processing/Weeks/Week4/hw2q5.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week4/hw2q91.csv`
+- `reports/Data Cleaning & Processing/Weeks/Week4/level2_rename_mean_5.csv`
+- `reports/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics.pdf`
+- `reports/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics1.pdf`
+- `reports/Data Cleaning & Processing/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- `reports/Data Cleaning & Processing/phase3/phase3/README.txt`
+- `reports/Data Cleaning & Processing/report (1).pdf`
+- `reports/Data Cleaning & Processing/report.pdf`
+- `reports/DataAnalysisExercise.csv`
+- `reports/DataCleaning&PreparationBook.pdf`
+- `reports/DataCleaningPreparationBook.pdf`
+- `reports/DataDataCleaning-20124.pdf`
+- `reports/DataMining-Intro.pdf`
+- `reports/DataSets.pdf`
+- `reports/DecisionTrees-20124.pdf`
+- `reports/Diabetes--from-Hw4-Matlab.csv`
+- `reports/Diabetes.csv`
+- `reports/Diabetes.txt`
+- `reports/Diabetes1.xlsx`
+- `reports/DirtyDataAssignment.pdf`
+- `reports/DonationData.csv`
+- `reports/First Week/CRISP-DM.pdf`
+- `reports/First Week/DataDataCleaning-20124.pdf`
+- `reports/First Week/DataMining-Intro.pdf`
+- `reports/GUIDE.PDF`
+- `reports/GroupProjectInst.pdf`
+- `reports/HW1.csv`
+- `reports/HW1/DirtyDataAssignment.pdf`
+- `reports/HW1/DonationData.csv`
+- `reports/HW1/TermProject.pdf`
+- `reports/HW2.pdf`
+- `reports/HW2/HW2.pdf`
+- `reports/HW2/TeamProjectExample.pdf`
+- `reports/HW6.pdf`
+- `reports/HW7.pdf`
+- `reports/HW8.pdf`
+- `reports/HW9.pdf`
+- `reports/HW9Sol.doc`
+- `reports/Homework (1).docx`
+- `reports/Homework.docx`
+- `reports/Homework5.docx`
+- `reports/Homework6.docx`
+- `reports/Homework6.pdf`
+- `reports/Homework7--from-h7bd-HW7Q3.doc`
+- `reports/Homework7--from-h7bd-HW7Q3.pdf`
+- `reports/Homework7.doc`
+- `reports/Homework7.pdf`
+- `reports/Homework9.doc`
+- `reports/Hungarian.csv`
+- `reports/Hungarian_j48_results_decimal_10--from-WR_minmax-WEKA_Classification-Rules-Generation.txt`
+- `reports/Hungarian_j48_results_decimal_10--from-W_Normalization-Results.txt`
+- `reports/Hungarian_j48_results_decimal_10.txt`
+- `reports/Hungarian_j48_results_decimal_e.txt`
+- `reports/Hungarian_j48_results_minmax.txt`
+- `reports/Hungarian_j48_results_unnormalized--from-WR_minmax-WEKA_Classification-Rules-Generation.txt`
+- `reports/Hungarian_j48_results_unnormalized--from-W_Normalization-Results.txt`
+- `reports/Hungarian_j48_results_unnormalized.txt`
+- `reports/Hungarian_normalized_minmax.csv`
+- `reports/Icann-Iconip2003-2.pdf`
+- `reports/IntroClassification-1R.pdf`
+- `reports/IntroductionToBigData.pdf`
+- `reports/MSProjectReport.pdf`
+- `reports/MidtermEssay.txt`
+- `reports/Missing Values Weka Methods.docx`
+- `reports/Missing Values Weka Methods.odt`
+- `reports/MissingData.pdf`
+- `reports/MissingData2.pdf`
+- `reports/MissingData3.pdf`
+- `reports/NaiveBayes-20124.pdf`
+- `reports/New Microsoft Word Document.docx`
+- `reports/Outlier.pdf`
+- `reports/Output1.txt`
+- `reports/Output2.txt`
+- `reports/Output3.txt`
+- `reports/Phase01.pdf`
+- `reports/Phase2.pdf`
+- `reports/Phase3--from-Data-Cleaning-What-Should-I-Wear-Phases.docx`
+- `reports/Phase3.docx`
+- `reports/Project1-13.docx`
+- `reports/ProjectTempStuff.odt`
+- `reports/README--from-MacPorts-2.1.1-config.TXT`
+- `reports/README--from-phase3-phase3.txt`
+- `reports/README.TXT`
+- `reports/ReadMe.rtf`
+- `reports/Review.docx`
+- `reports/Rouput.txt`
+- `reports/Syllabus.pdf`
+- `reports/TeamProjectExample.pdf`
+- `reports/TermProject.pdf`
+- `reports/Untitled 1--from-Weeks-week9.odt`
+- `reports/Untitled 1.odt`
+- `reports/Untitled 2.odt`
+- `reports/Untitled 3.odt`
+- `reports/WEEK10BLG2.odt`
+- `reports/WEEK4 .docx`
+- `reports/Week6nd7 Discussion.odt`
+- `reports/Weka_clustering.pdf`
+- `reports/What Should I Wear.pdf`
+- `reports/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- `reports/ZAnalysis1.odt`
+- `reports/ZOutput1.txt`
+- `reports/ZOutput2.txt`
+- `reports/ZOutput3.txt`
+- `reports/ZScoreNN.txt`
+- `reports/ZscoreH1-1.txt`
+- `reports/ZscoreH1-3.txt`
+- `reports/australian-crabs.csv`
+- `reports/bands_attribute_names.txt`
+- `reports/bayes-example.pdf`
+- `reports/condition.txt`
+- `reports/data_dictionary.txt`
+- `reports/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- `reports/dm.pdf.pdf.pdf`
+- `reports/dmi5420.pdf`
+- `reports/download.pdf`
+- `reports/essay copy.odt`
+- `reports/essay.odt`
+- `reports/extra work.docx`
+- `reports/flea.csv`
+- `reports/homework8 (1).doc`
+- `reports/homework8.doc`
+- `reports/homework8.docx`
+- `reports/homework8.pdf`
+- `reports/hungarian.data.processed.csv`
+- `reports/hw1Sol.docx`
+- `reports/hw1Sol.pdf`
+- `reports/hw1read1.docx`
+- `reports/hw2--from-Weeks-Week4.pdf`
+- `reports/hw2.docx`
+- `reports/hw2q5.csv`
+- `reports/hw2q9.csv`
+- `reports/hw2q9.csv.xlsx`
+- `reports/hw2q91.csv`
+- `reports/hw4.docx`
+- `reports/hw4.pdf`
+- `reports/hw9.doc`
+- `reports/level2_rename_mean_5.csv`
+- `reports/matrix2.txt`
+- `reports/maxmin-2.txt`
+- `reports/maxmin1-1.txt`
+- `reports/maxminNN.txt`
+- `reports/midterm.odt`
+- `reports/notes.txt`
+- `reports/olive.csv`
+- `reports/output.txt`
+- `reports/p365-pinto.pdf`
+- `reports/p415-radinsky.pdf`
+- `reports/p435-kokkodis.pdf`
+- `reports/phase1.odt`
+- `reports/quiz.pdf`
+- `reports/report (1).pdf`
+- `reports/report--from-Data-Cleaning-Processing-Data-Cleaning.pdf`
+- `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.pdf`
+- `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.tex`
+- `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.pdf`
+- `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.tex`
+- `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.pdf`
+- `reports/report.bib`
+- `reports/report.pdf`
+- `reports/report.tex`
+- `reports/sig-alternate.cls`
+- `reports/sig-alternate.pdf`
+- `reports/sig-alternate.tex`
+- `reports/solution2.pdf`
+- `reports/tips.csv`
+- `reports/weather.csv`
+- `reports/week12.docx`
+- `reports/week14.odt`
+- `reports/week3.docx`
+- `reports/zscoreH1-2.txt`
+- `reports/zscoresMH1.csv`
+
+### Presentations
+- `presentations/27F157AL5Enhanced ER-diagram.ppt`
+- `presentations/BigData/27F157AL5Enhanced ER-diagram.ppt`
+- `presentations/BigData/ERD_Examples.ppt`
+- `presentations/BigData/hw8bd/clustering_mod.ppt`
+- `presentations/BigData/hw8bd/k-mean-clustering.ppt`
+- `presentations/CRISP-Slides.pdf`
+- `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/PaperReading.pptx`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/PaperReading.pptx`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/lecture1.ppt`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/PaperReading.pptx`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/PaperReading.pptx`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/PaperReading.pptx`
+- `presentations/Data Cleaning & Processing/Weeks/Week3/lecture1.ppt`
+- `presentations/Data Cleaning & Processing/phase3/phase3/bigdata_finalppt.ppt`
+- `presentations/ERD_Examples.ppt`
+- `presentations/First Week/CRISP-Slides.pdf`
+- `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.pptx`
+- `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.pptx`
+- `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.pptx`
+- `presentations/PaperReading.pptx`
+- `presentations/bigdata_finalppt.ppt`
+- `presentations/clustering_mod.ppt`
+- `presentations/k-mean-clustering.ppt`
+- `presentations/lecture1.ppt`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `BigData/-Inventory.md`
+- `BigData/Q2Hw8/-Inventory.md`
+- `BigData/Q2Hw8/README.md`
+- `BigData/Q2Hw8/RQ2Hw8/-Inventory.md`
+- `BigData/Q2Hw8/RQ2Hw8/1st test/-Inventory.md`
+- `BigData/Q2Hw8/RQ2Hw8/1st test/README.md`
+- `BigData/Q2Hw8/RQ2Hw8/README.md`
+- `BigData/Q2Hw8/WekaQ2Hw8/-Inventory.md`
+- `BigData/Q2Hw8/WekaQ2Hw8/README.md`
+- `BigData/README.md`
+- `BigData/h7bd/-Inventory.md`
+- `BigData/h7bd/HW7Q3/-Inventory.md`
+- `BigData/h7bd/HW7Q3/Others/-Inventory.md`
+- `BigData/h7bd/HW7Q3/Others/README.md`
+- `BigData/h7bd/HW7Q3/README.md`
+- `BigData/h7bd/README.md`
+- `BigData/hw5/-Inventory.md`
+- `BigData/hw5/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Data Cleaning & Processing/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/README.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/README.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/README.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/__MACOSX/termpaper_template/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Data Files/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Data Files/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/Blog instructions.html/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/Blog instructions.html/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/README.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/README.md`
+- `Data Cleaning & Processing/Data Cleaning/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/R/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Homeworks/README.md`
+- `Data Cleaning & Processing/Data Cleaning/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Weeks/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/Weeks/README.md`
+- `Data Cleaning & Processing/Data Cleaning/Weeks/week9/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/Weeks/week9/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/-Inventory.md`
+- `Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.md`
+- `Data Cleaning & Processing/Data Files/-Inventory.md`
+- `Data Cleaning & Processing/Data Files/README.md`
+- `Data Cleaning & Processing/Phase2/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/BestVacation/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/BestVacation/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/jobs/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/jobs/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cflib1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cflib1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cregistry/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cregistry/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/darwintracelib1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/darwintracelib1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/tests/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/tests/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/macports1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/macports1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/package1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/package1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/pextlib1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/pextlib1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/port1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/portindex/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/portindex/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/programs/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/programs/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/programs/daemondo/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/programs/daemondo/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/registry2.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/registry2.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/tclobjc1.0/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/tclobjc1.0/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/case-insensitive-deactivate/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/case-insensitive-deactivate/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/envvariables/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/envvariables/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/trace/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/trace/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal-2/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal-2/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/universal/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/22/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/22/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/30/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/30/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/01/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/01/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/searchPlace/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/searchPlace/README.md`
+- `Data Cleaning & Processing/Phase2/BestVacation Framework/README.md`
+- `Data Cleaning & Processing/Phase2/Data Cleaning/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/Data Cleaning/README.md`
+- `Data Cleaning & Processing/Phase2/README.md`
+- `Data Cleaning & Processing/Phase2/Sample Images/-Inventory.md`
+- `Data Cleaning & Processing/Phase2/Sample Images/README.md`
+- `Data Cleaning & Processing/README.md`
+- `Data Cleaning & Processing/Stuff/-Inventory.md`
+- `Data Cleaning & Processing/Stuff/README.md`
+- `Data Cleaning & Processing/Weeks/-Inventory.md`
+- `Data Cleaning & Processing/Weeks/README.md`
+- `Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `Data Cleaning & Processing/Weeks/Week1/README.md`
+- `Data Cleaning & Processing/Weeks/Week2/-Inventory.md`
+- `Data Cleaning & Processing/Weeks/Week2/Blog instructions.html/-Inventory.md`
+- `Data Cleaning & Processing/Weeks/Week2/Blog instructions.html/README.md`
+- `Data Cleaning & Processing/Weeks/Week2/README.md`
+- `Data Cleaning & Processing/Weeks/Week4/-Inventory.md`
+- `Data Cleaning & Processing/Weeks/Week4/README.md`
+- `Data Cleaning & Processing/phase3/-Inventory.md`
+- `Data Cleaning & Processing/phase3/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/BestVacation/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/BestVacation/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/css/images/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/cities/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/cities/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/10/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/11/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/2013/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/facebook_profiles/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/plots/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/images/plots/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/js/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/static/city/js/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/city/templates/city/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/26/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/26/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/28/-Inventory.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/28/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/11/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/2013/README.md`
+- `Data Cleaning & Processing/phase3/__MACOSX/phase3/code/images/facebook_profiles/README.md`
+- `Data Cleaning & Processing/phase3/phase3/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/BestVacation/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/BestVacation/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/css/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/css/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/css/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/css/images/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/cities/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/cities/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/22/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/30/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/10/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/01/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/06/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/11/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/2013/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/facebook_profiles/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/plots/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/images/plots/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/js/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/static/city/js/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/templates/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/templates/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/templates/city/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/city/templates/city/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/26/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/26/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/28/-Inventory.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/28/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/11/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/2013/README.md`
+- `Data Cleaning & Processing/phase3/phase3/code/images/facebook_profiles/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/Data Cleaning & Processing/-Inventory.md`
+- `papers/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `papers/Data Cleaning & Processing/Class Documents/README.md`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/-Inventory.md`
+- `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.md`
+- `papers/Data Cleaning & Processing/README.md`
+- `papers/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `papers/Data Cleaning & Processing/Weeks/README.md`
+- `papers/Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `papers/Data Cleaning & Processing/Weeks/Week1/README.md`
+- `papers/README.md`
+- `presentations/-Inventory.md`
+- `presentations/BigData/-Inventory.md`
+- `presentations/BigData/README.md`
+- `presentations/BigData/hw8bd/-Inventory.md`
+- `presentations/BigData/hw8bd/README.md`
+- `presentations/Data Cleaning & Processing/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Class Documents/README.md`
+- `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.md`
+- `presentations/Data Cleaning & Processing/README.md`
+- `presentations/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Weeks/README.md`
+- `presentations/Data Cleaning & Processing/Weeks/Week3/-Inventory.md`
+- `presentations/Data Cleaning & Processing/Weeks/Week3/README.md`
+- `presentations/Data Cleaning & Processing/phase3/-Inventory.md`
+- `presentations/Data Cleaning & Processing/phase3/README.md`
+- `presentations/Data Cleaning & Processing/phase3/phase3/-Inventory.md`
+- `presentations/Data Cleaning & Processing/phase3/phase3/README.md`
+- `presentations/First Week/-Inventory.md`
+- `presentations/First Week/README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/BigData/-Inventory.md`
+- `reports/BigData/BDHW6/-Inventory.md`
+- `reports/BigData/BDHW6/README.md`
+- `reports/BigData/Q2Hw8/-Inventory.md`
+- `reports/BigData/Q2Hw8/README.md`
+- `reports/BigData/Q2Hw8/RQ2Hw8/-Inventory.md`
+- `reports/BigData/Q2Hw8/RQ2Hw8/1st test/-Inventory.md`
+- `reports/BigData/Q2Hw8/RQ2Hw8/1st test/README.md`
+- `reports/BigData/Q2Hw8/RQ2Hw8/README.md`
+- `reports/BigData/README.md`
+- `reports/BigData/h7bd/-Inventory.md`
+- `reports/BigData/h7bd/HW7Q3/-Inventory.md`
+- `reports/BigData/h7bd/HW7Q3/README.md`
+- `reports/BigData/h7bd/README.md`
+- `reports/BigData/hw5/-Inventory.md`
+- `reports/BigData/hw5/README.md`
+- `reports/BigData/hw8bd/-Inventory.md`
+- `reports/BigData/hw8bd/README.md`
+- `reports/Data Cleaning & Processing/-Inventory.md`
+- `reports/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `reports/Data Cleaning & Processing/Class Documents/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/Phases/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/Phases/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Midterm/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/Week10/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/Week10/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.md`
+- `reports/Data Cleaning & Processing/Data Files/-Inventory.md`
+- `reports/Data Cleaning & Processing/Data Files/README.md`
+- `reports/Data Cleaning & Processing/GroupProject/-Inventory.md`
+- `reports/Data Cleaning & Processing/GroupProject/Phases/-Inventory.md`
+- `reports/Data Cleaning & Processing/GroupProject/Phases/README.md`
+- `reports/Data Cleaning & Processing/GroupProject/README.md`
+- `reports/Data Cleaning & Processing/Phase2/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/README.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/README.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/-Inventory.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/README.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/README.md`
+- `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/README.md`
+- `reports/Data Cleaning & Processing/Phase2/README.md`
+- `reports/Data Cleaning & Processing/README.md`
+- `reports/Data Cleaning & Processing/Weeks/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week2/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week2/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week3/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week3/README.md`
+- `reports/Data Cleaning & Processing/Weeks/Week4/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/Week4/README.md`
+- `reports/Data Cleaning & Processing/Weeks/week5/-Inventory.md`
+- `reports/Data Cleaning & Processing/Weeks/week5/README.md`
+- `reports/Data Cleaning & Processing/phase3/-Inventory.md`
+- `reports/Data Cleaning & Processing/phase3/README.md`
+- `reports/Data Cleaning & Processing/phase3/phase3/-Inventory.md`
+- `reports/Data Cleaning & Processing/phase3/phase3/README.md`
+- `reports/First Week/-Inventory.md`
+- `reports/First Week/README.md`
+- `reports/HW1/-Inventory.md`
+- `reports/HW1/README.md`
+- `reports/HW2/-Inventory.md`
+- `reports/HW2/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-eets - 0 papers, 302 reports, 0 presentations, 73 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-eets
+- Hub path: `Projects-Code/opc-eets`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+- Import status: `completed`
+- Total indexed files in repo: `526`
+
+### Code / Project Location
+
+- `12JOB1/`
+- `EET - 223/`
+- `EET-222/`
+
+Project marker files:
+- `12JOB1/12JOB1.PRJ`
+- `EET - 223/EET-223-LabExp4.sln`
+- `EET - 223/EET-223-LabExp4.vcproj`
+- `EET - 223/EET-223-LabExp4/EET-223-LabExp4.sln`
+- `EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.vcproj`
+- `EET - 223/EET-223LabExp.sln`
+- `EET - 223/EET-223LabExp.vcproj`
+- `EET - 223/EET-223LabExp/EET-223LabExp.sln`
+- `EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.vcproj`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/14.txt`
+- `reports/317-LabNo.5 (2).docx`
+- `reports/317-LabNo.5.docx`
+- `reports/317LAB#3 (2).docx`
+- `reports/317LAB#3.docx`
+- `reports/317LAB#31.docx`
+- `reports/5th lab report-225.docx`
+- `reports/6th lab report-225.docx`
+- `reports/Book1 (Autosaved)2.xlsx`
+- `reports/Book1 (Autosaved)22.xlsx`
+- `reports/Book1.xlsx`
+- `reports/Book12.xlsx`
+- `reports/Book2.xlsx`
+- `reports/C++ Program Output.docx`
+- `reports/CH_7_HW_SOLUTION.pdf`
+- `reports/CIN.docx`
+- `reports/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- `reports/DC-EET-222-5.docx`
+- `reports/Doc1.docx`
+- `reports/EET - 223/Assignment#2.3.vsd`
+- `reports/EET - 223/Assignment#2.4.vsd`
+- `reports/EET - 223/Assignment#de.vsd`
+- `reports/EET - 223/Assignment#de2.vsd`
+- `reports/EET - 223/CH_7_HW_SOLUTION.pdf`
+- `reports/EET - 223/EET-223-LabExp4.cpp`
+- `reports/EET - 223/EET-223-LabExp4.sln`
+- `reports/EET - 223/EET-223-LabExp4.vcproj`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4.sln`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.cpp`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.vcproj`
+- `reports/EET - 223/EET-223.Lab Experiment#4.cpp`
+- `reports/EET - 223/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET - 223/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET - 223/EET-223LabExp.sln`
+- `reports/EET - 223/EET-223LabExp.vcproj`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp.sln`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.cpp`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.vcproj`
+- `reports/EET - 223/EET.docx`
+- `reports/EET - 223/Electronics Laborator1.doc`
+- `reports/EET - 223/Exp#7-EET223 (2).docx`
+- `reports/EET - 223/Exp#7-EET223.docx`
+- `reports/EET - 223/Lab Experiment#3.2.vsd`
+- `reports/EET - 223/Lab Experiment#3.vsd`
+- `reports/EET - 223/Lab Experiment-eet223#6.vsd`
+- `reports/EET - 223/Lab.vsd`
+- `reports/EET - 223/Lab1.vsd`
+- `reports/EET - 223/Lab2.vsd`
+- `reports/EET - 223/One_shot_Prob_ANS.doc`
+- `reports/EET - 223/Test1_Solution.pdf`
+- `reports/EET - 223/Test2_solution (1).pdf`
+- `reports/EET - 223/Test2_solution.pdf`
+- `reports/EET - 223/ch7_HW.pdf`
+- `reports/EET - 223/eet223ab4.docx`
+- `reports/EET - 223/lab 223-4 (2).vsd`
+- `reports/EET - 223/lab 223-4.vsd`
+- `reports/EET - 223/lab#5 (2).vsd`
+- `reports/EET - 223/lab#5.2.vsd`
+- `reports/EET - 223/lab#5.vsd`
+- `reports/EET - 223/~$T 105, Experiments #6 nd 7..docx`
+- `reports/EET - Stuffs/CIN.docx`
+- `reports/EET - Stuffs/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9 (Repaired).docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- `reports/EET - Stuffs/EET 105 lab 8 nd 9.docx`
+- `reports/EET - Stuffs/EET 105, Experiments #6 nd 7..docx`
+- `reports/EET - Stuffs/Experiment # 6.docx`
+- `reports/EET - Stuffs/Experiment%20# 6.docx`
+- `reports/EET - Stuffs/Experiment%20# 7.docx`
+- `reports/EET - Stuffs/Experiment8.docx`
+- `reports/EET - Stuffs/Farmingdale  University of New York44 (2).docx`
+- `reports/EET - Stuffs/Farmingdale  University of New York44.docx`
+- `reports/EET - Stuffs/Lab Report # 11 EET 105.docx`
+- `reports/EET - Stuffs/Lab Report #12.docx`
+- `reports/EET - Stuffs/Lab Report #4.docx`
+- `reports/EET - Stuffs/Lab Report #5.docx`
+- `reports/EET - Stuffs/Lab Report #8, superpositio.docx`
+- `reports/EET - Stuffs/Lab Report Experiment#3.docx`
+- `reports/EET - Stuffs/Lab Report Experiment.docx`
+- `reports/EET - Stuffs/Lab Report# 14, EET105.docx`
+- `reports/EET - Stuffs/Lab%20Report%20#4 and #3.docx`
+- `reports/EET - Stuffs/Lab%20Report%20Experiment#2.docx`
+- `reports/EET - Stuffs/lab Report # 10.docx`
+- `reports/EET 105 lab 8 nd 9 (Repaired).docx`
+- `reports/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- `reports/EET 105 lab 8 nd 9.docx`
+- `reports/EET 105, Experiments #6 nd 7..docx`
+- `reports/EET-113 Theoretical Data.docx`
+- `reports/EET-113-5.docx`
+- `reports/EET-113-Lab-Report#2.docx`
+- `reports/EET-113/Doc1.docx`
+- `reports/EET-113/EET-113 Theoretical Data.docx`
+- `reports/EET-113/EET-113-5.docx`
+- `reports/EET-113/EET-113-Lab-Report#2.docx`
+- `reports/EET-113/Series Circuit.docx`
+- `reports/EET-117-Lab-Report.docx`
+- `reports/EET-117.docx`
+- `reports/EET-117/EET-117-Lab-Report.docx`
+- `reports/EET-117/EET-117.docx`
+- `reports/EET-117/EET117.docx`
+- `reports/EET-117/Experiment#9-1rst Part.docx`
+- `reports/EET-117/Experiment#9-2nd Part.docx`
+- `reports/EET-117/RC (Repaired).docx`
+- `reports/EET-117/RC.docx`
+- `reports/EET-117/VBE (Repaired).docx`
+- `reports/EET-117/VBE.docx`
+- `reports/EET-117/exp12.docx`
+- `reports/EET-117/~$E (Repaired).docx`
+- `reports/EET-222-5.docx`
+- `reports/EET-222.cpp#4.docx`
+- `reports/EET-222/DC-EET-222-5.docx`
+- `reports/EET-222/EET-222-5.docx`
+- `reports/EET-222/Lab #4, EET-222.cpp`
+- `reports/EET-222/Lab Cover Shee1.docx`
+- `reports/EET-222/Lab Experiment #4/EET-222.cpp#4.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/C++ Program Output.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - C++  Source Code.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4print.txt`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#2.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/eet223ab4.docx`
+- `reports/EET-222/Lab Experiment #4/Micro-Cap Evaluation 9.lnk- Output.jpg`
+- `reports/EET-222/Lab Experiment#12/Complete Waveform.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg- waveform.jpg`
+- `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg2.jpg`
+- `reports/EET-222/Lab Experiment#12/Untitled.jpg`
+- `reports/EET-222/eet222ab2 (2).docx`
+- `reports/EET-222/eet222ab2.docx`
+- `reports/EET-222/output-circuit#5.txt`
+- `reports/EET-222/~$b Report #4 and #3.docx`
+- `reports/EET-223-LabExp4print.txt`
+- `reports/EET-225, Exp#8 (1).docx`
+- `reports/EET-225, Exp#8.docx`
+- `reports/EET-225/5th lab report-225.docx`
+- `reports/EET-225/6th lab report-225.docx`
+- `reports/EET-225/Bitmap Image in Drawing in 5th lab report-225.docx.vsd`
+- `reports/EET-225/EET-225, Exp#8 (1).docx`
+- `reports/EET-225/EET-225, Exp#8.docx`
+- `reports/EET-225/Formal-Lab-#3-eet-225.docx`
+- `reports/EET-225/Formal-Lab-#8eet-225.docx`
+- `reports/EET-225/Lab Report#2 - EET-225.docx`
+- `reports/EET-225/Lab#1- EET-225.docx`
+- `reports/EET-225/Lab#2-EET-225.vsd`
+- `reports/EET-225/LabShee251.rtf`
+- `reports/EET-225/SB.docx`
+- `reports/EET-225/Take Home Exam (2).docx`
+- `reports/EET-225/Take Home Exam.docx`
+- `reports/EET-225/fs.docx`
+- `reports/EET-225/scan0001.docx`
+- `reports/EET-225/~$rmal-Lab-#3-eet-225.docx`
+- `reports/EET-228/Drawing1-Lab#3-EET-228.vsd`
+- `reports/EET-228/Lab#1-EET-228.docx`
+- `reports/EET-228/Lab#2-EET-228.docx`
+- `reports/EET-228/Lab#4-228.vsd`
+- `reports/EET-228/Lab#4-228.vsd (2).docx`
+- `reports/EET-228/Lab#4-228.vsd.docx`
+- `reports/EET-228/Lab-5-228sheet.rtf`
+- `reports/EET-228/Lab-6-228.docx`
+- `reports/EET-228/Vin.docx`
+- `reports/EET-228/lab#3-EET-228.docx`
+- `reports/EET-228/lab-5-eet-228 (2).docx`
+- `reports/EET-228/lab-5-eet-228.docx`
+- `reports/EET-228/lab-8-eet-228.docx`
+- `reports/EET-228/~$b#1-EET-228.docx`
+- `reports/EET-228/~$b#3-EET-228.docx`
+- `reports/EET-228/~$b#4-228.vsd.docx`
+- `reports/EET-228/~$b-5-eet-228 (2).docx`
+- `reports/EET-251/Labs 0,1,2,3 of EET-251.doc`
+- `reports/EET-311/14.txt`
+- `reports/EET-311/EET-331Lab#2 (Repaired).docx`
+- `reports/EET-311/Lab#1-311.docx`
+- `reports/EET-311/LabNo4 (Repaired).docx`
+- `reports/EET-311/LabNo6.docx`
+- `reports/EET-311LabNo19.docx`
+- `reports/EET-311LabNo5.docx`
+- `reports/EET-317LabNo4 (2).docx`
+- `reports/EET-317LabNo4.docx`
+- `reports/EET-317LabNo5.xlsx`
+- `reports/EET-317LabNo6.docx`
+- `reports/EET-317lab#2 (2).docx`
+- `reports/EET-317lab#2.docx`
+- `reports/EET-331Lab#2 (Repaired)--from-repo-EET-311.docx`
+- `reports/EET-331Lab#2 (Repaired).docx`
+- `reports/EET-331Lab#2.docx`
+- `reports/EET-331Lab#2.dwing.vsd`
+- `reports/EET-440 Networking Course Summary.docx`
+- `reports/EET-440/EET-440 Networking Course Summary.docx`
+- `reports/EET-440/~$T-440 Networking Course Summary.docx`
+- `reports/EET.docx`
+- `reports/EET117.docx`
+- `reports/EET317Lab#2/317-LabNo.5 (2).docx`
+- `reports/EET317Lab#2/317-LabNo.5.docx`
+- `reports/EET317Lab#2/317LAB#3 (2).docx`
+- `reports/EET317Lab#2/317LAB#3.docx`
+- `reports/EET317Lab#2/317LAB#31.docx`
+- `reports/EET317Lab#2/EET-317LabNo4 (2).docx`
+- `reports/EET317Lab#2/EET-317LabNo4.docx`
+- `reports/EET317Lab#2/EET-317LabNo5.xlsx`
+- `reports/EET317Lab#2/EET-317LabNo6.docx`
+- `reports/EET317Lab#2/EET-317lab#2 (2).docx`
+- `reports/EET317Lab#2/EET-317lab#2.docx`
+- `reports/EET317Lab#2/Experiment#1-EET317 (Repaired) (2).docx`
+- `reports/EET317Lab#2/Experiment#1-EET317 (Repaired).docx`
+- `reports/EET317Lab#2/Experiment#1-EET317.docx`
+- `reports/EET317Lab#2/Lab#3.docx`
+- `reports/EET317Lab#2/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/EET317Lab#2/lab#2-EET-317.docx`
+- `reports/EET317Lab#2/lab#5-EET-317.docx`
+- `reports/Electronics Laborator1.doc`
+- `reports/Exp#7-EET223 (2).docx`
+- `reports/Exp#7-EET223.docx`
+- `reports/Experiment # 6.docx`
+- `reports/Experiment#1-EET317 (Repaired) (2).docx`
+- `reports/Experiment#1-EET317 (Repaired).docx`
+- `reports/Experiment#1-EET317.docx`
+- `reports/Experiment#9-1rst Part.docx`
+- `reports/Experiment#9-2nd Part.docx`
+- `reports/Experiment%20# 6.docx`
+- `reports/Experiment%20# 7.docx`
+- `reports/Experiment8.docx`
+- `reports/Farmingdale  University of New York44 (2).docx`
+- `reports/Farmingdale  University of New York44.docx`
+- `reports/Formal-Lab-#3-eet-225.docx`
+- `reports/Formal-Lab-#8eet-225.docx`
+- `reports/How_to_run_Microsoft_CLR_Protocol.doc`
+- `reports/Lab Cover Shee1.docx`
+- `reports/Lab Report # 11 EET 105.docx`
+- `reports/Lab Report #12.docx`
+- `reports/Lab Report #4.docx`
+- `reports/Lab Report #5.docx`
+- `reports/Lab Report #8, superpositio.docx`
+- `reports/Lab Report Experiment#3.docx`
+- `reports/Lab Report Experiment.docx`
+- `reports/Lab Report# 14, EET105.docx`
+- `reports/Lab Report#2 - EET-225.docx`
+- `reports/Lab#1- EET-225.docx`
+- `reports/Lab#1-311--from-repo-EET-311.docx`
+- `reports/Lab#1-311.docx`
+- `reports/Lab#1-EET-228.docx`
+- `reports/Lab#2-EET-228.docx`
+- `reports/Lab#3--from-repo-EET317Lab-2.docx`
+- `reports/Lab#3.docx`
+- `reports/Lab#4-228.vsd (2).docx`
+- `reports/Lab#4-228.vsd.docx`
+- `reports/Lab#5.docx`
+- `reports/Lab%20Report%20#4 and #3.docx`
+- `reports/Lab%20Report%20Experiment#2.docx`
+- `reports/Lab-5-228sheet.rtf`
+- `reports/Lab-6-228.docx`
+- `reports/LabNo4 (Repaired)--from-repo-EET-311.docx`
+- `reports/LabNo4 (Repaired).docx`
+- `reports/LabNo4.docx`
+- `reports/LabNo6--from-repo-EET-311.docx`
+- `reports/LabNo6.docx`
+- `reports/LabShee251.rtf`
+- `reports/Labs 0,1,2,3 of EET-251.doc`
+- `reports/One_shot_Prob_ANS.doc`
+- `reports/RC (Repaired).docx`
+- `reports/RC.docx`
+- `reports/SB.docx`
+- `reports/Series Circuit.docx`
+- `reports/Take Home Exam (2).docx`
+- `reports/Take Home Exam--from-repo-EET-225.docx`
+- `reports/Take Home Exam.docx`
+- `reports/Test1_Solution.pdf`
+- `reports/Test2_solution (1).pdf`
+- `reports/Test2_solution.pdf`
+- `reports/VBE (Repaired).docx`
+- `reports/VBE.docx`
+- `reports/Vin.docx`
+- `reports/Waveform-lab15.jpg`
+- `reports/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/ch7_HW.pdf`
+- `reports/eet222ab2 (2).docx`
+- `reports/eet222ab2.docx`
+- `reports/eet223ab4--from-Lab-Experiment-4-Lab-4.docx`
+- `reports/eet223ab4.docx`
+- `reports/exp12.docx`
+- `reports/fs.docx`
+- `reports/lab Report # 10.docx`
+- `reports/lab#2-EET-317.docx`
+- `reports/lab#3-EET-228.docx`
+- `reports/lab#5-EET-317.docx`
+- `reports/lab-5-eet-228 (2).docx`
+- `reports/lab-5-eet-228.docx`
+- `reports/lab-8-eet-228.docx`
+- `reports/lab3-311.vsd`
+- `reports/output-circuit#5.txt`
+- `reports/scan0001.docx`
+- `reports/~$T-331Lab#2.docx`
+- `reports/~$periment#1-EET317.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `12JOB1/-Inventory.md`
+- `12JOB1/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `EET - 223/-Inventory.md`
+- `EET - 223/EET-223-LabExp4/EET-223-LabExp4/README.md`
+- `EET - 223/EET-223-LabExp4/README.md`
+- `EET - 223/EET-223LabExp/EET-223LabExp/README.md`
+- `EET - 223/EET-223LabExp/README.md`
+- `EET - 223/README.md`
+- `EET - Stuffs/-Inventory.md`
+- `EET - Stuffs/README.md`
+- `EET-113/-Inventory.md`
+- `EET-113/README.md`
+- `EET-117/-Inventory.md`
+- `EET-117/README.md`
+- `EET-222/-Inventory.md`
+- `EET-222/Lab Experiment #4/Lab 4/README.md`
+- `EET-222/Lab Experiment #4/README.md`
+- `EET-222/Lab Experiment#12/README.md`
+- `EET-222/MC5/-Inventory.md`
+- `EET-222/MC5/README.md`
+- `EET-222/README.md`
+- `EET-225/-Inventory.md`
+- `EET-225/README.md`
+- `EET-228/-Inventory.md`
+- `EET-228/README.md`
+- `EET-251/-Inventory.md`
+- `EET-251/README.md`
+- `EET-440/-Inventory.md`
+- `EET-440/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/EET - 223/-Inventory.md`
+- `reports/EET - 223/EET-223-LabExp4/-Inventory.md`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/-Inventory.md`
+- `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/README.md`
+- `reports/EET - 223/EET-223-LabExp4/README.md`
+- `reports/EET - 223/EET-223LabExp/-Inventory.md`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/-Inventory.md`
+- `reports/EET - 223/EET-223LabExp/EET-223LabExp/README.md`
+- `reports/EET - 223/EET-223LabExp/README.md`
+- `reports/EET - 223/README.md`
+- `reports/EET - Stuffs/-Inventory.md`
+- `reports/EET - Stuffs/README.md`
+- `reports/EET-113/-Inventory.md`
+- `reports/EET-113/README.md`
+- `reports/EET-117/-Inventory.md`
+- `reports/EET-117/README.md`
+- `reports/EET-222/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/Lab 4/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/Lab 4/README.md`
+- `reports/EET-222/Lab Experiment #4/README.md`
+- `reports/EET-222/Lab Experiment#12/-Inventory.md`
+- `reports/EET-222/Lab Experiment#12/README.md`
+- `reports/EET-222/README.md`
+- `reports/EET-225/-Inventory.md`
+- `reports/EET-225/README.md`
+- `reports/EET-228/-Inventory.md`
+- `reports/EET-228/README.md`
+- `reports/EET-251/-Inventory.md`
+- `reports/EET-251/README.md`
+- `reports/EET-311/-Inventory.md`
+- `reports/EET-311/README.md`
+- `reports/EET-440/-Inventory.md`
+- `reports/EET-440/README.md`
+- `reports/EET317Lab#2/-Inventory.md`
+- `reports/EET317Lab#2/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-eets-2 - 0 papers, 99 reports, 0 presentations, 44 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-eets-2
+- Hub path: `Projects-Code/opc-eets-2`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1gSWgHyQekc9iEIKSXQGpdvFzfE1JuvVA
+- Import status: `completed`
+- Total indexed files in repo: `198`
+
+### Code / Project Location
+
+- `EET-222/`
+- `EET317Lab#2/`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/14.txt`
+- `reports/317LAB#3--from-EET317Lab-2-Lab-Experiment-4.docx`
+- `reports/317LAB#3.docx`
+- `reports/317LAB#31.docx`
+- `reports/C++ Program Output.docx`
+- `reports/Circuit-Source Code.1.txt`
+- `reports/Circuit-Source Code.txt`
+- `reports/DC-EET-222-5.docx`
+- `reports/EET-222-5.docx`
+- `reports/EET-222.cpp-Lab Experiment#4.docx`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#1 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#1 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#2 Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#2 Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier Output.jpg`
+- `reports/EET-222/Lab Experiment #4/Cascade Amplifier Output1.jpg`
+- `reports/EET-222/Lab Experiment #4/Circuit-Source Code.1.txt`
+- `reports/EET-222/Lab Experiment #4/Circuit-Source Code.txt`
+- `reports/EET-222/Lab Experiment #4/Circuit.jpg`
+- `reports/EET-222/Lab Experiment #4/Circuit1.jpg`
+- `reports/EET-222/Lab Experiment #4/Circuit12.jpg`
+- `reports/EET-222/Lab Experiment #4/EET-222 - Lab Experiment No. 4- C++ Source Code.cpp`
+- `reports/EET-222/Lab Experiment #4/EET-222.cpp-Lab Experiment#4.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/C++ Program Output.docx`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - C++  Source Code.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4print.txt`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#1.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/Stage#2.jpg`
+- `reports/EET-222/Lab Experiment #4/Lab 4/eet222ab4.docx`
+- `reports/EET-222/Lab Experiment #4/Micro-Cap Evaluation 9.lnk- Output.jpg`
+- `reports/EET-222/Lab Experiment #4/STAGE-1-Cascaded Amplifier.cpp`
+- `reports/EET-222/Lab Experiment #4/Waveforme.jpg`
+- `reports/EET-222/Lab Experiment #4/waveform1.jpg`
+- `reports/EET-222/New Folder/Lab#12/Complete Waveform.jpg`
+- `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg`
+- `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg- waveform.jpg`
+- `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg2.jpg`
+- `reports/EET-222/New Folder/Lab#12/Lab12 calculations.docx`
+- `reports/EET-222/New Folder/output-circuit#5.txt`
+- `reports/EET-222/eet222lab.docx`
+- `reports/EET-222/eet222lab2.docx`
+- `reports/EET-222/experiment#5/DC-EET-222-5.docx`
+- `reports/EET-222/experiment#5/EET-222-5.docx`
+- `reports/EET-222/experiment#5/waveform-lab5.jpg`
+- `reports/EET-223-LabExp4print.txt`
+- `reports/EET-223/Assignment#2.3.vsd`
+- `reports/EET-223/Assignment#2.4.vsd`
+- `reports/EET-223/Assignment#de.vsd`
+- `reports/EET-223/Assignment#de2.vsd`
+- `reports/EET-223/Exp#7-EET223.docx`
+- `reports/EET-223/Lab Experiment#3.2.vsd`
+- `reports/EET-223/Lab Experiment#3.vsd`
+- `reports/EET-223/Lab Experiment-eet223#6.vsd`
+- `reports/EET-223/Lab.vsd`
+- `reports/EET-223/Lab1.vsd`
+- `reports/EET-223/Lab2.vsd`
+- `reports/EET-223/lab 223-4.vsd`
+- `reports/EET-223/lab#5.2.vsd`
+- `reports/EET-223/lab#5.vsd`
+- `reports/EET-311/14.txt`
+- `reports/EET-311/EET-331Lab#2 (Repaired).docx`
+- `reports/EET-311/Lab#1-311.docx`
+- `reports/EET-311/LabNo4 (Repaired).docx`
+- `reports/EET-311/LabNo6.docx`
+- `reports/EET-317lab#2.docx`
+- `reports/EET-331Lab#2 (Repaired).docx`
+- `reports/EET317Lab#2/317LAB#3.docx`
+- `reports/EET317Lab#2/317LAB#31.docx`
+- `reports/EET317Lab#2/EET-317lab#2.docx`
+- `reports/EET317Lab#2/Experiment#1-EET317 (Repaired).docx`
+- `reports/EET317Lab#2/Lab Experiment #4/317LAB#3.docx`
+- `reports/EET317Lab#2/Lab Experiment #4/C++ Program Output.docx`
+- `reports/EET317Lab#2/Lab Experiment #4/EET-223-LabExp4.cpp`
+- `reports/EET317Lab#2/Lab Experiment #4/EET-223-LabExp4print.txt`
+- `reports/EET317Lab#2/Lab Experiment #4/EET-223.Lab Experiment#4jpg.jpg`
+- `reports/EET317Lab#2/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- `reports/EET317Lab#2/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- `reports/EET317Lab#2/Lab#3.docx`
+- `reports/EET317Lab#2/LabNo4.docx`
+- `reports/EET317Lab#2/New Microsoft Office Excel Worksheet.xlsx`
+- `reports/EET317Lab#2/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/Exp#7-EET223.docx`
+- `reports/Experiment#1-EET317 (Repaired).docx`
+- `reports/Lab#1-311.docx`
+- `reports/Lab#3.docx`
+- `reports/Lab12 calculations.docx`
+- `reports/LabNo4 (Repaired).docx`
+- `reports/LabNo4.docx`
+- `reports/LabNo6.docx`
+- `reports/New Microsoft Office Excel Worksheet.xlsx`
+- `reports/Will Brennan                                           eet317lab3                                                               10.doc`
+- `reports/eet222ab4.docx`
+- `reports/eet222lab.docx`
+- `reports/eet222lab2.docx`
+- `reports/output-circuit#5.txt`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `EET-222/-Inventory.md`
+- `EET-222/Lab Experiment #4/Lab 4/README.md`
+- `EET-222/Lab Experiment #4/README.md`
+- `EET-222/New Folder/-Inventory.md`
+- `EET-222/New Folder/Lab#12/README.md`
+- `EET-222/New Folder/README.md`
+- `EET-222/README.md`
+- `EET-222/experiment#5/-Inventory.md`
+- `EET-222/experiment#5/README.md`
+- `EET-223/-Inventory.md`
+- `EET-223/README.md`
+- `EET317Lab#2/Lab Experiment #4/Lab 4/README.md`
+- `EET317Lab#2/Lab Experiment #4/README.md`
+- `EET317Lab#2/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/EET-222/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/Lab 4/-Inventory.md`
+- `reports/EET-222/Lab Experiment #4/Lab 4/README.md`
+- `reports/EET-222/Lab Experiment #4/README.md`
+- `reports/EET-222/New Folder/-Inventory.md`
+- `reports/EET-222/New Folder/Lab#12/-Inventory.md`
+- `reports/EET-222/New Folder/Lab#12/README.md`
+- `reports/EET-222/New Folder/README.md`
+- `reports/EET-222/README.md`
+- `reports/EET-222/experiment#5/-Inventory.md`
+- `reports/EET-222/experiment#5/README.md`
+- `reports/EET-223/-Inventory.md`
+- `reports/EET-223/README.md`
+- `reports/EET-311/-Inventory.md`
+- `reports/EET-311/README.md`
+- `reports/EET317Lab#2/-Inventory.md`
+- `reports/EET317Lab#2/Lab Experiment #4/-Inventory.md`
+- `reports/EET317Lab#2/Lab Experiment #4/Lab 4/-Inventory.md`
+- `reports/EET317Lab#2/Lab Experiment #4/Lab 4/README.md`
+- `reports/EET317Lab#2/Lab Experiment #4/README.md`
+- `reports/EET317Lab#2/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-fct - 1 papers, 224 reports, 4 presentations, 76 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-fct
+- Hub path: `Projects-Code/opc-fct`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-DX9ifMHdHqOB0kHF54Qsje9qqYQEJEr
+- Import status: `completed`
+- Total indexed files in repo: `526`
+
+### Code / Project Location
+
+- `FCT_Hw9/`
+
+### Papers
+- `papers/rm_jv_finalpaper.doc`
+
+### Reports / Written Documentation
+- `reports/05-decide-4p.pdf`
+- `reports/0907.0159.pdf`
+- `reports/123a.pdf`
+- `reports/2-Homework.pdf`
+- `reports/2010hw7_solution.pdf`
+- `reports/355hw2s12sol.pdf`
+- `reports/355hw3s12sol.pdf`
+- `reports/355hw4s11sol.pdf`
+- `reports/355hw4s12sol.pdf`
+- `reports/355hw6sol.pdf`
+- `reports/4005.docx`
+- `reports/700_0122_hmwk5.pdf`
+- `reports/700_0122_hmwk7.pdf`
+- `reports/700_0122_hmwk8.pdf`
+- `reports/700_final_examples_answers.pdf`
+- `reports/CS422_HW7sol.doc`
+- `reports/Comp-CFL-10.pdf`
+- `reports/Decidable Languages(2).docx`
+- `reports/FCT-HW2.docx`
+- `reports/FCT-HW2.pdf`
+- `reports/FCTEXAM.txt`
+- `reports/FCTH7.docx`
+- `reports/FCTH7.pdf`
+- `reports/FCTHW1.docx`
+- `reports/FCTHW1.pdf`
+- `reports/FCTHW4.docx`
+- `reports/FCTHW4.pdf`
+- `reports/FCTHW8.docx`
+- `reports/FCTHW8.pdf`
+- `reports/FCTHomework 6.docx`
+- `reports/FCTHomework 6.pdf`
+- `reports/FCTNotes.txt`
+- `reports/FCT_HW06.PDF`
+- `reports/FCT_HW07.PDF`
+- `reports/FCT_HW08.PDF`
+- `reports/FCT_HW4.PDF`
+- `reports/FCT_HW5.PDF`
+- `reports/FCT_HW5/355hw4s11sol.pdf`
+- `reports/FCT_HW5/Homework 5FCT.docx`
+- `reports/FCT_HW5/Homework 5FCT.pdf`
+- `reports/FCT_Hw3/0907.0159.pdf`
+- `reports/FCT_Hw3/Homework 3.docx`
+- `reports/FCT_Hw3/Homework 3.pdf`
+- `reports/FCT_Hw3/fctSourceBook.pdf`
+- `reports/FCT_Hw3/hw1sol.pdf`
+- `reports/FCT_Hw4/FCTHW4.pdf`
+- `reports/FCT_Hw4/PDAEXAMPLE.jff`
+- `reports/FCT_Hw6/FCTHomework 6.docx`
+- `reports/FCT_Hw6/FCTHomework 6.pdf`
+- `reports/FCT_Hw6/hw4sol.pdf`
+- `reports/FCT_Hw6/sol3.pdf`
+- `reports/FCT_Hw6/sol4.pdf`
+- `reports/FCT_Hw7/05-decide-4p.pdf`
+- `reports/FCT_Hw7/Decidable Languages(2).docx`
+- `reports/FCT_Hw7/FCTH7.docx`
+- `reports/FCT_Hw7/FCTH7.pdf`
+- `reports/FCT_Hw7/Homework 4_sol.pdf`
+- `reports/FCT_Hw7/Sol5.pdf`
+- `reports/FCT_Hw7/assign3ans.pdf`
+- `reports/FCT_Hw7/hw1.sols.pdf`
+- `reports/FCT_Hw7/hw3ans.pdf`
+- `reports/FCT_Hw7/hw6sol.pdf`
+- `reports/FCT_Hw7/lecture-16.pdf`
+- `reports/FCT_Hw7/sol4.pdf`
+- `reports/FCT_Hw9/123a.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk5.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk7.pdf`
+- `reports/FCT_Hw9/700_0122_hmwk8.pdf`
+- `reports/FCT_Hw9/700_final_examples_answers.pdf`
+- `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- `reports/FCT_Hw9/Report.pdf`
+- `reports/FCT_Hw9/UploadedFile_130051889226924856.doc`
+- `reports/FCT_Hw9/c3.pdf`
+- `reports/FCT_Hw9/cc-script.pdf`
+- `reports/FCT_Hw9/enumrec.pdf`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW06.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW07.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW08.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW4.PDF`
+- `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW5.PDF`
+- `reports/FCT_Hw9/homework1Solution.pdf`
+- `reports/FCT_Hw9/lect18.pdf`
+- `reports/FCT_Hw9/rdd3443_FCT_assign02 copy.PDF`
+- `reports/FCT_Hw9/rdd3443_FCT_assign02.PDF`
+- `reports/Homework 3.docx`
+- `reports/Homework 3.pdf`
+- `reports/Homework 4_sol.pdf`
+- `reports/Homework 5FCT.docx`
+- `reports/Homework 5FCT.pdf`
+- `reports/Homework 6_sol.pdf`
+- `reports/ICST - Assignment 9.docx`
+- `reports/ICST - Assignment 9.pdf`
+- `reports/ICST-A1.docx`
+- `reports/ICST-A7--from-ICST-ICST---Final-Exam-Review.pdf`
+- `reports/ICST-A7.docx`
+- `reports/ICST-A7.pdf`
+- `reports/ICST-A72.pdf`
+- `reports/ICST-A7Notes.docx`
+- `reports/ICST-HW6--from-ICST-ICST---Final-Exam-Review.pdf`
+- `reports/ICST-HW6.docx`
+- `reports/ICST-HW6.pdf`
+- `reports/ICST.txt`
+- `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.docx`
+- `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.pdf`
+- `reports/ICST/ICST - Final Exam Review/ICST-A7.pdf`
+- `reports/ICST/ICST - Final Exam Review/ICST-HW6.pdf`
+- `reports/ICST/ICST - Final Exam Review/a8.docx`
+- `reports/ICST/ICST - Final Exam Review/as8.pdf`
+- `reports/ICST/ICST - Final Exam Review/cfg2npda.pdf`
+- `reports/ICST/ICST - Final Exam Review/complexity.pdf`
+- `reports/ICST/ICST - Final Exam Review/compute.pdf`
+- `reports/ICST/ICST - Final Exam Review/fcthw1.jff`
+- `reports/ICST/ICST - Final Exam Review/fcthw12.jff`
+- `reports/ICST/ICST - Final Exam Review/hw211.jff`
+- `reports/ICST/ICST - Final Exam Review/hw212.jff`
+- `reports/ICST/ICST - Final Exam Review/hw22.jff`
+- `reports/ICST/ICST - Final Exam Review/hw221.jff`
+- `reports/ICST/ICST - Final Exam Review/hw23.jff`
+- `reports/ICST/ICST - Final Exam Review/hw232.jff`
+- `reports/ICST/ICST - Final Exam Review/hw6.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw7.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw8.pdf`
+- `reports/ICST/ICST - Final Exam Review/hw9.pdf`
+- `reports/ICST/ICST - Final Exam Review/notes.txt`
+- `reports/ICST/ICST - Final Exam Review/reduction.pdf`
+- `reports/ICST/ICST - Final Exam Review/turing.pdf`
+- `reports/ICST/ICST - Final Exam Review/turingmachine.pdf`
+- `reports/ICST/ICST - Final Exam Review/ucfl.pdf`
+- `reports/ICST/ICST-HW3/4005.docx`
+- `reports/ICST/ICST-HW3/ICST-A1.docx`
+- `reports/ICST/ICST-HW3/ICSTHW3.docx`
+- `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.docx`
+- `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.pdf`
+- `reports/ICST/ICST-HW3/UploadedFile_130084775846874074.doc`
+- `reports/ICST/ICST-HW3/hw3.pdf`
+- `reports/ICST/ICST-HW3/hw3.rtf`
+- `reports/ICST/ICST-HW4/2-Homework.pdf`
+- `reports/ICST/ICST-HW4/ISCT-HW4.docx`
+- `reports/ICST/ICST-HW4/ISCT-HW42.docx`
+- `reports/ICST/ICST-HW4/ISCT-HW4Notes.docx`
+- `reports/ICST/ICST-HW4/hw3s.pdf`
+- `reports/ICST/ICST-HW4/hw4-2-73final.jff`
+- `reports/ICST/ICST-HW4/hw4-2-7final2.jff`
+- `reports/ICST/ICST-HW4/s3_3.pdf`
+- `reports/ICST/ICST-HW6/ICST-A7.docx`
+- `reports/ICST/ICST-HW6/ICST-A7.pdf`
+- `reports/ICST/ICST-HW6/ICST-A72.pdf`
+- `reports/ICST/ICST-HW6/ICST-A7Notes.docx`
+- `reports/ICST/ICST-HW6/ICST-HW6.docx`
+- `reports/ICST/ICST-HW6/ICST-HW6.pdf`
+- `reports/ICST/ICST-HW6/hw7.pdf`
+- `reports/ICST/ICST-HW8/a8.docx`
+- `reports/ICST/ICST-HW9/ICST - Assignment 9.docx`
+- `reports/ICST/ICST-HW9/csci3255 HW  9 and 11.doc`
+- `reports/ICST/ICST-HW9/hw9.pdf`
+- `reports/ICST/ICST-STUFF/355hw2s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw3s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw4s12sol.pdf`
+- `reports/ICST/ICST-STUFF/355hw6sol.pdf`
+- `reports/ICST/ICST-STUFF/Comp-CFL-10.pdf`
+- `reports/ICST/ICST-STUFF/MIDTERM1-20111124-Solution.pdf`
+- `reports/ICST/ICST-STUFF/a8.docx`
+- `reports/ICST/ICST-STUFF/as8.pdf`
+- `reports/ICST/ICST-STUFF/cfg2npda.pdf`
+- `reports/ICST/ICST-STUFF/hw5_sol.pdf`
+- `reports/ICST/ICST-STUFF/hw7.pdf`
+- `reports/ICST/ICST-STUFF/hwsol7.pdf`
+- `reports/ICST/ICST-STUFF/ps4-solns.pdf`
+- `reports/ICST/ICST-STUFF/ucfl.pdf`
+- `reports/ICSTHW3.docx`
+- `reports/ISCT-HW4.docx`
+- `reports/ISCT-HW42.docx`
+- `reports/ISCT-HW4Notes.docx`
+- `reports/Introduction To Computer Science Theory 2123.docx`
+- `reports/Introduction To Computer Science Theory 2123.pdf`
+- `reports/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- `reports/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- `reports/MIDTERM1-20111124-Solution.pdf`
+- `reports/Report.pdf`
+- `reports/Sol5.pdf`
+- `reports/UploadedFile_130051889226924856.doc`
+- `reports/UploadedFile_130084775846874074.doc`
+- `reports/a8--from-ICST-ICST---Final-Exam-Review.docx`
+- `reports/a8--from-ICST-ICST-HW8.docx`
+- `reports/a8.docx`
+- `reports/as8.pdf`
+- `reports/assign3ans.pdf`
+- `reports/c3.pdf`
+- `reports/cc-script.pdf`
+- `reports/cfg2npda.pdf`
+- `reports/complexity.pdf`
+- `reports/compute.pdf`
+- `reports/csci3255 HW  9 and 11.doc`
+- `reports/enumrec.pdf`
+- `reports/fctSourceBook.pdf`
+- `reports/homework1Solution.pdf`
+- `reports/hw1.sols.pdf`
+- `reports/hw1sol.pdf`
+- `reports/hw3.pdf`
+- `reports/hw3.rtf`
+- `reports/hw3ans.pdf`
+- `reports/hw3s.pdf`
+- `reports/hw4sol.pdf`
+- `reports/hw5_sol.pdf`
+- `reports/hw6.pdf`
+- `reports/hw6sol.pdf`
+- `reports/hw7.pdf`
+- `reports/hw8.pdf`
+- `reports/hw9.pdf`
+- `reports/hwsol7.pdf`
+- `reports/lect18.pdf`
+- `reports/lecture-16.pdf`
+- `reports/notes.txt`
+- `reports/ps4-solns.pdf`
+- `reports/rdd3443_FCT_assign02 copy.PDF`
+- `reports/rdd3443_FCT_assign02.PDF`
+- `reports/reduction.pdf`
+- `reports/s3_3.pdf`
+- `reports/sol3.pdf`
+- `reports/sol4.pdf`
+- `reports/turing.pdf`
+- `reports/turingmachine.pdf`
+- `reports/ucfl.pdf`
+
+### Presentations
+- `presentations/FCT_Hw9/NonContextFree.ppt`
+- `presentations/FCT_Hw9/closure.pptx`
+- `presentations/NonContextFree.ppt`
+- `presentations/closure.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `FCT_HW5/-Inventory.md`
+- `FCT_HW5/README.md`
+- `FCT_Hw3/-Inventory.md`
+- `FCT_Hw3/README.md`
+- `FCT_Hw4/-Inventory.md`
+- `FCT_Hw4/README.md`
+- `FCT_Hw6/-Inventory.md`
+- `FCT_Hw6/README.md`
+- `FCT_Hw7/-Inventory.md`
+- `FCT_Hw7/README.md`
+- `FCT_Hw9/-Inventory.md`
+- `FCT_Hw9/README.md`
+- `FCT_Hw9/fct148/-Inventory.md`
+- `FCT_Hw9/fct148/README.md`
+- `FCT_Hw9/fct148/fcthw1scanspages134/-Inventory.md`
+- `FCT_Hw9/fct148/fcthw1scanspages134/README.md`
+- `ICST/-Inventory.md`
+- `ICST/ICST-HW3/-Inventory.md`
+- `ICST/ICST-HW3/README.md`
+- `ICST/ICST-HW4/-Inventory.md`
+- `ICST/ICST-HW4/README.md`
+- `ICST/ICST-HW6/-Inventory.md`
+- `ICST/ICST-HW6/README.md`
+- `ICST/ICST-HW8/-Inventory.md`
+- `ICST/ICST-HW8/README.md`
+- `ICST/ICST-HW9/-Inventory.md`
+- `ICST/ICST-HW9/README.md`
+- `ICST/ICST-STUFF/-Inventory.md`
+- `ICST/ICST-STUFF/README.md`
+- `ICST/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `presentations/-Inventory.md`
+- `presentations/FCT_Hw9/-Inventory.md`
+- `presentations/FCT_Hw9/README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/FCT_HW5/-Inventory.md`
+- `reports/FCT_HW5/README.md`
+- `reports/FCT_Hw3/-Inventory.md`
+- `reports/FCT_Hw3/README.md`
+- `reports/FCT_Hw4/-Inventory.md`
+- `reports/FCT_Hw4/README.md`
+- `reports/FCT_Hw6/-Inventory.md`
+- `reports/FCT_Hw6/README.md`
+- `reports/FCT_Hw7/-Inventory.md`
+- `reports/FCT_Hw7/README.md`
+- `reports/FCT_Hw9/-Inventory.md`
+- `reports/FCT_Hw9/README.md`
+- `reports/FCT_Hw9/fct148/-Inventory.md`
+- `reports/FCT_Hw9/fct148/README.md`
+- `reports/FCT_Hw9/fct148/fcthomeworks/-Inventory.md`
+- `reports/FCT_Hw9/fct148/fcthomeworks/README.md`
+- `reports/ICST/-Inventory.md`
+- `reports/ICST/ICST - Final Exam Review/-Inventory.md`
+- `reports/ICST/ICST - Final Exam Review/README.md`
+- `reports/ICST/ICST-HW3/-Inventory.md`
+- `reports/ICST/ICST-HW3/README.md`
+- `reports/ICST/ICST-HW4/-Inventory.md`
+- `reports/ICST/ICST-HW4/README.md`
+- `reports/ICST/ICST-HW6/-Inventory.md`
+- `reports/ICST/ICST-HW6/README.md`
+- `reports/ICST/ICST-HW8/-Inventory.md`
+- `reports/ICST/ICST-HW8/README.md`
+- `reports/ICST/ICST-HW9/-Inventory.md`
+- `reports/ICST/ICST-HW9/README.md`
+- `reports/ICST/ICST-STUFF/-Inventory.md`
+- `reports/ICST/ICST-STUFF/README.md`
+- `reports/ICST/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-final-bs-project - 2 papers, 8 reports, 0 presentations, 20 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-final-bs-project
+- Hub path: `Projects-Code/opc-final-bs-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1HipmKhThN4dE6Vtf_CdxWJFupfN_2XqU
+- Import status: `completed`
+- Total indexed files in repo: `48`
+
+### Code / Project Location
+
+- `Xbee_part4/`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/`
+
+Project marker files:
+- `Xbee_part4/xbee_sensor_api_26k20.mcp`
+
+### Papers
+- `papers/ProposalEGL310.docx`
+- `papers/ProposalEGL310.pdf`
+
+### Reports / Written Documentation
+- `reports/Design Project.docx`
+- `reports/EGL-310 ASSIGNMENT6.doc`
+- `reports/EGL-310 Assignment 6.pdf`
+- `reports/Final Project Report USE.docx`
+- `reports/REPORT SPECIFICATIONS.docx`
+- `reports/Updated Report.doc`
+- `reports/Xbee_part4/project_config.h`
+- `reports/software part.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `Xbee_part4/-Inventory.md`
+- `Xbee_part4/README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+- `reports/Xbee_part4/-Inventory.md`
+- `reports/Xbee_part4/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-java-oop - 0 papers, 756 reports, 31 presentations, 663 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-java-oop
+- Hub path: `Projects-Code/opc-java-oop`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1cbbnx1wAbvKFco2s2SiYgYUpCsM0M36W
+- Import status: `needs Drive review`
+- Total indexed files in repo: `2495`
+
+### Code / Project Location
+
+- `APCG-HW1/`
+- `AlgoExpProject/`
+- `BischofsClass/`
+- `Computer Graphics/`
+- `Crypto/`
+- `Data MIning_Best Time To Vacation/`
+- `Duncan Robert - Java/`
+- `FCT_ExtracCredit/`
+- `PhillWhite/`
+- `TravisBrown/`
+- `stuff/`
+
+Project marker files:
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/jobs/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cflib1.0/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cregistry/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/darwintracelib1.0/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/macports1.0/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/package1.0/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/pextlib1.0/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/Makefile`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/case-insensitive-deactivate/Makefile`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/-AliceChapter1.redacted.txt`
+- `reports/02.pdf`
+- `reports/1-_Fundamentals_of_Computer_Aided_Design_2-_Introduction_to_....pdf`
+- `reports/10.1007-s00145-012-9128-3.pdf`
+- `reports/243-ClassSchedule2123.pdf`
+- `reports/243-final-review-answers.pdf`
+- `reports/243-final-review.pdf`
+- `reports/2Dpipeline.pdf`
+- `reports/2DviewingAndTransformations.pdf`
+- `reports/33242-0131743627_答案ISM.pdf`
+- `reports/51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(1).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(2).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(3).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(1).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(2).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(3).jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/71.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/72.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/FinalReport.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/GUIDE.PDF`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/QuadraticAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/README.TXT`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/REPORT_INITIAL.PDF`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-51.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-52.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d5.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/dirList.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/f.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/fly.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h3.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h5.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h6.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/j.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m1.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m2.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m4.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m5.jpg`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n1.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n2.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n3.png`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report - Copy.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.tex`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/sig-alternate.tex`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/spr.pdf`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Experimental Project - Algo.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirscberg.docx`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirschberg.java`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV1.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV1.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/NaiveRecursive.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV.txt`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV1.txt`
+- `reports/AlgoExpProject/bin/DynamicAV.txt`
+- `reports/AlgoExpProject/bin/MemoizationAV.txt`
+- `reports/AlgoExpProject/bin/NaiveRecursive.txt`
+- `reports/AlgoExpProject/bin/QuadraticAV.txt`
+- `reports/AlgoExpProject/output.txt`
+- `reports/AlgoExpProject/projectGraph.m`
+- `reports/AlgoExpProject/src/DynamicAV.java`
+- `reports/AlgoExpProject/src/DynamicAV.txt`
+- `reports/AlgoExpProject/src/GenerateInputs.java`
+- `reports/AlgoExpProject/src/LCS.java`
+- `reports/AlgoExpProject/src/MemoizationAV.java`
+- `reports/AlgoExpProject/src/MemoizationAV.txt`
+- `reports/AlgoExpProject/src/NaiveRecursive.java`
+- `reports/AlgoExpProject/src/NaiveRecursive.txt`
+- `reports/AlgoExpProject/src/QuadraticAV.txt`
+- `reports/AlgoExpProject/src/TestAlgorithms.java`
+- `reports/AlgoExpProject/test.txt`
+- `reports/AliceChapter1--from-Stuff-lab7.txt`
+- `reports/AliceChapter1--from-lab7-Redacter.txt`
+- `reports/AliceChapter1.redacted.txt`
+- `reports/AliceChapter1.txt`
+- `reports/Best Time for Vacationing.docx`
+- `reports/Best Time for Vacationing.pdf`
+- `reports/Best Time for Vacationing2.docx`
+- `reports/Best Time for Vacationing2.pdf`
+- `reports/BillImage.pdf`
+- `reports/BischofsClass/hw4/lab4-1/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-1/Peach (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-2/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-3/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/FruitException (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/Mangoes (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw4/lab4-4/TestFruit (2013_03_30 07_27_35 UTC).java`
+- `reports/BischofsClass/hw5/MyHashSetB/result (2013_03_30 07_27_35 UTC).txt`
+- `reports/BischofsClass/hw5/MyHashSetB/results (2013_03_30 07_27_35 UTC).txt`
+- `reports/CG1HW3.docx`
+- `reports/CG1HW3.pdf`
+- `reports/CG_Important Question with Answer.pdf`
+- `reports/CGfundamentals.pdf`
+- `reports/CSC-243-Final-Review-2011-3.pdf`
+- `reports/CSc472.pdf`
+- `reports/Clipping.pdf`
+- `reports/Computer Graphics - Assingment1.docx`
+- `reports/Computer Graphics - HW2.docx`
+- `reports/Computer Graphics - HW2.pdf`
+- `reports/Computer Graphics I - Assignment1.pdf`
+- `reports/Computer Graphics I - Assignment2.pdf`
+- `reports/Computer Graphics I - Assignment3.pdf`
+- `reports/Computer Graphics I - HW2.pdf`
+- `reports/Computer Graphics I - HW4.pdf`
+- `reports/Computer Graphics I - Midterm Project Option.pdf`
+- `reports/Computer Graphics I copy 2.docx`
+- `reports/Computer Graphics I copy.docx`
+- `reports/Computer Graphics I.docx`
+- `reports/Computer Graphics I.pdf`
+- `reports/Computer Graphics and Human Simulation.docx`
+- `reports/Computer Graphics and Human Simulation.pdf`
+- `reports/Computer Graphics/CG-FinalExam/bin/texture.jpg`
+- `reports/Computer Graphics/CG-FinalExam/src/Coordinates.java`
+- `reports/Computer Graphics/CG-FinalExam/src/Shapes.java`
+- `reports/Computer Graphics/CG-FinalExam/src/cg1Shape.java`
+- `reports/Computer Graphics/CG-FinalExam/src/lightingParams.java`
+- `reports/Computer Graphics/CG-FinalExam/src/shaderProgram.java`
+- `reports/Computer Graphics/CG-FinalExam/src/simpleShape.java`
+- `reports/Computer Graphics/CG-FinalExam/src/tessMain.java`
+- `reports/Computer Graphics/CG-FinalExam/src/tessMain2.java`
+- `reports/Computer Graphics/CG-FinalExam/src/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/bin/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/cg2Shape.java`
+- `reports/Computer Graphics/anotherFinal/src/Shapes.java`
+- `reports/Computer Graphics/anotherFinal/src/cg1Shape.java`
+- `reports/Computer Graphics/anotherFinal/src/coordinates.java`
+- `reports/Computer Graphics/anotherFinal/src/lightingParams.java`
+- `reports/Computer Graphics/anotherFinal/src/shaderProgram.java`
+- `reports/Computer Graphics/anotherFinal/src/simpleShape.java`
+- `reports/Computer Graphics/anotherFinal/src/tessMain.java`
+- `reports/Computer Graphics/anotherFinal/src/texture.jpg`
+- `reports/Computer Graphics/anotherFinal/textureMain.java`
+- `reports/Computer Graphics/anotherFinal/textureParams.java`
+- `reports/Computer Graphics/anotherandtemFinal/bin/texture.jpg`
+- `reports/Computer Graphics/anotherandtemFinal/src/Coordinates.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/Shapes.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/cg1Shape.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/lightingParams.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/shaderProgram.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/simpleShape.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/tessMain.java`
+- `reports/Computer Graphics/anotherandtemFinal/src/texture.jpg`
+- `reports/Computer_Graphics_with_Open_GL_10.pdf`
+- `reports/Configuring SFML (1).pdf`
+- `reports/Configuring SFML.pdf`
+- `reports/CourseInfo.pdf`
+- `reports/Crypto Homework 1.docx`
+- `reports/Crypto Homework 1.pdf`
+- `reports/Crypto-Homework 6.docx`
+- `reports/Crypto/CryptoEC/ExtraCredit - Cryptography.pdf`
+- `reports/Crypto/CryptoHW1/Crypto Homework 1.docx`
+- `reports/Crypto/CryptoHW1/Crypto Homework 1.pdf`
+- `reports/Crypto/CryptoHW1/out.txt`
+- `reports/Crypto/CryptoHW1/out1.txt`
+- `reports/Crypto/CryptoHW1/out2.txt`
+- `reports/Crypto/CryptoHW1/result.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/out-Piter’s MacBook Pro.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/out.txt`
+- `reports/Crypto/CryptoHw3/Crypthw3/output.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/out-Piter’s MacBook Pro.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/out.txt`
+- `reports/Crypto/CryptoHw3/Crypthw32/output.txt`
+- `reports/Crypto/CryptoHw3/Cryptography Homework 3.docx`
+- `reports/Crypto/CryptoHw3/Cryptography Homework 3.pdf`
+- `reports/Crypto/CryptoHw3/output.txt`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/D8_3 v1_1.pdf`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/chapter_8_homework.pdf`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/ldc_tutorial.pdf`
+- `reports/Crypto/CryptoHw6/Crypto-Homework 6.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6 copy.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6.docx`
+- `reports/Crypto/CryptoHw6/HomeworkCrypt6.pdf`
+- `reports/Crypto/CryptoHw6/LinearAttackO.txt`
+- `reports/Crypto/CryptoHw6/input.txt`
+- `reports/Crypto/CryptoHw6/key.txt`
+- `reports/Crypto/CryptoHw6/laws.pdf`
+- `reports/Cryptography Homework 3.docx`
+- `reports/Cryptography Homework 3.pdf`
+- `reports/D8_3 v1_1.pdf`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.docx`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.pdf`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.docx`
+- `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.pdf`
+- `reports/Data MIning_Best Time To Vacation/Drawing3.pdf`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.TXT`
+- `reports/Data MIning_Best Time To Vacation/Phase2/Phase2.pdf`
+- `reports/Drawing3.pdf`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/Redact.java`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/RedactWriter.java`
+- `reports/Duncan Robert - Java/RushHourGame/243-final-review-answers.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/243-final-review.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/CSC-243-Final-Review-2011-3.pdf`
+- `reports/Duncan Robert - Java/RushHourGame/Java Final Review.rtf`
+- `reports/Duncan Robert - Java/RushHourGame/input.rtf`
+- `reports/Duncan Robert - Java/RushHourGame/javanotesprojecpart1.rtf`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/StdDraw.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Turtle.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/postLabReport.txt`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/AddExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Expression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/IntExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Interp.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/JavaLab3Notes.rtf`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/MulExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/Parse.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/SubExpression.java`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/one1.docx`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/src/BinaryTreeExample.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem1.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem10.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem2.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem3.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem4.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem5.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem6.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem7.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem8.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem9.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/StdDraw.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle copy.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PizzaRun.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PrimeSieve.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem1.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem10.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem2.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem3.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem4.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem5.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem6.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem7.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem8.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem9.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Snowflake.java`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/postLabReport.txt`
+- `reports/Duncan Robert - Java/Stuff/Java .pdf`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/AddExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Expression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/ExpressionTree.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/IntExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Interp.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/MulExpression.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Parse.java`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/SubExpression.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/AudioBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Book.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/ElectronicBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/HardcoverBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/JavaMidtermNotes.txt`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Media.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/PaperbackBook.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/Store.java`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/storeName.png`
+- `reports/Duncan Robert - Java/Stuff/backProjectCode.txt`
+- `reports/Duncan Robert - Java/Stuff/dlab5/BaseballCard.java`
+- `reports/Duncan Robert - Java/Stuff/dlab5/Dealer.java`
+- `reports/Duncan Robert - Java/Stuff/dlab5/Fan.java`
+- `reports/Duncan Robert - Java/Stuff/homework1.docx`
+- `reports/Duncan Robert - Java/Stuff/lab4/Card.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Computer.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Human.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Player.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Poker.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/PokerHand.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Ranks.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Suits.java`
+- `reports/Duncan Robert - Java/Stuff/lab4/Winner.java`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/Redact.java`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/RedactWriter.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/-AliceChapter1.redacted.txt`
+- `reports/Duncan Robert - Java/Stuff/lab7/AliceChapter1.txt`
+- `reports/Duncan Robert - Java/Stuff/lab7/MyException.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/Redact.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/RedactWriter.java`
+- `reports/Duncan Robert - Java/Stuff/lab7/alice-redacts.txt`
+- `reports/Duncan Robert - Java/WaterPuzzle/bin/design.txt`
+- `reports/Duncan Robert - Java/WaterPuzzle/src/design.txt`
+- `reports/Duncan Robert - Java/lab1/PizzaRun.java`
+- `reports/Duncan Robert - Java/lab1/PrimeSieve.java`
+- `reports/Duncan Robert - Java/lab1/Snowflake.java`
+- `reports/Duncan Robert - Java/lab1/StdDraw.java`
+- `reports/Duncan Robert - Java/lab1/Turtle.java`
+- `reports/Duncan Robert - Java/lab1/postLabReport.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/CarRadio.java`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-all.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-power.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-tune3.input.txt`
+- `reports/Duncan Robert - Java/lab2/CarRadio/test-volume1.input.txt`
+- `reports/Duncan Robert - Java/lab3/RegExParser/AddExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Expression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/IntExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Interp.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/MulExpression.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/Parse.java`
+- `reports/Duncan Robert - Java/lab3/RegExParser/SubExpression.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Card.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Computer.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Human.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Player.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Poker.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/PokerHand.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Ranks.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Suits.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Winner.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/BaseballCard.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/Dealer.java`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/Fan.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/Card.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardBack.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardButton.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardFace.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CheatFrame.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/ConcentrationModel.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/GViewControl.java`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/TextViewControl.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/RunWoolies.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/TrollsBridge.java`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/Woolie.java`
+- `reports/DynamicAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/DynamicAV.txt`
+- `reports/DynamicAV1.txt`
+- `reports/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- `reports/Experimental Project - Algo.docx`
+- `reports/ExtraCredit - Cryptography.pdf`
+- `reports/FinalReport.pdf`
+- `reports/GUIDE--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.PDF`
+- `reports/HLSm.pdf`
+- `reports/HW4.docx`
+- `reports/HW4.pdf`
+- `reports/Hirscberg.docx`
+- `reports/HomeworkCrypt6 copy.docx`
+- `reports/HomeworkCrypt6.docx`
+- `reports/HomeworkCrypt6.pdf`
+- `reports/How to Use the vi Editor.pdf`
+- `reports/InSITE10p693-704Ghuloum751.pdf`
+- `reports/Java .pdf`
+- `reports/Java Coding Standard.pdf`
+- `reports/Java Final Review.rtf`
+- `reports/JavaLab3Notes.rtf`
+- `reports/JavaMidtermNotes.txt`
+- `reports/LinearAttackO.txt`
+- `reports/Lines_circles.pdf`
+- `reports/Matrices.pdf`
+- `reports/MemoizationAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/MemoizationAV.txt`
+- `reports/MemoizationAV1.txt`
+- `reports/MidpointLineStarJavaProgram.rtf`
+- `reports/NaiveRecursive--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/NaiveRecursive.txt`
+- `reports/Orange_Book_-_OpenGL_Shading_Language_2nd_Edition.pdf`
+- `reports/Phase2.pdf`
+- `reports/PhillWhite/lab1/PowerSet/PowerSet (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab1/PowerSet/PowerSet.java`
+- `reports/PhillWhite/lab1/UnixAccount/UnixAccount (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab1/UnixAccount/UnixAccount.java`
+- `reports/PhillWhite/lab2/PokerHandA/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandA/Card.java`
+- `reports/PhillWhite/lab2/PokerHandA/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandA/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandA/Human.java`
+- `reports/PhillWhite/lab2/PokerHandA/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandA/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandA/Suits.java`
+- `reports/PhillWhite/lab2/PokerHandB/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Card.java`
+- `reports/PhillWhite/lab2/PokerHandB/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandB/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Human.java`
+- `reports/PhillWhite/lab2/PokerHandB/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandB/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandB/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Suits.java`
+- `reports/PhillWhite/lab2/PokerHandC/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Card.java`
+- `reports/PhillWhite/lab2/PokerHandC/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Computer.java`
+- `reports/PhillWhite/lab2/PokerHandC/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Human.java`
+- `reports/PhillWhite/lab2/PokerHandC/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Poker.java`
+- `reports/PhillWhite/lab2/PokerHandC/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Ranks.java`
+- `reports/PhillWhite/lab2/PokerHandC/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Suits.java`
+- `reports/PhillWhite/lab3/PokerHandD/Card (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Card.java`
+- `reports/PhillWhite/lab3/PokerHandD/Computer (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Computer.java`
+- `reports/PhillWhite/lab3/PokerHandD/Human (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Human.java`
+- `reports/PhillWhite/lab3/PokerHandD/Poker (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Poker.java`
+- `reports/PhillWhite/lab3/PokerHandD/PokerHand (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/PokerHand.java`
+- `reports/PhillWhite/lab3/PokerHandD/Ranks (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Ranks.java`
+- `reports/PhillWhite/lab3/PokerHandD/Suits (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Suits.java`
+- `reports/PhillWhite/lab4/FruitA/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Apples.java`
+- `reports/PhillWhite/lab4/FruitA/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Fruit.java`
+- `reports/PhillWhite/lab4/FruitA/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Mangos.java`
+- `reports/PhillWhite/lab4/FruitA/Peach (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitA/Peach.java`
+- `reports/PhillWhite/lab4/FruitB/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Apples.java`
+- `reports/PhillWhite/lab4/FruitB/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Fruit.java`
+- `reports/PhillWhite/lab4/FruitB/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitB/Mangos.java`
+- `reports/PhillWhite/lab4/FruitC/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Apples.java`
+- `reports/PhillWhite/lab4/FruitC/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Fruit.java`
+- `reports/PhillWhite/lab4/FruitC/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/Mangos.java`
+- `reports/PhillWhite/lab4/FruitC/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitC/TotalPrice.java`
+- `reports/PhillWhite/lab4/FruitD/Apples (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Apples.java`
+- `reports/PhillWhite/lab4/FruitD/Fruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Fruit.java`
+- `reports/PhillWhite/lab4/FruitD/FruitException (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/FruitException.java`
+- `reports/PhillWhite/lab4/FruitD/FruitException2 (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/FruitException2.java`
+- `reports/PhillWhite/lab4/FruitD/Mangoes (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Mangoes.java`
+- `reports/PhillWhite/lab4/FruitD/Mangos (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/Mangos.java`
+- `reports/PhillWhite/lab4/FruitD/TestFruit (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab4/FruitD/TestFruit.java`
+- `reports/PhillWhite/lab5/BinSet/BSTTest.java`
+- `reports/PhillWhite/lab5/BinSet/BinSet.java`
+- `reports/PhillWhite/lab5/BinSet/Card.java`
+- `reports/PhillWhite/lab5/BinSet/Ranks.java`
+- `reports/PhillWhite/lab5/BinSet/Ranks1.java`
+- `reports/PhillWhite/lab5/BinSet/TestBinSet.java`
+- `reports/PhillWhite/lab6/RunWoolies (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab6/TrollsBridge (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab6/TrollsBridge/RunWoolies.java`
+- `reports/PhillWhite/lab6/TrollsBridge/TrollsBridge.java`
+- `reports/PhillWhite/lab6/TrollsBridge/Woolie.java`
+- `reports/PhillWhite/lab6/Woolie (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Contacts (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Contacts.java`
+- `reports/PhillWhite/lab8/AddressBook/MenuSelec (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/MenuSelec.java`
+- `reports/PhillWhite/lab8/AddressBook/Names (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBook/Names.java`
+- `reports/PhillWhite/lab8/AddressBookApp/AddressBook (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBookApp/AddressBook.java`
+- `reports/PhillWhite/lab8/AddressBookApp/Contacts (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab8/AddressBookApp/Contacts.java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader.java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter.java`
+- `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader.java`
+- `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter.java`
+- `reports/PhillWhite/stuff/Example (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/stuff/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/outagain (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/xanadu (2013_03_30 07_27_35 UTC).txt`
+- `reports/PhillWhite/stuff/xanadu.txt`
+- `reports/PointsAndVectors.pdf`
+- `reports/PolygonFill.pdf`
+- `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.txt`
+- `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- `reports/QuadraticAV.txt`
+- `reports/QuadraticAV1.txt`
+- `reports/README--from-MacPorts-2.1.1-config.TXT`
+- `reports/README.TXT`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/Rasterization a line.pdf`
+- `reports/ReadMe.rtf`
+- `reports/RecitationWeek1.docx`
+- `reports/RecitationWeek1.txt`
+- `reports/SPR-51.pdf`
+- `reports/SPR-52.pdf`
+- `reports/TravisBrown/Battleship/JavaProject2/A.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/B.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/C.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/D.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/E.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/F.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/G.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/H.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/I.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/K.jpg`
+- `reports/TravisBrown/Battleship/JavaProject2/download.jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (12).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (13).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (14).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (15).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (16).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (17).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (4).jpeg`
+- `reports/TravisBrown/Battleship/JavaProject2/images (8).jpeg`
+- `reports/TravisBrown/Battleship/Project2/A.jpg`
+- `reports/TravisBrown/Battleship/Project2/B.jpg`
+- `reports/TravisBrown/Battleship/Project2/BattleShip.java`
+- `reports/TravisBrown/Battleship/Project2/BattleShipFrame.java`
+- `reports/TravisBrown/Battleship/Project2/BattleShipModel.java`
+- `reports/TravisBrown/Battleship/Project2/BattleShipTextView.java`
+- `reports/TravisBrown/Battleship/Project2/Board.java`
+- `reports/TravisBrown/Battleship/Project2/C.jpg`
+- `reports/TravisBrown/Battleship/Project2/Cell.java`
+- `reports/TravisBrown/Battleship/Project2/CellButton.java`
+- `reports/TravisBrown/Battleship/Project2/Cells.java`
+- `reports/TravisBrown/Battleship/Project2/CheatFrame.java`
+- `reports/TravisBrown/Battleship/Project2/D.jpg`
+- `reports/TravisBrown/Battleship/Project2/E.jpg`
+- `reports/TravisBrown/Battleship/Project2/F.jpg`
+- `reports/TravisBrown/Battleship/Project2/G.jpg`
+- `reports/TravisBrown/Battleship/Project2/H.jpg`
+- `reports/TravisBrown/Battleship/Project2/I.jpg`
+- `reports/TravisBrown/Battleship/Project2/ImageSplitTest.java`
+- `reports/TravisBrown/Battleship/Project2/K.jpg`
+- `reports/TravisBrown/Battleship/Project2/MyException.java`
+- `reports/TravisBrown/Battleship/Project2/Ship.java`
+- `reports/TravisBrown/Battleship/Project2/Water.java`
+- `reports/TravisBrown/Battleship/Project2/battleship.jpeg`
+- `reports/TravisBrown/Lab8/TrollsBridge/RunWoolies.java`
+- `reports/TravisBrown/Lab8/TrollsBridge/TrollsBridge.java`
+- `reports/TravisBrown/Lab8/TrollsBridge/Woolie.java`
+- `reports/TravisBrown/PrinterSim/data-in.txt`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/A.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/B.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShip.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipFrame.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipModel.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipTextView.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Board.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/C.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Cell.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/CellButton.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Cells.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/CheatFrame.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/D.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/E.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/F.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/G.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/H.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/I.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/ImageSplitTest.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/K.jpg`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/MyException.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Ship.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/Water.java`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/battleship.jpeg`
+- `reports/TravisBrown/lab1/lab1/InsertionSort.java`
+- `reports/TravisBrown/lab1/lab1/PizzaRun.java`
+- `reports/TravisBrown/lab1/lab1/Snowflake.java`
+- `reports/TravisBrown/lab1/lab1/StdDraw.java`
+- `reports/TravisBrown/lab1/lab1/Turtle.java`
+- `reports/TravisBrown/lab1/lab1/postLabReport.txt`
+- `reports/TravisBrown/lab2/pokerhand/Card.java`
+- `reports/TravisBrown/lab2/pokerhand/Computer.java`
+- `reports/TravisBrown/lab2/pokerhand/Human.java`
+- `reports/TravisBrown/lab2/pokerhand/Poker.java`
+- `reports/TravisBrown/lab2/pokerhand/PokerHand.java`
+- `reports/TravisBrown/lab2/pokerhand/Ranks.java`
+- `reports/TravisBrown/lab2/pokerhand/Suits.java`
+- `reports/TravisBrown/lab3/PassengerPriority/Flight.java`
+- `reports/TravisBrown/lab3/PassengerPriority/HeapQueue.java`
+- `reports/TravisBrown/lab3/PassengerPriority/LinkedListQueue.java`
+- `reports/TravisBrown/lab3/PassengerPriority/Passenger.java`
+- `reports/TravisBrown/lab3/PassengerPriority/PriorityQueue.java`
+- `reports/TravisBrown/lab4/BookStore/AudioBook.java`
+- `reports/TravisBrown/lab4/BookStore/Book.java`
+- `reports/TravisBrown/lab4/BookStore/CassetteBook.java`
+- `reports/TravisBrown/lab4/BookStore/ElectronicBook.java`
+- `reports/TravisBrown/lab4/BookStore/HardcoverBook.java`
+- `reports/TravisBrown/lab4/BookStore/Media.java`
+- `reports/TravisBrown/lab4/BookStore/PaperbackBook.java`
+- `reports/TravisBrown/lab4/BookStore/Store.java`
+- `reports/TravisBrown/lab5/BinSet.java`
+- `reports/TravisBrown/lab6/BookStoreApp/AudioBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/BarneysBooks.java`
+- `reports/TravisBrown/lab6/BookStoreApp/Book.java`
+- `reports/TravisBrown/lab6/BookStoreApp/CassetteBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/ElectronicBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/GViewControl.java`
+- `reports/TravisBrown/lab6/BookStoreApp/HardcoverBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/Media.java`
+- `reports/TravisBrown/lab6/BookStoreApp/PaperbackBook.java`
+- `reports/TravisBrown/lab6/BookStoreApp/Store.java`
+- `reports/TravisBrown/lab6/BookStoreApp/input.txt`
+- `reports/TravisBrown/lab6/BookStoreApp/storeName.png`
+- `reports/TravisBrown/lab7/Redacter/-AliceChapter1.redacted.txt`
+- `reports/TravisBrown/lab7/Redacter/AliceChapter1.txt`
+- `reports/TravisBrown/lab7/Redacter/MyException.java`
+- `reports/TravisBrown/lab7/Redacter/Redact.java`
+- `reports/TravisBrown/lab7/Redacter/RedactWriter.java`
+- `reports/TravisBrown/lab7/Redacter/alice-redacts.txt`
+- `reports/TravisBrown/stuff/lab1/InsertionSort.java`
+- `reports/TravisBrown/stuff/lab1/PizzaRun.java`
+- `reports/TravisBrown/stuff/lab1/Snowflake.java`
+- `reports/TravisBrown/stuff/lab1/StdDraw.java`
+- `reports/TravisBrown/stuff/lab1/Turtle.java`
+- `reports/TravisBrown/stuff/lab1/postLabReport.txt`
+- `reports/TravisBrown/stuff/lab2/Card.java`
+- `reports/TravisBrown/stuff/lab2/Computer.java`
+- `reports/TravisBrown/stuff/lab2/Human.java`
+- `reports/TravisBrown/stuff/lab2/Poker.java`
+- `reports/TravisBrown/stuff/lab2/PokerHand.java`
+- `reports/TravisBrown/stuff/lab2/Ranks.java`
+- `reports/TravisBrown/stuff/lab2/Suits.java`
+- `reports/Unix Reference Card.pdf`
+- `reports/WhatIsCG.pdf`
+- `reports/alice-redacts--from-Stuff-lab7.txt`
+- `reports/alice-redacts--from-lab7-Redacter.txt`
+- `reports/alice-redacts.txt`
+- `reports/backProjectCode.txt`
+- `reports/cghw2answers.docx`
+- `reports/cgnotespart1.pdf`
+- `reports/chapter_8_homework.pdf`
+- `reports/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- `reports/chesssetup.txt`
+- `reports/data-in.txt`
+- `reports/design--from-WaterPuzzle-bin.txt`
+- `reports/design--from-WaterPuzzle-src.txt`
+- `reports/design.txt`
+- `reports/dirList.docx`
+- `reports/final exam - answer1.docx`
+- `reports/graphicass01.doc`
+- `reports/guide to try.pdf`
+- `reports/guide.pdf`
+- `reports/homework1.docx`
+- `reports/hspr.pdf`
+- `reports/hw6.pdf`
+- `reports/input--from-Crypto-CryptoHw6.txt`
+- `reports/input.rtf`
+- `reports/input.txt`
+- `reports/introduction to OpenGL.pdf`
+- `reports/javanotesprojecpart1.rtf`
+- `reports/jinput_license.txt`
+- `reports/jogl_license.txt`
+- `reports/key.txt`
+- `reports/laws.pdf`
+- `reports/ldc_tutorial.pdf`
+- `reports/lzma_license.txt`
+- `reports/one1.docx`
+- `reports/openal_license.txt`
+- `reports/opengl-programming-guide-7e.pdf`
+- `reports/out--from-CryptoHw3-Crypthw3.txt`
+- `reports/out--from-CryptoHw3-Crypthw32.txt`
+- `reports/out-Piter’s MacBook Pro.txt`
+- `reports/out.txt`
+- `reports/out1.txt`
+- `reports/out2.txt`
+- `reports/outagain (2013_03_30 07_27_35 UTC).txt`
+- `reports/output--from-Crypto-CryptoHw3.txt`
+- `reports/output--from-CryptoHw3-Crypthw3.txt`
+- `reports/output--from-CryptoHw3-Crypthw32.txt`
+- `reports/output.txt`
+- `reports/postLabReport--from-243_Lab1-src.txt`
+- `reports/postLabReport--from-CS243_lab1-src.txt`
+- `reports/postLabReport--from-Duncan-Robert---Java-lab1.txt`
+- `reports/postLabReport.txt`
+- `reports/questionare.rtf`
+- `reports/report - Copy.pdf`
+- `reports/report.bib`
+- `reports/report.pdf`
+- `reports/report.tex`
+- `reports/resources.txt`
+- `reports/result (2013_03_30 07_27_35 UTC).txt`
+- `reports/result.txt`
+- `reports/results (2013_03_30 07_27_35 UTC).txt`
+- `reports/retirizercopy.rtf`
+- `reports/sig-alternate.cls`
+- `reports/sig-alternate.tex`
+- `reports/spr.pdf`
+- `reports/stuff/ChestGame_NM/chesssetup.txt`
+- `reports/stuff/ChestGame_NM/design.txt`
+- `reports/stuff/Docs/10.1007-s00145-012-9128-3.pdf`
+- `reports/stuff/Docs/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- `reports/stuff/Docs/How to Use the vi Editor.pdf`
+- `reports/stuff/Docs/Java Coding Standard.pdf`
+- `reports/stuff/Docs/Rasterization a line.pdf`
+- `reports/stuff/Docs/RecitationWeek1.docx`
+- `reports/stuff/Docs/Unix Reference Card.pdf`
+- `reports/stuff/Docs/guide to try.pdf`
+- `reports/stuff/Docs/guide.pdf`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jinput_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jogl_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/lzma_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/openal_license.txt`
+- `reports/stuff/Docs/lwjgl-2.9.0/res/resources.txt`
+- `reports/stuff/Docs/questionare.rtf`
+- `reports/stuff/Docs/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- `reports/stuff/Others/RecitationWeek1.txt`
+- `reports/tessellation.pdf`
+- `reports/test-all.input.txt`
+- `reports/test-power.input.txt`
+- `reports/test-tune3.input.txt`
+- `reports/test-volume1.input.txt`
+- `reports/test.txt`
+- `reports/tut1a.pdf`
+- `reports/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- `reports/xanadu (2013_03_30 07_27_35 UTC).txt`
+- `reports/xanadu.txt`
+
+### Presentations
+- `Duncan Robert - Java/Stuff/lab4/Deck.java`
+- `Duncan Robert - Java/lab4/PokerHand1/Deck.java`
+- `PhillWhite/lab2/PokerHandA/Deck.java`
+- `PhillWhite/lab2/PokerHandB/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/lab2/PokerHandB/Deck.java`
+- `PhillWhite/lab2/PokerHandC/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/lab2/PokerHandC/Deck.java`
+- `PhillWhite/lab3/PokerHandD/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/lab3/PokerHandD/Deck.java`
+- `PhillWhite/stuff/Lab3/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/stuff/lab2/lab2-1/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/stuff/lab2/lab2-2/Deck (2013_03_30 07_27_35 UTC).java`
+- `PhillWhite/stuff/lab2/lab2-3/Deck (2013_03_30 07_27_35 UTC).java`
+- `TravisBrown/lab2/pokerhand/Deck.java`
+- `TravisBrown/stuff/lab2/Deck.java`
+- `presentations/2IV60_1_intro.ppt`
+- `presentations/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`
+- `presentations/Crypto/CryptoHw3/Lecture16.ppt`
+- `presentations/Lecture16.ppt`
+- `presentations/stuff/Docs/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`
+- `reports/Duncan Robert - Java/Stuff/lab4/Deck.java`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandA/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandB/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandB/Deck.java`
+- `reports/PhillWhite/lab2/PokerHandC/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab2/PokerHandC/Deck.java`
+- `reports/PhillWhite/lab3/PokerHandD/Deck (2013_03_30 07_27_35 UTC).java`
+- `reports/PhillWhite/lab3/PokerHandD/Deck.java`
+- `reports/TravisBrown/lab2/pokerhand/Deck.java`
+- `reports/TravisBrown/stuff/lab2/Deck.java`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `APCG-HW1/-Inventory.md`
+- `APCG-HW1/README.md`
+- `AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/README.md`
+- `AlgoExpProject/AlgoExpProject-2013-12-03/README.md`
+- `AlgoExpProject/README.md`
+- `AlgoExpProject/src/README.md`
+- `BischofsClass/-Inventory.md`
+- `BischofsClass/CrapsGame/-Inventory.md`
+- `BischofsClass/CrapsGame/README.md`
+- `BischofsClass/CrapsGame/src/-Inventory.md`
+- `BischofsClass/CrapsGame/src/README.md`
+- `BischofsClass/README.md`
+- `BischofsClass/hw1/-Inventory.md`
+- `BischofsClass/hw1/Expression/-Inventory.md`
+- `BischofsClass/hw1/Expression/README.md`
+- `BischofsClass/hw1/Quad/-Inventory.md`
+- `BischofsClass/hw1/Quad/README.md`
+- `BischofsClass/hw1/README.md`
+- `BischofsClass/hw2/-Inventory.md`
+- `BischofsClass/hw2/Fibonacci/-Inventory.md`
+- `BischofsClass/hw2/Fibonacci/README.md`
+- `BischofsClass/hw2/README.md`
+- `BischofsClass/hw3/-Inventory.md`
+- `BischofsClass/hw3/Person/-Inventory.md`
+- `BischofsClass/hw3/Person/README.md`
+- `BischofsClass/hw3/README.md`
+- `BischofsClass/hw3/WordCount/-Inventory.md`
+- `BischofsClass/hw3/WordCount/README.md`
+- `BischofsClass/hw4/README.md`
+- `BischofsClass/hw4/lab4-1/README.md`
+- `BischofsClass/hw4/lab4-2/README.md`
+- `BischofsClass/hw4/lab4-3/README.md`
+- `BischofsClass/hw4/lab4-4/README.md`
+- `BischofsClass/hw5/-Inventory.md`
+- `BischofsClass/hw5/MyHashSetA/-Inventory.md`
+- `BischofsClass/hw5/MyHashSetA/README.md`
+- `BischofsClass/hw5/MyHashSetB/-Inventory.md`
+- `BischofsClass/hw5/MyHashSetB/README.md`
+- `BischofsClass/hw5/README.md`
+- `BischofsClass/hw6/-Inventory.md`
+- `BischofsClass/hw6/MyLinkedLists/-Inventory.md`
+- `BischofsClass/hw6/MyLinkedLists/README.md`
+- `BischofsClass/hw6/MyLinkedListsA/-Inventory.md`
+- `BischofsClass/hw6/MyLinkedListsA/README.md`
+- `BischofsClass/hw6/README.md`
+- `BischofsClass/hw7/-Inventory.md`
+- `BischofsClass/hw7/Matrix/-Inventory.md`
+- `BischofsClass/hw7/Matrix/README.md`
+- `BischofsClass/hw7/Prime/-Inventory.md`
+- `BischofsClass/hw7/Prime/README.md`
+- `BischofsClass/hw7/README.md`
+- `BischofsClass/hw7/UnHealthy/-Inventory.md`
+- `BischofsClass/hw7/UnHealthy/README.md`
+- `BischofsClass/hw8/-Inventory.md`
+- `BischofsClass/hw8/DeadLock/-Inventory.md`
+- `BischofsClass/hw8/DeadLock/README.md`
+- `BischofsClass/hw8/MusicalChairs/-Inventory.md`
+- `BischofsClass/hw8/MusicalChairs/README.md`
+- `BischofsClass/hw8/README.md`
+- `Computer Graphics/-Inventory.md`
+- `Computer Graphics/CG-FinalExam/README.md`
+- `Computer Graphics/CG-FinalExam/bin/README.md`
+- `Computer Graphics/CG-FinalExam/src/README.md`
+- `Computer Graphics/CG1/-Inventory.md`
+- `Computer Graphics/CG1/README.md`
+- `Computer Graphics/CG1/src/-Inventory.md`
+- `Computer Graphics/CG1/src/README.md`
+- `Computer Graphics/CG15/-Inventory.md`
+- `Computer Graphics/CG15/README.md`
+- `Computer Graphics/CG15/src/-Inventory.md`
+- `Computer Graphics/CG15/src/README.md`
+- `Computer Graphics/CG1A2/-Inventory.md`
+- `Computer Graphics/CG1A2/README.md`
+- `Computer Graphics/CG1A2/src/-Inventory.md`
+- `Computer Graphics/CG1A2/src/README.md`
+- `Computer Graphics/CG1A3/-Inventory.md`
+- `Computer Graphics/CG1A3/README.md`
+- `Computer Graphics/CG1A3/src/-Inventory.md`
+- `Computer Graphics/CG1A3/src/README.md`
+- `Computer Graphics/CG1A4/-Inventory.md`
+- `Computer Graphics/CG1A4/README.md`
+- `Computer Graphics/CG1A4/src/-Inventory.md`
+- `Computer Graphics/CG1A4/src/README.md`
+- `Computer Graphics/CG1A5/-Inventory.md`
+- `Computer Graphics/CG1A5/README.md`
+- `Computer Graphics/CG1A5/src/-Inventory.md`
+- `Computer Graphics/CG1A5/src/README.md`
+- `Computer Graphics/CG1A7/-Inventory.md`
+- `Computer Graphics/CG1A7/README.md`
+- `Computer Graphics/CG1A7/bin/-Inventory.md`
+- `Computer Graphics/CG1A7/bin/README.md`
+- `Computer Graphics/CG1A7/src/README.md`
+- `Computer Graphics/CG1A72/-Inventory.md`
+- `Computer Graphics/CG1A72/README.md`
+- `Computer Graphics/CG1A72/bin/-Inventory.md`
+- `Computer Graphics/CG1A72/bin/README.md`
+- `Computer Graphics/CG1A72/src/-Inventory.md`
+- `Computer Graphics/CG1A72/src/README.md`
+- `Computer Graphics/CGA6/README.md`
+- `Computer Graphics/CGA6/src/README.md`
+- `Computer Graphics/CGMidterm/README.md`
+- `Computer Graphics/CGMidterm/src/README.md`
+- `Computer Graphics/Computer Graphics  - part1/Assignment4/README.md`
+- `Computer Graphics/Computer Graphics  - part1/CG-FinalExam/README.md`
+- `Computer Graphics/Computer Graphics  - part1/CG-FinalExam/bin/README.md`
+- `Computer Graphics/Computer Graphics  - part1/README.md`
+- `Computer Graphics/Computer Graphics  - part1/anotherandtemFinal/README.md`
+- `Computer Graphics/Computer Graphics  - part1/anotherandtemFinal/bin/README.md`
+- `Computer Graphics/Computer Graphics  - part1/anotherandtemFinal/src/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/CG1-HW4/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/cg1-clip/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/cg1-clip/c++/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/cg1-line/README.md`
+- `Computer Graphics/Computer Graphics 1 - part2/cg1-line/c++/README.md`
+- `Computer Graphics/FinalExample/README.md`
+- `Computer Graphics/FinalExample/lib/README.md`
+- `Computer Graphics/FinalProject/README.md`
+- `Computer Graphics/FinalProject/bin/README.md`
+- `Computer Graphics/HelloWorld/README.md`
+- `Computer Graphics/README.md`
+- `Computer Graphics/anotherFinal/README.md`
+- `Computer Graphics/anotherFinal/bin/README.md`
+- `Computer Graphics/anotherFinal/src/README.md`
+- `Computer Graphics/anotherandtemFinal/README.md`
+- `Computer Graphics/anotherandtemFinal/bin/README.md`
+- `Computer Graphics/anotherandtemFinal/src/README.md`
+- `Crypto/-Inventory.md`
+- `Crypto/CryptoEC/-Inventory.md`
+- `Crypto/CryptoEC/README.md`
+- `Crypto/CryptoHW1/-Inventory.md`
+- `Crypto/CryptoHW1/README.md`
+- `Crypto/CryptoHw3/-Inventory.md`
+- `Crypto/CryptoHw3/Crypthw3/-Inventory.md`
+- `Crypto/CryptoHw3/Crypthw3/README.md`
+- `Crypto/CryptoHw3/Crypthw3/src/-Inventory.md`
+- `Crypto/CryptoHw3/Crypthw3/src/README.md`
+- `Crypto/CryptoHw3/Crypthw32/-Inventory.md`
+- `Crypto/CryptoHw3/Crypthw32/README.md`
+- `Crypto/CryptoHw3/Crypthw32/src/-Inventory.md`
+- `Crypto/CryptoHw3/Crypthw32/src/README.md`
+- `Crypto/CryptoHw3/README.md`
+- `Crypto/CryptoHw6/-Inventory.md`
+- `Crypto/CryptoHw6/Crypthw6/-Inventory.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/project.xcworkspace/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/xcuserdata/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6/-Inventory.md`
+- `Crypto/CryptoHw6/Crypthw6/Crypthw6/README.md`
+- `Crypto/CryptoHw6/Crypthw6/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/-Inventory.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/project.xcworkspace/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/xcuserdata/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `Crypto/CryptoHw6/Crypthw6/cryptohw6/cryptohw6.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `Crypto/CryptoHw6/README.md`
+- `Crypto/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Data MIning_Best Time To Vacation/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/BestVacation/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/BestVacation/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/jobs/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cflib1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/cregistry/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/darwintracelib1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/machista1.0/tests/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/macports1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/package1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/src/pextlib1.0/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/tests/test/case-insensitive-deactivate/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/22/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/22/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/30/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/10/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/01/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/11/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/2013/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/images/facebook_profiles/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/searchPlace/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/searchPlace/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/Data Cleaning/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/Data Cleaning/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/README.md`
+- `Data MIning_Best Time To Vacation/Phase2/Sample Images/-Inventory.md`
+- `Data MIning_Best Time To Vacation/Phase2/Sample Images/README.md`
+- `Data MIning_Best Time To Vacation/README.md`
+- `Duncan Robert - Java/-Inventory.md`
+- `Duncan Robert - Java/Lab7/README.md`
+- `Duncan Robert - Java/Lab7/Redacter1/README.md`
+- `Duncan Robert - Java/README.md`
+- `Duncan Robert - Java/RushHourGame/-Inventory.md`
+- `Duncan Robert - Java/RushHourGame/README.md`
+- `Duncan Robert - Java/Stuff/-Inventory.md`
+- `Duncan Robert - Java/Stuff/243_Lab1/README.md`
+- `Duncan Robert - Java/Stuff/243_Lab1/src/README.md`
+- `Duncan Robert - Java/Stuff/243_Lab3/README.md`
+- `Duncan Robert - Java/Stuff/BinaryTree/-Inventory.md`
+- `Duncan Robert - Java/Stuff/BinaryTree/README.md`
+- `Duncan Robert - Java/Stuff/BinaryTree/src/-Inventory.md`
+- `Duncan Robert - Java/Stuff/BinaryTree/src/README.md`
+- `Duncan Robert - Java/Stuff/CS243_lab1/README.md`
+- `Duncan Robert - Java/Stuff/CS243_lab1/src/README.md`
+- `Duncan Robert - Java/Stuff/JavaLab3/README.md`
+- `Duncan Robert - Java/Stuff/JavaLab3/src/README.md`
+- `Duncan Robert - Java/Stuff/LabWeek7/README.md`
+- `Duncan Robert - Java/Stuff/README.md`
+- `Duncan Robert - Java/Stuff/dlab5/README.md`
+- `Duncan Robert - Java/Stuff/lab4/README.md`
+- `Duncan Robert - Java/Stuff/lab7 2/README.md`
+- `Duncan Robert - Java/Stuff/lab7/README.md`
+- `Duncan Robert - Java/WaterPuzzle/-Inventory.md`
+- `Duncan Robert - Java/WaterPuzzle/README.md`
+- `Duncan Robert - Java/WaterPuzzle/src/-Inventory.md`
+- `Duncan Robert - Java/WaterPuzzle/src/README.md`
+- `Duncan Robert - Java/lab1/README.md`
+- `Duncan Robert - Java/lab2/CarRadio/README.md`
+- `Duncan Robert - Java/lab2/README.md`
+- `Duncan Robert - Java/lab3/README.md`
+- `Duncan Robert - Java/lab3/RegExParser/README.md`
+- `Duncan Robert - Java/lab4/PokerHand1/README.md`
+- `Duncan Robert - Java/lab4/README.md`
+- `Duncan Robert - Java/lab5/BCardsDealer/README.md`
+- `Duncan Robert - Java/lab5/README.md`
+- `Duncan Robert - Java/lab6/BCardsDealerApp/README.md`
+- `Duncan Robert - Java/lab6/README.md`
+- `Duncan Robert - Java/lab8/README.md`
+- `Duncan Robert - Java/lab8/TrollsBridge/README.md`
+- `FCT_ExtracCredit/-Inventory.md`
+- `FCT_ExtracCredit/README.md`
+- `FCT_ExtracCredit/src/-Inventory.md`
+- `FCT_ExtracCredit/src/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `PhillWhite/-Inventory.md`
+- `PhillWhite/Concentration/-Inventory.md`
+- `PhillWhite/Concentration/README.md`
+- `PhillWhite/Concentration/src/-Inventory.md`
+- `PhillWhite/Concentration/src/README.md`
+- `PhillWhite/README.md`
+- `PhillWhite/lab1/PowerSet/README.md`
+- `PhillWhite/lab1/README.md`
+- `PhillWhite/lab1/UnixAccount/README.md`
+- `PhillWhite/lab2/PokerHandA/README.md`
+- `PhillWhite/lab2/PokerHandB/README.md`
+- `PhillWhite/lab2/PokerHandC/README.md`
+- `PhillWhite/lab2/README.md`
+- `PhillWhite/lab3/PokerHandD/README.md`
+- `PhillWhite/lab3/README.md`
+- `PhillWhite/lab4/FruitA/README.md`
+- `PhillWhite/lab4/FruitB/README.md`
+- `PhillWhite/lab4/FruitC/README.md`
+- `PhillWhite/lab4/FruitD/README.md`
+- `PhillWhite/lab4/README.md`
+- `PhillWhite/lab5/BinSet/README.md`
+- `PhillWhite/lab5/README.md`
+- `PhillWhite/lab6/README.md`
+- `PhillWhite/lab6/TrollsBridge/README.md`
+- `PhillWhite/lab8/AddressBook/README.md`
+- `PhillWhite/lab8/AddressBookApp/README.md`
+- `PhillWhite/lab8/README.md`
+- `PhillWhite/lab9/README.md`
+- `PhillWhite/lab9/VCipherReader/README.md`
+- `PhillWhite/lab9/VCipherReaderA/README.md`
+- `PhillWhite/lab9/VCipherReaderB/README.md`
+- `PhillWhite/lab9/VCipherReaderC/README.md`
+- `PhillWhite/lab9/VCipherReaderC/lab9_1/README.md`
+- `PhillWhite/lab9/VCipherReaderC/lab9_2/README.md`
+- `PhillWhite/stuff/-Inventory.md`
+- `PhillWhite/stuff/AssignmentLab5/README.md`
+- `PhillWhite/stuff/AssignmentLab5/src/README.md`
+- `PhillWhite/stuff/AssignmentLab5/src/trials/README.md`
+- `PhillWhite/stuff/Concentration/-Inventory.md`
+- `PhillWhite/stuff/Concentration/README.md`
+- `PhillWhite/stuff/Lab3/README.md`
+- `PhillWhite/stuff/README.md`
+- `PhillWhite/stuff/lab1/README.md`
+- `PhillWhite/stuff/lab1/lab1-1/README.md`
+- `PhillWhite/stuff/lab1/lab1-2/README.md`
+- `PhillWhite/stuff/lab2/README.md`
+- `PhillWhite/stuff/lab2/lab2-1/README.md`
+- `PhillWhite/stuff/lab2/lab2-2/README.md`
+- `PhillWhite/stuff/lab2/lab2-3/README.md`
+- `PhillWhite/stuff/lab4/README.md`
+- `PhillWhite/stuff/lab4/lab4-1/README.md`
+- `PhillWhite/stuff/lab4/lab4-2/README.md`
+- `PhillWhite/stuff/lab4test/README.md`
+- `README.md`
+- `TravisBrown/-Inventory.md`
+- `TravisBrown/Battleship/-Inventory.md`
+- `TravisBrown/Battleship/JavaProject2/README.md`
+- `TravisBrown/Battleship/Project2/README.md`
+- `TravisBrown/Battleship/README.md`
+- `TravisBrown/Battleship/src/-Inventory.md`
+- `TravisBrown/Battleship/src/README.md`
+- `TravisBrown/Lab8/README.md`
+- `TravisBrown/Lab8/TrollsBridge/README.md`
+- `TravisBrown/PrinterSim/-Inventory.md`
+- `TravisBrown/PrinterSim/README.md`
+- `TravisBrown/PrinterSim/src/-Inventory.md`
+- `TravisBrown/PrinterSim/src/README.md`
+- `TravisBrown/README.md`
+- `TravisBrown/SubmittedFinalProject/Project2/README.md`
+- `TravisBrown/SubmittedFinalProject/README.md`
+- `TravisBrown/lab1/README.md`
+- `TravisBrown/lab1/lab1/README.md`
+- `TravisBrown/lab2/README.md`
+- `TravisBrown/lab2/pokerhand/README.md`
+- `TravisBrown/lab3/PassengerPriority/README.md`
+- `TravisBrown/lab3/README.md`
+- `TravisBrown/lab4/BookStore/README.md`
+- `TravisBrown/lab4/README.md`
+- `TravisBrown/lab5/README.md`
+- `TravisBrown/lab6/BookStoreApp/README.md`
+- `TravisBrown/lab6/README.md`
+- `TravisBrown/lab7/README.md`
+- `TravisBrown/lab7/Redacter/README.md`
+- `TravisBrown/stuff/Lab7/README.md`
+- `TravisBrown/stuff/Lab8/README.md`
+- `TravisBrown/stuff/README.md`
+- `TravisBrown/stuff/lab1/README.md`
+- `TravisBrown/stuff/lab2/README.md`
+- `TravisBrown/stuff/lab3/README.md`
+- `TravisBrown/stuff/lab4/README.md`
+- `TravisBrown/stuff/lab5/README.md`
+- `TravisBrown/stuff/lab6/README.md`
+- `presentations/-Inventory.md`
+- `presentations/Crypto/-Inventory.md`
+- `presentations/Crypto/CryptoHw3/-Inventory.md`
+- `presentations/Crypto/CryptoHw3/README.md`
+- `presentations/Crypto/README.md`
+- `presentations/README.md`
+- `presentations/stuff/-Inventory.md`
+- `presentations/stuff/Docs/-Inventory.md`
+- `presentations/stuff/Docs/README.md`
+- `presentations/stuff/README.md`
+- `reports/-Inventory.md`
+- `reports/AlgoExpProject/-Inventory.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/-Inventory.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/-Inventory.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/README.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/README.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/-Inventory.md`
+- `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/README.md`
+- `reports/AlgoExpProject/README.md`
+- `reports/AlgoExpProject/bin/-Inventory.md`
+- `reports/AlgoExpProject/bin/README.md`
+- `reports/AlgoExpProject/src/-Inventory.md`
+- `reports/AlgoExpProject/src/README.md`
+- `reports/BischofsClass/-Inventory.md`
+- `reports/BischofsClass/README.md`
+- `reports/BischofsClass/hw4/-Inventory.md`
+- `reports/BischofsClass/hw4/README.md`
+- `reports/BischofsClass/hw4/lab4-1/-Inventory.md`
+- `reports/BischofsClass/hw4/lab4-1/README.md`
+- `reports/BischofsClass/hw4/lab4-2/-Inventory.md`
+- `reports/BischofsClass/hw4/lab4-2/README.md`
+- `reports/BischofsClass/hw4/lab4-3/-Inventory.md`
+- `reports/BischofsClass/hw4/lab4-3/README.md`
+- `reports/BischofsClass/hw4/lab4-4/-Inventory.md`
+- `reports/BischofsClass/hw4/lab4-4/README.md`
+- `reports/BischofsClass/hw5/-Inventory.md`
+- `reports/BischofsClass/hw5/MyHashSetB/-Inventory.md`
+- `reports/BischofsClass/hw5/MyHashSetB/README.md`
+- `reports/BischofsClass/hw5/README.md`
+- `reports/Computer Graphics/-Inventory.md`
+- `reports/Computer Graphics/CG-FinalExam/-Inventory.md`
+- `reports/Computer Graphics/CG-FinalExam/README.md`
+- `reports/Computer Graphics/CG-FinalExam/bin/-Inventory.md`
+- `reports/Computer Graphics/CG-FinalExam/bin/README.md`
+- `reports/Computer Graphics/CG-FinalExam/src/-Inventory.md`
+- `reports/Computer Graphics/CG-FinalExam/src/README.md`
+- `reports/Computer Graphics/README.md`
+- `reports/Computer Graphics/anotherFinal/-Inventory.md`
+- `reports/Computer Graphics/anotherFinal/README.md`
+- `reports/Computer Graphics/anotherFinal/bin/-Inventory.md`
+- `reports/Computer Graphics/anotherFinal/bin/README.md`
+- `reports/Computer Graphics/anotherFinal/src/-Inventory.md`
+- `reports/Computer Graphics/anotherFinal/src/README.md`
+- `reports/Computer Graphics/anotherandtemFinal/-Inventory.md`
+- `reports/Computer Graphics/anotherandtemFinal/README.md`
+- `reports/Computer Graphics/anotherandtemFinal/bin/-Inventory.md`
+- `reports/Computer Graphics/anotherandtemFinal/bin/README.md`
+- `reports/Computer Graphics/anotherandtemFinal/src/-Inventory.md`
+- `reports/Computer Graphics/anotherandtemFinal/src/README.md`
+- `reports/Crypto/-Inventory.md`
+- `reports/Crypto/CryptoEC/-Inventory.md`
+- `reports/Crypto/CryptoEC/README.md`
+- `reports/Crypto/CryptoHW1/-Inventory.md`
+- `reports/Crypto/CryptoHW1/README.md`
+- `reports/Crypto/CryptoHw3/-Inventory.md`
+- `reports/Crypto/CryptoHw3/Crypthw3/-Inventory.md`
+- `reports/Crypto/CryptoHw3/Crypthw3/README.md`
+- `reports/Crypto/CryptoHw3/Crypthw32/-Inventory.md`
+- `reports/Crypto/CryptoHw3/Crypthw32/README.md`
+- `reports/Crypto/CryptoHw3/README.md`
+- `reports/Crypto/CryptoHw6/-Inventory.md`
+- `reports/Crypto/CryptoHw6/Crypthw6/-Inventory.md`
+- `reports/Crypto/CryptoHw6/Crypthw6/README.md`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/-Inventory.md`
+- `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/README.md`
+- `reports/Crypto/CryptoHw6/README.md`
+- `reports/Crypto/README.md`
+- `reports/Data MIning_Best Time To Vacation/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/README.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/-Inventory.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/README.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/README.md`
+- `reports/Data MIning_Best Time To Vacation/Phase2/README.md`
+- `reports/Data MIning_Best Time To Vacation/README.md`
+- `reports/Duncan Robert - Java/-Inventory.md`
+- `reports/Duncan Robert - Java/Lab7/-Inventory.md`
+- `reports/Duncan Robert - Java/Lab7/README.md`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/-Inventory.md`
+- `reports/Duncan Robert - Java/Lab7/Redacter1/README.md`
+- `reports/Duncan Robert - Java/README.md`
+- `reports/Duncan Robert - Java/RushHourGame/-Inventory.md`
+- `reports/Duncan Robert - Java/RushHourGame/README.md`
+- `reports/Duncan Robert - Java/Stuff/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/README.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab1/src/README.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/243_Lab3/README.md`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/README.md`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/src/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/BinaryTree/src/README.md`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/README.md`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/README.md`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/README.md`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/JavaLab3/src/README.md`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/LabWeek7/README.md`
+- `reports/Duncan Robert - Java/Stuff/README.md`
+- `reports/Duncan Robert - Java/Stuff/dlab5/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/dlab5/README.md`
+- `reports/Duncan Robert - Java/Stuff/lab4/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/lab4/README.md`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/lab7 2/README.md`
+- `reports/Duncan Robert - Java/Stuff/lab7/-Inventory.md`
+- `reports/Duncan Robert - Java/Stuff/lab7/README.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/-Inventory.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/README.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/bin/-Inventory.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/bin/README.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/src/-Inventory.md`
+- `reports/Duncan Robert - Java/WaterPuzzle/src/README.md`
+- `reports/Duncan Robert - Java/lab1/-Inventory.md`
+- `reports/Duncan Robert - Java/lab1/README.md`
+- `reports/Duncan Robert - Java/lab2/-Inventory.md`
+- `reports/Duncan Robert - Java/lab2/CarRadio/-Inventory.md`
+- `reports/Duncan Robert - Java/lab2/CarRadio/README.md`
+- `reports/Duncan Robert - Java/lab2/README.md`
+- `reports/Duncan Robert - Java/lab3/-Inventory.md`
+- `reports/Duncan Robert - Java/lab3/README.md`
+- `reports/Duncan Robert - Java/lab3/RegExParser/-Inventory.md`
+- `reports/Duncan Robert - Java/lab3/RegExParser/README.md`
+- `reports/Duncan Robert - Java/lab4/-Inventory.md`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/-Inventory.md`
+- `reports/Duncan Robert - Java/lab4/PokerHand1/README.md`
+- `reports/Duncan Robert - Java/lab4/README.md`
+- `reports/Duncan Robert - Java/lab5/-Inventory.md`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/-Inventory.md`
+- `reports/Duncan Robert - Java/lab5/BCardsDealer/README.md`
+- `reports/Duncan Robert - Java/lab5/README.md`
+- `reports/Duncan Robert - Java/lab6/-Inventory.md`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/-Inventory.md`
+- `reports/Duncan Robert - Java/lab6/BCardsDealerApp/README.md`
+- `reports/Duncan Robert - Java/lab6/README.md`
+- `reports/Duncan Robert - Java/lab8/-Inventory.md`
+- `reports/Duncan Robert - Java/lab8/README.md`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/-Inventory.md`
+- `reports/Duncan Robert - Java/lab8/TrollsBridge/README.md`
+- `reports/PhillWhite/-Inventory.md`
+- `reports/PhillWhite/README.md`
+- `reports/PhillWhite/lab1/-Inventory.md`
+- `reports/PhillWhite/lab1/PowerSet/-Inventory.md`
+- `reports/PhillWhite/lab1/PowerSet/README.md`
+- `reports/PhillWhite/lab1/README.md`
+- `reports/PhillWhite/lab1/UnixAccount/-Inventory.md`
+- `reports/PhillWhite/lab1/UnixAccount/README.md`
+- `reports/PhillWhite/lab2/-Inventory.md`
+- `reports/PhillWhite/lab2/PokerHandA/-Inventory.md`
+- `reports/PhillWhite/lab2/PokerHandA/README.md`
+- `reports/PhillWhite/lab2/PokerHandB/-Inventory.md`
+- `reports/PhillWhite/lab2/PokerHandB/README.md`
+- `reports/PhillWhite/lab2/PokerHandC/-Inventory.md`
+- `reports/PhillWhite/lab2/PokerHandC/README.md`
+- `reports/PhillWhite/lab2/README.md`
+- `reports/PhillWhite/lab3/-Inventory.md`
+- `reports/PhillWhite/lab3/PokerHandD/-Inventory.md`
+- `reports/PhillWhite/lab3/PokerHandD/README.md`
+- `reports/PhillWhite/lab3/README.md`
+- `reports/PhillWhite/lab4/-Inventory.md`
+- `reports/PhillWhite/lab4/FruitA/-Inventory.md`
+- `reports/PhillWhite/lab4/FruitA/README.md`
+- `reports/PhillWhite/lab4/FruitB/-Inventory.md`
+- `reports/PhillWhite/lab4/FruitB/README.md`
+- `reports/PhillWhite/lab4/FruitC/-Inventory.md`
+- `reports/PhillWhite/lab4/FruitC/README.md`
+- `reports/PhillWhite/lab4/FruitD/-Inventory.md`
+- `reports/PhillWhite/lab4/FruitD/README.md`
+- `reports/PhillWhite/lab4/README.md`
+- `reports/PhillWhite/lab5/-Inventory.md`
+- `reports/PhillWhite/lab5/BinSet/-Inventory.md`
+- `reports/PhillWhite/lab5/BinSet/README.md`
+- `reports/PhillWhite/lab5/README.md`
+- `reports/PhillWhite/lab6/-Inventory.md`
+- `reports/PhillWhite/lab6/README.md`
+- `reports/PhillWhite/lab6/TrollsBridge/-Inventory.md`
+- `reports/PhillWhite/lab6/TrollsBridge/README.md`
+- `reports/PhillWhite/lab8/-Inventory.md`
+- `reports/PhillWhite/lab8/AddressBook/-Inventory.md`
+- `reports/PhillWhite/lab8/AddressBook/README.md`
+- `reports/PhillWhite/lab8/AddressBookApp/-Inventory.md`
+- `reports/PhillWhite/lab8/AddressBookApp/README.md`
+- `reports/PhillWhite/lab8/README.md`
+- `reports/PhillWhite/lab9/-Inventory.md`
+- `reports/PhillWhite/lab9/README.md`
+- `reports/PhillWhite/lab9/VCipherReader/-Inventory.md`
+- `reports/PhillWhite/lab9/VCipherReader/README.md`
+- `reports/PhillWhite/lab9/VCipherReaderA/-Inventory.md`
+- `reports/PhillWhite/lab9/VCipherReaderA/README.md`
+- `reports/PhillWhite/lab9/VCipherReaderB/-Inventory.md`
+- `reports/PhillWhite/lab9/VCipherReaderB/README.md`
+- `reports/PhillWhite/stuff/-Inventory.md`
+- `reports/PhillWhite/stuff/README.md`
+- `reports/README.md`
+- `reports/TravisBrown/-Inventory.md`
+- `reports/TravisBrown/Battleship/-Inventory.md`
+- `reports/TravisBrown/Battleship/JavaProject2/-Inventory.md`
+- `reports/TravisBrown/Battleship/JavaProject2/README.md`
+- `reports/TravisBrown/Battleship/Project2/-Inventory.md`
+- `reports/TravisBrown/Battleship/Project2/README.md`
+- `reports/TravisBrown/Battleship/README.md`
+- `reports/TravisBrown/Lab8/-Inventory.md`
+- `reports/TravisBrown/Lab8/README.md`
+- `reports/TravisBrown/Lab8/TrollsBridge/-Inventory.md`
+- `reports/TravisBrown/Lab8/TrollsBridge/README.md`
+- `reports/TravisBrown/PrinterSim/-Inventory.md`
+- `reports/TravisBrown/PrinterSim/README.md`
+- `reports/TravisBrown/README.md`
+- `reports/TravisBrown/SubmittedFinalProject/-Inventory.md`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/-Inventory.md`
+- `reports/TravisBrown/SubmittedFinalProject/Project2/README.md`
+- `reports/TravisBrown/SubmittedFinalProject/README.md`
+- `reports/TravisBrown/lab1/-Inventory.md`
+- `reports/TravisBrown/lab1/README.md`
+- `reports/TravisBrown/lab1/lab1/-Inventory.md`
+- `reports/TravisBrown/lab1/lab1/README.md`
+- `reports/TravisBrown/lab2/-Inventory.md`
+- `reports/TravisBrown/lab2/README.md`
+- `reports/TravisBrown/lab2/pokerhand/-Inventory.md`
+- `reports/TravisBrown/lab2/pokerhand/README.md`
+- `reports/TravisBrown/lab3/-Inventory.md`
+- `reports/TravisBrown/lab3/PassengerPriority/-Inventory.md`
+- `reports/TravisBrown/lab3/PassengerPriority/README.md`
+- `reports/TravisBrown/lab3/README.md`
+- `reports/TravisBrown/lab4/-Inventory.md`
+- `reports/TravisBrown/lab4/BookStore/-Inventory.md`
+- `reports/TravisBrown/lab4/BookStore/README.md`
+- `reports/TravisBrown/lab4/README.md`
+- `reports/TravisBrown/lab5/-Inventory.md`
+- `reports/TravisBrown/lab5/README.md`
+- `reports/TravisBrown/lab6/-Inventory.md`
+- `reports/TravisBrown/lab6/BookStoreApp/-Inventory.md`
+- `reports/TravisBrown/lab6/BookStoreApp/README.md`
+- `reports/TravisBrown/lab6/README.md`
+- `reports/TravisBrown/lab7/-Inventory.md`
+- `reports/TravisBrown/lab7/README.md`
+- `reports/TravisBrown/lab7/Redacter/-Inventory.md`
+- `reports/TravisBrown/lab7/Redacter/README.md`
+- `reports/TravisBrown/stuff/-Inventory.md`
+- `reports/TravisBrown/stuff/README.md`
+- `reports/TravisBrown/stuff/lab1/-Inventory.md`
+- `reports/TravisBrown/stuff/lab1/README.md`
+- `reports/TravisBrown/stuff/lab2/-Inventory.md`
+- `reports/TravisBrown/stuff/lab2/README.md`
+- `reports/stuff/-Inventory.md`
+- `reports/stuff/ChestGame_NM/-Inventory.md`
+- `reports/stuff/ChestGame_NM/README.md`
+- `reports/stuff/Docs/-Inventory.md`
+- `reports/stuff/Docs/README.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/-Inventory.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/README.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/-Inventory.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/-Inventory.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/README.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/doc/README.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/res/-Inventory.md`
+- `reports/stuff/Docs/lwjgl-2.9.0/res/README.md`
+- `reports/stuff/Others/-Inventory.md`
+- `reports/stuff/Others/README.md`
+- `reports/stuff/README.md`
+- `stuff/-Inventory.md`
+- `stuff/ChestGame_NM/-Inventory.md`
+- `stuff/ChestGame_NM/README.md`
+- `stuff/ChestGame_NM/src/-Inventory.md`
+- `stuff/ChestGame_NM/src/README.md`
+- `stuff/Concentration/-Inventory.md`
+- `stuff/Concentration/README.md`
+- `stuff/Docs/-Inventory.md`
+- `stuff/Docs/README.md`
+- `stuff/Docs/lwjgl-2.9.0/-Inventory.md`
+- `stuff/Docs/lwjgl-2.9.0/README.md`
+- `stuff/Docs/lwjgl-2.9.0/doc/-Inventory.md`
+- `stuff/Docs/lwjgl-2.9.0/doc/README.md`
+- `stuff/Docs/lwjgl-2.9.0/res/-Inventory.md`
+- `stuff/Docs/lwjgl-2.9.0/res/README.md`
+- `stuff/Docs/lwjgl-2.9.0/res/logo/-Inventory.md`
+- `stuff/Docs/lwjgl-2.9.0/res/logo/README.md`
+- `stuff/Docs/lwjgl-2.9.0/res/spaceinvaders/-Inventory.md`
+- `stuff/Docs/lwjgl-2.9.0/res/spaceinvaders/README.md`
+- `stuff/Others/-Inventory.md`
+- `stuff/Others/README.md`
+- `stuff/Quad/-Inventory.md`
+- `stuff/Quad/README.md`
+- `stuff/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-klm - 2 papers, 2505 reports, 6 presentations, 243 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-klm
+- Hub path: `Projects-Code/opc-klm`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
+- Import status: `needs Drive review`
+- Total indexed files in repo: `3257`
+
+### Code / Project Location
+
+- `src/`
+
+Project marker files:
+- `src/KLM/KLM.csproj`
+- `src/KLM/KLM.sln`
+- `src/LightBuzz.Vitruvius/LightBuzz.Vitruvius.csproj`
+
+### Papers
+- `papers/GARCIA BAUTISTA-STUDY PLA1.pdf`
+- `papers/LeapGesture_BScThesis.pdf`
+
+### Reports / Written Documentation
+- `reports/29 Viola et al SP3.pdf`
+- `reports/A0K--from-A-A1.txt`
+- `reports/A0K.txt`
+- `reports/A0LM--from-A-A1.txt`
+- `reports/A0LM.txt`
+- `reports/A1K--from-A-A1.txt`
+- `reports/A1K.txt`
+- `reports/A1LM--from-A-A1.txt`
+- `reports/A1LM.txt`
+- `reports/A2K--from-A-A1.txt`
+- `reports/A2K.txt`
+- `reports/A2LM--from-A-A1.txt`
+- `reports/A2LM.txt`
+- `reports/A3K--from-A-A1.txt`
+- `reports/A3K.txt`
+- `reports/A3LM--from-A-A1.txt`
+- `reports/A3LM.txt`
+- `reports/A4K--from-A-A1.txt`
+- `reports/A4K.txt`
+- `reports/A4LM--from-A-A1.txt`
+- `reports/A4LM.txt`
+- `reports/A5K--from-A-A1.txt`
+- `reports/A5K.txt`
+- `reports/A5LM--from-A-A1.txt`
+- `reports/A5LM.txt`
+- `reports/A6K--from-A-A1.txt`
+- `reports/A6K.txt`
+- `reports/A6LM--from-A-A1.txt`
+- `reports/A6LM.txt`
+- `reports/B0K--from-B-B1.txt`
+- `reports/B0K.txt`
+- `reports/B0LM--from-B-B1.txt`
+- `reports/B0LM.txt`
+- `reports/B1K--from-B-B1.txt`
+- `reports/B1K.txt`
+- `reports/B1LM--from-B-B1.txt`
+- `reports/B1LM.txt`
+- `reports/B2K--from-B-B1.txt`
+- `reports/B2K.txt`
+- `reports/B2LM--from-B-B1.txt`
+- `reports/B2LM.txt`
+- `reports/B3K--from-B-B1.txt`
+- `reports/B3K.txt`
+- `reports/B3LM--from-B-B1.txt`
+- `reports/B3LM.txt`
+- `reports/B4K--from-B-B1.txt`
+- `reports/B4K.txt`
+- `reports/B4LM--from-B-B1.txt`
+- `reports/B4LM.txt`
+- `reports/B5K--from-B-B1.txt`
+- `reports/B5K.txt`
+- `reports/B5LM--from-B-B1.txt`
+- `reports/B5LM.txt`
+- `reports/B6K--from-B-B1.txt`
+- `reports/B6K.txt`
+- `reports/B6LM--from-B-B1.txt`
+- `reports/B6LM.txt`
+- `reports/C0K--from-C-C2.txt`
+- `reports/C0K.txt`
+- `reports/C0LM--from-C-C2.txt`
+- `reports/C0LM.txt`
+- `reports/C1K--from-C-C2.txt`
+- `reports/C1K.txt`
+- `reports/C1LM--from-C-C2.txt`
+- `reports/C1LM.txt`
+- `reports/C2K--from-C-C2.txt`
+- `reports/C2K.txt`
+- `reports/C2LM--from-C-C2.txt`
+- `reports/C2LM.txt`
+- `reports/C3K--from-C-C2.txt`
+- `reports/C3K.txt`
+- `reports/C3LM--from-C-C2.txt`
+- `reports/C3LM.txt`
+- `reports/C4K--from-C-C2.txt`
+- `reports/C4K.txt`
+- `reports/C4LM--from-C-C2.txt`
+- `reports/C4LM.txt`
+- `reports/C5K--from-C-C2.txt`
+- `reports/C5K.txt`
+- `reports/C5LM--from-C-C2.txt`
+- `reports/C5LM.txt`
+- `reports/C6K--from-C-C2.txt`
+- `reports/C6K.txt`
+- `reports/C6LM--from-C-C2.txt`
+- `reports/C6LM.txt`
+- `reports/D0K--from-D-D2.txt`
+- `reports/D0K.txt`
+- `reports/D0LM--from-D-D2.txt`
+- `reports/D0LM.txt`
+- `reports/D1K--from-D-D2.txt`
+- `reports/D1K.txt`
+- `reports/D1LM--from-D-D2.txt`
+- `reports/D1LM.txt`
+- `reports/D2K--from-D-D2.txt`
+- `reports/D2K.txt`
+- `reports/D2LM--from-D-D2.txt`
+- `reports/D2LM.txt`
+- `reports/D3K--from-D-D2.txt`
+- `reports/D3K.txt`
+- `reports/D3LM--from-D-D2.txt`
+- `reports/D3LM.txt`
+- `reports/D4K--from-D-D2.txt`
+- `reports/D4K.txt`
+- `reports/D4LM--from-D-D2.txt`
+- `reports/D4LM.txt`
+- `reports/D5K--from-D-D2.txt`
+- `reports/D5K.txt`
+- `reports/D5LM--from-D-D2.txt`
+- `reports/D5LM.txt`
+- `reports/D6K--from-D-D2.txt`
+- `reports/D6K.txt`
+- `reports/D6LM--from-D-D2.txt`
+- `reports/D6LM.txt`
+- `reports/E0K--from-E-E1.txt`
+- `reports/E0K.txt`
+- `reports/E0LM--from-E-E1.txt`
+- `reports/E0LM.txt`
+- `reports/E1K--from-E-E1.txt`
+- `reports/E1K.txt`
+- `reports/E1LM--from-E-E1.txt`
+- `reports/E1LM.txt`
+- `reports/E2K--from-E-E1.txt`
+- `reports/E2K.txt`
+- `reports/E2LM--from-E-E1.txt`
+- `reports/E2LM.txt`
+- `reports/E3K--from-E-E1.txt`
+- `reports/E3K.txt`
+- `reports/E3LM--from-E-E1.txt`
+- `reports/E3LM.txt`
+- `reports/E4K--from-E-E1.txt`
+- `reports/E4K.txt`
+- `reports/E4LM--from-E-E1.txt`
+- `reports/E4LM.txt`
+- `reports/E5K--from-E-E1.txt`
+- `reports/E5K.txt`
+- `reports/E5LM--from-E-E1.txt`
+- `reports/E5LM.txt`
+- `reports/E6K--from-E-E1.txt`
+- `reports/E6K.txt`
+- `reports/E6LM--from-E-E1.txt`
+- `reports/E6LM.txt`
+- `reports/ElbowLeft              --from-A1-Metrices.txt`
+- `reports/ElbowLeft              --from-A2-Metrices.txt`
+- `reports/ElbowLeft              --from-B2-Metrices.txt`
+- `reports/ElbowLeft              --from-C1-Metrices.txt`
+- `reports/ElbowLeft              --from-C2-Metrices.txt`
+- `reports/ElbowLeft              --from-D1-Metrices.txt`
+- `reports/ElbowLeft              --from-D2-Metrices.txt`
+- `reports/ElbowLeft              --from-E1-Metrices.txt`
+- `reports/ElbowLeft              --from-E2-Metrices.txt`
+- `reports/ElbowLeft              --from-F1-Metrices.txt`
+- `reports/ElbowLeft              --from-F2-Metrices.txt`
+- `reports/ElbowLeft              --from-G1-Metrices.txt`
+- `reports/ElbowLeft              --from-G2-Metrices.txt`
+- `reports/ElbowLeft              .txt`
+- `reports/ElbowRight             --from-A1-Metrices.txt`
+- `reports/ElbowRight             --from-A2-Metrices.txt`
+- `reports/ElbowRight             --from-B2-Metrices.txt`
+- `reports/ElbowRight             --from-C1-Metrices.txt`
+- `reports/ElbowRight             --from-C2-Metrices.txt`
+- `reports/ElbowRight             --from-D1-Metrices.txt`
+- `reports/ElbowRight             --from-D2-Metrices.txt`
+- `reports/ElbowRight             --from-E1-Metrices.txt`
+- `reports/ElbowRight             --from-E2-Metrices.txt`
+- `reports/ElbowRight             --from-F1-Metrices.txt`
+- `reports/ElbowRight             --from-F2-Metrices.txt`
+- `reports/ElbowRight             --from-G1-Metrices.txt`
+- `reports/ElbowRight             --from-G2-Metrices.txt`
+- `reports/ElbowRight             .txt`
+- `reports/F0K--from-F-F1.txt`
+- `reports/F0K.txt`
+- `reports/F0LM--from-F-F1.txt`
+- `reports/F0LM.txt`
+- `reports/F1K--from-F-F1.txt`
+- `reports/F1K.txt`
+- `reports/F1LM--from-F-F1.txt`
+- `reports/F1LM.txt`
+- `reports/F2K--from-F-F1.txt`
+- `reports/F2K.txt`
+- `reports/F2LM--from-F-F1.txt`
+- `reports/F2LM.txt`
+- `reports/F3K--from-F-F1.txt`
+- `reports/F3K.txt`
+- `reports/F3LM--from-F-F1.txt`
+- `reports/F3LM.txt`
+- `reports/F4K--from-F-F1.txt`
+- `reports/F4K.txt`
+- `reports/F4LM--from-F-F1.txt`
+- `reports/F4LM.txt`
+- `reports/F5K--from-F-F1.txt`
+- `reports/F5K.txt`
+- `reports/F5LM--from-F-F1.txt`
+- `reports/F5LM.txt`
+- `reports/F6K--from-F-F1.txt`
+- `reports/F6K.txt`
+- `reports/F6LM--from-F-F1.txt`
+- `reports/F6LM.txt`
+- `reports/G0K--from-G-G2.txt`
+- `reports/G0K.txt`
+- `reports/G0LM--from-G-G2.txt`
+- `reports/G0LM.txt`
+- `reports/G1K--from-G-G2.txt`
+- `reports/G1K.txt`
+- `reports/G1LM--from-G-G2.txt`
+- `reports/G1LM.txt`
+- `reports/G2K--from-G-G2.txt`
+- `reports/G2K.txt`
+- `reports/G2LM--from-G-G2.txt`
+- `reports/G2LM.txt`
+- `reports/G3K--from-G-G2.txt`
+- `reports/G3K.txt`
+- `reports/G3LM--from-G-G2.txt`
+- `reports/G3LM.txt`
+- `reports/G4K--from-G-G2.txt`
+- `reports/G4K.txt`
+- `reports/G4LM--from-G-G2.txt`
+- `reports/G4LM.txt`
+- `reports/G5K--from-G-G2.txt`
+- `reports/G5K.txt`
+- `reports/G5LM--from-G-G2.txt`
+- `reports/G5LM.txt`
+- `reports/G6K--from-G-G2.txt`
+- `reports/G6K.txt`
+- `reports/G6LM--from-G-G2.txt`
+- `reports/G6LM.txt`
+- `reports/H0K--from-H-H1.txt`
+- `reports/H0K.txt`
+- `reports/H0LM--from-H-H1.txt`
+- `reports/H0LM.txt`
+- `reports/H1K--from-H-H1.txt`
+- `reports/H1K.txt`
+- `reports/H1LM--from-H-H1.txt`
+- `reports/H1LM.txt`
+- `reports/H2K--from-H-H1.txt`
+- `reports/H2K.txt`
+- `reports/H2LM--from-H-H1.txt`
+- `reports/H2LM.txt`
+- `reports/H3K--from-H-H1.txt`
+- `reports/H3K.txt`
+- `reports/H3LM--from-H-H1.txt`
+- `reports/H3LM.txt`
+- `reports/H4K--from-H-H1.txt`
+- `reports/H4K.txt`
+- `reports/H4LM--from-H-H1.txt`
+- `reports/H4LM.txt`
+- `reports/H5K--from-H-H1.txt`
+- `reports/H5K.txt`
+- `reports/H5LM--from-H-H1.txt`
+- `reports/H5LM.txt`
+- `reports/H6K--from-H-H1.txt`
+- `reports/H6K.txt`
+- `reports/H6LM--from-H-H1.txt`
+- `reports/H6LM.txt`
+- `reports/HandLeft               --from-A1-Metrices.txt`
+- `reports/HandLeft               --from-A2-Metrices.txt`
+- `reports/HandLeft               --from-B2-Metrices.txt`
+- `reports/HandLeft               --from-C1-Metrices.txt`
+- `reports/HandLeft               --from-C2-Metrices.txt`
+- `reports/HandLeft               --from-D1-Metrices.txt`
+- `reports/HandLeft               --from-D2-Metrices.txt`
+- `reports/HandLeft               --from-E1-Metrices.txt`
+- `reports/HandLeft               --from-E2-Metrices.txt`
+- `reports/HandLeft               --from-F1-Metrices.txt`
+- `reports/HandLeft               --from-F2-Metrices.txt`
+- `reports/HandLeft               --from-G1-Metrices.txt`
+- `reports/HandLeft               --from-G2-Metrices.txt`
+- `reports/HandLeft               .txt`
+- `reports/HandRight              --from-A1-Metrices.txt`
+- `reports/HandRight              --from-A2-Metrices.txt`
+- `reports/HandRight              --from-B2-Metrices.txt`
+- `reports/HandRight              --from-C1-Metrices.txt`
+- `reports/HandRight              --from-C2-Metrices.txt`
+- `reports/HandRight              --from-D1-Metrices.txt`
+- `reports/HandRight              --from-D2-Metrices.txt`
+- `reports/HandRight              --from-E1-Metrices.txt`
+- `reports/HandRight              --from-E2-Metrices.txt`
+- `reports/HandRight              --from-F1-Metrices.txt`
+- `reports/HandRight              --from-F2-Metrices.txt`
+- `reports/HandRight              --from-G1-Metrices.txt`
+- `reports/HandRight              --from-G2-Metrices.txt`
+- `reports/HandRight              .txt`
+- `reports/HandTipLeft            --from-A1-Metrices.txt`
+- `reports/HandTipLeft            --from-A2-Metrices.txt`
+- `reports/HandTipLeft            --from-B2-Metrices.txt`
+- `reports/HandTipLeft            --from-C1-Metrices.txt`
+- `reports/HandTipLeft            --from-C2-Metrices.txt`
+- `reports/HandTipLeft            --from-D1-Metrices.txt`
+- `reports/HandTipLeft            --from-D2-Metrices.txt`
+- `reports/HandTipLeft            --from-E1-Metrices.txt`
+- `reports/HandTipLeft            --from-E2-Metrices.txt`
+- `reports/HandTipLeft            --from-F1-Metrices.txt`
+- `reports/HandTipLeft            --from-F2-Metrices.txt`
+- `reports/HandTipLeft            --from-G1-Metrices.txt`
+- `reports/HandTipLeft            --from-G2-Metrices.txt`
+- `reports/HandTipLeft            .txt`
+- `reports/HandTipRight           --from-A1-Metrices.txt`
+- `reports/HandTipRight           --from-A2-Metrices.txt`
+- `reports/HandTipRight           --from-B2-Metrices.txt`
+- `reports/HandTipRight           --from-C1-Metrices.txt`
+- `reports/HandTipRight           --from-C2-Metrices.txt`
+- `reports/HandTipRight           --from-D1-Metrices.txt`
+- `reports/HandTipRight           --from-D2-Metrices.txt`
+- `reports/HandTipRight           --from-E1-Metrices.txt`
+- `reports/HandTipRight           --from-E2-Metrices.txt`
+- `reports/HandTipRight           --from-F1-Metrices.txt`
+- `reports/HandTipRight           --from-F2-Metrices.txt`
+- `reports/HandTipRight           --from-G1-Metrices.txt`
+- `reports/HandTipRight           --from-G2-Metrices.txt`
+- `reports/HandTipRight           .txt`
+- `reports/Head                   --from-A1-Metrices.txt`
+- `reports/Head                   --from-A2-Metrices.txt`
+- `reports/Head                   --from-B2-Metrices.txt`
+- `reports/Head                   --from-C1-Metrices.txt`
+- `reports/Head                   --from-C2-Metrices.txt`
+- `reports/Head                   --from-D1-Metrices.txt`
+- `reports/Head                   --from-D2-Metrices.txt`
+- `reports/Head                   --from-E1-Metrices.txt`
+- `reports/Head                   --from-E2-Metrices.txt`
+- `reports/Head                   --from-F1-Metrices.txt`
+- `reports/Head                   --from-F2-Metrices.txt`
+- `reports/Head                   --from-G1-Metrices.txt`
+- `reports/Head                   --from-G2-Metrices.txt`
+- `reports/Head                   .txt`
+- `reports/HipRight               --from-A1-Metrices.txt`
+- `reports/HipRight               --from-A2-Metrices.txt`
+- `reports/HipRight               --from-B2-Metrices.txt`
+- `reports/HipRight               --from-C1-Metrices.txt`
+- `reports/HipRight               --from-C2-Metrices.txt`
+- `reports/HipRight               --from-D1-Metrices.txt`
+- `reports/HipRight               --from-D2-Metrices.txt`
+- `reports/HipRight               --from-E1-Metrices.txt`
+- `reports/HipRight               --from-E2-Metrices.txt`
+- `reports/HipRight               --from-F1-Metrices.txt`
+- `reports/HipRight               --from-F2-Metrices.txt`
+- `reports/HipRight               --from-G1-Metrices.txt`
+- `reports/HipRight               --from-G2-Metrices.txt`
+- `reports/HipRight               .txt`
+- `reports/I0K.txt`
+- `reports/I0LM.txt`
+- `reports/I1K.txt`
+- `reports/I1LM.txt`
+- `reports/I2K.txt`
+- `reports/I2LM.txt`
+- `reports/I3K.txt`
+- `reports/I3LM.txt`
+- `reports/I4K.txt`
+- `reports/I4LM.txt`
+- `reports/I5K.txt`
+- `reports/I5LM.txt`
+- `reports/I6K.txt`
+- `reports/I6LM.txt`
+- `reports/KLM.FileListAbsolute.txt`
+- `reports/KLM.csproj.FileListAbsolute--from-x64-Debug.txt`
+- `reports/KLM.csproj.FileListAbsolute--from-x86-Debug.txt`
+- `reports/KLM.csproj.FileListAbsolute.txt`
+- `reports/Left_HandArm_D         --from-A1-Metrices.txt`
+- `reports/Left_HandArm_D         --from-A2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-B2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-C1-Metrices.txt`
+- `reports/Left_HandArm_D         --from-C2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-D1-Metrices.txt`
+- `reports/Left_HandArm_D         --from-D2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-E1-Metrices.txt`
+- `reports/Left_HandArm_D         --from-E2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-F1-Metrices.txt`
+- `reports/Left_HandArm_D         --from-F2-Metrices.txt`
+- `reports/Left_HandArm_D         --from-G1-Metrices.txt`
+- `reports/Left_HandArm_D         .txt`
+- `reports/Left_HandArm_M         --from-A1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-A2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-B2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-C1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-C2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-D1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-D2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-E1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-E2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-F1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-F2-Metrices.txt`
+- `reports/Left_HandArm_M         --from-G1-Metrices.txt`
+- `reports/Left_HandArm_M         --from-G2-Metrices.txt`
+- `reports/Left_HandArm_M         .txt`
+- `reports/Left_HandArm_N         --from-A1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-A2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-B2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-C1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-C2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-D1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-D2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-E1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-E2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-F1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-F2-Metrices.txt`
+- `reports/Left_HandArm_N         --from-G1-Metrices.txt`
+- `reports/Left_HandArm_N         --from-G2-Metrices.txt`
+- `reports/Left_HandArm_N         .txt`
+- `reports/Left_HandElbow_        --from-A1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-A2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-B2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-C1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-C2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-D1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-D2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-E1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-E2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-F1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-F2-Metrices.txt`
+- `reports/Left_HandElbow_        --from-G1-Metrices.txt`
+- `reports/Left_HandElbow_        --from-G2-Metrices.txt`
+- `reports/Left_HandElbow_        .txt`
+- `reports/Left_HandElbow_M       --from-A1-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-A2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-B2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-C1-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-C2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-D1-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-D2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-E1-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-E2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-F1-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-F2-Metrices.txt`
+- `reports/Left_HandElbow_M       --from-G1-Metrices.txt`
+- `reports/Left_HandElbow_M       .txt`
+- `reports/Left_HandElbow_N       --from-A1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-A2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-B2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-C1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-C2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-D1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-D2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-E1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-E2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-F1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-F2-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-G1-Metrices.txt`
+- `reports/Left_HandElbow_N       --from-G2-Metrices.txt`
+- `reports/Left_HandElbow_N       .txt`
+- `reports/Left_HandMatrixO       --from-A1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-A2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-B2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-C1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-C2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-D1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-D2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-E1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-E2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-F1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-F2-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-G1-Metrices.txt`
+- `reports/Left_HandMatrixO       --from-G2-Metrices.txt`
+- `reports/Left_HandMatrixO       .txt`
+- `reports/Left_HandMatrixXB      --from-A1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-A2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-B2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-C1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-C2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-D1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-D2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-E1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-E2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-F1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-F2-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-G1-Metrices.txt`
+- `reports/Left_HandMatrixXB      --from-G2-Metrices.txt`
+- `reports/Left_HandMatrixXB      .txt`
+- `reports/Left_HandMatrixYB      --from-A1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-A2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-B2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-C1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-C2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-D1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-D2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-E1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-E2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-F1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-F2-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-G1-Metrices.txt`
+- `reports/Left_HandMatrixYB      --from-G2-Metrices.txt`
+- `reports/Left_HandMatrixYB      .txt`
+- `reports/Left_HandMatrixZB      --from-A1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-A2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-B2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-C1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-C2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-D1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-D2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-E1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-E2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-F1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-F2-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-G1-Metrices.txt`
+- `reports/Left_HandMatrixZB      --from-G2-Metrices.txt`
+- `reports/Left_HandMatrixZB      .txt`
+- `reports/Left_HandPalm_M        --from-A1-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-A2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-B2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-C1-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-C2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-D1-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-D2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-E1-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-E2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-F1-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-F2-Metrices.txt`
+- `reports/Left_HandPalm_M        --from-G1-Metrices.txt`
+- `reports/Left_HandPalm_M        .txt`
+- `reports/Left_HandPalm_N        --from-A1-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-A2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-B2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-C1-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-C2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-D1-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-D2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-E1-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-E2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-F1-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-F2-Metrices.txt`
+- `reports/Left_HandPalm_N        --from-G1-Metrices.txt`
+- `reports/Left_HandPalm_N        .txt`
+- `reports/Left_HandPalm_P        --from-A1-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-A2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-B2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-C1-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-C2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-D1-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-D2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-E1-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-E2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-F1-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-F2-Metrices.txt`
+- `reports/Left_HandPalm_P        --from-G1-Metrices.txt`
+- `reports/Left_HandPalm_P        .txt`
+- `reports/Left_HandWrist_M       --from-A1-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-A2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-B2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-C1-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-C2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-D1-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-D2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-E1-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-E2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-F1-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-F2-Metrices.txt`
+- `reports/Left_HandWrist_M       --from-G1-Metrices.txt`
+- `reports/Left_HandWrist_M       .txt`
+- `reports/Left_HandWrist_N       --from-A1-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-A2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-B2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-C1-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-C2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-D1-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-D2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-E1-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-E2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-F1-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-F2-Metrices.txt`
+- `reports/Left_HandWrist_N       --from-G1-Metrices.txt`
+- `reports/Left_HandWrist_N       .txt`
+- `reports/Left_HandWrist_P       --from-A1-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-A2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-B2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-C1-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-C2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-D1-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-D2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-E1-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-E2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-F1-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-F2-Metrices.txt`
+- `reports/Left_HandWrist_P       --from-G1-Metrices.txt`
+- `reports/Left_HandWrist_P       .txt`
+- `reports/Left_Hand_D            --from-A1-Metrices.txt`
+- `reports/Left_Hand_D            --from-A2-Metrices.txt`
+- `reports/Left_Hand_D            --from-B2-Metrices.txt`
+- `reports/Left_Hand_D            --from-C1-Metrices.txt`
+- `reports/Left_Hand_D            --from-C2-Metrices.txt`
+- `reports/Left_Hand_D            --from-D1-Metrices.txt`
+- `reports/Left_Hand_D            --from-D2-Metrices.txt`
+- `reports/Left_Hand_D            --from-E1-Metrices.txt`
+- `reports/Left_Hand_D            --from-E2-Metrices.txt`
+- `reports/Left_Hand_D            --from-F1-Metrices.txt`
+- `reports/Left_Hand_D            --from-F2-Metrices.txt`
+- `reports/Left_Hand_D            --from-G1-Metrices.txt`
+- `reports/Left_Hand_D            --from-G2-Metrices.txt`
+- `reports/Left_Hand_D            .txt`
+- `reports/Left_Hand_M            --from-A1-Metrices.txt`
+- `reports/Left_Hand_M            --from-A2-Metrices.txt`
+- `reports/Left_Hand_M            --from-B2-Metrices.txt`
+- `reports/Left_Hand_M            --from-C1-Metrices.txt`
+- `reports/Left_Hand_M            --from-C2-Metrices.txt`
+- `reports/Left_Hand_M            --from-D1-Metrices.txt`
+- `reports/Left_Hand_M            --from-D2-Metrices.txt`
+- `reports/Left_Hand_M            --from-E1-Metrices.txt`
+- `reports/Left_Hand_M            --from-E2-Metrices.txt`
+- `reports/Left_Hand_M            --from-F1-Metrices.txt`
+- `reports/Left_Hand_M            --from-F2-Metrices.txt`
+- `reports/Left_Hand_M            --from-G1-Metrices.txt`
+- `reports/Left_Hand_M            --from-G2-Metrices.txt`
+- `reports/Left_Hand_M            .txt`
+- `reports/Left_Hand_N            --from-A1-Metrices.txt`
+- `reports/Left_Hand_N            --from-A2-Metrices.txt`
+- `reports/Left_Hand_N            --from-B2-Metrices.txt`
+- `reports/Left_Hand_N            --from-C1-Metrices.txt`
+- `reports/Left_Hand_N            --from-C2-Metrices.txt`
+- `reports/Left_Hand_N            --from-D1-Metrices.txt`
+- `reports/Left_Hand_N            --from-D2-Metrices.txt`
+- `reports/Left_Hand_N            --from-E1-Metrices.txt`
+- `reports/Left_Hand_N            --from-E2-Metrices.txt`
+- `reports/Left_Hand_N            --from-F1-Metrices.txt`
+- `reports/Left_Hand_N            --from-F2-Metrices.txt`
+- `reports/Left_Hand_N            --from-G1-Metrices.txt`
+- `reports/Left_Hand_N            --from-G2-Metrices.txt`
+- `reports/Left_Hand_N            .txt`
+- `reports/LightBuzz.Vitruvius.csproj.FileListAbsolute--from-x86-Debug.txt`
+- `reports/LightBuzz.Vitruvius.csproj.FileListAbsolute.txt`
+- `reports/Neck                   --from-A1-Metrices.txt`
+- `reports/Neck                   --from-A2-Metrices.txt`
+- `reports/Neck                   --from-B2-Metrices.txt`
+- `reports/Neck                   --from-C1-Metrices.txt`
+- `reports/Neck                   --from-C2-Metrices.txt`
+- `reports/Neck                   --from-D1-Metrices.txt`
+- `reports/Neck                   --from-D2-Metrices.txt`
+- `reports/Neck                   --from-E1-Metrices.txt`
+- `reports/Neck                   --from-E2-Metrices.txt`
+- `reports/Neck                   --from-F1-Metrices.txt`
+- `reports/Neck                   --from-F2-Metrices.txt`
+- `reports/Neck                   --from-G1-Metrices.txt`
+- `reports/Neck                   .txt`
+- `reports/NuiExpressionModelManifest.txt`
+- `reports/Others_Arm_Features    --from-A1-Metrices.txt`
+- `reports/Others_Arm_Features    --from-A2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-B2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-C1-Metrices.txt`
+- `reports/Others_Arm_Features    --from-C2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-D1-Metrices.txt`
+- `reports/Others_Arm_Features    --from-D2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-E1-Metrices.txt`
+- `reports/Others_Arm_Features    --from-E2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-F1-Metrices.txt`
+- `reports/Others_Arm_Features    --from-F2-Metrices.txt`
+- `reports/Others_Arm_Features    --from-G1-Metrices.txt`
+- `reports/Others_Arm_Features    .txt`
+- `reports/Others_Elbow_Features  --from-A1-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-A2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-B2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-C1-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-C2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-D1-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-D2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-E1-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-E2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-F1-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-F2-Metrices.txt`
+- `reports/Others_Elbow_Features  --from-G1-Metrices.txt`
+- `reports/Others_Elbow_Features  .txt`
+- `reports/Others_Finger_Featuers --from-A1-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-A2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-B2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-C1-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-C2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-D1-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-D2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-E1-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-E2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-F1-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-F2-Metrices.txt`
+- `reports/Others_Finger_Featuers --from-G1-Metrices.txt`
+- `reports/Others_Finger_Featuers .txt`
+- `reports/Others_Hand_Features   --from-A1-Metrices.txt`
+- `reports/Others_Hand_Features   --from-A2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-B2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-C1-Metrices.txt`
+- `reports/Others_Hand_Features   --from-C2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-D1-Metrices.txt`
+- `reports/Others_Hand_Features   --from-D2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-E1-Metrices.txt`
+- `reports/Others_Hand_Features   --from-E2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-F1-Metrices.txt`
+- `reports/Others_Hand_Features   --from-F2-Metrices.txt`
+- `reports/Others_Hand_Features   --from-G1-Metrices.txt`
+- `reports/Others_Hand_Features   .txt`
+- `reports/Others_Palm_Features   --from-A1-Metrices.txt`
+- `reports/Others_Palm_Features   --from-A2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-B2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-C1-Metrices.txt`
+- `reports/Others_Palm_Features   --from-C2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-D1-Metrices.txt`
+- `reports/Others_Palm_Features   --from-D2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-E1-Metrices.txt`
+- `reports/Others_Palm_Features   --from-E2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-F1-Metrices.txt`
+- `reports/Others_Palm_Features   --from-F2-Metrices.txt`
+- `reports/Others_Palm_Features   --from-G1-Metrices.txt`
+- `reports/Others_Palm_Features   .txt`
+- `reports/Others_Wrist_Features  --from-A1-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-A2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-B2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-C1-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-C2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-D1-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-D2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-E1-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-E2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-F1-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-F2-Metrices.txt`
+- `reports/Others_Wrist_Features  --from-G1-Metrices.txt`
+- `reports/Others_Wrist_Features  .txt`
+- `reports/Project System Architecture.png`
+- `reports/Project System Architecture.vsdx`
+- `reports/ShoulderLeft           --from-A1-Metrices.txt`
+- `reports/ShoulderLeft           --from-A2-Metrices.txt`
+- `reports/ShoulderLeft           --from-B2-Metrices.txt`
+- `reports/ShoulderLeft           --from-C1-Metrices.txt`
+- `reports/ShoulderLeft           --from-C2-Metrices.txt`
+- `reports/ShoulderLeft           --from-D1-Metrices.txt`
+- `reports/ShoulderLeft           --from-D2-Metrices.txt`
+- `reports/ShoulderLeft           --from-E1-Metrices.txt`
+- `reports/ShoulderLeft           --from-E2-Metrices.txt`
+- `reports/ShoulderLeft           --from-F1-Metrices.txt`
+- `reports/ShoulderLeft           --from-F2-Metrices.txt`
+- `reports/ShoulderLeft           --from-G1-Metrices.txt`
+- `reports/ShoulderLeft           .txt`
+- `reports/ShoulderRight          --from-A1-Metrices.txt`
+- `reports/ShoulderRight          --from-A2-Metrices.txt`
+- `reports/ShoulderRight          --from-B2-Metrices.txt`
+- `reports/ShoulderRight          --from-C1-Metrices.txt`
+- `reports/ShoulderRight          --from-C2-Metrices.txt`
+- `reports/ShoulderRight          --from-D1-Metrices.txt`
+- `reports/ShoulderRight          --from-D2-Metrices.txt`
+- `reports/ShoulderRight          --from-E1-Metrices.txt`
+- `reports/ShoulderRight          --from-E2-Metrices.txt`
+- `reports/ShoulderRight          --from-F1-Metrices.txt`
+- `reports/ShoulderRight          --from-F2-Metrices.txt`
+- `reports/ShoulderRight          --from-G1-Metrices.txt`
+- `reports/ShoulderRight          .txt`
+- `reports/SpineMid               --from-A1-Metrices.txt`
+- `reports/SpineMid               --from-A2-Metrices.txt`
+- `reports/SpineMid               --from-B2-Metrices.txt`
+- `reports/SpineMid               --from-C1-Metrices.txt`
+- `reports/SpineMid               --from-C2-Metrices.txt`
+- `reports/SpineMid               --from-D1-Metrices.txt`
+- `reports/SpineMid               --from-D2-Metrices.txt`
+- `reports/SpineMid               --from-E1-Metrices.txt`
+- `reports/SpineMid               --from-E2-Metrices.txt`
+- `reports/SpineMid               --from-F1-Metrices.txt`
+- `reports/SpineMid               --from-F2-Metrices.txt`
+- `reports/SpineMid               --from-G1-Metrices.txt`
+- `reports/SpineMid               .txt`
+- `reports/SpineShoulder          --from-A1-Metrices.txt`
+- `reports/SpineShoulder          --from-A2-Metrices.txt`
+- `reports/SpineShoulder          --from-B2-Metrices.txt`
+- `reports/SpineShoulder          --from-C1-Metrices.txt`
+- `reports/SpineShoulder          --from-C2-Metrices.txt`
+- `reports/SpineShoulder          --from-D1-Metrices.txt`
+- `reports/SpineShoulder          --from-D2-Metrices.txt`
+- `reports/SpineShoulder          --from-E1-Metrices.txt`
+- `reports/SpineShoulder          --from-E2-Metrices.txt`
+- `reports/SpineShoulder          --from-F1-Metrices.txt`
+- `reports/SpineShoulder          --from-F2-Metrices.txt`
+- `reports/SpineShoulder          --from-G1-Metrices.txt`
+- `reports/SpineShoulder          .txt`
+- `reports/TYPE_INDEX             --from-A1-Metrices.txt`
+- `reports/TYPE_INDEX             --from-A2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-B2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-C1-Metrices.txt`
+- `reports/TYPE_INDEX             --from-C2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-D1-Metrices.txt`
+- `reports/TYPE_INDEX             --from-D2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-E1-Metrices.txt`
+- `reports/TYPE_INDEX             --from-E2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-F1-Metrices.txt`
+- `reports/TYPE_INDEX             --from-F2-Metrices.txt`
+- `reports/TYPE_INDEX             --from-G1-Metrices.txt`
+- `reports/TYPE_INDEX             .txt`
+- `reports/TYPE_INDEXD_N          --from-A1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-A2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-B2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-C1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-C2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-D1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-D2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-E1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-E2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-F1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-F2-Metrices.txt`
+- `reports/TYPE_INDEXD_N          --from-G1-Metrices.txt`
+- `reports/TYPE_INDEXD_N          .txt`
+- `reports/TYPE_INDEXTipP         --from-A1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-A2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-B2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-C1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-C2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-D1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-D2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-E1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-E2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-F1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-F2-Metrices.txt`
+- `reports/TYPE_INDEXTipP         --from-G1-Metrices.txt`
+- `reports/TYPE_INDEXTipP         .txt`
+- `reports/TYPE_INDEXTipS         --from-A1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-A2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-B2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-C1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-C2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-D1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-D2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-E1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-E2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-F1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-F2-Metrices.txt`
+- `reports/TYPE_INDEXTipS         --from-G1-Metrices.txt`
+- `reports/TYPE_INDEXTipS         .txt`
+- `reports/TYPE_INDEXTipV         --from-A1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-A2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-B2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-C1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-C2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-D1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-D2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-E1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-E2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-F1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-F2-Metrices.txt`
+- `reports/TYPE_INDEXTipV         --from-G1-Metrices.txt`
+- `reports/TYPE_INDEXTipV         .txt`
+- `reports/TYPE_MIDDLE            --from-A1-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-A2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-B2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-C1-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-C2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-D1-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-D2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-E1-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-E2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-F1-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-F2-Metrices.txt`
+- `reports/TYPE_MIDDLE            --from-G1-Metrices.txt`
+- `reports/TYPE_MIDDLE            .txt`
+- `reports/TYPE_MIDDLED_N         --from-A1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-A2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-B2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-C1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-C2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-D1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-D2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-E1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-E2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-F1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-F2-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         --from-G1-Metrices.txt`
+- `reports/TYPE_MIDDLED_N         .txt`
+- `reports/TYPE_MIDDLETipP        --from-A1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-A2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-B2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-C1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-C2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-D1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-D2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-E1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-E2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-F1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-F2-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        --from-G1-Metrices.txt`
+- `reports/TYPE_MIDDLETipP        .txt`
+- `reports/TYPE_MIDDLETipS        --from-A1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-A2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-B2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-C1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-C2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-D1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-D2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-E1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-E2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-F1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-F2-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        --from-G1-Metrices.txt`
+- `reports/TYPE_MIDDLETipS        .txt`
+- `reports/TYPE_MIDDLETipV        --from-A1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-A2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-B2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-C1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-C2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-D1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-D2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-E1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-E2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-F1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-F2-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        --from-G1-Metrices.txt`
+- `reports/TYPE_MIDDLETipV        .txt`
+- `reports/TYPE_PINKY             --from-A1-Metrices.txt`
+- `reports/TYPE_PINKY             --from-A2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-B2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-C1-Metrices.txt`
+- `reports/TYPE_PINKY             --from-C2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-D1-Metrices.txt`
+- `reports/TYPE_PINKY             --from-D2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-E1-Metrices.txt`
+- `reports/TYPE_PINKY             --from-E2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-F1-Metrices.txt`
+- `reports/TYPE_PINKY             --from-F2-Metrices.txt`
+- `reports/TYPE_PINKY             --from-G1-Metrices.txt`
+- `reports/TYPE_PINKY             .txt`
+- `reports/TYPE_PINKYD_N          --from-A1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-A2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-B2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-C1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-C2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-D1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-D2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-E1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-E2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-F1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-F2-Metrices.txt`
+- `reports/TYPE_PINKYD_N          --from-G1-Metrices.txt`
+- `reports/TYPE_PINKYD_N          .txt`
+- `reports/TYPE_PINKYTipP         --from-A1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-A2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-B2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-C1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-C2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-D1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-D2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-E1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-E2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-F1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-F2-Metrices.txt`
+- `reports/TYPE_PINKYTipP         --from-G1-Metrices.txt`
+- `reports/TYPE_PINKYTipP         .txt`
+- `reports/TYPE_PINKYTipS         --from-A1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-A2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-B2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-C1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-C2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-D1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-D2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-E1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-E2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-F1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-F2-Metrices.txt`
+- `reports/TYPE_PINKYTipS         --from-G1-Metrices.txt`
+- `reports/TYPE_PINKYTipS         .txt`
+- `reports/TYPE_PINKYTipV         --from-A1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-A2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-B2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-C1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-C2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-D1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-D2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-E1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-E2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-F1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-F2-Metrices.txt`
+- `reports/TYPE_PINKYTipV         --from-G1-Metrices.txt`
+- `reports/TYPE_PINKYTipV         .txt`
+- `reports/TYPE_RING              --from-A1-Metrices.txt`
+- `reports/TYPE_RING              --from-A2-Metrices.txt`
+- `reports/TYPE_RING              --from-B2-Metrices.txt`
+- `reports/TYPE_RING              --from-C1-Metrices.txt`
+- `reports/TYPE_RING              --from-C2-Metrices.txt`
+- `reports/TYPE_RING              --from-D1-Metrices.txt`
+- `reports/TYPE_RING              --from-D2-Metrices.txt`
+- `reports/TYPE_RING              --from-E1-Metrices.txt`
+- `reports/TYPE_RING              --from-E2-Metrices.txt`
+- `reports/TYPE_RING              --from-F1-Metrices.txt`
+- `reports/TYPE_RING              --from-F2-Metrices.txt`
+- `reports/TYPE_RING              --from-G1-Metrices.txt`
+- `reports/TYPE_RING              .txt`
+- `reports/TYPE_RINGD_N           --from-A1-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-A2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-B2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-C1-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-C2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-D1-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-D2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-E1-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-E2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-F1-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-F2-Metrices.txt`
+- `reports/TYPE_RINGD_N           --from-G1-Metrices.txt`
+- `reports/TYPE_RINGD_N           .txt`
+- `reports/TYPE_RINGTipP          --from-A1-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-A2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-B2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-C1-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-C2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-D1-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-D2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-E1-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-E2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-F1-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-F2-Metrices.txt`
+- `reports/TYPE_RINGTipP          --from-G1-Metrices.txt`
+- `reports/TYPE_RINGTipP          .txt`
+- `reports/TYPE_RINGTipS          --from-A1-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-A2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-B2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-C1-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-C2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-D1-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-D2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-E1-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-E2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-F1-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-F2-Metrices.txt`
+- `reports/TYPE_RINGTipS          --from-G1-Metrices.txt`
+- `reports/TYPE_RINGTipS          .txt`
+- `reports/TYPE_RINGTipV          --from-A1-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-A2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-B2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-C1-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-C2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-D1-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-D2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-E1-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-E2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-F1-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-F2-Metrices.txt`
+- `reports/TYPE_RINGTipV          --from-G1-Metrices.txt`
+- `reports/TYPE_RINGTipV          .txt`
+- `reports/TYPE_THUMB             --from-A1-Metrices.txt`
+- `reports/TYPE_THUMB             --from-A2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-B2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-C1-Metrices.txt`
+- `reports/TYPE_THUMB             --from-C2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-D1-Metrices.txt`
+- `reports/TYPE_THUMB             --from-D2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-E1-Metrices.txt`
+- `reports/TYPE_THUMB             --from-E2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-F1-Metrices.txt`
+- `reports/TYPE_THUMB             --from-F2-Metrices.txt`
+- `reports/TYPE_THUMB             --from-G1-Metrices.txt`
+- `reports/TYPE_THUMB             .txt`
+- `reports/TYPE_THUMBD_N          --from-A1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-A2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-B2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-C1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-C2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-D1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-D2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-E1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-E2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-F1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-F2-Metrices.txt`
+- `reports/TYPE_THUMBD_N          --from-G1-Metrices.txt`
+- `reports/TYPE_THUMBD_N          .txt`
+- `reports/TYPE_THUMBTipP         --from-A1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-A2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-B2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-C1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-C2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-D1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-D2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-E1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-E2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-F1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-F2-Metrices.txt`
+- `reports/TYPE_THUMBTipP         --from-G1-Metrices.txt`
+- `reports/TYPE_THUMBTipP         .txt`
+- `reports/TYPE_THUMBTipS         --from-A1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-A2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-B2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-C1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-C2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-D1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-D2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-E1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-E2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-F1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-F2-Metrices.txt`
+- `reports/TYPE_THUMBTipS         --from-G1-Metrices.txt`
+- `reports/TYPE_THUMBTipS         .txt`
+- `reports/TYPE_THUMBTipV         --from-A1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-A2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-B2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-C1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-C2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-D1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-D2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-E1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-E2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-F1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-F2-Metrices.txt`
+- `reports/TYPE_THUMBTipV         --from-G1-Metrices.txt`
+- `reports/TYPE_THUMBTipV         .txt`
+- `reports/ThumbLeft              --from-A1-Metrices.txt`
+- `reports/ThumbLeft              --from-A2-Metrices.txt`
+- `reports/ThumbLeft              --from-B2-Metrices.txt`
+- `reports/ThumbLeft              --from-C1-Metrices.txt`
+- `reports/ThumbLeft              --from-C2-Metrices.txt`
+- `reports/ThumbLeft              --from-D1-Metrices.txt`
+- `reports/ThumbLeft              --from-D2-Metrices.txt`
+- `reports/ThumbLeft              --from-E1-Metrices.txt`
+- `reports/ThumbLeft              --from-E2-Metrices.txt`
+- `reports/ThumbLeft              --from-F1-Metrices.txt`
+- `reports/ThumbLeft              --from-F2-Metrices.txt`
+- `reports/ThumbLeft              --from-G1-Metrices.txt`
+- `reports/ThumbLeft              .txt`
+- `reports/ThumbRight             --from-A1-Metrices.txt`
+- `reports/ThumbRight             --from-A2-Metrices.txt`
+- `reports/ThumbRight             --from-B2-Metrices.txt`
+- `reports/ThumbRight             --from-C1-Metrices.txt`
+- `reports/ThumbRight             --from-C2-Metrices.txt`
+- `reports/ThumbRight             --from-D1-Metrices.txt`
+- `reports/ThumbRight             --from-D2-Metrices.txt`
+- `reports/ThumbRight             --from-E1-Metrices.txt`
+- `reports/ThumbRight             --from-E2-Metrices.txt`
+- `reports/ThumbRight             --from-F1-Metrices.txt`
+- `reports/ThumbRight             --from-F2-Metrices.txt`
+- `reports/ThumbRight             --from-G1-Metrices.txt`
+- `reports/ThumbRight             .txt`
+- `reports/Workbook1.csv`
+- `reports/WristLeft              --from-A1-Metrices.txt`
+- `reports/WristLeft              --from-A2-Metrices.txt`
+- `reports/WristLeft              --from-B2-Metrices.txt`
+- `reports/WristLeft              --from-C1-Metrices.txt`
+- `reports/WristLeft              --from-C2-Metrices.txt`
+- `reports/WristLeft              --from-D1-Metrices.txt`
+- `reports/WristLeft              --from-D2-Metrices.txt`
+- `reports/WristLeft              --from-E1-Metrices.txt`
+- `reports/WristLeft              --from-E2-Metrices.txt`
+- `reports/WristLeft              --from-F1-Metrices.txt`
+- `reports/WristLeft              --from-F2-Metrices.txt`
+- `reports/WristLeft              --from-G1-Metrices.txt`
+- `reports/WristLeft              .txt`
+- `reports/WristRight             --from-A1-Metrices.txt`
+- `reports/WristRight             --from-A2-Metrices.txt`
+- `reports/WristRight             --from-B2-Metrices.txt`
+- `reports/WristRight             --from-C1-Metrices.txt`
+- `reports/WristRight             --from-C2-Metrices.txt`
+- `reports/WristRight             --from-D1-Metrices.txt`
+- `reports/WristRight             --from-D2-Metrices.txt`
+- `reports/WristRight             --from-E1-Metrices.txt`
+- `reports/WristRight             --from-E2-Metrices.txt`
+- `reports/WristRight             --from-F1-Metrices.txt`
+- `reports/WristRight             --from-F2-Metrices.txt`
+- `reports/WristRight             --from-G1-Metrices.txt`
+- `reports/WristRight             .txt`
+- `reports/main.pdf`
+- `reports/src/KLM/Data/Alphabet/A/A1/A0K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A0LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A1K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A1LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A2K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A2LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A3K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A3LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A4K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A4LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A5K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A5LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A6K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/A6LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A0K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A0LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A1K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A1LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A2K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A2LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A3K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A3LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A4K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A4LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A5K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A5LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A6K.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/A6LM.txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B0K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B0LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B1K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B1LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B2K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B2LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B3K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B3LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B4K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B4LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B5K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B5LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B6K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/B6LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B0K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B0LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B1K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B1LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B2K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B2LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B3K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B3LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B4K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B4LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B5K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B5LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B6K.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/B6LM.txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C0K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C0LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C1K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C1LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C2K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C2LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C3K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C3LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C4K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C4LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C5K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C5LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C6K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/C6LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C0K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C0LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C1K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C1LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C2K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C2LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C3K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C3LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C4K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C4LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C5K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C5LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C6K.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/C6LM.txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D0K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D0LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D1K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D1LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D2K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D2LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D3K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D3LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D4K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D4LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D5K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D5LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D6K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/D6LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D0K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D0LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D1K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D1LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D2K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D2LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D3K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D3LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D4K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D4LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D5K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D5LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D6K.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/D6LM.txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E0K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E0LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E1K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E1LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E2K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E2LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E3K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E3LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E4K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E4LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E5K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E5LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E6K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/E6LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E0K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E0LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E1K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E1LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E2K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E2LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E3K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E3LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E4K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E4LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E5K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E5LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E6K.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/E6LM.txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F0K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F0LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F1K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F1LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F2K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F2LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F3K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F3LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F4K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F4LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F5K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F5LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F6K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/F6LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F0K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F0LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F1K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F1LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F2K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F2LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F3K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F3LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F4K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F4LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F5K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F5LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F6K.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/F6LM.txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G0K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G0LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G1K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G1LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G2K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G2LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G3K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G3LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G4K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G4LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G5K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G5LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G6K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/G6LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G0K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G0LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G1K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G1LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G2K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G2LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G3K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G3LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G4K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G4LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G5K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G5LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G6K.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/G6LM.txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H0K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H0LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H1K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H1LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H2K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H2LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H3K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H3LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H4K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H4LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H5K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H5LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H6K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/H6LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H0K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H0LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H1K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H1LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H2K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H2LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H3K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H3LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H4K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H4LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H5K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H5LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H6K.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/H6LM.txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ElbowLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ElbowRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandLeft               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandRight              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandTipLeft            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandTipRight           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Head                   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HipRight               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_D         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_M         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_N         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_M       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_N       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixO       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixXB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixYB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixZB      .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_M        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_N        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_P        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_M       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_N       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_P       .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_D            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_M            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_N            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Neck                   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Arm_Features    .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Elbow_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Finger_Featuers .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Hand_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Palm_Features   .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Wrist_Features  .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ShoulderLeft           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ShoulderRight          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/SpineMid               .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/SpineShoulder          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEX             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLE            .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLED_N         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipP        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipS        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipV        .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKY             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipP         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RING              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGD_N           .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipP          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipS          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipV          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMB             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBD_N          .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBTipS         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBTipV         .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ThumbLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ThumbRight             .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/WristLeft              .txt`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/WristRight             .txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I0K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I0LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I1K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I1LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I2K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I2LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I3K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I3LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I4K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I4LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I5K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I5LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I6K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I1/I6LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I0K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I0LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I1K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I1LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I2K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I2LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I3K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I3LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I4K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I4LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I5K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I5LM.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I6K.txt`
+- `reports/src/KLM/Data/Alphabet/I/I2/I6LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J0K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J0LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J1K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J1LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J2K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J2LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J3K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J3LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J4K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J4LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J5K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J5LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J6K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J1/J6LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J0K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J0LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J1K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J1LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J2K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J2LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J3K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J3LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J4K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J4LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J5K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J5LM.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J6K.txt`
+- `reports/src/KLM/Data/Alphabet/J/J2/J6LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K0K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K0LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K1K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K1LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K2K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K2LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K3K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K3LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K4K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K4LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K5K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K5LM.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K6K.txt`
+- `reports/src/KLM/Data/Alphabet/K/K1/K6LM.txt`
+
+### Presentations
+- `presentations/Infusing Student Scholarship into Classroom Engagement.ppt`
+- `presentations/Poster (1).ppt`
+- `presentations/Poster.docx`
+- `presentations/Poster.pdf`
+- `presentations/Poster.ppt`
+- `presentations/PosterSpeech.docx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `ORIGINAL_README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `VideoPad/-Inventory.md`
+- `VideoPad/README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+- `reports/src/-Inventory.md`
+- `reports/src/KLM/-Inventory.md`
+- `reports/src/KLM/Data/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/A1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/A1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/A/A1/README.md`
+- `reports/src/KLM/Data/Alphabet/A/A2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/A/A2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/A/A2/README.md`
+- `reports/src/KLM/Data/Alphabet/A/README.md`
+- `reports/src/KLM/Data/Alphabet/B/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/B/B1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/B/B1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/B/B1/README.md`
+- `reports/src/KLM/Data/Alphabet/B/B2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/B/B2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/B/B2/README.md`
+- `reports/src/KLM/Data/Alphabet/B/README.md`
+- `reports/src/KLM/Data/Alphabet/C/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/C/C1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/C/C1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/C/C1/README.md`
+- `reports/src/KLM/Data/Alphabet/C/C2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/C/C2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/C/C2/README.md`
+- `reports/src/KLM/Data/Alphabet/C/README.md`
+- `reports/src/KLM/Data/Alphabet/D/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/D/D1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/D/D1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/D/D1/README.md`
+- `reports/src/KLM/Data/Alphabet/D/D2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/D/D2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/D/D2/README.md`
+- `reports/src/KLM/Data/Alphabet/D/README.md`
+- `reports/src/KLM/Data/Alphabet/E/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/E/E1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/E/E1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/E/E1/README.md`
+- `reports/src/KLM/Data/Alphabet/E/E2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/E/E2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/E/E2/README.md`
+- `reports/src/KLM/Data/Alphabet/E/README.md`
+- `reports/src/KLM/Data/Alphabet/F/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/F/F1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/F/F1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/F/F1/README.md`
+- `reports/src/KLM/Data/Alphabet/F/F2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/F/F2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/F/F2/README.md`
+- `reports/src/KLM/Data/Alphabet/F/README.md`
+- `reports/src/KLM/Data/Alphabet/G/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/G/G1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/G/G1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/G/G1/README.md`
+- `reports/src/KLM/Data/Alphabet/G/G2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/G/G2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/G/G2/README.md`
+- `reports/src/KLM/Data/Alphabet/G/README.md`
+- `reports/src/KLM/Data/Alphabet/H/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/H/H1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/H/H1/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/H/H1/README.md`
+- `reports/src/KLM/Data/Alphabet/H/H2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/H/H2/Metrices/README.md`
+- `reports/src/KLM/Data/Alphabet/H/H2/README.md`
+- `reports/src/KLM/Data/Alphabet/H/README.md`
+- `reports/src/KLM/Data/Alphabet/I/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/I/I1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/I/I1/README.md`
+- `reports/src/KLM/Data/Alphabet/I/I2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/I/I2/README.md`
+- `reports/src/KLM/Data/Alphabet/I/README.md`
+- `reports/src/KLM/Data/Alphabet/J/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/J/J1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/J/J1/README.md`
+- `reports/src/KLM/Data/Alphabet/J/J2/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/J/J2/README.md`
+- `reports/src/KLM/Data/Alphabet/J/README.md`
+- `reports/src/KLM/Data/Alphabet/K/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/K/K1/-Inventory.md`
+- `reports/src/KLM/Data/Alphabet/K/K1/README.md`
+- `reports/src/KLM/Data/Alphabet/K/README.md`
+- `reports/src/KLM/Data/Alphabet/README.md`
+- `reports/src/KLM/Data/README.md`
+- `reports/src/KLM/README.md`
+- `reports/src/README.md`
+- `src/-Inventory.md`
+- `src/KLM/-Inventory.md`
+- `src/KLM/Data/-Inventory.md`
+- `src/KLM/Data/Alphabet/-Inventory.md`
+- `src/KLM/Data/Alphabet/A/-Inventory.md`
+- `src/KLM/Data/Alphabet/A/A1/-Inventory.md`
+- `src/KLM/Data/Alphabet/A/A1/README.md`
+- `src/KLM/Data/Alphabet/A/A2/-Inventory.md`
+- `src/KLM/Data/Alphabet/A/A2/README.md`
+- `src/KLM/Data/Alphabet/A/README.md`
+- `src/KLM/Data/Alphabet/B/-Inventory.md`
+- `src/KLM/Data/Alphabet/B/B1/-Inventory.md`
+- `src/KLM/Data/Alphabet/B/B1/README.md`
+- `src/KLM/Data/Alphabet/B/B2/-Inventory.md`
+- `src/KLM/Data/Alphabet/B/B2/README.md`
+- `src/KLM/Data/Alphabet/B/README.md`
+- `src/KLM/Data/Alphabet/C/-Inventory.md`
+- `src/KLM/Data/Alphabet/C/C1/-Inventory.md`
+- `src/KLM/Data/Alphabet/C/C1/README.md`
+- `src/KLM/Data/Alphabet/C/C2/-Inventory.md`
+- `src/KLM/Data/Alphabet/C/C2/README.md`
+- `src/KLM/Data/Alphabet/C/README.md`
+- `src/KLM/Data/Alphabet/D/-Inventory.md`
+- `src/KLM/Data/Alphabet/D/D1/-Inventory.md`
+- `src/KLM/Data/Alphabet/D/D1/README.md`
+- `src/KLM/Data/Alphabet/D/D2/-Inventory.md`
+- `src/KLM/Data/Alphabet/D/D2/README.md`
+- `src/KLM/Data/Alphabet/D/README.md`
+- `src/KLM/Data/Alphabet/E/-Inventory.md`
+- `src/KLM/Data/Alphabet/E/E1/-Inventory.md`
+- `src/KLM/Data/Alphabet/E/E1/README.md`
+- `src/KLM/Data/Alphabet/E/E2/-Inventory.md`
+- `src/KLM/Data/Alphabet/E/E2/README.md`
+- `src/KLM/Data/Alphabet/E/README.md`
+- `src/KLM/Data/Alphabet/F/-Inventory.md`
+- `src/KLM/Data/Alphabet/F/F1/-Inventory.md`
+- `src/KLM/Data/Alphabet/F/F1/README.md`
+- `src/KLM/Data/Alphabet/F/F2/-Inventory.md`
+- `src/KLM/Data/Alphabet/F/F2/README.md`
+- `src/KLM/Data/Alphabet/F/README.md`
+- `src/KLM/Data/Alphabet/G/-Inventory.md`
+- `src/KLM/Data/Alphabet/G/G1/-Inventory.md`
+- `src/KLM/Data/Alphabet/G/G1/README.md`
+- `src/KLM/Data/Alphabet/G/G2/-Inventory.md`
+- `src/KLM/Data/Alphabet/G/G2/README.md`
+- `src/KLM/Data/Alphabet/G/README.md`
+- `src/KLM/Data/Alphabet/H/-Inventory.md`
+- `src/KLM/Data/Alphabet/H/H1/-Inventory.md`
+- `src/KLM/Data/Alphabet/H/H1/README.md`
+- `src/KLM/Data/Alphabet/H/H2/-Inventory.md`
+- `src/KLM/Data/Alphabet/H/H2/README.md`
+- `src/KLM/Data/Alphabet/H/README.md`
+- `src/KLM/Data/Alphabet/I/-Inventory.md`
+- `src/KLM/Data/Alphabet/I/I1/-Inventory.md`
+- `src/KLM/Data/Alphabet/I/I1/README.md`
+- `src/KLM/Data/Alphabet/I/I2/-Inventory.md`
+- `src/KLM/Data/Alphabet/I/I2/README.md`
+- `src/KLM/Data/Alphabet/I/README.md`
+- `src/KLM/Data/Alphabet/J/-Inventory.md`
+- `src/KLM/Data/Alphabet/J/J1/-Inventory.md`
+- `src/KLM/Data/Alphabet/J/J1/README.md`
+- `src/KLM/Data/Alphabet/J/J2/-Inventory.md`
+- `src/KLM/Data/Alphabet/J/J2/README.md`
+- `src/KLM/Data/Alphabet/J/README.md`
+- `src/KLM/Data/Alphabet/K/-Inventory.md`
+- `src/KLM/Data/Alphabet/K/K1/-Inventory.md`
+- `src/KLM/Data/Alphabet/K/K1/README.md`
+- `src/KLM/Data/Alphabet/K/README.md`
+- `src/KLM/Data/Alphabet/README.md`
+- `src/KLM/Data/README.md`
+- `src/KLM/Properties/-Inventory.md`
+- `src/KLM/Properties/README.md`
+- `src/KLM/README.md`
+- `src/KLM/Resources/-Inventory.md`
+- `src/KLM/Resources/README.md`
+- `src/KLM/Signs/-Inventory.md`
+- `src/KLM/Signs/Alphabet/-Inventory.md`
+- `src/KLM/Signs/Alphabet/README.md`
+- `src/KLM/Signs/Body_Parts/-Inventory.md`
+- `src/KLM/Signs/Body_Parts/README.md`
+- `src/KLM/Signs/Directions/-Inventory.md`
+- `src/KLM/Signs/Directions/README.md`
+- `src/KLM/Signs/Feelings/-Inventory.md`
+- `src/KLM/Signs/Feelings/README.md`
+- `src/KLM/Signs/Numbers/-Inventory.md`
+- `src/KLM/Signs/Numbers/README.md`
+- `src/KLM/Signs/README.md`
+- `src/KLM/Signs/Time/-Inventory.md`
+- `src/KLM/Signs/Time/README.md`
+- `src/KLM/Signs/Weather/-Inventory.md`
+- `src/KLM/Signs/Weather/README.md`
+- `src/KLM/bin/-Inventory.md`
+- `src/KLM/bin/README.md`
+- `src/KLM/bin/x86/-Inventory.md`
+- `src/KLM/bin/x86/README.md`
+- `src/KLM/obj/-Inventory.md`
+- `src/KLM/obj/README.md`
+- `src/KLM/obj/x64/-Inventory.md`
+- `src/KLM/obj/x64/README.md`
+- `src/KLM/obj/x86/-Inventory.md`
+- `src/KLM/obj/x86/README.md`
+- `src/LightBuzz.Vitruvius/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Bitmaps/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Bitmaps/README.md`
+- `src/LightBuzz.Vitruvius/Core/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Core/README.md`
+- `src/LightBuzz.Vitruvius/Extensions/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Extensions/README.md`
+- `src/LightBuzz.Vitruvius/Gestures/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Gestures/README.md`
+- `src/LightBuzz.Vitruvius/Gestures/Segments/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Gestures/Segments/README.md`
+- `src/LightBuzz.Vitruvius/Properties/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Properties/README.md`
+- `src/LightBuzz.Vitruvius/README.md`
+- `src/LightBuzz.Vitruvius/Tools/-Inventory.md`
+- `src/LightBuzz.Vitruvius/Tools/README.md`
+- `src/LightBuzz.Vitruvius/bin/-Inventory.md`
+- `src/LightBuzz.Vitruvius/bin/README.md`
+- `src/LightBuzz.Vitruvius/obj/-Inventory.md`
+- `src/LightBuzz.Vitruvius/obj/README.md`
+- `src/LightBuzz.Vitruvius/obj/x86/-Inventory.md`
+- `src/LightBuzz.Vitruvius/obj/x86/README.md`
+- `src/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-labs-undergrad - 0 papers, 49 reports, 0 presentations, 34 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-labs-undergrad
+- Hub path: `Projects-Code/opc-labs-undergrad`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1RsuNUgH_bqDfSrB1YM2RtyrHJJTTzgCf
+- Import status: `completed`
+- Total indexed files in repo: `84`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/317 nd 311 labs/317LAB#3 (2013_03_30 07_27_35 UTC).docx`
+- `reports/317 nd 311 labs/LabNo4 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- `reports/317 nd 311 labs/LabNo6 (2013_03_30 07_27_35 UTC).docx`
+- `reports/317LAB#3 (2013_03_30 07_27_35 UTC).docx`
+- `reports/AssignmentNo.7A (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS-230 LabNo.7/AssignmentNo.7A (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS-230 LabNo.7/LabNo7B (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS-230 LabNo.7/LabNo7C (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS11-13/LABS11-13 Output (2013_03_30 07_27_35 UTC).txt`
+- `reports/BCS11-13/Lab11BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS11-13/Lab12BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/BCS11-13/Lab13BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/LABS11-13 Output (2013_03_30 07_27_35 UTC).txt`
+- `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC)--from-repo-LabAssignmentNo6.docx`
+- `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC)--from-repo-Lab_AssignmentNo5.docx`
+- `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab11BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab12BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab13BCS (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab4-Unix/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC)--from-repo-LabAssignmentNo6.docx`
+- `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC)--from-repo-Lab_AssignmentNo5.docx`
+- `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabAssignmentNo6/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabAssignmentNo6/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabNo4 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabNo6 (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabNo7B (2013_03_30 07_27_35 UTC).docx`
+- `reports/LabNo7C (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/Lab_AssignmentNo5/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- `reports/Lab_AssignmentNo5/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- `reports/Unix Lab14/lab14 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab101 (2013_03_30 07_27_35 UTC).docx`
+- `reports/lab101.docx/lab101 (2013_03_30 07_27_35 UTC).docx`
+- `reports/lab101.docx/lab11_1 (2013_03_30 07_27_35 UTC).docx`
+- `reports/lab11_1 (2013_03_30 07_27_35 UTC).docx`
+- `reports/lab12-unix/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab12_case (2013_03_30 07_27_35 UTC)--from-repo-lab12-unix.rtf`
+- `reports/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab12unix/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab14 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab4 (2013_03_30 07_27_35 UTC)--from-repo-Lab4-Unix.rtf`
+- `reports/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab5 (2)/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab54/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab54/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- `reports/lab6-230/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- `reports/lab6-230/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/317 nd 311 labs/-Inventory.md`
+- `reports/317 nd 311 labs/README.md`
+- `reports/BCS-230 LabNo.7/-Inventory.md`
+- `reports/BCS-230 LabNo.7/README.md`
+- `reports/BCS11-13/-Inventory.md`
+- `reports/BCS11-13/README.md`
+- `reports/Lab4-Unix/-Inventory.md`
+- `reports/Lab4-Unix/README.md`
+- `reports/LabAssignmentNo6/-Inventory.md`
+- `reports/LabAssignmentNo6/README.md`
+- `reports/Lab_AssignmentNo5/-Inventory.md`
+- `reports/Lab_AssignmentNo5/README.md`
+- `reports/README.md`
+- `reports/Unix Lab14/-Inventory.md`
+- `reports/Unix Lab14/README.md`
+- `reports/lab101.docx/-Inventory.md`
+- `reports/lab101.docx/README.md`
+- `reports/lab12-unix/-Inventory.md`
+- `reports/lab12-unix/README.md`
+- `reports/lab12unix/-Inventory.md`
+- `reports/lab12unix/README.md`
+- `reports/lab5 (2)/-Inventory.md`
+- `reports/lab5 (2)/README.md`
+- `reports/lab54/-Inventory.md`
+- `reports/lab54/README.md`
+- `reports/lab6-230/-Inventory.md`
+- `reports/lab6-230/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-matlab - 14 papers, 270 reports, 55 presentations, 340 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-matlab
+- Hub path: `Projects-Code/opc-matlab`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1iOzNvYr8ff47j9TUNQCwVBjhzIUspre4
+- Import status: `needs Drive review`
+- Total indexed files in repo: `3038`
+
+### Code / Project Location
+
+- `APCG-HW1/`
+- `Advance & Computer Vision/`
+- `CryptoHw2/`
+- `EET-327/`
+- `EET-420/`
+- `EET418/`
+
+Project marker files:
+- `EET418/418Labs/EET418labs/mde_skeleton/mdeskeleton.vcproj`
+
+### Papers
+- `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal - ACV.docx`
+- `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal - ACV.pdf`
+- `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal.docx`
+- `papers/Advance & Computer Vision/ACV/~$search Project Proposal.docx`
+- `papers/Advance & Computer Vision/ACV2/Proposal.docx`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/cvproposal.docx`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$proposal.docx`
+- `papers/Proposal--from-ColorHistogramFolder-documents-export-2013-02-10.docx`
+- `papers/Proposal.docx`
+- `papers/Proposal.pdf`
+- `papers/Research Project Proposal - ACV.docx`
+- `papers/Research Project Proposal - ACV.pdf`
+- `papers/Research Project Proposal.docx`
+- `papers/cvproposal.docx`
+
+### Reports / Written Documentation
+- `reports/10.1.1.229.1174.pdf`
+- `reports/2012-13 Registration Guide 9-20-12.pdf`
+- `reports/5_2 Answer.txt`
+- `reports/700_final_examples.pdf`
+- `reports/8-2.txt`
+- `reports/A.docx`
+- `reports/ACV_HW2_KarinaDamico_PeterGarcia.docx`
+- `reports/ACV_HW2_KarinaDamico_PeterGarcia.pdf`
+- `reports/APCG-HW1/abSIRD_for_Matlab/license.txt`
+- `reports/Advance & Computer Vision/ACV/ACV-Stuff/cs295p_final_report_yunzhang.pdf`
+- `reports/Advance & Computer Vision/ACV2/CV_Lec02_MATLAB.pdf`
+- `reports/Advance & Computer Vision/ACV2/EditingReport.docx`
+- `reports/Advance & Computer Vision/ACV2/Latex/Report.pdf`
+- `reports/Advance & Computer Vision/ACV2/homework2.pdf`
+- `reports/Advance & Computer Vision/CVStuff/CV-HOMEWORK NUMBER TWO.docx`
+- `reports/Advance & Computer Vision/ComputerVision/Hw3_1/Homework3_1.docx`
+- `reports/Advance & Computer Vision/ComputerVision/Hw3_1/Homework3_1.pdf`
+- `reports/Advance & Computer Vision/ComputerVision/hw2/CV-HOMEWORK NUMBER TWO.docx`
+- `reports/Advance & Computer Vision/ComputerVision/hw4/CV HomeWork Number4.pdf`
+- `reports/CAR SEGMENTATION - Project Progress.pdf`
+- `reports/CV HomeWork Number4.pdf`
+- `reports/CV-HOMEWORK NUMBER TWO.docx`
+- `reports/CVHW1.docx`
+- `reports/CVHW4.docx`
+- `reports/CVPROJECT--from-ACV-ColorHistogramFolder.docx`
+- `reports/CVPROJECT--from-ComputerVision-CV-PROJECT.docx`
+- `reports/CVPROJECT-1.docx`
+- `reports/CVPROJECT-1.pdf`
+- `reports/CVPROJECT-2.pdf`
+- `reports/CVPROJECT.docx`
+- `reports/CVPROJECT.pdf`
+- `reports/CV_HW6_PiterGarcia (Autosaved).docx`
+- `reports/CV_HW6_PiterGarcia (Autosaved).pdf`
+- `reports/CV_HW6_PiterGarcia.docx`
+- `reports/CV_HW6_PiterGarcia.pdf`
+- `reports/CV_Lec02_MATLAB.pdf`
+- `reports/ColorHistogramPart.docx`
+- `reports/ColorHistogramPart.pdf`
+- `reports/ColorHistogramPart2.pdf`
+- `reports/ColorHistogramPart3.pdf`
+- `reports/CryptHW2_FINAL.docx`
+- `reports/CryptHW2_FINAL.pdf`
+- `reports/Document2.docx`
+- `reports/EET - 327 -Lab11.docx`
+- `reports/EET - 327 -Lab9.docx`
+- `reports/EET-327 LAB53.docx`
+- `reports/EET-327 LabNo24.docx`
+- `reports/EET-327 LabNo30.docx`
+- `reports/EET-327 lab12.docx`
+- `reports/EET-327 lab20.docx`
+- `reports/EET-327/EET - 327 -Lab11.docx`
+- `reports/EET-327/EET - 327 -Lab9.docx`
+- `reports/EET-327/EET-327 LAB53.docx`
+- `reports/EET-327/EET-327 LabNo24.docx`
+- `reports/EET-327/EET-327 LabNo30.docx`
+- `reports/EET-327/EET-327 lab12.docx`
+- `reports/EET-327/EET-327 lab20.docx`
+- `reports/EET-327/EET-327Lab15.docx`
+- `reports/EET-327/EET-327Lab16.docx`
+- `reports/EET-327Lab15.docx`
+- `reports/EET-327Lab16.docx`
+- `reports/EET-420/420piter labs/EET-420/Lab10/lab10conclusion.doc`
+- `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-A.txt`
+- `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-ANSWERS.txt`
+- `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-B.txt`
+- `reports/EET-420/420piter labs/EET-420/Lab6/LAB6C-ANSWERS.txt`
+- `reports/EET-420/420piter labs/EET-420/Lab6/lab6a.txt`
+- `reports/EET-420/420piter labs/EET-420/Lab6/lab6b.txt`
+- `reports/EET-420/420piter labs/Lab10.m.txt`
+- `reports/EET-420/420piter labs/Lab4/Lab4o.txt`
+- `reports/EET-420/420piter labs/Lab4/Lab4o1.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6-A ANSWERS.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6-A.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6-B.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6C-ANSWERS.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6_B-Answers.txt`
+- `reports/EET-420/420piter labs/Lab6/LAB6_C.txt`
+- `reports/EET-420/420piter labs/Lab6/lab6a.txt`
+- `reports/EET-420/420piter labs/Lab6/lab6b.txt`
+- `reports/EET-420/420piter labs/Lab6/lab6c.txt`
+- `reports/EET-420/420piter labs/Lab6/lab6conclusion.docx`
+- `reports/EET-420/420piter labs/Lab7/Lab7-Conclusion.docx`
+- `reports/EET-420/420piter labs/Lab7/Lab7_3R80Answers.txt`
+- `reports/EET-420/420piter labs/Lab7/lab7_3answers.txt`
+- `reports/EET-420/420piter labs/lab5-EET420/lab5-2A.txt`
+- `reports/EET-420/420piter labs/lab5-EET420/lab5-2b.txt`
+- `reports/EET-420/420piter labs/lab5-EET420/lab5-2c.txt`
+- `reports/EET-420/420piter labs/lab5-EET420/lab51answers.txt`
+- `reports/EET-420/EET 420 Labs/LAB#10.doc`
+- `reports/EET-420/EET 420 Labs/LAB#5.doc`
+- `reports/EET-420/EET 420 Labs/Lab10.txt`
+- `reports/EET-420/EET 420 Labs/Lab2B.txt`
+- `reports/EET-420/EET 420 Labs/Lab4A.txt`
+- `reports/EET-420/EET 420 Labs/Lab4b.txt`
+- `reports/EET-420/EET 420 Labs/Lab5_cir1.txt`
+- `reports/EET-420/EET 420 Labs/Lab5_cir2.txt`
+- `reports/EET-420/EET 420 Labs/Lab5_cir3.txt`
+- `reports/EET-420/EET 420 Labs/Lab6.txt`
+- `reports/EET-420/EET 420 Labs/Lab7.txt`
+- `reports/EET-420/EET 420 Labs/Lab7_R=20.txt`
+- `reports/EET-420/EET 420 Labs/Lab8.docx`
+- `reports/EET-420/EET 420 Labs/Lab8_part3.txt`
+- `reports/EET-420/EET 420 Labs/Lab9.txt`
+- `reports/EET418/418Labs/EET-418/LAB11.0.txt`
+- `reports/EET418/418Labs/EET-418/Lab 7.docx`
+- `reports/EET418/418Labs/EET-418/job4.0.txt`
+- `reports/EET418/418Labs/EET418labs/418l/8-2.txt`
+- `reports/EET418/418Labs/EET418labs/418l/lab15.rtf`
+- `reports/EET418/EET-418/Lab12/LAB12_1 OUTPUT.txt`
+- `reports/EET418/EET-418/Lab3/New Text Document.txt`
+- `reports/EET418/EET-418/Lab4/5_2 Answer.txt`
+- `reports/EET418/EET-418/Lab4/Lab4o.txt`
+- `reports/EET418/EET-418/Lab4/Lab4o1.txt`
+- `reports/EET418/EET-418/Lab5/LAB5-ANSWER.txt`
+- `reports/EET418/EET-418/Lab5/LAB5_2.txt`
+- `reports/EET418/EET-418II/lab25.txt`
+- `reports/EET418/EET-418II/lab25t.txt`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/LAB10answers.txt`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/lab101answers.txt`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab12/LAB12B_Answer.txt`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab12/LAB12_1 OUTPUT.txt`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab15/lab15a_answer.txt`
+- `reports/EET418/Incomplete Labs 418/New Folder/New Folder/LAB10answers.txt`
+- `reports/EET418/Incomplete Labs 418/New Folder/New Folder/lab101answers.txt`
+- `reports/EET418/LAB 5.docx`
+- `reports/EET418/Test2-Review/lab16.docx`
+- `reports/EET418/lab 6.txt`
+- `reports/EET418/lab3.docx`
+- `reports/EET418/lab3.txt`
+- `reports/EET418/lab4.docx`
+- `reports/EditingReport--from-ColorHistogramFolder-documents-export-2013-02-10.docx`
+- `reports/EditingReport.docx`
+- `reports/HW1_AdvancedCV.docx`
+- `reports/HW1_AdvancedCV.pdf`
+- `reports/HW30.txt`
+- `reports/Homework3_1.docx`
+- `reports/Homework3_1.pdf`
+- `reports/Hw3_3.docx`
+- `reports/Hw3_3.pdf`
+- `reports/InfoNetSec05_Ex1_sol.pdf`
+- `reports/LAB 5.docx`
+- `reports/LAB#10.doc`
+- `reports/LAB#5.doc`
+- `reports/LAB10answers.txt`
+- `reports/LAB11.0.txt`
+- `reports/LAB12.docx`
+- `reports/LAB12B_Answer.txt`
+- `reports/LAB12_1 OUTPUT.txt`
+- `reports/LAB5-ANSWER.txt`
+- `reports/LAB5_2.txt`
+- `reports/LAB6-A ANSWERS.txt`
+- `reports/LAB6-A.txt`
+- `reports/LAB6-ANSWERS.txt`
+- `reports/LAB6-B.txt`
+- `reports/LAB6.docx`
+- `reports/LAB6C-ANSWERS.txt`
+- `reports/LAB6_B-Answers.txt`
+- `reports/LAB6_C.txt`
+- `reports/LAB6_OUTPUT.txt`
+- `reports/Lab 7.docx`
+- `reports/Lab10.m.txt`
+- `reports/Lab10.txt`
+- `reports/Lab2B.txt`
+- `reports/Lab4A.txt`
+- `reports/Lab4b.txt`
+- `reports/Lab4o.txt`
+- `reports/Lab4o1.txt`
+- `reports/Lab5_cir1.txt`
+- `reports/Lab5_cir2.txt`
+- `reports/Lab5_cir3.txt`
+- `reports/Lab6.txt`
+- `reports/Lab7-Conclusion.docx`
+- `reports/Lab7.txt`
+- `reports/Lab7_3R80Answers.txt`
+- `reports/Lab7_Output.txt`
+- `reports/Lab7_R=20.txt`
+- `reports/Lab8--from-EET-420-EET-420-Labs.docx`
+- `reports/Lab8_part3.txt`
+- `reports/Lab9--from-EET-420-EET-420-Labs.txt`
+- `reports/New Text Document (1).txt`
+- `reports/New Text Document (2).txt`
+- `reports/New Text Document (3).txt`
+- `reports/New Text Document (4).txt`
+- `reports/New Text Document (5).txt`
+- `reports/New Text Document.txt`
+- `reports/NewVisa-NewDS2019.pdf`
+- `reports/Piter Garcia - update2.pdf`
+- `reports/README--from-ACV2-DT-OC5.txt`
+- `reports/Report.docx`
+- `reports/Report.odt`
+- `reports/Report.pdf`
+- `reports/Report3.pdf`
+- `reports/Shetty_Prajwal.pdf`
+- `reports/Tracking Cars Using Optical Flow.docx`
+- `reports/TuringMachine.pdf`
+- `reports/Update3.odt`
+- `reports/Update4.pdf`
+- `reports/Visit Canada as a tourist.docx`
+- `reports/[README].txt`
+- `reports/a.txt`
+- `reports/aaaaaa.txt`
+- `reports/acv_report.doc`
+- `reports/acv_report.docx`
+- `reports/acv_report.pdf`
+- `reports/bin-ratio-cvpr10 - Scene Category.docx`
+- `reports/bin-ratio-cvpr10 - Scene Category.pdf`
+- `reports/bin-ratio-cvpr10 - Scene Category_new.rtf`
+- `reports/black.txt`
+- `reports/cipher.txt`
+- `reports/cs295p_final_report_yunzhang.pdf`
+- `reports/ece480_dt3_application_note_dembelef.pdf`
+- `reports/exgcd.pdf`
+- `reports/ho08.pdf`
+- `reports/homework2.pdf`
+- `reports/hw2.docx`
+- `reports/hw2.pdf`
+- `reports/ieee.bib`
+- `reports/ieee.cls`
+- `reports/ieee.tex`
+- `reports/ieeeOrig.tex`
+- `reports/input.txt`
+- `reports/installer_input.txt`
+- `reports/job4.0.txt`
+- `reports/lab 10.docx`
+- `reports/lab 14.docx`
+- `reports/lab 5a.docx`
+- `reports/lab 6.txt`
+- `reports/lab101answers.txt`
+- `reports/lab10conclusion.doc`
+- `reports/lab11.docx`
+- `reports/lab13.docx`
+- `reports/lab15.docx`
+- `reports/lab15.rtf`
+- `reports/lab15a_answer.txt`
+- `reports/lab16.docx`
+- `reports/lab25.txt`
+- `reports/lab25t.txt`
+- `reports/lab3.docx`
+- `reports/lab3.txt`
+- `reports/lab4--from-418l-lab-reports.docx`
+- `reports/lab4.docx`
+- `reports/lab5-2A.txt`
+- `reports/lab5-2b.txt`
+- `reports/lab5-2c.txt`
+- `reports/lab51answers.txt`
+- `reports/lab6a.txt`
+- `reports/lab6b.txt`
+- `reports/lab6c.txt`
+- `reports/lab6conclusion.docx`
+- `reports/lab7.docx`
+- `reports/lab7_3answers.txt`
+- `reports/lab8-1answers.txt`
+- `reports/lab8-2 answers.txt`
+- `reports/lab8.docx`
+- `reports/lab9-Answers.txt`
+- `reports/lab9.docx`
+- `reports/lab9.txt`
+- `reports/lec21.pdf`
+- `reports/license--from-APCG-HW1-abSIRD_for_Matlab.txt`
+- `reports/license--from-APCG-HW1-stereogram.txt`
+- `reports/license.txt`
+- `reports/output.txt`
+- `reports/practiceMidterm.pdf`
+- `reports/practiceMidtermSolutions.pdf`
+- `reports/readme.txt`
+- `reports/report.doc`
+- `reports/saved.txt`
+- `reports/scan0001.pdf`
+- `reports/suryadevara-hw3.doc`
+- `reports/tut4-q4+5.doc`
+
+### Presentations
+- `Advance & Computer Vision/ACV2/FinalPresentation.png`
+- `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.docx`
+- `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.pdf`
+- `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.pptx`
+- `presentations/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal-Presentation.pdf`
+- `presentations/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal-Presentation.pptx`
+- `presentations/Advance & Computer Vision/ACV/Piter Garcia - update2.pptx`
+- `presentations/Advance & Computer Vision/ACV/Update1 (1).pptx`
+- `presentations/Advance & Computer Vision/ACV/Update1.pptx`
+- `presentations/Advance & Computer Vision/ACV2/BIIS2011_1Lec02-1.pptx`
+- `presentations/Advance & Computer Vision/ACV2/FinalPresentation.png`
+- `presentations/Advance & Computer Vision/ACV2/Final_Presentation-1.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Final_Presentation-2.pdf`
+- `presentations/Advance & Computer Vision/ACV2/Final_Presentation-2.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Final_Presentation.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Piter Garcia - update2.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Presentation.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Presentation1.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Presentation2.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Update1.pptx`
+- `presentations/Advance & Computer Vision/ACV2/Update3.pptx`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/CAR SEGMENTATION - Project Progress.pptx`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/pptproporsalpresentation.pptx`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$CAR SEGMENTATION - Project Progress.pptx`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$pptproporsalpresentation.pptx`
+- `presentations/BIIS2011_1Lec02-1.pptx`
+- `presentations/CAR SEGMENTATION - Project Progress.pptx`
+- `presentations/EET418/EET-418II/EET418_ClassVisit.ppt`
+- `presentations/EET418/EET-418II/Lab5155.ppt`
+- `presentations/EET418_ClassVisit.ppt`
+- `presentations/Final_Presentation--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- `presentations/Final_Presentation-1.pptx`
+- `presentations/Final_Presentation-2.pdf`
+- `presentations/Final_Presentation-2.pptx`
+- `presentations/Final_Presentation.pptx`
+- `presentations/Lab5155.ppt`
+- `presentations/Piter Garcia - update2--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- `presentations/Piter Garcia - update2.pptx`
+- `presentations/Presentation-hw3.docx`
+- `presentations/Presentation-hw3.pdf`
+- `presentations/Presentation-hw3.pptx`
+- `presentations/Presentation.pptx`
+- `presentations/Presentation1.pptx`
+- `presentations/Presentation2.pptx`
+- `presentations/Research Project Proposal-Presentation.pdf`
+- `presentations/Research Project Proposal-Presentation.pptx`
+- `presentations/Update1 (1).pptx`
+- `presentations/Update1(2).pptx`
+- `presentations/Update1--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- `presentations/Update1.pptx`
+- `presentations/Update2.pptx`
+- `presentations/Update3--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- `presentations/Update3.pptx`
+- `presentations/Update4.pptx`
+- `presentations/pptproporsalpresentation.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `APCG-HW1/-Inventory.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/-Inventory.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/project.xcworkspace/-Inventory.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/project.xcworkspace/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/project.xcworkspace/xcuserdata/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/xcuserdata/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/README.md`
+- `APCG-HW1/APCG-HW1.xcodeproj/xcuserdata/pitergarcia.xcuserdatad/xcschemes/README.md`
+- `APCG-HW1/APCG-Hw1/-Inventory.md`
+- `APCG-HW1/APCG-Hw1/README.md`
+- `APCG-HW1/OpenStereogram/-Inventory.md`
+- `APCG-HW1/OpenStereogram/README.md`
+- `APCG-HW1/OpenStereogram/images/-Inventory.md`
+- `APCG-HW1/OpenStereogram/images/README.md`
+- `APCG-HW1/OpenStereogram/images/depthMaps/-Inventory.md`
+- `APCG-HW1/OpenStereogram/images/depthMaps/README.md`
+- `APCG-HW1/OpenStereogram/images/texturePatterns/README.md`
+- `APCG-HW1/README.md`
+- `APCG-HW1/abSIRD_for_Matlab/-Inventory.md`
+- `APCG-HW1/abSIRD_for_Matlab/README.md`
+- `APCG-HW1/abSIRD_for_Matlab/html/-Inventory.md`
+- `APCG-HW1/abSIRD_for_Matlab/html/README.md`
+- `APCG-HW1/stereogram/-Inventory.md`
+- `APCG-HW1/stereogram/README.md`
+- `Advance & Computer Vision/-Inventory.md`
+- `Advance & Computer Vision/ACV/-Inventory.md`
+- `Advance & Computer Vision/ACV/ACV-HW2/-Inventory.md`
+- `Advance & Computer Vision/ACV/ACV-HW2/README.md`
+- `Advance & Computer Vision/ACV/ACVHw1/-Inventory.md`
+- `Advance & Computer Vision/ACV/ACVHw1/README.md`
+- `Advance & Computer Vision/ACV/ColorHistogramFolder/README.md`
+- `Advance & Computer Vision/ACV/README.md`
+- `Advance & Computer Vision/ACV/acv_colin/README.md`
+- `Advance & Computer Vision/ACV/acv_colin/acv_colin/Advance CV/README.md`
+- `Advance & Computer Vision/ACV/acv_colin/acv_colin/README.md`
+- `Advance & Computer Vision/ACV/acv_colin/coast/README.md`
+- `Advance & Computer Vision/ACV/acv_colin/forest/README.md`
+- `Advance & Computer Vision/ACV2/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/car/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/car/OC/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/car/OC/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/car/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cow/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cow/OC/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cow/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cup/-Inventory.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cup/OC/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/cup/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/dog/OC/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/dog/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/horse/OC/README.md`
+- `Advance & Computer Vision/ACV2/DT-OC5/horse/README.md`
+- `Advance & Computer Vision/ACV2/ICV/-Inventory.md`
+- `Advance & Computer Vision/ACV2/ICV/README.md`
+- `Advance & Computer Vision/ACV2/Latex/-Inventory.md`
+- `Advance & Computer Vision/ACV2/Latex/README.md`
+- `Advance & Computer Vision/ACV2/README.md`
+- `Advance & Computer Vision/ACV2/reco_toolbox/-Inventory.md`
+- `Advance & Computer Vision/ACV2/reco_toolbox/README.md`
+- `Advance & Computer Vision/ACV2/reco_toolbox/reco_toolbox/README.md`
+- `Advance & Computer Vision/ACV2/reco_toolbox/reco_toolbox/core/README.md`
+- `Advance & Computer Vision/ACV2/reco_toolbox/reco_toolbox/html/README.md`
+- `Advance & Computer Vision/ACV2/repitergarcia/-Inventory.md`
+- `Advance & Computer Vision/ACV2/repitergarcia/README.md`
+- `Advance & Computer Vision/CVStuff/-Inventory.md`
+- `Advance & Computer Vision/CVStuff/README.md`
+- `Advance & Computer Vision/ComputerVision/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/CV-PROJECT/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/README.md`
+- `Advance & Computer Vision/ComputerVision/CV-PROJECT/README.md`
+- `Advance & Computer Vision/ComputerVision/CV_hw6/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/CV_hw6/README.md`
+- `Advance & Computer Vision/ComputerVision/Hw3_1/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/Hw3_1/README.md`
+- `Advance & Computer Vision/ComputerVision/Hw3_2/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/Hw3_2/README.md`
+- `Advance & Computer Vision/ComputerVision/Hw3_2/mfiles/README.md`
+- `Advance & Computer Vision/ComputerVision/Hw4k/README.md`
+- `Advance & Computer Vision/ComputerVision/README.md`
+- `Advance & Computer Vision/ComputerVision/hw1/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/hw1/README.md`
+- `Advance & Computer Vision/ComputerVision/hw1/stuff/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/hw1/stuff/README.md`
+- `Advance & Computer Vision/ComputerVision/hw2/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/hw2/README.md`
+- `Advance & Computer Vision/ComputerVision/hw4/-Inventory.md`
+- `Advance & Computer Vision/ComputerVision/hw4/README.md`
+- `Advance & Computer Vision/MATLAB/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/coastTestImages/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/coastTestImages/New Folder With Items/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/coastTestImages/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/coast_train/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/coast_train/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/forestTestImages/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/forest_train/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/forest_train/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/highwayTestImages/README.md`
+- `Advance & Computer Vision/MATLAB/AdvanceCV/highway_train/README.md`
+- `Advance & Computer Vision/MATLAB/README.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/Images_testing/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/Images_testing/README.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/Images_training/Images_testing/README.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/Images_training/README.md`
+- `Advance & Computer Vision/MATLAB/RIT DATA/README.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/New Folder With Items/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/New Folder With Items/README.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/README.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/mountainTestImages/-Inventory.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/mountainTestImages/README.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/reco_toolbox/README.md`
+- `Advance & Computer Vision/MATLAB/repitergarcia/reco_toolbox/reco_toolbox/README.md`
+- `Advance & Computer Vision/README.md`
+- `CryptoHw2/-Inventory.md`
+- `CryptoHw2/File & Codes/-Inventory.md`
+- `CryptoHw2/File & Codes/README.md`
+- `CryptoHw2/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `EET-327/-Inventory.md`
+- `EET-327/README.md`
+- `EET-327/TestNo.1/-Inventory.md`
+- `EET-327/TestNo.1/README.md`
+- `EET-327/html/-Inventory.md`
+- `EET-327/html/README.md`
+- `EET-420/-Inventory.md`
+- `EET-420/420piter labs/-Inventory.md`
+- `EET-420/420piter labs/EET-420/-Inventory.md`
+- `EET-420/420piter labs/EET-420/Lab6/-Inventory.md`
+- `EET-420/420piter labs/EET-420/Lab6/README.md`
+- `EET-420/420piter labs/EET-420/README.md`
+- `EET-420/420piter labs/Lab4/-Inventory.md`
+- `EET-420/420piter labs/Lab4/README.md`
+- `EET-420/420piter labs/Lab5/-Inventory.md`
+- `EET-420/420piter labs/Lab5/README.md`
+- `EET-420/420piter labs/Lab6/-Inventory.md`
+- `EET-420/420piter labs/Lab6/README.md`
+- `EET-420/420piter labs/Lab7/-Inventory.md`
+- `EET-420/420piter labs/Lab7/README.md`
+- `EET-420/420piter labs/README.md`
+- `EET-420/420piter labs/lab3/-Inventory.md`
+- `EET-420/420piter labs/lab3/README.md`
+- `EET-420/420piter labs/lab5-EET420/-Inventory.md`
+- `EET-420/420piter labs/lab5-EET420/README.md`
+- `EET-420/EET 420 Labs/-Inventory.md`
+- `EET-420/EET 420 Labs/README.md`
+- `EET-420/README.md`
+- `EET418/-Inventory.md`
+- `EET418/418Labs/-Inventory.md`
+- `EET418/418Labs/EET-418/-Inventory.md`
+- `EET418/418Labs/EET-418/README.md`
+- `EET418/418Labs/EET418labs/-Inventory.md`
+- `EET418/418Labs/EET418labs/418l/-Inventory.md`
+- `EET418/418Labs/EET418labs/418l/README.md`
+- `EET418/418Labs/EET418labs/418l/lab5/README.md`
+- `EET418/418Labs/EET418labs/README.md`
+- `EET418/418Labs/EET418labs/eet/README.md`
+- `EET418/418Labs/EET418labs/eet/TheoryHW/README.md`
+- `EET418/418Labs/EET418labs/mde_skeleton/README.md`
+- `EET418/418Labs/README.md`
+- `EET418/EET-418/-Inventory.md`
+- `EET418/EET-418/Lab12/-Inventory.md`
+- `EET418/EET-418/Lab12/README.md`
+- `EET418/EET-418/Lab3/-Inventory.md`
+- `EET418/EET-418/Lab3/README.md`
+- `EET418/EET-418/Lab4/-Inventory.md`
+- `EET418/EET-418/Lab4/README.md`
+- `EET418/EET-418/Lab5/-Inventory.md`
+- `EET418/EET-418/Lab5/README.md`
+- `EET418/EET-418/Lab6/-Inventory.md`
+- `EET418/EET-418/Lab6/README.md`
+- `EET418/EET-418/Lab7/README.md`
+- `EET418/EET-418/Lab8/README.md`
+- `EET418/EET-418/Lab9/README.md`
+- `EET418/EET-418/New folder (2)/README.md`
+- `EET418/EET-418/README.md`
+- `EET418/EET-418II/-Inventory.md`
+- `EET418/EET-418II/README.md`
+- `EET418/ET-418L-Piter Complete Labs/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab10/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab10/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab12/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab12/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab15/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab15/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab3/-Inventory.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab3/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab4/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab5/README.md`
+- `EET418/ET-418L-Piter Complete Labs/Lab6/README.md`
+- `EET418/ET-418L-Piter Complete Labs/README.md`
+- `EET418/Incomplete Labs 418/-Inventory.md`
+- `EET418/Incomplete Labs 418/New Folder/-Inventory.md`
+- `EET418/Incomplete Labs 418/New Folder/New Folder/-Inventory.md`
+- `EET418/Incomplete Labs 418/New Folder/New Folder/README.md`
+- `EET418/Incomplete Labs 418/New Folder/README.md`
+- `EET418/Incomplete Labs 418/README.md`
+- `EET418/README.md`
+- `EET418/Test2-Review/-Inventory.md`
+- `EET418/Test2-Review/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/Advance & Computer Vision/-Inventory.md`
+- `papers/Advance & Computer Vision/ACV/-Inventory.md`
+- `papers/Advance & Computer Vision/ACV/ACV-Proposal/-Inventory.md`
+- `papers/Advance & Computer Vision/ACV/ACV-Proposal/README.md`
+- `papers/Advance & Computer Vision/ACV/README.md`
+- `papers/Advance & Computer Vision/ACV2/-Inventory.md`
+- `papers/Advance & Computer Vision/ACV2/README.md`
+- `papers/Advance & Computer Vision/ComputerVision/-Inventory.md`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/-Inventory.md`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/-Inventory.md`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/README.md`
+- `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/README.md`
+- `papers/Advance & Computer Vision/ComputerVision/README.md`
+- `papers/Advance & Computer Vision/README.md`
+- `papers/README.md`
+- `presentations/-Inventory.md`
+- `presentations/Advance & Computer Vision/-Inventory.md`
+- `presentations/Advance & Computer Vision/ACV/-Inventory.md`
+- `presentations/Advance & Computer Vision/ACV/ACV-HW3/-Inventory.md`
+- `presentations/Advance & Computer Vision/ACV/ACV-HW3/README.md`
+- `presentations/Advance & Computer Vision/ACV/ACV-Proposal/-Inventory.md`
+- `presentations/Advance & Computer Vision/ACV/ACV-Proposal/README.md`
+- `presentations/Advance & Computer Vision/ACV/README.md`
+- `presentations/Advance & Computer Vision/ACV2/-Inventory.md`
+- `presentations/Advance & Computer Vision/ACV2/README.md`
+- `presentations/Advance & Computer Vision/ComputerVision/-Inventory.md`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/-Inventory.md`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/-Inventory.md`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/README.md`
+- `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/README.md`
+- `presentations/Advance & Computer Vision/ComputerVision/README.md`
+- `presentations/Advance & Computer Vision/README.md`
+- `presentations/EET418/-Inventory.md`
+- `presentations/EET418/EET-418II/-Inventory.md`
+- `presentations/EET418/EET-418II/README.md`
+- `presentations/EET418/README.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/APCG-HW1/-Inventory.md`
+- `reports/APCG-HW1/README.md`
+- `reports/APCG-HW1/abSIRD_for_Matlab/-Inventory.md`
+- `reports/APCG-HW1/abSIRD_for_Matlab/README.md`
+- `reports/Advance & Computer Vision/-Inventory.md`
+- `reports/Advance & Computer Vision/ACV/-Inventory.md`
+- `reports/Advance & Computer Vision/ACV/ACV-Stuff/-Inventory.md`
+- `reports/Advance & Computer Vision/ACV/ACV-Stuff/README.md`
+- `reports/Advance & Computer Vision/ACV/README.md`
+- `reports/Advance & Computer Vision/ACV2/-Inventory.md`
+- `reports/Advance & Computer Vision/ACV2/Latex/-Inventory.md`
+- `reports/Advance & Computer Vision/ACV2/Latex/README.md`
+- `reports/Advance & Computer Vision/ACV2/README.md`
+- `reports/Advance & Computer Vision/CVStuff/-Inventory.md`
+- `reports/Advance & Computer Vision/CVStuff/README.md`
+- `reports/Advance & Computer Vision/ComputerVision/-Inventory.md`
+- `reports/Advance & Computer Vision/ComputerVision/Hw3_1/-Inventory.md`
+- `reports/Advance & Computer Vision/ComputerVision/Hw3_1/README.md`
+- `reports/Advance & Computer Vision/ComputerVision/README.md`
+- `reports/Advance & Computer Vision/ComputerVision/hw2/-Inventory.md`
+- `reports/Advance & Computer Vision/ComputerVision/hw2/README.md`
+- `reports/Advance & Computer Vision/ComputerVision/hw4/-Inventory.md`
+- `reports/Advance & Computer Vision/ComputerVision/hw4/README.md`
+- `reports/Advance & Computer Vision/README.md`
+- `reports/EET-327/-Inventory.md`
+- `reports/EET-327/README.md`
+- `reports/EET-420/-Inventory.md`
+- `reports/EET-420/420piter labs/-Inventory.md`
+- `reports/EET-420/420piter labs/EET-420/-Inventory.md`
+- `reports/EET-420/420piter labs/EET-420/Lab10/-Inventory.md`
+- `reports/EET-420/420piter labs/EET-420/Lab10/README.md`
+- `reports/EET-420/420piter labs/EET-420/Lab6/-Inventory.md`
+- `reports/EET-420/420piter labs/EET-420/Lab6/README.md`
+- `reports/EET-420/420piter labs/EET-420/README.md`
+- `reports/EET-420/420piter labs/Lab4/-Inventory.md`
+- `reports/EET-420/420piter labs/Lab4/README.md`
+- `reports/EET-420/420piter labs/Lab6/-Inventory.md`
+- `reports/EET-420/420piter labs/Lab6/README.md`
+- `reports/EET-420/420piter labs/Lab7/-Inventory.md`
+- `reports/EET-420/420piter labs/Lab7/README.md`
+- `reports/EET-420/420piter labs/README.md`
+- `reports/EET-420/420piter labs/lab5-EET420/-Inventory.md`
+- `reports/EET-420/420piter labs/lab5-EET420/README.md`
+- `reports/EET-420/EET 420 Labs/-Inventory.md`
+- `reports/EET-420/EET 420 Labs/README.md`
+- `reports/EET-420/README.md`
+- `reports/EET418/-Inventory.md`
+- `reports/EET418/418Labs/-Inventory.md`
+- `reports/EET418/418Labs/EET-418/-Inventory.md`
+- `reports/EET418/418Labs/EET-418/README.md`
+- `reports/EET418/418Labs/EET418labs/-Inventory.md`
+- `reports/EET418/418Labs/EET418labs/418l/-Inventory.md`
+- `reports/EET418/418Labs/EET418labs/418l/README.md`
+- `reports/EET418/418Labs/EET418labs/README.md`
+- `reports/EET418/418Labs/README.md`
+- `reports/EET418/EET-418/-Inventory.md`
+- `reports/EET418/EET-418/Lab12/-Inventory.md`
+- `reports/EET418/EET-418/Lab12/README.md`
+- `reports/EET418/EET-418/Lab3/-Inventory.md`
+- `reports/EET418/EET-418/Lab3/README.md`
+- `reports/EET418/EET-418/Lab4/-Inventory.md`
+- `reports/EET418/EET-418/Lab4/README.md`
+- `reports/EET418/EET-418/Lab5/-Inventory.md`
+- `reports/EET418/EET-418/Lab5/README.md`
+- `reports/EET418/EET-418/README.md`
+- `reports/EET418/EET-418II/-Inventory.md`
+- `reports/EET418/EET-418II/README.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/-Inventory.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/-Inventory.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/-Inventory.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/README.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab10/README.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab12/-Inventory.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab12/README.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab15/-Inventory.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/Lab15/README.md`
+- `reports/EET418/ET-418L-Piter Complete Labs/README.md`
+- `reports/EET418/Incomplete Labs 418/-Inventory.md`
+- `reports/EET418/Incomplete Labs 418/New Folder/-Inventory.md`
+- `reports/EET418/Incomplete Labs 418/New Folder/New Folder/-Inventory.md`
+- `reports/EET418/Incomplete Labs 418/New Folder/New Folder/README.md`
+- `reports/EET418/Incomplete Labs 418/New Folder/README.md`
+- `reports/EET418/Incomplete Labs 418/README.md`
+- `reports/EET418/README.md`
+- `reports/EET418/Test2-Review/-Inventory.md`
+- `reports/EET418/Test2-Review/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-projects-workspace - 0 papers, 165 reports, 7 presentations, 221 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-projects-workspace
+- Hub path: `Projects-Code/opc-projects-workspace`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1TWgPEbsqaU2-S8gES1lrT9lXSbOjHOM8
+- Import status: `needs Drive review`
+- Total indexed files in repo: `856`
+
+### Code / Project Location
+
+- `243JavaClass/`
+- `CompleteProjectS1/`
+- `Concentration/`
+- `Cryptography/`
+- `Data Cleaning/`
+- `ExpressionsLab3/`
+- `FinalExamReview/`
+- `FiveThreads/`
+- `PrimeFactor/`
+- `PrinterSim/`
+- `Rob/`
+- `RushHour/`
+- `WaterPuzzle/`
+- `labs/`
+- `poker/`
+- `workspace2/`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/-.txt`
+- `reports/243JavaClass/243_Lab1/bin/postLabReport.txt`
+- `reports/243JavaClass/243_Lab1/src/postLabReport.txt`
+- `reports/243JavaClass/243_Lab2/test-all.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-all.input.txt`
+- `reports/243JavaClass/243_Lab2/test-all.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-all.output.txt`
+- `reports/243JavaClass/243_Lab2/test-power.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-power.input.txt`
+- `reports/243JavaClass/243_Lab2/test-power.output.txt`
+- `reports/243JavaClass/243_Lab2/test-tune3.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-tune3.input.txt`
+- `reports/243JavaClass/243_Lab2/test-tune3.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-tune3.output.txt`
+- `reports/243JavaClass/243_Lab2/test-volume1.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/243JavaClass/243_Lab2/test-volume1.input.txt`
+- `reports/243JavaClass/243_Lab2/test-volume1.output.txt`
+- `reports/243JavaClass/243_Lab5/input.txt`
+- `reports/243JavaClass/243_Lab7/-.txt`
+- `reports/243JavaClass/243_Lab7/AliceChapter1-Piter’s MacBook Pro.txt`
+- `reports/243JavaClass/243_Lab7/AliceChapter1.txt`
+- `reports/243JavaClass/243_Lab7/AliceChapter1Output.txt`
+- `reports/243JavaClass/243_Lab7/Output-Piter’s MacBook Pro.txt`
+- `reports/243JavaClass/243_Lab7/Output.txt`
+- `reports/243JavaClass/243_Lab7/alice-redacts-Piter’s MacBook Pro.txt`
+- `reports/243JavaClass/243_Lab7/alice-redacts.txt`
+- `reports/AliceChapter1 (2013_03_30 07_27_35 UTC).txt`
+- `reports/AliceChapter1--from-243JavaClass-243_Lab7.txt`
+- `reports/AliceChapter1-Piter’s MacBook Pro.txt`
+- `reports/AliceChapter1.rabbit (2013_03_30 07_27_35 UTC).txt`
+- `reports/AliceChapter1.rabbit.txt`
+- `reports/AliceChapter1.txt`
+- `reports/AliceChapter1Output.txt`
+- `reports/AliceInWonderland (2013_03_30 07_27_35 UTC).txt`
+- `reports/AliceInWonderland.caterpillar (2013_03_30 07_27_35 UTC).txt`
+- `reports/AliceInWonderland.caterpillar.txt`
+- `reports/AliceInWonderland.txt`
+- `reports/AliceInWonderlandDecoded (2013_03_30 07_27_35 UTC).txt`
+- `reports/AliceInWonderlandDecoded.txt`
+- `reports/Clean.csv`
+- `reports/DatasetS2.csv`
+- `reports/DatasetS3--from-Data-Cleaning-PCleaning.csv`
+- `reports/DatasetS3.csv`
+- `reports/DynamicAV .txt`
+- `reports/DynamicAV.txt`
+- `reports/InvalidAgeDB.csv`
+- `reports/InvalidAgeDB2.csv`
+- `reports/MemoizationAV--from-AlgoExpProject-bin.txt`
+- `reports/MemoizationAV.txt`
+- `reports/NaiveRecursive .txt`
+- `reports/NaiveRecursive.txt`
+- `reports/Output--from-243JavaClass-243_Lab7.txt`
+- `reports/Output-Piter’s MacBook Pro.txt`
+- `reports/QuadraticAV .txt`
+- `reports/QuadraticAV--from-AlgoExpProject-bin.txt`
+- `reports/QuadraticAV.txt`
+- `reports/Rob/rob_lab7/AliceChapter1.txt`
+- `reports/Rob/rob_lab7/alice-redacts.txt`
+- `reports/Rob/rob_lab7/outxt.txt`
+- `reports/URecords.csv`
+- `reports/URecords2.csv`
+- `reports/URecords21.csv`
+- `reports/URecords22.csv`
+- `reports/ValidAgeDB.csv`
+- `reports/ValidAgeDB2.csv`
+- `reports/ValideAgeDB2.csv`
+- `reports/alice-redacts--from-243JavaClass-243_Lab7.txt`
+- `reports/alice-redacts-Piter’s MacBook Pro.txt`
+- `reports/alice-redacts.txt`
+- `reports/bands_attribute_names.txt`
+- `reports/data-in--from-PrinterSim-PrinterSim2.txt`
+- `reports/data-in.txt`
+- `reports/decoded (2013_03_30 07_27_35 UTC).txt`
+- `reports/decoded.txt`
+- `reports/design.txt`
+- `reports/indexNamesMap.txt`
+- `reports/input--from-Cryptography-Cryphw1.txt`
+- `reports/input--from-labs-lab4.txt`
+- `reports/input.rtf`
+- `reports/input.txt`
+- `reports/input1.txt`
+- `reports/input2.txt`
+- `reports/javaLikeNames (2013_03_30 07_27_35 UTC).txt`
+- `reports/javaLikeNames.txt`
+- `reports/kublakhan (2013_03_30 07_27_35 UTC).txt`
+- `reports/kublakhan.opium.txt`
+- `reports/kublakhan.txt`
+- `reports/labs/lab1/postLabReport.txt`
+- `reports/labs/lab4/input.txt`
+- `reports/out--from-Cryptography-Cryphw1.txt`
+- `reports/out-Piter’s MacBook Pro.txt`
+- `reports/out.txt`
+- `reports/out1.txt`
+- `reports/out2--from-Cryphw1-bin.txt`
+- `reports/out2--from-Cryphw1-src.txt`
+- `reports/out2.txt`
+- `reports/out3.txt`
+- `reports/output (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- `reports/output (2013_03_30 07_27_35 UTC)--from-hw9-Homework9.txt`
+- `reports/output (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- `reports/output (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- `reports/output (2013_03_30 07_27_35 UTC).txt`
+- `reports/output--from-243JavaClass-hw9.txt`
+- `reports/output--from-AlgosProject-AlgoExpProject.txt`
+- `reports/output--from-AlgosProject-AlgoProject.txt`
+- `reports/output--from-Cryptography-Crypthw3.txt`
+- `reports/output--from-hw9-Homework9.txt`
+- `reports/output--from-lab7-Homework9.txt`
+- `reports/output--from-lab7-Homework9_2.txt`
+- `reports/output.txt`
+- `reports/output2 (2013_03_30 07_27_35 UTC).txt`
+- `reports/output2.txt`
+- `reports/outputAlice (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- `reports/outputAlice (2013_03_30 07_27_35 UTC).txt`
+- `reports/outputAlice--from-lab7-Homework9.txt`
+- `reports/outputAlice.txt`
+- `reports/outputDecode (2013_03_30 07_27_35 UTC).txt`
+- `reports/outputDecode.txt`
+- `reports/outxt.txt`
+- `reports/postLabReport (2013_03_30 07_27_35 UTC).txt`
+- `reports/postLabReport--from-labs-lab1.txt`
+- `reports/postLabReport--from-src-lab1.txt`
+- `reports/postLabReport.txt`
+- `reports/rdproof (2013_03_30 07_27_35 UTC)--from-Homework9_2-bin.txt`
+- `reports/rdproof (2013_03_30 07_27_35 UTC).txt`
+- `reports/rdproof.txt`
+- `reports/reader (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- `reports/reader (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- `reports/reader (2013_03_30 07_27_35 UTC).txt`
+- `reports/reader--from-lab7-Homework9.txt`
+- `reports/reader--from-lab7-Homework9_2.txt`
+- `reports/reader.txt`
+- `reports/savedIndexNames (2013_03_30 07_27_35 UTC).txt`
+- `reports/savedIndexNames-Piter’s MacBook Pro.txt`
+- `reports/savedIndexNames.txt`
+- `reports/test--from-Rob-rob-p3.txt`
+- `reports/test-all.input (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- `reports/test-all.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-all.input.txt`
+- `reports/test-all.output (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- `reports/test-all.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-all.output.txt`
+- `reports/test-power.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-power.input.txt`
+- `reports/test-power.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-power.output.txt`
+- `reports/test-tune3.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-tune3.input.txt`
+- `reports/test-tune3.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-tune3.output.txt`
+- `reports/test-volume1.input (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-volume1.input.txt`
+- `reports/test-volume1.output (2013_03_30 07_27_35 UTC).txt`
+- `reports/test-volume1.output.txt`
+- `reports/test.txt`
+- `reports/writer (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- `reports/writer (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- `reports/writer (2013_03_30 07_27_35 UTC).txt`
+- `reports/writer--from-lab7-Homework9.txt`
+- `reports/writer--from-lab7-Homework9_2.txt`
+- `reports/writer.txt`
+- `reports/writer1 (2013_03_30 07_27_35 UTC).txt`
+- `reports/writer1.txt`
+- `reports/writer3 (2013_03_30 07_27_35 UTC).txt`
+- `reports/writer3.txt`
+
+### Presentations
+- `243JavaClass/243_Lab4/src/Deck (2013_03_30 07_27_35 UTC).java`
+- `243JavaClass/243_Lab4/src/Deck.java`
+- `labs/lab2/src/Deck.java`
+- `poker/JavaLab4/src/Deck (2013_03_30 07_27_35 UTC).java`
+- `poker/JavaLab4/src/Deck.java`
+- `poker/src/Deck.java`
+- `poker/tempPoker/src/Deck.java`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `243JavaClass/-Inventory.md`
+- `243JavaClass/243_Lab1/-Inventory.md`
+- `243JavaClass/243_Lab1/README.md`
+- `243JavaClass/243_Lab1/src/-Inventory.md`
+- `243JavaClass/243_Lab1/src/README.md`
+- `243JavaClass/243_Lab1/src/lab1/README.md`
+- `243JavaClass/243_Lab2/-Inventory.md`
+- `243JavaClass/243_Lab2/README.md`
+- `243JavaClass/243_Lab2/src/-Inventory.md`
+- `243JavaClass/243_Lab2/src/243_Lab2/README.md`
+- `243JavaClass/243_Lab2/src/243_Lab2/src/README.md`
+- `243JavaClass/243_Lab2/src/README.md`
+- `243JavaClass/243_Lab3/-Inventory.md`
+- `243JavaClass/243_Lab3/README.md`
+- `243JavaClass/243_Lab3/src/-Inventory.md`
+- `243JavaClass/243_Lab3/src/README.md`
+- `243JavaClass/243_Lab4/-Inventory.md`
+- `243JavaClass/243_Lab4/README.md`
+- `243JavaClass/243_Lab4/src/-Inventory.md`
+- `243JavaClass/243_Lab4/src/README.md`
+- `243JavaClass/243_Lab5/-Inventory.md`
+- `243JavaClass/243_Lab5/README.md`
+- `243JavaClass/243_Lab5/src/README.md`
+- `243JavaClass/243_Lab7/-Inventory.md`
+- `243JavaClass/243_Lab7/README.md`
+- `243JavaClass/243_Lab7/src/CVS/README.md`
+- `243JavaClass/243_Lab7/src/README.md`
+- `243JavaClass/243_Lab8 2/README.md`
+- `243JavaClass/243_Lab8 2/src/README.md`
+- `243JavaClass/243_Lab8/-Inventory.md`
+- `243JavaClass/243_Lab8/README.md`
+- `243JavaClass/243_Lab8/src/README.md`
+- `243JavaClass/README.md`
+- `243JavaClass/hw9/README.md`
+- `243JavaClass/hw9/src/README.md`
+- `CompleteProjectS1/-Inventory.md`
+- `CompleteProjectS1/README.md`
+- `CompleteProjectS1/src/-Inventory.md`
+- `CompleteProjectS1/src/README.md`
+- `Concentration/-Inventory.md`
+- `Concentration/Concentration2/-Inventory.md`
+- `Concentration/Concentration2/README.md`
+- `Concentration/Concentration2/src/-Inventory.md`
+- `Concentration/Concentration2/src/README.md`
+- `Concentration/README.md`
+- `Concentration/src/-Inventory.md`
+- `Concentration/src/README.md`
+- `Cryptography/-Inventory.md`
+- `Cryptography/Cryphw1/-Inventory.md`
+- `Cryptography/Cryphw1/README.md`
+- `Cryptography/Cryphw1/src/-Inventory.md`
+- `Cryptography/Cryphw1/src/README.md`
+- `Cryptography/Crypthw2/-Inventory.md`
+- `Cryptography/Crypthw2/README.md`
+- `Cryptography/Crypthw2/src/-Inventory.md`
+- `Cryptography/Crypthw2/src/README.md`
+- `Cryptography/Crypthw3/-Inventory.md`
+- `Cryptography/Crypthw3/README.md`
+- `Cryptography/Crypthw3/src/-Inventory.md`
+- `Cryptography/Crypthw3/src/README.md`
+- `Cryptography/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Data Cleaning/-Inventory.md`
+- `Data Cleaning/Group/-Inventory.md`
+- `Data Cleaning/Group/README.md`
+- `Data Cleaning/Group/src/-Inventory.md`
+- `Data Cleaning/Group/src/README.md`
+- `Data Cleaning/PCleaning/-Inventory.md`
+- `Data Cleaning/PCleaning/README.md`
+- `Data Cleaning/PCleaning/src/-Inventory.md`
+- `Data Cleaning/PCleaning/src/README.md`
+- `Data Cleaning/README.md`
+- `ExpressionsLab3/-Inventory.md`
+- `ExpressionsLab3/JavaLab3/-Inventory.md`
+- `ExpressionsLab3/JavaLab3/README.md`
+- `ExpressionsLab3/JavaLab3/src/-Inventory.md`
+- `ExpressionsLab3/JavaLab3/src/README.md`
+- `ExpressionsLab3/Javalab2/-Inventory.md`
+- `ExpressionsLab3/Javalab2/README.md`
+- `ExpressionsLab3/Javalab2/src/-Inventory.md`
+- `ExpressionsLab3/Javalab2/src/README.md`
+- `ExpressionsLab3/README.md`
+- `FinalExamReview/-Inventory.md`
+- `FinalExamReview/README.md`
+- `FinalExamReview/finaltest/-Inventory.md`
+- `FinalExamReview/finaltest/README.md`
+- `FinalExamReview/finaltest/src/-Inventory.md`
+- `FinalExamReview/finaltest/src/README.md`
+- `FinalExamReview/src/-Inventory.md`
+- `FinalExamReview/src/README.md`
+- `FinalExamReview/test1review/README.md`
+- `FinalExamReview/test1review/src/README.md`
+- `FiveThreads/-Inventory.md`
+- `FiveThreads/README.md`
+- `FiveThreads/events/-Inventory.md`
+- `FiveThreads/events/README.md`
+- `FiveThreads/src/-Inventory.md`
+- `FiveThreads/src/README.md`
+- `FiveThreads/src/events/-Inventory.md`
+- `FiveThreads/src/events/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `PrimeFactor/-Inventory.md`
+- `PrimeFactor/README.md`
+- `PrimeFactor/src/-Inventory.md`
+- `PrimeFactor/src/README.md`
+- `PrinterSim/-Inventory.md`
+- `PrinterSim/PrinterSim2/-Inventory.md`
+- `PrinterSim/PrinterSim2/README.md`
+- `PrinterSim/PrinterSim2/src/-Inventory.md`
+- `PrinterSim/PrinterSim2/src/README.md`
+- `PrinterSim/README.md`
+- `PrinterSim/src/-Inventory.md`
+- `PrinterSim/src/README.md`
+- `README.md`
+- `Rob/-Inventory.md`
+- `Rob/README.md`
+- `Rob/rob p3/-Inventory.md`
+- `Rob/rob p3/README.md`
+- `Rob/rob p3/src/README.md`
+- `Rob/rob_lab7/-Inventory.md`
+- `Rob/rob_lab7/README.md`
+- `Rob/src/-Inventory.md`
+- `Rob/src/README.md`
+- `RushHour/-Inventory.md`
+- `RushHour/README.md`
+- `RushHour/RushHourGame/README.md`
+- `RushHour/RushHourGame/src/README.md`
+- `RushHour/RushOver/-Inventory.md`
+- `RushHour/RushOver/README.md`
+- `RushHour/RushOver/src/README.md`
+- `RushHour/RushOver/src/pattern/README.md`
+- `RushHour/src/-Inventory.md`
+- `RushHour/src/README.md`
+- `WaterPuzzle/-Inventory.md`
+- `WaterPuzzle/243_ProjectPart2/-Inventory.md`
+- `WaterPuzzle/243_ProjectPart2/README.md`
+- `WaterPuzzle/243_ProjectPart2/src/README.md`
+- `WaterPuzzle/README.md`
+- `WaterPuzzle/WaterPuzzle2/-Inventory.md`
+- `WaterPuzzle/WaterPuzzle2/README.md`
+- `WaterPuzzle/WaterPuzzleB/README.md`
+- `WaterPuzzle/src/-Inventory.md`
+- `WaterPuzzle/src/README.md`
+- `labs/-Inventory.md`
+- `labs/README.md`
+- `labs/lab1/-Inventory.md`
+- `labs/lab1/README.md`
+- `labs/lab2/README.md`
+- `labs/lab2/src/README.md`
+- `labs/lab3/Copy of lab3/README.md`
+- `labs/lab3/Copy of lab3/src/README.md`
+- `labs/lab3/README.md`
+- `labs/lab3/src/README.md`
+- `labs/lab4/-Inventory.md`
+- `labs/lab4/README.md`
+- `labs/lab4/lab4/README.md`
+- `labs/lab4/lab4/src/README.md`
+- `labs/lab4/src/README.md`
+- `labs/lab6/README.md`
+- `labs/lab6/src/README.md`
+- `labs/lab7/HW8_2/README.md`
+- `labs/lab7/README.md`
+- `labs/lab8/README.md`
+- `labs/lab8/src/README.md`
+- `labs/lab8/src/components/README.md`
+- `labs/lab8_1/README.md`
+- `labs/lab8_1/src/README.md`
+- `labs/lab8_22/README.md`
+- `labs/lab8_22/src/README.md`
+- `poker/-Inventory.md`
+- `poker/JavaLab4/README.md`
+- `poker/JavaLab4/src/README.md`
+- `poker/README.md`
+- `poker/src/-Inventory.md`
+- `poker/src/README.md`
+- `poker/tempPoker/-Inventory.md`
+- `poker/tempPoker/README.md`
+- `poker/tempPoker/src/README.md`
+- `reports/-Inventory.md`
+- `reports/243JavaClass/-Inventory.md`
+- `reports/243JavaClass/243_Lab1/-Inventory.md`
+- `reports/243JavaClass/243_Lab1/README.md`
+- `reports/243JavaClass/243_Lab1/bin/-Inventory.md`
+- `reports/243JavaClass/243_Lab1/bin/README.md`
+- `reports/243JavaClass/243_Lab1/src/-Inventory.md`
+- `reports/243JavaClass/243_Lab1/src/README.md`
+- `reports/243JavaClass/243_Lab2/-Inventory.md`
+- `reports/243JavaClass/243_Lab2/README.md`
+- `reports/243JavaClass/243_Lab5/-Inventory.md`
+- `reports/243JavaClass/243_Lab5/README.md`
+- `reports/243JavaClass/243_Lab7/-Inventory.md`
+- `reports/243JavaClass/243_Lab7/README.md`
+- `reports/243JavaClass/README.md`
+- `reports/README.md`
+- `reports/Rob/-Inventory.md`
+- `reports/Rob/README.md`
+- `reports/Rob/rob_lab7/-Inventory.md`
+- `reports/Rob/rob_lab7/README.md`
+- `reports/labs/-Inventory.md`
+- `reports/labs/README.md`
+- `reports/labs/lab1/-Inventory.md`
+- `reports/labs/lab1/README.md`
+- `reports/labs/lab4/-Inventory.md`
+- `reports/labs/lab4/README.md`
+- `workspace2/-Inventory.md`
+- `workspace2/AlgosProject/-Inventory.md`
+- `workspace2/AlgosProject/AlgoExpProject/-Inventory.md`
+- `workspace2/AlgosProject/AlgoExpProject/README.md`
+- `workspace2/AlgosProject/AlgoProject/-Inventory.md`
+- `workspace2/AlgosProject/AlgoProject/README.md`
+- `workspace2/AlgosProject/README.md`
+- `workspace2/AlgosProject/bin/README.md`
+- `workspace2/DCW5/-Inventory.md`
+- `workspace2/DCW5/README.md`
+- `workspace2/DCW5/src/README.md`
+- `workspace2/DChw1/README.md`
+- `workspace2/DChw1/src/README.md`
+- `workspace2/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-python - 0 papers, 443 reports, 0 presentations, 130 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-python
+- Hub path: `Projects-Code/opc-python`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1DplBiGewvlo94Qr82rlFYtWWa-GbHGQn
+- Import status: `needs Drive review`
+- Total indexed files in repo: `1178`
+
+### Code / Project Location
+
+- `BestVacation/`
+
+Project marker files:
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/Makefile`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/docs/Makefile`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/DemoPresetation.docx`
+- `reports/LICENSE.txt`
+- `reports/Phase2.pdf`
+- `reports/README.TXT`
+- `reports/SOURCES.txt`
+- `reports/activation_email.txt`
+- `reports/activation_email_subject.txt`
+- `reports/booster.txt`
+- `reports/data_25.1875_-80.6875.txt`
+- `reports/data_25.1875_-80.8125.txt`
+- `reports/data_25.1875_-80.9375.txt`
+- `reports/data_25.1875_-81.0625.txt`
+- `reports/data_25.3125_-80.4375.txt`
+- `reports/data_25.3125_-80.5625.txt`
+- `reports/data_25.3125_-80.6875.txt`
+- `reports/data_25.3125_-80.8125.txt`
+- `reports/data_25.3125_-80.9375.txt`
+- `reports/data_25.3125_-81.0625.txt`
+- `reports/data_25.4375_-80.4375.txt`
+- `reports/data_25.4375_-80.5625.txt`
+- `reports/data_25.4375_-80.6875.txt`
+- `reports/data_25.4375_-80.8125.txt`
+- `reports/data_25.4375_-80.9375.txt`
+- `reports/data_25.4375_-81.0625.txt`
+- `reports/data_25.5625_-80.4375.txt`
+- `reports/data_25.5625_-80.5625.txt`
+- `reports/data_25.5625_-80.6875.txt`
+- `reports/data_25.5625_-80.8125.txt`
+- `reports/data_25.5625_-80.9375.txt`
+- `reports/data_25.5625_-81.0625.txt`
+- `reports/data_25.5625_-81.1875.txt`
+- `reports/data_25.6875_-80.3125.txt`
+- `reports/data_25.6875_-80.4375.txt`
+- `reports/data_25.6875_-80.5625.txt`
+- `reports/data_25.6875_-80.6875.txt`
+- `reports/data_25.6875_-80.8125.txt`
+- `reports/data_25.6875_-80.9375.txt`
+- `reports/data_25.6875_-81.0625.txt`
+- `reports/data_25.6875_-81.1875.txt`
+- `reports/data_25.8125_-80.1875.txt`
+- `reports/data_25.8125_-80.3125.txt`
+- `reports/data_25.8125_-80.4375.txt`
+- `reports/data_25.8125_-80.5625.txt`
+- `reports/data_25.8125_-80.6875.txt`
+- `reports/data_25.8125_-80.8125.txt`
+- `reports/data_25.8125_-80.9375.txt`
+- `reports/data_25.8125_-81.0625.txt`
+- `reports/data_25.8125_-81.1875.txt`
+- `reports/data_25.8125_-81.3125.txt`
+- `reports/data_25.9375_-80.1875.txt`
+- `reports/data_25.9375_-80.3125.txt`
+- `reports/data_25.9375_-80.4375.txt`
+- `reports/data_25.9375_-80.5625.txt`
+- `reports/data_26.6875_-80.5625.txt`
+- `reports/data_26.6875_-80.6875.txt`
+- `reports/data_26.6875_-80.8125.txt`
+- `reports/data_26.6875_-80.9375.txt`
+- `reports/data_26.6875_-81.0625.txt`
+- `reports/data_26.6875_-81.1875.txt`
+- `reports/data_26.6875_-81.3125.txt`
+- `reports/data_26.6875_-81.4375.txt`
+- `reports/data_26.6875_-81.5625.txt`
+- `reports/data_26.6875_-81.6875.txt`
+- `reports/data_26.6875_-81.8125.txt`
+- `reports/data_26.6875_-81.9375.txt`
+- `reports/data_26.6875_-82.0625.txt`
+- `reports/data_26.8125_-80.0625.txt`
+- `reports/data_26.8125_-80.1875.txt`
+- `reports/data_26.8125_-80.3125.txt`
+- `reports/data_26.8125_-80.4375.txt`
+- `reports/data_26.8125_-80.5625.txt`
+- `reports/data_26.8125_-80.9375.txt`
+- `reports/data_26.8125_-81.0625.txt`
+- `reports/data_26.8125_-81.1875.txt`
+- `reports/data_26.8125_-81.3125.txt`
+- `reports/data_26.8125_-81.4375.txt`
+- `reports/data_26.8125_-81.5625.txt`
+- `reports/data_26.8125_-81.6875.txt`
+- `reports/data_26.8125_-81.8125.txt`
+- `reports/data_26.8125_-81.9375.txt`
+- `reports/data_26.9375_-80.1875.txt`
+- `reports/data_26.9375_-80.3125.txt`
+- `reports/data_26.9375_-80.4375.txt`
+- `reports/data_26.9375_-80.5625.txt`
+- `reports/data_26.9375_-81.0625.txt`
+- `reports/data_26.9375_-81.1875.txt`
+- `reports/data_26.9375_-81.3125.txt`
+- `reports/data_26.9375_-81.4375.txt`
+- `reports/data_26.9375_-81.5625.txt`
+- `reports/data_26.9375_-81.6875.txt`
+- `reports/data_26.9375_-81.8125.txt`
+- `reports/data_26.9375_-81.9375.txt`
+- `reports/data_26.9375_-82.0625.txt`
+- `reports/data_26.9375_-82.1875.txt`
+- `reports/data_26.9375_-82.3125.txt`
+- `reports/data_27.0625_-80.1875.txt`
+- `reports/data_27.0625_-80.3125.txt`
+- `reports/data_27.0625_-80.4375.txt`
+- `reports/data_27.0625_-80.5625.txt`
+- `reports/data_27.0625_-80.9375.txt`
+- `reports/data_27.0625_-81.0625.txt`
+- `reports/data_27.0625_-81.1875.txt`
+- `reports/data_27.0625_-81.3125.txt`
+- `reports/data_27.0625_-81.4375.txt`
+- `reports/data_27.0625_-81.5625.txt`
+- `reports/data_27.0625_-81.6875.txt`
+- `reports/data_27.0625_-81.8125.txt`
+- `reports/data_27.0625_-81.9375.txt`
+- `reports/data_27.0625_-82.0625.txt`
+- `reports/data_27.0625_-82.1875.txt`
+- `reports/data_27.0625_-82.3125.txt`
+- `reports/data_27.0625_-82.4375.txt`
+- `reports/data_27.1875_-80.3125.txt`
+- `reports/data_27.1875_-80.4375.txt`
+- `reports/data_27.1875_-80.5625.txt`
+- `reports/data_27.1875_-80.6875.txt`
+- `reports/data_27.1875_-80.8125.txt`
+- `reports/data_27.1875_-80.9375.txt`
+- `reports/data_27.1875_-81.0625.txt`
+- `reports/data_27.1875_-81.1875.txt`
+- `reports/data_27.1875_-81.3125.txt`
+- `reports/data_27.1875_-81.4375.txt`
+- `reports/data_27.1875_-81.5625.txt`
+- `reports/data_27.1875_-81.6875.txt`
+- `reports/data_27.1875_-81.8125.txt`
+- `reports/data_27.1875_-81.9375.txt`
+- `reports/data_27.1875_-82.0625.txt`
+- `reports/data_27.1875_-82.1875.txt`
+- `reports/data_27.1875_-82.3125.txt`
+- `reports/data_27.1875_-82.4375.txt`
+- `reports/data_27.3125_-80.3125.txt`
+- `reports/data_27.3125_-80.4375.txt`
+- `reports/data_27.3125_-80.5625.txt`
+- `reports/data_27.3125_-80.6875.txt`
+- `reports/data_27.3125_-80.8125.txt`
+- `reports/data_27.3125_-80.9375.txt`
+- `reports/data_27.3125_-81.0625.txt`
+- `reports/data_27.3125_-81.1875.txt`
+- `reports/data_27.3125_-81.3125.txt`
+- `reports/data_27.3125_-81.4375.txt`
+- `reports/data_27.3125_-81.5625.txt`
+- `reports/data_27.3125_-81.6875.txt`
+- `reports/data_27.3125_-81.8125.txt`
+- `reports/data_27.3125_-81.9375.txt`
+- `reports/data_27.3125_-82.0625.txt`
+- `reports/data_27.3125_-82.1875.txt`
+- `reports/data_27.3125_-82.3125.txt`
+- `reports/data_27.3125_-82.4375.txt`
+- `reports/data_27.4375_-80.3125.txt`
+- `reports/data_27.4375_-80.4375.txt`
+- `reports/data_27.4375_-80.5625.txt`
+- `reports/data_27.4375_-80.6875.txt`
+- `reports/data_27.4375_-80.8125.txt`
+- `reports/data_27.4375_-80.9375.txt`
+- `reports/data_27.4375_-81.0625.txt`
+- `reports/data_27.4375_-81.1875.txt`
+- `reports/data_27.4375_-81.3125.txt`
+- `reports/data_27.4375_-81.4375.txt`
+- `reports/data_27.4375_-81.5625.txt`
+- `reports/data_27.4375_-81.6875.txt`
+- `reports/data_27.4375_-81.8125.txt`
+- `reports/data_27.4375_-81.9375.txt`
+- `reports/data_27.4375_-82.0625.txt`
+- `reports/data_27.4375_-82.1875.txt`
+- `reports/data_27.4375_-82.3125.txt`
+- `reports/data_27.4375_-82.4375.txt`
+- `reports/data_27.4375_-82.5625.txt`
+- `reports/data_27.5625_-80.4375.txt`
+- `reports/data_27.5625_-80.5625.txt`
+- `reports/data_27.5625_-80.6875.txt`
+- `reports/data_27.5625_-80.8125.txt`
+- `reports/data_27.5625_-80.9375.txt`
+- `reports/data_27.5625_-81.0625.txt`
+- `reports/data_27.5625_-81.1875.txt`
+- `reports/data_27.5625_-81.3125.txt`
+- `reports/data_27.5625_-81.5625.txt`
+- `reports/data_27.5625_-81.6875.txt`
+- `reports/data_27.5625_-81.8125.txt`
+- `reports/data_27.5625_-81.9375.txt`
+- `reports/data_27.5625_-82.0625.txt`
+- `reports/data_27.5625_-82.1875.txt`
+- `reports/data_27.5625_-82.3125.txt`
+- `reports/data_27.5625_-82.4375.txt`
+- `reports/data_27.5625_-82.5625.txt`
+- `reports/data_27.6875_-80.4375.txt`
+- `reports/data_27.6875_-80.5625.txt`
+- `reports/data_27.6875_-80.6875.txt`
+- `reports/data_27.6875_-80.8125.txt`
+- `reports/data_27.6875_-80.9375.txt`
+- `reports/data_27.6875_-81.0625.txt`
+- `reports/data_27.6875_-81.1875.txt`
+- `reports/data_27.6875_-81.3125.txt`
+- `reports/data_27.6875_-81.4375.txt`
+- `reports/data_27.6875_-81.5625.txt`
+- `reports/data_27.6875_-81.6875.txt`
+- `reports/data_27.6875_-81.8125.txt`
+- `reports/data_27.6875_-81.9375.txt`
+- `reports/data_27.6875_-82.0625.txt`
+- `reports/data_27.6875_-82.1875.txt`
+- `reports/data_27.6875_-82.3125.txt`
+- `reports/data_27.6875_-82.4375.txt`
+- `reports/data_27.8125_-80.5625.txt`
+- `reports/data_27.8125_-80.6875.txt`
+- `reports/data_27.8125_-80.8125.txt`
+- `reports/data_27.8125_-80.9375.txt`
+- `reports/data_27.8125_-81.0625.txt`
+- `reports/data_27.8125_-81.1875.txt`
+- `reports/data_27.8125_-81.3125.txt`
+- `reports/data_27.8125_-81.4375.txt`
+- `reports/data_27.8125_-81.5625.txt`
+- `reports/data_27.8125_-81.6875.txt`
+- `reports/data_27.8125_-81.8125.txt`
+- `reports/data_27.8125_-81.9375.txt`
+- `reports/data_27.8125_-82.0625.txt`
+- `reports/data_27.8125_-82.1875.txt`
+- `reports/data_27.8125_-82.3125.txt`
+- `reports/data_27.8125_-82.6875.txt`
+- `reports/data_27.9375_-80.5625.txt`
+- `reports/data_27.9375_-80.6875.txt`
+- `reports/data_27.9375_-80.8125.txt`
+- `reports/data_27.9375_-80.9375.txt`
+- `reports/data_27.9375_-81.0625.txt`
+- `reports/data_27.9375_-81.1875.txt`
+- `reports/data_27.9375_-81.4375.txt`
+- `reports/data_27.9375_-81.5625.txt`
+- `reports/data_27.9375_-81.6875.txt`
+- `reports/data_27.9375_-81.8125.txt`
+- `reports/data_27.9375_-81.9375.txt`
+- `reports/data_27.9375_-82.0625.txt`
+- `reports/data_27.9375_-82.1875.txt`
+- `reports/data_27.9375_-82.3125.txt`
+- `reports/data_27.9375_-82.4375.txt`
+- `reports/data_27.9375_-82.6875.txt`
+- `reports/data_27.9375_-82.8125.txt`
+- `reports/data_28.0625_-80.6875.txt`
+- `reports/data_28.0625_-80.8125.txt`
+- `reports/data_28.0625_-80.9375.txt`
+- `reports/data_28.0625_-81.0625.txt`
+- `reports/data_28.0625_-81.1875.txt`
+- `reports/data_28.0625_-81.3125.txt`
+- `reports/data_28.0625_-81.4375.txt`
+- `reports/data_28.0625_-81.5625.txt`
+- `reports/data_28.0625_-81.6875.txt`
+- `reports/data_28.0625_-81.8125.txt`
+- `reports/data_28.0625_-81.9375.txt`
+- `reports/data_28.0625_-82.0625.txt`
+- `reports/data_28.0625_-82.1875.txt`
+- `reports/data_28.0625_-82.3125.txt`
+- `reports/data_28.0625_-82.4375.txt`
+- `reports/data_28.0625_-82.5625.txt`
+- `reports/data_28.0625_-82.6875.txt`
+- `reports/data_28.1875_-80.6875.txt`
+- `reports/data_28.1875_-80.8125.txt`
+- `reports/data_28.1875_-80.9375.txt`
+- `reports/data_28.1875_-81.0625.txt`
+- `reports/data_28.1875_-81.1875.txt`
+- `reports/data_28.1875_-81.3125.txt`
+- `reports/data_28.1875_-81.4375.txt`
+- `reports/data_28.1875_-81.5625.txt`
+- `reports/data_28.1875_-81.6875.txt`
+- `reports/data_28.1875_-81.8125.txt`
+- `reports/data_28.1875_-81.9375.txt`
+- `reports/data_28.1875_-82.0625.txt`
+- `reports/data_28.1875_-82.1875.txt`
+- `reports/data_28.1875_-82.3125.txt`
+- `reports/data_28.1875_-82.4375.txt`
+- `reports/data_28.1875_-82.5625.txt`
+- `reports/data_28.1875_-82.6875.txt`
+- `reports/data_28.3125_-80.8125.txt`
+- `reports/data_28.3125_-80.9375.txt`
+- `reports/data_28.3125_-81.0625.txt`
+- `reports/data_28.3125_-81.1875.txt`
+- `reports/data_28.3125_-81.3125.txt`
+- `reports/data_28.3125_-81.4375.txt`
+- `reports/data_28.3125_-81.5625.txt`
+- `reports/data_28.3125_-81.6875.txt`
+- `reports/data_28.3125_-81.8125.txt`
+- `reports/data_28.3125_-81.9375.txt`
+- `reports/data_28.3125_-82.0625.txt`
+- `reports/data_28.3125_-82.1875.txt`
+- `reports/data_28.3125_-82.3125.txt`
+- `reports/data_28.3125_-82.4375.txt`
+- `reports/data_28.3125_-82.5625.txt`
+- `reports/data_28.3125_-82.6875.txt`
+- `reports/data_28.4375_-80.6875.txt`
+- `reports/data_28.4375_-80.8125.txt`
+- `reports/data_28.4375_-80.9375.txt`
+- `reports/data_28.4375_-81.0625.txt`
+- `reports/data_28.4375_-81.1875.txt`
+- `reports/data_28.4375_-81.3125.txt`
+- `reports/data_28.4375_-81.4375.txt`
+- `reports/data_28.4375_-81.5625.txt`
+- `reports/data_28.4375_-81.6875.txt`
+- `reports/data_28.4375_-81.8125.txt`
+- `reports/data_28.4375_-81.9375.txt`
+- `reports/data_28.4375_-82.0625.txt`
+- `reports/data_28.4375_-82.1875.txt`
+- `reports/data_28.4375_-82.3125.txt`
+- `reports/data_28.4375_-82.4375.txt`
+- `reports/data_28.4375_-82.5625.txt`
+- `reports/data_28.5625_-80.6875.txt`
+- `reports/data_28.5625_-80.8125.txt`
+- `reports/data_28.5625_-80.9375.txt`
+- `reports/data_28.5625_-81.0625.txt`
+- `reports/data_28.5625_-81.1875.txt`
+- `reports/data_28.5625_-81.3125.txt`
+- `reports/data_28.5625_-81.4375.txt`
+- `reports/data_28.5625_-81.5625.txt`
+- `reports/data_28.5625_-81.6875.txt`
+- `reports/data_28.5625_-81.8125.txt`
+- `reports/data_28.5625_-81.9375.txt`
+- `reports/data_28.5625_-82.0625.txt`
+- `reports/data_28.5625_-82.1875.txt`
+- `reports/data_28.5625_-82.3125.txt`
+- `reports/data_28.5625_-82.4375.txt`
+- `reports/data_28.5625_-82.5625.txt`
+- `reports/data_28.6875_-80.6875.txt`
+- `reports/data_28.6875_-80.8125.txt`
+- `reports/data_28.6875_-80.9375.txt`
+- `reports/data_28.6875_-81.0625.txt`
+- `reports/data_28.6875_-81.1875.txt`
+- `reports/data_28.6875_-81.3125.txt`
+- `reports/data_28.6875_-81.4375.txt`
+- `reports/data_28.6875_-81.5625.txt`
+- `reports/data_28.6875_-81.6875.txt`
+- `reports/data_28.6875_-81.8125.txt`
+- `reports/data_28.6875_-81.9375.txt`
+- `reports/data_28.6875_-82.0625.txt`
+- `reports/data_28.6875_-82.1875.txt`
+- `reports/data_28.6875_-82.3125.txt`
+- `reports/data_28.6875_-82.4375.txt`
+- `reports/data_28.6875_-82.5625.txt`
+- `reports/data_28.8125_-80.9375.txt`
+- `reports/data_28.8125_-81.0625.txt`
+- `reports/data_28.8125_-81.1875.txt`
+- `reports/data_28.8125_-81.3125.txt`
+- `reports/data_28.8125_-81.4375.txt`
+- `reports/data_28.8125_-81.5625.txt`
+- `reports/data_28.8125_-81.6875.txt`
+- `reports/data_28.8125_-81.8125.txt`
+- `reports/data_28.8125_-81.9375.txt`
+- `reports/data_28.8125_-82.0625.txt`
+- `reports/data_28.8125_-82.1875.txt`
+- `reports/data_28.8125_-82.3125.txt`
+- `reports/data_28.8125_-82.4375.txt`
+- `reports/data_28.8125_-82.5625.txt`
+- `reports/data_28.9375_-80.9375.txt`
+- `reports/data_28.9375_-81.0625.txt`
+- `reports/data_28.9375_-81.1875.txt`
+- `reports/data_28.9375_-81.3125.txt`
+- `reports/data_28.9375_-81.4375.txt`
+- `reports/data_28.9375_-81.5625.txt`
+- `reports/data_28.9375_-81.6875.txt`
+- `reports/data_28.9375_-81.8125.txt`
+- `reports/data_28.9375_-81.9375.txt`
+- `reports/data_28.9375_-82.0625.txt`
+- `reports/data_28.9375_-82.1875.txt`
+- `reports/data_28.9375_-82.3125.txt`
+- `reports/data_28.9375_-82.4375.txt`
+- `reports/data_28.9375_-82.5625.txt`
+- `reports/data_28.9375_-82.6875.txt`
+- `reports/data_29.0625_-80.9375.txt`
+- `reports/data_29.0625_-81.0625.txt`
+- `reports/data_29.0625_-81.1875.txt`
+- `reports/data_29.0625_-81.3125.txt`
+- `reports/data_29.0625_-81.4375.txt`
+- `reports/data_29.0625_-81.5625.txt`
+- `reports/data_29.0625_-81.6875.txt`
+- `reports/data_29.0625_-81.8125.txt`
+- `reports/data_29.0625_-81.9375.txt`
+- `reports/data_29.0625_-82.0625.txt`
+- `reports/data_29.0625_-82.1875.txt`
+- `reports/data_29.0625_-82.3125.txt`
+- `reports/data_29.0625_-82.4375.txt`
+- `reports/data_29.0625_-82.5625.txt`
+- `reports/data_29.0625_-82.6875.txt`
+- `reports/data_29.1875_-81.0625.txt`
+- `reports/data_29.1875_-81.1875.txt`
+- `reports/data_29.1875_-81.3125.txt`
+- `reports/data_29.1875_-81.4375.txt`
+- `reports/data_29.1875_-81.5625.txt`
+- `reports/data_29.1875_-81.6875.txt`
+- `reports/data_29.1875_-81.8125.txt`
+- `reports/data_29.1875_-81.9375.txt`
+- `reports/data_29.1875_-82.0625.txt`
+- `reports/data_29.1875_-82.1875.txt`
+- `reports/data_29.1875_-82.3125.txt`
+- `reports/data_29.1875_-82.4375.txt`
+- `reports/data_29.1875_-82.5625.txt`
+- `reports/data_29.1875_-82.6875.txt`
+- `reports/data_29.1875_-82.8125.txt`
+- `reports/data_29.1875_-82.9375.txt`
+- `reports/data_29.3125_-81.0625.txt`
+- `reports/data_29.3125_-81.1875.txt`
+- `reports/data_29.3125_-81.3125.txt`
+- `reports/data_29.3125_-81.4375.txt`
+- `reports/data_29.3125_-81.6875.txt`
+- `reports/data_29.3125_-81.8125.txt`
+- `reports/data_29.3125_-81.9375.txt`
+- `reports/data_29.3125_-82.0625.txt`
+- `reports/data_29.3125_-82.1875.txt`
+- `reports/data_29.3125_-82.3125.txt`
+- `reports/data_29.3125_-82.4375.txt`
+- `reports/data_29.3125_-82.5625.txt`
+- `reports/data_29.3125_-82.6875.txt`
+- `reports/data_29.3125_-82.8125.txt`
+- `reports/data_29.3125_-82.9375.txt`
+- `reports/data_29.3125_-83.0625.txt`
+- `reports/data_29.4375_-81.1875.txt`
+- `reports/data_29.4375_-81.3125.txt`
+- `reports/data_29.4375_-81.4375.txt`
+- `reports/data_29.4375_-81.5625.txt`
+- `reports/data_29.4375_-81.6875.txt`
+- `reports/data_29.4375_-81.8125.txt`
+- `reports/data_29.4375_-81.9375.txt`
+- `reports/data_29.4375_-82.0625.txt`
+- `reports/data_29.4375_-82.1875.txt`
+- `reports/data_29.4375_-82.3125.txt`
+- `reports/data_29.4375_-82.4375.txt`
+- `reports/data_29.4375_-82.5625.txt`
+- `reports/data_29.4375_-82.6875.txt`
+- `reports/data_29.4375_-82.8125.txt`
+- `reports/data_29.4375_-82.9375.txt`
+- `reports/data_29.4375_-83.0625.txt`
+- `reports/data_29.4375_-83.1875.txt`
+- `reports/data_29.5625_-81.1875.txt`
+- `reports/data_29.5625_-81.3125.txt`
+- `reports/data_29.5625_-81.4375.txt`
+- `reports/data_29.5625_-81.5625.txt`
+- `reports/data_29.5625_-81.6875.txt`
+- `reports/data_29.5625_-81.8125.txt`
+- `reports/data_29.5625_-81.9375.txt`
+- `reports/data_29.5625_-82.4375.txt`
+- `reports/data_29.5625_-82.5625.txt`
+- `reports/dependency_links.txt`
+- `reports/development.txt`
+- `reports/django_registration.txt`
+- `reports/install.txt`
+- `reports/pilbitmap.txt`
+- `reports/requires.txt`
+- `reports/sanedoc.txt`
+- `reports/top_level.txt`
+- `reports/userena.txt`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `BestVacation/-Inventory.md`
+- `BestVacation/BestVacation/-Inventory.md`
+- `BestVacation/BestVacation/README.md`
+- `BestVacation/BestVacation1/-Inventory.md`
+- `BestVacation/BestVacation1/BestVacation/-Inventory.md`
+- `BestVacation/BestVacation1/BestVacation/README.md`
+- `BestVacation/BestVacation1/BestVacation__/-Inventory.md`
+- `BestVacation/BestVacation1/BestVacation__/BestVacation/-Inventory.md`
+- `BestVacation/BestVacation1/BestVacation__/BestVacation/README.md`
+- `BestVacation/BestVacation1/BestVacation__/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/10/22/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/10/30/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/10/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/11/01/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/11/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/2013/README.md`
+- `BestVacation/BestVacation1/BestVacation__/images/facebook_profiles/README.md`
+- `BestVacation/BestVacation1/BestVacation__/searchPlace/-Inventory.md`
+- `BestVacation/BestVacation1/BestVacation__/searchPlace/README.md`
+- `BestVacation/BestVacation1/BestVacation__/searchPlace/templates/README.md`
+- `BestVacation/BestVacation1/BestVacation__/searchPlace/templates/searchPlace/README.md`
+- `BestVacation/BestVacation1/Phase2/-Inventory.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/BestVacation/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/doc/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/searchPlace/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/BestVacation/searchPlace/templates/searchPlace/README.md`
+- `BestVacation/BestVacation1/Phase2/BestVacation Framework/README.md`
+- `BestVacation/BestVacation1/Phase2/Data Cleaning/README.md`
+- `BestVacation/BestVacation1/Phase2/README.md`
+- `BestVacation/BestVacation1/Phase2/Sample Images/README.md`
+- `BestVacation/BestVacation1/README.md`
+- `BestVacation/BestVacation1/city/-Inventory.md`
+- `BestVacation/BestVacation1/city/README.md`
+- `BestVacation/BestVacation1/city/static/README.md`
+- `BestVacation/BestVacation1/city/static/city/README.md`
+- `BestVacation/BestVacation1/city/static/city/css/README.md`
+- `BestVacation/BestVacation1/city/static/city/css/images/README.md`
+- `BestVacation/BestVacation1/city/static/city/images/README.md`
+- `BestVacation/BestVacation1/city/static/city/images/cities/README.md`
+- `BestVacation/BestVacation1/city/static/city/js/README.md`
+- `BestVacation/BestVacation1/city/templates/README.md`
+- `BestVacation/BestVacation1/city/templates/city/README.md`
+- `BestVacation/BestVacation1/images/README.md`
+- `BestVacation/BestVacation1/images/facebook_profiles/2013/11/26/README.md`
+- `BestVacation/BestVacation1/images/facebook_profiles/2013/11/28/README.md`
+- `BestVacation/BestVacation1/images/facebook_profiles/2013/11/README.md`
+- `BestVacation/BestVacation1/images/facebook_profiles/2013/README.md`
+- `BestVacation/BestVacation1/images/facebook_profiles/README.md`
+- `BestVacation/BestVacation1/searchPlace/-Inventory.md`
+- `BestVacation/BestVacation1/searchPlace/README.md`
+- `BestVacation/BestVacation1/searchPlace/images/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/searchPlace/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/searchPlace/css/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/searchPlace/css/images/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/searchPlace/images/README.md`
+- `BestVacation/BestVacation1/searchPlace/static/searchPlace/js/README.md`
+- `BestVacation/BestVacation1/searchPlace/templates/README.md`
+- `BestVacation/BestVacation1/searchPlace/templates/searchPlace/README.md`
+- `BestVacation/Imaging-1.1.7/-Inventory.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/-Inventory.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Docs/-Inventory.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Docs/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Images/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/PIL/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Sane/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Scripts/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/Tk/README.md`
+- `BestVacation/Imaging-1.1.7/Imaging-1.1.7/libImaging/README.md`
+- `BestVacation/Imaging-1.1.7/README.md`
+- `BestVacation/README.md`
+- `BestVacation/city/-Inventory.md`
+- `BestVacation/city/README.md`
+- `BestVacation/city/static/README.md`
+- `BestVacation/city/static/city/README.md`
+- `BestVacation/city/static/city/css/README.md`
+- `BestVacation/city/static/city/css/images/README.md`
+- `BestVacation/city/static/city/images/README.md`
+- `BestVacation/city/static/city/images/cities/README.md`
+- `BestVacation/city/static/city/images/facebook_profiles/2013/10/22/README.md`
+- `BestVacation/city/static/city/images/facebook_profiles/2013/10/README.md`
+- `BestVacation/city/static/city/images/facebook_profiles/2013/README.md`
+- `BestVacation/city/static/city/images/facebook_profiles/README.md`
+- `BestVacation/city/static/city/js/README.md`
+- `BestVacation/city/templates/-Inventory.md`
+- `BestVacation/city/templates/README.md`
+- `BestVacation/city/templates/city/README.md`
+- `BestVacation/django-facebook-5.2.10/-Inventory.md`
+- `BestVacation/django-facebook-5.2.10/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/-Inventory.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/fixtures/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/management/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/management/commands/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/static/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/static/django_facebook/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/static/django_facebook/css/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/static/django_facebook/images/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/static/django_facebook/js/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/templates/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/templates/django_facebook/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/templatetags/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/django_facebook/test_utils/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/docs/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/facebook_example/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/facebook_example/member/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/facebook_example/member/migrations/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/facebook_example/member/templates/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/facebook_example/member/templates/registration/README.md`
+- `BestVacation/django-facebook-5.2.10/django-facebook-5.2.10/open_facebook/README.md`
+- `BestVacation/images/README.md`
+- `BestVacation/images/facebook_profiles/2013/11/26/README.md`
+- `BestVacation/images/facebook_profiles/2013/11/28/README.md`
+- `BestVacation/images/facebook_profiles/2013/11/README.md`
+- `BestVacation/images/facebook_profiles/2013/README.md`
+- `BestVacation/images/facebook_profiles/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-senior-project - 0 papers, 50 reports, 2 presentations, 94 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-senior-project
+- Hub path: `Projects-Code/opc-senior-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1xrjkJtN-ocMETC89D2PlxJQ_nQsMsskF
+- Import status: `completed`
+- Total indexed files in repo: `488`
+
+### Code / Project Location
+
+- `C18-project/`
+- `FromScratch/`
+- `LCD/`
+- `Microprocessor/`
+- `MyProject.mcp`
+- `MyProject.mcw`
+- `New folder/`
+- `PIC Start-up Kit/`
+- `Project1.mcp`
+- `Project1.mcw`
+- `XBeeAdapter/`
+- `Xbee.h`
+- `Xbee2 - Copy.h`
+- `Xbee2.h`
+- `Xbee2.h.h`
+- `XbeeCoding.as`
+- `XbeeCoding.mcp`
+- `XbeeCoding.mcw`
+- `newproject.pjt.mcp`
+- `newproject.pjt.mcw`
+- `pic 18f4550.mcp`
+- `pic 18f4550.mcs.mcp`
+- `pic 18f4550.mcs.mcw`
+- `pic 18f4550.mcw`
+- `program.c`
+- `project1.c`
+- `startup.as`
+
+Project marker files:
+- `C18-project/InternalCLock.mcp`
+- `C18-project/InternalCLock.mcw`
+- `C18-project/PIC18F4550internalclock.mcp`
+- `C18-project/PIC18F4550internalclock.mcw`
+- `C18-project/XbeeCodes/CodingXbee.mcp`
+- `C18-project/XbeeCodes/CodingXbee.mcw`
+- `C18-project/XbeeCodes/SimpleXbeeCode.mcp`
+- `C18-project/XbeeCodes/SimpleXbeeCode.mcw`
+- `C18-project/XbeeCodes/TurningOn-Off.mcp`
+- `C18-project/XbeeCodes/TurningOn-Off.mcw`
+- `C18-project/XbeeCodes/Xbee_PIC18F4520/xbee_sensor.mcp`
+- `C18-project/XbeeConfig.mcp`
+- `C18-project/XbeeConfig.mcw`
+- `C18-project/www.RoboHobby.com_PICkit_2/Makefile`
+- `C18-project/www.RoboHobby.com_PICkit_2/PICkit_2.mcp`
+- `C18-project/www.RoboHobby.com_PICkit_2/PICkit_2.mcw`
+- `FromScratch/FromScratch.mcp`
+- `FromScratch/FromScratch.mcw`
+- `MyProject.mcp`
+- `MyProject.mcw`
+- `New folder/AnotherCode.mcp`
+- `New folder/AnotherCode.mcw`
+- `New folder/Project/New folder/API/Makefile`
+- `New folder/Project/New folder/API/xbee_sensor_api_26k20.mcp`
+- `New folder/Project/New folder/APICOMMAND.mcp`
+- `New folder/Project/New folder/APICOMMAND.mcw`
+- `New folder/Project/New folder/MyXbeeProject.mcp`
+- `New folder/Project/New folder/MyXbeeProject.mcw`
+- `New folder/Project/XbeeProperties.mcp`
+- `New folder/Project/XbeeProperties.mcw`
+- `New folder/Project/xbee_sensor.mcp`
+- `New folder/Timer.mcp`
+- `New folder/Timer.mcw`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LCD Display/SK40C_18F4520.mcp`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LCD Display/SK40C_18F4520.mcw`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LED Blinking/SK40C_18F4520.mcp`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LED Blinking/SK40C_18F4520.mcw`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/UART/SK40C_18F4520.mcp`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/UART/SK40C_18F4520.mcw`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LCD Display/SK40C_C18.mcp`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LCD Display/SK40C_C18.mcw`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LED Blinking/SK40C sample code (bootloader).mcp`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LED Blinking/SK40C sample code (bootloader).mcw`
+- `Project1.mcp`
+- `Project1.mcw`
+- `XbeeCoding.mcp`
+- `XbeeCoding.mcw`
+- `newproject.pjt.mcp`
+- `newproject.pjt.mcw`
+- `pic 18f4550.mcp`
+- `pic 18f4550.mcs.mcp`
+- `pic 18f4550.mcs.mcw`
+- `pic 18f4550.mcw`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/00965c.pdf`
+- `reports/AN_104_FTDI_Drivers_Installation_Guide_for_WindowsXP(FT_000093).pdf`
+- `reports/Design Project.docx`
+- `reports/IMPORTANT README.txt`
+- `reports/Installation of C18 compiler and open project_18F.pdf`
+- `reports/LCD Manual.pdf`
+- `reports/Microcontroller Programmer.doc`
+- `reports/MicrocontrollerDatasheet.pdf`
+- `reports/New Microsoft Word Document (Autosaved).docx`
+- `reports/PIC Start-up Kit/mplab8.20A and HI-TECH C PRO step.pdf`
+- `reports/PIC18F4550help.docx`
+- `reports/PICDEM FS USB Demo Board Users Guide.pdf`
+- `reports/PICdatasheet.pdf`
+- `reports/PICkit2 Overview.pdf`
+- `reports/Project-Searches.docx`
+- `reports/Qos measurment of Zigbee home automation network using various modulation schemes.pdf`
+- `reports/SK40C_Users_Manual.pdf`
+- `reports/SKXbee User Manual.pdf`
+- `reports/Smart-Plugs Doc.pdf`
+- `reports/Smart-Plugs Doc2.pdf`
+- `reports/Smart-Plugs3.doc`
+- `reports/Transaction Details - PayPal - Senior Project.pdf`
+- `reports/UIC00B Operating System.txt`
+- `reports/UIC00B_&_UIC-S_Users_Manual.pdf`
+- `reports/UPDATE REPORT2.docx`
+- `reports/Updated Report.doc`
+- `reports/X-CTU Config & Test.pdf`
+- `reports/XBEE-PRO RF MODULES.pdf`
+- `reports/ZigBee Basaed Industrial Automation Profiel for Power Monitorin Systems.doc`
+- `reports/ZigBee Basaed Industrial Automation Profiel for Power Monitorin Systems.pdf`
+- `reports/ZigBee_The Emerging Technology in Building Automation.doc`
+- `reports/ZigBee_The Emerging Technology in Building Automation.pdf`
+- `reports/chart_xbee_rf_features.pdf`
+- `reports/code.txt`
+- `reports/datasheet.pdf`
+- `reports/ds_xbeemultipointmodules.pdf`
+- `reports/header.txt`
+- `reports/intent_to_grad.pdf`
+- `reports/lcd1.pdf`
+- `reports/lcd2.pdf`
+- `reports/manual_xb_oemrfmodules_802.15.4.pdf`
+- `reports/mplab8.20A and HI-TECH C PRO step.pdf`
+- `reports/open project_16F.pdf`
+- `reports/p18f4550.txt`
+- `reports/readme.pdf`
+- `reports/samplecode.txt`
+- `reports/schematics_xbeemodule.pdf`
+- `reports/~$dated Report.doc`
+- `reports/~$gBee Basaed Industrial Automation Profiel for Power Monitorin Systems.doc`
+- `reports/~$gBee_The Emerging Technology in Building Automation.doc`
+
+### Presentations
+- `presentations/New Microsoft PowerPoint Presentation.pptx`
+- `presentations/PowerPoint Presentation.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `C18-project/-Inventory.md`
+- `C18-project/Hex Files/-Inventory.md`
+- `C18-project/Hex Files/README.md`
+- `C18-project/README.md`
+- `C18-project/XbeeCodes/-Inventory.md`
+- `C18-project/XbeeCodes/README.md`
+- `C18-project/XbeeCodes/Xbee_PIC18F4520/-Inventory.md`
+- `C18-project/XbeeCodes/Xbee_PIC18F4520/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/ConsoleCPP/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/ConsoleCPP/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/autofiles/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/autofiles/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/interrupt/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/interrupt/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/class/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/class/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/class/generic/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/class/generic/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usb9/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usb9/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbctrltrf/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbctrltrf/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbdefs/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbdefs/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbdrv/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/system/usb/usbdrv/README.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/user/-Inventory.md`
+- `C18-project/www.RoboHobby.com_PICkit_2/user/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `FromScratch/-Inventory.md`
+- `FromScratch/README.md`
+- `IMPORT_NOTES.md`
+- `LCD/-Inventory.md`
+- `LCD/DS-LCD-162A - LCD (16x2)_files/-Inventory.md`
+- `LCD/DS-LCD-162A - LCD (16x2)_files/README.md`
+- `LCD/README.md`
+- `Microprocessor/-Inventory.md`
+- `Microprocessor/Getting Started with PIC (SK40C) - YouTube_files/-Inventory.md`
+- `Microprocessor/Getting Started with PIC (SK40C) - YouTube_files/README.md`
+- `Microprocessor/README.md`
+- `New folder/-Inventory.md`
+- `New folder/Project/-Inventory.md`
+- `New folder/Project/New folder/-Inventory.md`
+- `New folder/Project/New folder/API/-Inventory.md`
+- `New folder/Project/New folder/API/README.md`
+- `New folder/Project/New folder/README.md`
+- `New folder/Project/README.md`
+- `New folder/README.md`
+- `OVERLEAF_PREP.md`
+- `PIC Start-up Kit/-Inventory.md`
+- `PIC Start-up Kit/Getting Started with PIC (SK40C) - YouTube_files/-Inventory.md`
+- `PIC Start-up Kit/Getting Started with PIC (SK40C) - YouTube_files/README.md`
+- `PIC Start-up Kit/MPLAB v8_3/-Inventory.md`
+- `PIC Start-up Kit/MPLAB v8_3/README.md`
+- `PIC Start-up Kit/README.md`
+- `PIC Start-up Kit/SK40C - Enhanced 40 pins PIC Start-Up Kit_files/-Inventory.md`
+- `PIC Start-up Kit/SK40C - Enhanced 40 pins PIC Start-Up Kit_files/README.md`
+- `PIC Start-up Kit/SK40C 16F877A Sample Program/-Inventory.md`
+- `PIC Start-up Kit/SK40C 16F877A Sample Program/README.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LCD Display/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LCD Display/README.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LED Blinking/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/LED Blinking/README.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/README.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/UART/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F4520 Sample Program/UART/README.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LCD Display/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LCD Display/README.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LED Blinking/-Inventory.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/LED Blinking/README.md`
+- `PIC Start-up Kit/SK40C 18F_USB Sample Program/README.md`
+- `PIC Start-up Kit/SK40C HID Bootloader Firmware (Hex file)/-Inventory.md`
+- `PIC Start-up Kit/SK40C HID Bootloader Firmware (Hex file)/README.md`
+- `README.md`
+- `XBeeAdapter/-Inventory.md`
+- `XBeeAdapter/README.md`
+- `XBeeAdapter/SKXBEE - XBEE STARTER KIT_files/-Inventory.md`
+- `XBeeAdapter/SKXBEE - XBEE STARTER KIT_files/README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/PIC Start-up Kit/-Inventory.md`
+- `reports/PIC Start-up Kit/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-stuff - 6 papers, 33 reports, 2 presentations, 42 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-stuff
+- Hub path: `Projects-Code/opc-stuff`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/11SLFV_YqeCtZb2NYQM0MLHMD1UZmr2rz
+- Import status: `completed`
+- Total indexed files in repo: `128`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/Physics Graph Paper.rtf`
+- `papers/Physics plain Graph Paper.doc`
+- `papers/USBMemory/Physics/Physics1/Physics Graph Paper.rtf`
+- `papers/USBMemory/Physics/Physics1/Physics plain Graph Paper.doc`
+- `papers/USBMemory/session1/Physics Graph Paper.rtf`
+- `papers/USBMemory/session1/Physics plain Graph Paper.doc`
+
+### Reports / Written Documentation
+- `reports/2010session.pdf`
+- `reports/2010session.rtf`
+- `reports/2010session1.rtf`
+- `reports/A Rose for Emily.docx`
+- `reports/A Rose for Emily1.docx`
+- `reports/Conclusion, physics lab report.docx`
+- `reports/EET-317LabNo4.docx`
+- `reports/EET-440 Networking Course Summary.docx`
+- `reports/EGL.docx`
+- `reports/Exp#7-EET223.docx`
+- `reports/Physics Lab Report-14.docx`
+- `reports/PiterCV-recent.doc`
+- `reports/PiterCV-recent1 (Autosaved).doc`
+- `reports/PiterCV-recent1 (Autosaved)1.doc`
+- `reports/Schedule.docx`
+- `reports/USBMemory/EET-440 Networking Course Summary.docx`
+- `reports/USBMemory/Physics/Physics1/Conclusion, physics lab report.docx`
+- `reports/USBMemory/Physics/Physics1/Physics Lab Report-14.docx`
+- `reports/USBMemory/session1/eet222lab.docx`
+- `reports/USBMemory/session1/eet222lab2.docx`
+- `reports/USBMemory/session2/Conclusion, physics lab report.docx`
+- `reports/USBMemory/session2/EET-317LabNo4.docx`
+- `reports/Young Goodman Brown..docx`
+- `reports/Young Goodman Brown.1.docx`
+- `reports/eet222lab.docx`
+- `reports/eet222lab2.docx`
+- `reports/eet223ab4.docx`
+- `reports/plain--from-Physics-Physics1.doc`
+- `reports/plain--from-USBMemory-session1.doc`
+- `reports/plain.doc`
+- `reports/plain.pdf`
+- `reports/right plain.docx`
+- `reports/right plain.pdf`
+
+### Presentations
+- `presentations/USBMemory/session1/informe final cambio climatico 2007 (2).ppt`
+- `presentations/informe final cambio climatico 2007 (2).ppt`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `USBMemory/-Inventory.md`
+- `USBMemory/README.md`
+- `USBMemory/Souvenir Program/-Inventory.md`
+- `USBMemory/Souvenir Program/README.md`
+- `USBMemory/session1/-Inventory.md`
+- `USBMemory/session1/README.md`
+- `USBMemory/session2/-Inventory.md`
+- `USBMemory/session2/README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `papers/USBMemory/-Inventory.md`
+- `papers/USBMemory/Physics/-Inventory.md`
+- `papers/USBMemory/Physics/Physics1/-Inventory.md`
+- `papers/USBMemory/Physics/Physics1/README.md`
+- `papers/USBMemory/Physics/README.md`
+- `papers/USBMemory/README.md`
+- `papers/USBMemory/session1/-Inventory.md`
+- `papers/USBMemory/session1/README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `presentations/USBMemory/-Inventory.md`
+- `presentations/USBMemory/README.md`
+- `presentations/USBMemory/session1/-Inventory.md`
+- `presentations/USBMemory/session1/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+- `reports/USBMemory/-Inventory.md`
+- `reports/USBMemory/Physics/-Inventory.md`
+- `reports/USBMemory/Physics/Physics1/-Inventory.md`
+- `reports/USBMemory/Physics/Physics1/README.md`
+- `reports/USBMemory/Physics/README.md`
+- `reports/USBMemory/README.md`
+- `reports/USBMemory/session1/-Inventory.md`
+- `reports/USBMemory/session1/README.md`
+- `reports/USBMemory/session2/-Inventory.md`
+- `reports/USBMemory/session2/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-unix-programming - 0 papers, 36 reports, 5 presentations, 11 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-unix-programming
+- Hub path: `Projects-Code/opc-unix-programming`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Wnb7H5kzNPU7AR3R4t8QICzQn5ooFBer
+- Import status: `completed`
+- Total indexed files in repo: `59`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/Before starting your first terminal session.docx`
+- `reports/FINAL PROJECT.docx`
+- `reports/Finals in on File.docx`
+- `reports/GarcpFinalProject-Unix.docx`
+- `reports/How UNIX is used in Workplace.docx`
+- `reports/In this terminal session 8.docx`
+- `reports/Lab_5_1.rtf`
+- `reports/Review Exercises.docx`
+- `reports/Review ExercisesCH14.docx`
+- `reports/Review_Exercises.docx`
+- `reports/Terminal Session 3.txt`
+- `reports/Terminal Session 5.docx`
+- `reports/Terminal Session 6.docx`
+- `reports/Terminal Session 8.docx`
+- `reports/Terminal Session9.docx`
+- `reports/UNIX_Jeopardy_Review_1-1.doc`
+- `reports/UNIX_Review_1wanswers(2).docx`
+- `reports/UNIX_Review_1wanswers.docx`
+- `reports/Unix Manual- VI Reference.docx`
+- `reports/Unix Programming - Commands Summary.docx`
+- `reports/lab1.docx`
+- `reports/lab11_1.docx`
+- `reports/lab12_case.rtf`
+- `reports/lab13.rtf`
+- `reports/lab14.rtf`
+- `reports/lab15.docx`
+- `reports/lab2.rtf`
+- `reports/lab3_1.rtf`
+- `reports/lab4.rtf`
+- `reports/lab6-unix.rtf`
+- `reports/lab7.docx`
+- `reports/lab8_2.docx`
+- `reports/lab9_1-Unix.docx`
+- `reports/quiz6-Terminal Session.docx`
+- `reports/terminal session 4.docx`
+- `reports/unix homeworks.txt`
+
+### Presentations
+- `presentations/Lecture_12.pptx`
+- `presentations/Lecture_3___VI_Editor.ppt`
+- `presentations/UnixUnbounded_5e_Chapter_3edited.pptx`
+- `presentations/UnixUnbounded_5e_Chapter_5_edited.pptx`
+- `presentations/chmod___Octal_Digits.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `2/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-Code / opc-work-project - 5 papers, 190 reports, 10 presentations, 83 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opc-work-project
+- Hub path: `Projects-Code/opc-work-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1imPlJSNqt6v7JYMas8Dq0kuw9x8hcpDR
+- Import status: `needs Drive review`
+- Total indexed files in repo: `1085`
+
+### Code / Project Location
+
+- `MadChefKitchen/`
+- `TI/`
+- `Tiburon Lockers/`
+
+Project marker files:
+- `TI/learnernation_client/package.json`
+
+### Papers
+- `papers/ECONOMICS_STUDY_GUIDE_MIDTERM.doc`
+- `papers/Elvis AV Proposal # 2.pdf`
+- `papers/Elvis_AV_Proposal_#_2.doc.docx`
+- `papers/Stuff/Fisher/Elvis AV Proposal # 2.pdf`
+- `papers/Stuff/Fisher/Elvis_AV_Proposal_#_2.doc.docx`
+
+### Reports / Written Documentation
+- `reports/09septaa.txt`
+- `reports/2010session (2).rtf`
+- `reports/2010session.pdf`
+- `reports/2010session.rtf`
+- `reports/2010session1.rtf`
+- `reports/2013CBC_Advisory_Manual.pdf`
+- `reports/ABOUT_APACHE.txt`
+- `reports/ADA Accessible Lockers.docx`
+- `reports/AMERICAN_NV200_LEAFLET.pdf`
+- `reports/Additional Forms (2015).pdf`
+- `reports/AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx`
+- `reports/Apex_Manual.pdf`
+- `reports/ApplicationParts.txt`
+- `reports/Audi Viz Feb 28-Rev 3.doc`
+- `reports/Audi Viz Feb 28-Rev 3.pdf`
+- `reports/AudiVizFeb28-Rev3.doc`
+- `reports/Bill Acceptors and Features Comparison.docx`
+- `reports/Boarder 2.docx`
+- `reports/Boarder.docx`
+- `reports/CHANGES--from-xampp-apache.txt`
+- `reports/Card-No1-Information.pdf`
+- `reports/Codificador CRT-591_ct_ENG1.pdf`
+- `reports/Communication Protocol CD.docx`
+- `reports/Communication Protocol EL.doc`
+- `reports/Copy of index.txt`
+- `reports/Director of Marketing (Autosaved).docx`
+- `reports/Director of Marketing.docx`
+- `reports/End.pdf`
+- `reports/F1 Tiburon RFP Introduction.docx`
+- `reports/F2 Administration Local Interface.docx`
+- `reports/F3 Administration Web Interface.docx`
+- `reports/F4 User Interface.docx`
+- `reports/F5 Mobile Interface.docx`
+- `reports/F7 3rd Party Hardware.docx`
+- `reports/F8 Tiburon Hardware.docx`
+- `reports/Feature Specs.docx`
+- `reports/Final Safety & Risk Declaration Cardiff].doc`
+- `reports/Final Safety & Risk Declaration Cardiff].pdf`
+- `reports/Fire Risk Assessment.doc`
+- `reports/FoodQuestionnaireShort_member.docx`
+- `reports/GLOBAL WARMING.docx`
+- `reports/Global Warming--from-Global-Warming-Speech-Global-Warming.docx`
+- `reports/Global Warming.1.docx`
+- `reports/Globalization and Technology.docx`
+- `reports/Greenhouse Gase1.docx`
+- `reports/Greenhouse Gases.docx`
+- `reports/HT-24 28 ENCODER.pdf`
+- `reports/HelpScript.txt`
+- `reports/INSTALL.txt`
+- `reports/INTRODUCTION.docx`
+- `reports/INTRODUCTION1.docx`
+- `reports/Indoors.docx`
+- `reports/Instructions.docx`
+- `reports/Instructions.pdf`
+- `reports/International Cinema.docx`
+- `reports/John - Audi Viz Feb 28-Rev 3-H.docx`
+- `reports/KillDisk.pdf`
+- `reports/LICENSE.txt`
+- `reports/Logo.docx`
+- `reports/MX53_Combo_SC.pdf`
+- `reports/MadChefKitchen.pdf`
+- `reports/Marketing Breaf.docx`
+- `reports/Marketing Program.doc`
+- `reports/Mechanical Operating and Maintenance Manual.doc`
+- `reports/Mechanical Operating and Maintenance Manual.docx`
+- `reports/Mechanical Operating and Maintenance Manual.pdf`
+- `reports/Medical Consent Form (Park & Play)[1].doc`
+- `reports/Medical Consent Form _Activities_[1] Cardiff.doc`
+- `reports/Medical Consent Form _Activities_[1] Cardiff.pdf`
+- `reports/Melting Ice Caps.docx`
+- `reports/Microsoft Word - Fire.rtf`
+- `reports/Microsoft Word - Food Policy.doc`
+- `reports/Microsoft Word - Form 01 Nominated Supplier List.doc`
+- `reports/Microsoft Word - Form 02 Delivery Monitoring.rtf`
+- `reports/Microsoft Word - H&S Risk Assessment.doc`
+- `reports/Microsoft Word - H&S policy.doc`
+- `reports/Montana.docx`
+- `reports/Multidaywriteup DS.docx`
+- `reports/NDA_Piter.docx`
+- `reports/NDA_Piter.pdf`
+- `reports/NOTICE.txt`
+- `reports/NV200 appendices manual section 6.pdf`
+- `reports/NV200 field service manual section 2.pdf`
+- `reports/NV200 manual introduction.pdf`
+- `reports/NV200 mechanical and electrical manual section 4.pdf`
+- `reports/NV200 quick start manual section 1.pdf`
+- `reports/NV200 software implementation manual section 5.pdf`
+- `reports/NV200 software support manual section 3.pdf`
+- `reports/NV200_appendices_manual_section_6.docx`
+- `reports/NV9USB appendices manual section 6.pdf`
+- `reports/NV9USB field service manual section 2.pdf`
+- `reports/NV9USB manual introduction.pdf`
+- `reports/NV9USB mechanical and electrical manual section 4.pdf`
+- `reports/NV9USB quick start manual section 1.pdf`
+- `reports/NV9USB software implementation manual section 5.pdf`
+- `reports/NV9USB software support manual section 3.pdf`
+- `reports/New AD COPY.docx`
+- `reports/OPENSSL-NEWS.txt`
+- `reports/OPENSSL-README.txt`
+- `reports/OcoeeInnRaftingWaiver(fixed).docx`
+- `reports/OcoeeInnRaftingWaiver(fixed).rtf`
+- `reports/OcoeeInnRaftingWaiver.doc`
+- `reports/OcoeeInnRaftingWaiver.pdf`
+- `reports/Outline.docx`
+- `reports/PG Confirmation Letter.pdf`
+- `reports/PPTLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/PTLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/PeriodicW-O-OLF.docx`
+- `reports/Progressive.docx`
+- `reports/Project-Mock up (2).docx`
+- `reports/Project-Mock up.docx`
+- `reports/Project-Mock up2.docx`
+- `reports/Project-Mockup.pdf`
+- `reports/Project-Mockup0.pdf`
+- `reports/README--from-xampp-apache.txt`
+- `reports/Reichmann.docx`
+- `reports/Rent.pdf`
+- `reports/Ride Lockers.docx`
+- `reports/SNOWPARK_11-BB.pdf`
+- `reports/Snow Pic.docx`
+- `reports/Sponsored Links.docx`
+- `reports/SummaryReport.pdf`
+- `reports/Surfas Schedule v2.docx`
+- `reports/Surfas Schedule.docx`
+- `reports/Survey.docx`
+- `reports/TIB_003.1 - Statement of Work - E-locker and Charge Daddy - TrackChanges....pdf`
+- `reports/TLS_Proctoring_OffCampusInstructions.docx`
+- `reports/TLS_Proctoring_OffCampusInstructions.pdf`
+- `reports/Terms and Conditions _Park & Play_[1].doc`
+- `reports/Terms and Conditions for Activities[1] Cardiff.doc`
+- `reports/Terms and Conditions for Activities[1] Cardiff.pdf`
+- `reports/Tiburon Charge Daddy Administrator User Guide Tech Instruction 1.d.docx`
+- `reports/Tiburon Charge Daddy Venue User Guide Tech Instruction 1.d.docx`
+- `reports/UPDATED CULVER CITY CLASS SCHEDULE.docx`
+- `reports/US National WW Center Waiver.doc`
+- `reports/US National WW Center Waiver.pdf`
+- `reports/Visio-Progressive Flowchart.pdf`
+- `reports/WA F&B BP.101.doc`
+- `reports/WA F&B BP.101.docx`
+- `reports/WA F&B BP.101.pdf`
+- `reports/bv50-leaflet.pdf`
+- `reports/bv50-technical-manual.pdf`
+- `reports/cbu.txt`
+- `reports/changelog--from-MadChefKitchen-inkzine.txt`
+- `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- `reports/changelog.txt`
+- `reports/changes.txt`
+- `reports/confirmation letter PG.docx`
+- `reports/download.csv`
+- `reports/draft1.txt`
+- `reports/draft2.txt`
+- `reports/draft3.txt`
+- `reports/draft4.txt`
+- `reports/draft5.txt`
+- `reports/draft6.txt`
+- `reports/draft7.txt`
+- `reports/hbu.txt`
+- `reports/hw3 (for loops).pdf`
+- `reports/impactly-hubspot-vast-css backup.txt`
+- `reports/invite 3.docx`
+- `reports/jbu.txt`
+- `reports/license--from-MadChefKitchen-inkzine-plus1.txt`
+- `reports/license--from-MadChefKitchen-inkzine.txt`
+- `reports/license--from-MadChefKitchen-starsofa.txt`
+- `reports/license--from-MadChefKitchen-starsofa1.txt`
+- `reports/license--from-inkzine-plus-inkzine-plus.txt`
+- `reports/mockUp.pdf`
+- `reports/mockUp2.pdf`
+- `reports/mockup2, editing.doc`
+- `reports/mockup2.doc`
+- `reports/myscripts.txt`
+- `reports/mystyle.txt`
+- `reports/nav buttons.txt`
+- `reports/notesfrommildmelddan.txt`
+- `reports/notesfrommildmeldtom.txt`
+- `reports/nv200-leaflet.pdf`
+- `reports/nv9usb-maintenance-guide.pdf`
+- `reports/passwords.txt`
+- `reports/readme--from-MadChefKitchen-inkzine.txt`
+- `reports/readme--from-MadChefKitchen-starsofa.txt`
+- `reports/readme--from-MadChefKitchen-starsofa1.txt`
+- `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- `reports/readme.auth_remote.txt`
+- `reports/readme.txt`
+- `reports/readme_de.txt`
+- `reports/readme_en.txt`
+- `reports/script.txt`
+- `reports/simple-products.csv`
+- `reports/waiver SURF LA.doc`
+- `reports/waiver SURF LA.pdf`
+
+### Presentations
+- `presentations/Concept Presentation.doc`
+- `presentations/Greenhouse.ppsx`
+- `presentations/Greenhouse.ppt`
+- `presentations/Greenhouse.pptx`
+- `presentations/IDF14_ChargingLockers_ScreenFlow_082214.pptx`
+- `presentations/Pollution.ppsx`
+- `presentations/Stuff/Fisher/Concept Presentation.doc`
+- `presentations/Stuff/Fisher/markerting plan.pptx`
+- `presentations/XXXGreenhouse.ppsx`
+- `presentations/markerting plan.pptx`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `MadChefKitchen/-Inventory.md`
+- `MadChefKitchen/README.md`
+- `MadChefKitchen/inkzine-plus/README.md`
+- `MadChefKitchen/inkzine-plus/__MACOSX/README.md`
+- `MadChefKitchen/inkzine-plus/__MACOSX/inkzine-plus/README.md`
+- `MadChefKitchen/inkzine-plus/inkzine-plus/README.md`
+- `MadChefKitchen/inkzine-plus1/README.md`
+- `MadChefKitchen/inkzine-plus1/classes/README.md`
+- `MadChefKitchen/inkzine-plus1/css/README.md`
+- `MadChefKitchen/inkzine/README.md`
+- `MadChefKitchen/inkzine/css/README.md`
+- `MadChefKitchen/inkzine/css/bootstrap/README.md`
+- `MadChefKitchen/inkzine/images/README.md`
+- `MadChefKitchen/inkzine/inc/README.md`
+- `MadChefKitchen/other files/README.md`
+- `MadChefKitchen/starsofa/README.md`
+- `MadChefKitchen/starsofa1/README.md`
+- `MadChefKitchen/starsofa1/css/README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `Stuff/-Inventory.md`
+- `Stuff/Fisher/-Inventory.md`
+- `Stuff/Fisher/README.md`
+- `Stuff/Global Warming/README.md`
+- `Stuff/Global Warming/greenhouse/README.md`
+- `Stuff/README.md`
+- `TI/-Inventory.md`
+- `TI/README.md`
+- `TI/code/README.md`
+- `TI/code/Ruby/README.md`
+- `TI/code/Ruby/learnernation_client-masater/README.md`
+- `TI/code/Ruby/learnernation_client-master/README.md`
+- `TI/fix/-Inventory.md`
+- `TI/fix/README.md`
+- `TI/learnernation_client/-Inventory.md`
+- `TI/learnernation_client/README.md`
+- `TI/marketing/-Inventory.md`
+- `TI/marketing/README.md`
+- `Tiburon Lockers/-Inventory.md`
+- `Tiburon Lockers/CD Recent/CD_Update/AS_installed/README.md`
+- `Tiburon Lockers/CD Recent/CD_Update/AS_installed/ads/README.md`
+- `Tiburon Lockers/CD Recent/CD_Update/README.md`
+- `Tiburon Lockers/CD Recent/README.md`
+- `Tiburon Lockers/CD Recent/sw/README.md`
+- `Tiburon Lockers/CD Recent/sw/bin/README.md`
+- `Tiburon Lockers/ND/-Inventory.md`
+- `Tiburon Lockers/ND/README.md`
+- `Tiburon Lockers/README.md`
+- `Tiburon Lockers/Tiburon Lockers Inc RFP/README.md`
+- `Tiburon Lockers/htdocs/-Inventory.md`
+- `Tiburon Lockers/htdocs/README.md`
+- `Tiburon Lockers/htdocs/htdocs_keep/Maintenance/README.md`
+- `Tiburon Lockers/htdocs/htdocs_keep/Maintenance/images/README.md`
+- `Tiburon Lockers/htdocs/htdocs_keep/README.md`
+- `Tiburon Lockers/htdocs/images/README.md`
+- `Tiburon Lockers/htdocs/img/README.md`
+- `Tiburon Lockers/htdocs/includes/README.md`
+- `Tiburon Lockers/public_html/-Inventory.md`
+- `Tiburon Lockers/public_html/README.md`
+- `Tiburon Lockers/public_html/images/README.md`
+- `Tiburon Lockers/public_html/ver2/README.md`
+- `Tiburon Lockers/xampp/-Inventory.md`
+- `Tiburon Lockers/xampp/Check3_files/README.md`
+- `Tiburon Lockers/xampp/README.md`
+- `Tiburon Lockers/xampp/anonymous/README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `papers/Stuff/-Inventory.md`
+- `papers/Stuff/Fisher/-Inventory.md`
+- `papers/Stuff/Fisher/README.md`
+- `papers/Stuff/README.md`
+- `presentations/-Inventory.md`
+- `presentations/README.md`
+- `presentations/Stuff/-Inventory.md`
+- `presentations/Stuff/Fisher/-Inventory.md`
+- `presentations/Stuff/Fisher/README.md`
+- `presentations/Stuff/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-calculus-i - 0 papers, 12 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-calculus-i
+- Hub path: `Projects-No-Code/opn-calculus-i`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-4cZx5mxbZILs3v-Qk1Rvt-NkIti_Gmw
+- Import status: `completed`
+- Total indexed files in repo: `21`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/116 HW 1.rtf`
+- `reports/Assignment#2 Math.docx`
+- `reports/Factor into binomials.docx`
+- `reports/Math Given three credit card scenarios.docx`
+- `reports/Math's Assignments.docx`
+- `reports/Math's Homework 2.docx`
+- `reports/Math's Homework, Trigonometry.docx`
+- `reports/Math's Homework.docx`
+- `reports/Math's Project, Peter.docx`
+- `reports/Math's Project.xlsx.docx`
+- `reports/Math's Project333.xlsx`
+- `reports/Math.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-calculus-ii - 0 papers, 2 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-calculus-ii
+- Hub path: `Projects-No-Code/opn-calculus-ii`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Wm9apCxcGH019Uwhn6QyZgfRyUBZbK8O
+- Import status: `completed`
+- Total indexed files in repo: `12`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/Calculus.docx`
+- `reports/CalculusII-Formulas.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-differential-equations - 0 papers, 12 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-differential-equations
+- Hub path: `Projects-No-Code/opn-differential-equations`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1V_iwPOMWqNFmSCRqXOFwIl1Ch3HpS1kq
+- Import status: `completed`
+- Total indexed files in repo: `25`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/DE-HW4 (Repaired).odt`
+- `reports/DE-HW4.docx`
+- `reports/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- `reports/Math Homework - Question No.1 of Test No.1.docx`
+- `reports/Math Homework-253.docx`
+- `reports/Math Homework.docx`
+- `reports/Math Homework2-253.docx`
+- `reports/Math-235.odt`
+- `reports/Math-Project-hw3(ONLY).docx`
+- `reports/RLC.docx`
+- `reports/RLC.pdf`
+- `reports/~$th Homework - Question No.1 of Test No.1.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-egl - 1 papers, 33 reports, 0 presentations, 10 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-egl
+- Hub path: `Projects-No-Code/opn-egl`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1u9x4GCQ13WHJhyVe8R5glytmzyQHn9IO
+- Import status: `completed`
+- Total indexed files in repo: `45`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+
+### Reports / Written Documentation
+- `reports/A Rose for Emily.docx`
+- `reports/A Rose for Emily1.docx`
+- `reports/Advertising cover.docx`
+- `reports/Advertising has existed in the world since the beginning of our society.docx`
+- `reports/Advertising.docx`
+- `reports/American musicianin full Robert Sylvester Kelly.docx`
+- `reports/Building my Future.docx`
+- `reports/Cause and Effect.docx`
+- `reports/Does man protect or destroy his environment.docx`
+- `reports/EGL- A Song Analysis.docx`
+- `reports/EGL- A Song Analysis1.docx`
+- `reports/EGL- How to succeed in College.docx`
+- `reports/EGL-Personality.docx`
+- `reports/EGL-Visiting Writer Program.docx`
+- `reports/EGL.docx`
+- `reports/EGL101-Essay.docx`
+- `reports/Functions of the Family.docx`
+- `reports/Love versus Hate.docx`
+- `reports/Persuasive Essay - Does man protect or destroy his environment.docx`
+- `reports/Stages of Reading Literature as Aesthetic Experiencing.docx`
+- `reports/The proof that she protected and preserved her past relies mainly on two elements.docx`
+- `reports/The story.docx`
+- `reports/To Die Dreaming is a popular drink of that Dominican Republic.docx`
+- `reports/Tracks of My Life-1.docx`
+- `reports/We as human beings make many decisions.docx`
+- `reports/Workcite's essaay.docx`
+- `reports/Young Goodman Brown. (2).docx`
+- `reports/Young Goodman Brown..docx`
+- `reports/Young Goodman Brown.1 (2).docx`
+- `reports/Young Goodman Brown.1.docx`
+- `reports/englishHW.docx`
+- `reports/~$ung Goodman Brown..docx`
+- `reports/~$ung Goodman Brown.1.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-egl-310 - 8 papers, 74 reports, 0 presentations, 24 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-egl-310
+- Hub path: `Projects-No-Code/opn-egl-310`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1g_vLUpKz-_nbxKxBm3sL_0O53E9vgvYD
+- Import status: `completed`
+- Total indexed files in repo: `136`
+
+### Code / Project Location
+
+- `EGL-310 (1)/`
+
+### Papers
+- `papers/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+- `papers/AnotherArticle.doc`
+- `papers/Article.doc`
+- `papers/EGL-310 (1)/AnotherArticle.doc`
+- `papers/EGL-310 (1)/Article.doc`
+- `papers/EGL-310 (1)/TheArticle.doc`
+- `papers/EGL/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+- `papers/TheArticle.doc`
+
+### Reports / Written Documentation
+- `reports/A Rose for Emily.docx`
+- `reports/A Rose for Emily1.docx`
+- `reports/Advertising cover.docx`
+- `reports/Advertising has existed in the world since the beginning of our society.docx`
+- `reports/Advertising.docx`
+- `reports/American musicianin full Robert Sylvester Kelly.docx`
+- `reports/Assignment 9_Memo.docx`
+- `reports/AssignmentforTuesdayEGL.doc`
+- `reports/Brochure - EGL-310.pdf`
+- `reports/Building my Future.docx`
+- `reports/Cause and Effect.docx`
+- `reports/Does man protect or destroy his environment.docx`
+- `reports/EGL- A Song Analysis.docx`
+- `reports/EGL- A Song Analysis1.docx`
+- `reports/EGL- How to succeed in College.docx`
+- `reports/EGL-310 (1)/Assignment 9_Memo.docx`
+- `reports/EGL-310 (1)/AssignmentforTuesdayEGL.doc`
+- `reports/EGL-310 (1)/EGL-310 ASSIGNMENT6.doc`
+- `reports/EGL-310 (1)/EGL-310 Assignment 6.doc`
+- `reports/EGL-310 (1)/EGL-310 Assignment 6.pdf`
+- `reports/EGL-310 (1)/EGL-310_Assignment_6.pdf`
+- `reports/EGL-310 (1)/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- `reports/EGL-310 (1)/assignment5.doc`
+- `reports/EGL-310 (1)/assignment5.pdf`
+- `reports/EGL-310 (1)/egl-310 assignment 7a.docx`
+- `reports/EGL-310 ASSIGNMENT6.doc`
+- `reports/EGL-310 Assigment 7.docx`
+- `reports/EGL-310 Assignment 6.doc`
+- `reports/EGL-310 Assignment 6.pdf`
+- `reports/EGL-310_Assigment_7.docx`
+- `reports/EGL-310_Assignment_6.pdf`
+- `reports/EGL-Personality.docx`
+- `reports/EGL-Visiting Writer Program.docx`
+- `reports/EGL.docx`
+- `reports/EGL101-Essay.docx`
+- `reports/EGLFEB14.odt`
+- `reports/Functions of the Family.docx`
+- `reports/Future Career and Social Media.doc`
+- `reports/INTERVIEW FINAL.doc`
+- `reports/INTERVIEW FINAL.pdf`
+- `reports/Instructuions EGL-310.doc`
+- `reports/Interview Questions.doc`
+- `reports/Interview Questions[1].doc`
+- `reports/InterviewQuestions2.doc`
+- `reports/Love versus Hate.docx`
+- `reports/Module Title.docx`
+- `reports/Pages_Templates_User_Manual.pdf`
+- `reports/Person to Interview.doc`
+- `reports/Persuasive Essay - Does man protect or destroy his environment.docx`
+- `reports/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- `reports/SKXbee User Manual_new.rtf`
+- `reports/Stages of Reading Literature as Aesthetic Experiencing.docx`
+- `reports/The proof that she protected and preserved her past relies mainly on two elements.docx`
+- `reports/The story.docx`
+- `reports/TheInterviewReally.doc`
+- `reports/TheInterviewReally.odt`
+- `reports/To Die Dreaming is a popular drink of that Dominican Republic.docx`
+- `reports/Tracks of My Life-1.docx`
+- `reports/We as human beings make many decisions.docx`
+- `reports/Workcite's essaay.docx`
+- `reports/Young Goodman Brown. (2).docx`
+- `reports/Young Goodman Brown..docx`
+- `reports/Young Goodman Brown.1 (2).docx`
+- `reports/Young Goodman Brown.1.docx`
+- `reports/assignment5.doc`
+- `reports/assignment5.pdf`
+- `reports/c00769879.pdf`
+- `reports/egl-310 assignment 7a.docx`
+- `reports/englishHW.docx`
+- `reports/essay info.docx`
+- `reports/setup.doc`
+- `reports/zigbee_installation_tips-instructionsEGL310.pdf`
+- `reports/~$ung Goodman Brown..docx`
+- `reports/~$ung Goodman Brown.1.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `EGL-310 (1)/-Inventory.md`
+- `EGL-310 (1)/README.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/-Inventory.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/README.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/data/-Inventory.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/data/README.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/-Inventory.md`
+- `EGL-310 (1)/home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/EGL-310 (1)/-Inventory.md`
+- `papers/EGL-310 (1)/README.md`
+- `papers/EGL/-Inventory.md`
+- `papers/EGL/README.md`
+- `papers/README.md`
+- `reports/-Inventory.md`
+- `reports/EGL-310 (1)/-Inventory.md`
+- `reports/EGL-310 (1)/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-egl-310-1 - 3 papers, 31 reports, 0 presentations, 16 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-egl-310-1
+- Hub path: `Projects-No-Code/opn-egl-310-1`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1PfH5cRKuhLtc7Zl7AlCTWqYAmz7v3pbK
+- Import status: `completed`
+- Total indexed files in repo: `79`
+
+### Code / Project Location
+
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/`
+
+### Papers
+- `papers/AnotherArticle.doc`
+- `papers/Article.doc`
+- `papers/TheArticle.doc`
+
+### Reports / Written Documentation
+- `reports/Assignment 9_Memo.docx`
+- `reports/AssignmentforTuesdayEGL.doc`
+- `reports/Brochure - EGL-310.pdf`
+- `reports/EGL-310 ASSIGNMENT6.doc`
+- `reports/EGL-310 Assigment 7.docx`
+- `reports/EGL-310 Assignment 6.doc`
+- `reports/EGL-310 Assignment 6.pdf`
+- `reports/EGL-310_Assigment_7.docx`
+- `reports/EGL-310_Assignment_6.pdf`
+- `reports/EGLFEB14.odt`
+- `reports/Future Career and Social Media.doc`
+- `reports/INTERVIEW FINAL.doc`
+- `reports/INTERVIEW FINAL.pdf`
+- `reports/Instructuions EGL-310.doc`
+- `reports/Interview Questions.doc`
+- `reports/Interview Questions[1].doc`
+- `reports/InterviewQuestions2.doc`
+- `reports/Module Title.docx`
+- `reports/Pages_Templates_User_Manual.pdf`
+- `reports/Person to Interview.doc`
+- `reports/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- `reports/SKXbee User Manual_new.rtf`
+- `reports/TheInterviewReally.doc`
+- `reports/TheInterviewReally.odt`
+- `reports/assignment5.doc`
+- `reports/assignment5.pdf`
+- `reports/c00769879.pdf`
+- `reports/egl-310 assignment 7a.docx`
+- `reports/essay info.docx`
+- `reports/setup.doc`
+- `reports/zigbee_installation_tips-instructionsEGL310.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/README.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/-Inventory.md`
+- `home-automation-power-control-pxygosgcbaic-068_151208_129013/data/repo/README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-history-west-world - 0 papers, 8 reports, 0 presentations, 8 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-history-west-world
+- Hub path: `Projects-No-Code/opn-history-west-world`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Vx-8w3axgIQN4V-jHzMAsnhPHHitO31Q
+- Import status: `completed`
+- Total indexed files in repo: `17`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/An Explanation of the Rise and Fall of Rome.docx`
+- `reports/Chapter 19-History Notes.docx`
+- `reports/History Assigment - sumarize.docx`
+- `reports/History Assigment.docx`
+- `reports/History Assignment Investigation.docx`
+- `reports/History Part II.docx`
+- `reports/Schedule.docx`
+- `reports/~$apter 19-History Notes.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-home-automation-power-control - 0 papers, 0 reports, 0 presentations, 6 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-home-automation-power-control
+- Hub path: `Projects-No-Code/opn-home-automation-power-control`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Uy85jB1auLKFzX14nHMr4Nc_DpLF9nt_
+- Import status: `completed`
+- Total indexed files in repo: `7`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- None indexed.
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-math - 0 papers, 36 reports, 0 presentations, 16 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-math
+- Hub path: `Projects-No-Code/opn-math`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1SSEdh8qTsBbWItLlIff0X1Iafny08MeJ
+- Import status: `completed`
+- Total indexed files in repo: `58`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/116 HW 1.rtf`
+- `reports/Assignment#2 Math.docx`
+- `reports/Caculus I/Assignment#2 Math.docx`
+- `reports/Caculus I/Math's Assignments.docx`
+- `reports/Caculus I/Math's Homework 2.docx`
+- `reports/Caculus I/Math's Homework, Trigonometry.docx`
+- `reports/Caculus I/Math's Homework.docx`
+- `reports/Calculus.docx`
+- `reports/CalculusII-Formulas.docx`
+- `reports/DE-HW4 (Repaired).odt`
+- `reports/DE-HW4.docx`
+- `reports/Differential Equations/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- `reports/Differential Equations/Math Homework - Question No.1 of Test No.1.docx`
+- `reports/Differential Equations/Math Homework-253.docx`
+- `reports/Differential Equations/Math Homework.docx`
+- `reports/Differential Equations/Math Homework2-253.docx`
+- `reports/Differential Equations/~$th Homework - Question No.1 of Test No.1.docx`
+- `reports/Factor into binomials.docx`
+- `reports/Math Given three credit card scenarios.docx`
+- `reports/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- `reports/Math Homework - Question No.1 of Test No.1.docx`
+- `reports/Math Homework-253.docx`
+- `reports/Math Homework.docx`
+- `reports/Math Homework2-253.docx`
+- `reports/Math's Assignments.docx`
+- `reports/Math's Homework 2.docx`
+- `reports/Math's Homework, Trigonometry.docx`
+- `reports/Math's Homework.docx`
+- `reports/Math's Project, Peter.docx`
+- `reports/Math's Project.xlsx.docx`
+- `reports/Math's Project333.xlsx`
+- `reports/Math-235.odt`
+- `reports/Math-Project-hw3(ONLY).docx`
+- `reports/Math.docx`
+- `reports/RLC.docx`
+- `reports/RLC.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `Calculus II/-Inventory.md`
+- `Calculus II/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Differential Equations/-Inventory.md`
+- `Differential Equations/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/-Inventory.md`
+- `reports/Caculus I/-Inventory.md`
+- `reports/Caculus I/README.md`
+- `reports/Differential Equations/-Inventory.md`
+- `reports/Differential Equations/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Projects-No-Code / opn-physics - 3 papers, 13 reports, 0 presentations, 10 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opn-physics
+- Hub path: `Projects-No-Code/opn-physics`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1lN4We9GUDUQV9hvE_tDdPGtsRmjz5Gqp
+- Import status: `completed`
+- Total indexed files in repo: `27`
+
+### Code / Project Location
+
+- No source-code root detected; this repo may be documentation/coursework/support material.
+
+### Papers
+- `papers/Graph Paper.pdf`
+- `papers/Physics Graph Paper.rtf`
+- `papers/Physics plain Graph Paper.doc`
+
+### Reports / Written Documentation
+- `reports/Conclusion Physics lab report.docx`
+- `reports/Conclusion, physics lab report.docx`
+- `reports/Conclusion-phy-20.docx`
+- `reports/Physics - lab report - 22.docx`
+- `reports/Physics Lab Report-14.docx`
+- `reports/Physics Lab Report-20.docx`
+- `reports/plain (2).doc`
+- `reports/plain.doc`
+- `reports/plain.docx`
+- `reports/plain.pdf`
+- `reports/right plain.docx`
+- `reports/right plain.pdf`
+- `reports/vectors.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `papers/-Inventory.md`
+- `papers/README.md`
+- `reports/-Inventory.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Work-Projects / opw-madchefkitchen - 0 papers, 85 reports, 19 presentations, 87 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opw-madchefkitchen
+- Hub path: `Work-Projects/opw-madchefkitchen`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge
+- Import status: `needs Drive review`
+- Total indexed files in repo: `1658`
+
+### Code / Project Location
+
+- `404.php`
+- `Hiring.php`
+- `HiringCell.php`
+- `MadChefKichen Work-2015/`
+- `Mobile_Detect.php`
+- `SignReg.php`
+- `SignRegCell.php`
+- `Welcome.php`
+- `WelcomeCell.php`
+- `addClass.php`
+- `addProject.php`
+- `archive.php`
+- `browser.php`
+- `calendar.php`
+- `calendarCell.php`
+- `calendarEvent.php`
+- `calendarEvent1.php`
+- `calendarT.php`
+- `category.php`
+- `catering.php`
+- `chefblog.php`
+- `classEvents.php`
+- `classEventsCell.php`
+- `classmgnt.php`
+- `comments.php`
+- `contact-form.php`
+- `contact-formCell.php`
+- `content-none.php`
+- `content-page.php`
+- `content.php`
+- `cooking-classes.php`
+- `css/`
+- `database.php`
+- `demonstrations.php`
+- `elements.css`
+- `explore.php`
+- `exploreCell.php`
+- `feedback.php`
+- `footer.php`
+- `form.php`
+- `form1.php`
+- `formcell.php`
+- `functions.php`
+- `gallery.php`
+- `galleryCell.php`
+- `galleryc.php`
+- `gallerymngmnt.php`
+- `givingback.php`
+- `header.php`
+- `hiringform.php`
+- `inc/`
+- `index.php`
+- `js/`
+- `management.php`
+- `mngmntmenu.php`
+- `mngmntmenuCell.php`
+- `my_js.js`
+- `mysqli_connect.php`
+- `navigation.php`
+- `nexpre.js`
+- `organizedkitchen.php`
+- `our-chefs.php`
+- `our-story.php`
+- `page.php`
+- `personalchef.php`
+- `popupform.html`
+- `privatechef.php`
+- `recipeEvents.php`
+- `recipeEventsCell.php`
+- `recipes.php`
+- `recipesCell.php`
+- `registration.php`
+- `relatedposts.php`
+- `search.php`
+- `searchAll.php`
+- `searchform.php`
+- `sidebar-left.php`
+- `sidebar-right.php`
+- `sidebar.php`
+- `single.php`
+- `slider.php`
+- `smenu.php`
+- `smenucell.php`
+- `sponsors.php`
+- `style.css`
+- `tag.php`
+- `templatename.php`
+- `templatepg.php`
+- `testpage.php`
+- `theloop.php`
+- `usersForm.php`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/ABOUT_APACHE.txt`
+- `reports/Additional Forms (2015).pdf`
+- `reports/ApplicationParts.txt`
+- `reports/CHANGES--from-xampp-apache.txt`
+- `reports/Card-No1-Information.pdf`
+- `reports/Copy of index.txt`
+- `reports/Director of Marketing (Autosaved).docx`
+- `reports/Director of Marketing.docx`
+- `reports/Doc1.pdf`
+- `reports/Doc2.pdf`
+- `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use.pdf`
+- `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use2.pdf`
+- `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use3.pdf`
+- `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use4.pdf`
+- `reports/HelpScript.txt`
+- `reports/INSTALL.txt`
+- `reports/Job Specifications.docx`
+- `reports/LICENSE--from-repo-font.txt`
+- `reports/LICENSE--from-starsofa-font.txt`
+- `reports/LICENSE--from-xampp-apache.txt`
+- `reports/MadChefKitchen--from-MadChefKichen-Work-2015-MadChefKitchen.pdf`
+- `reports/MadChefKitchen.pdf`
+- `reports/NOTICE.txt`
+- `reports/OPENSSL-NEWS.txt`
+- `reports/OPENSSL-README.txt`
+- `reports/Offer Letter Piter Z Garcia.docx`
+- `reports/Offer Letter Piter Z Garcia.pdf`
+- `reports/Offer_Letter_Piter_Z_Garcia.docx`
+- `reports/README--from-repo-font.txt`
+- `reports/README--from-starsofa-font.txt`
+- `reports/README--from-xampp-apache.txt`
+- `reports/Surfas Schedule v2.docx`
+- `reports/Surfas Schedule.docx`
+- `reports/TemplateForClasses.csv`
+- `reports/TemplateForRecipes.csv`
+- `reports/TemplateForRecipes2.csv`
+- `reports/U-0049-01_L.pdf`
+- `reports/U-0049-01_L2.pdf`
+- `reports/UPDATED CULVER CITY CLASS SCHEDULE.docx`
+- `reports/cbu.txt`
+- `reports/changelog--from-MadChefKitchen-inkzine.txt`
+- `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- `reports/changelog.txt`
+- `reports/changes.txt`
+- `reports/draft1.txt`
+- `reports/draft2.txt`
+- `reports/draft3.txt`
+- `reports/draft4.txt`
+- `reports/draft5.txt`
+- `reports/draft6.txt`
+- `reports/draft7.txt`
+- `reports/explore.txt`
+- `reports/fbackup.txt`
+- `reports/gc2.pdf`
+- `reports/giftcertificate.pdf`
+- `reports/giftcertificate1.pdf`
+- `reports/giftcertificate1_edited-1.pdf`
+- `reports/giftcertificate1_edited-3.pdf`
+- `reports/giftcertificate2.pdf`
+- `reports/giftcertificate2_edited-1.pdf`
+- `reports/giftcertificate2_edited-3.pdf`
+- `reports/giftcertificate3.pdf`
+- `reports/giftcertificate3_edited-2.pdf`
+- `reports/giftcertificate4.pdf`
+- `reports/giftcertificate4_edited-2.pdf`
+- `reports/hbu.txt`
+- `reports/hw3 (for loops).pdf`
+- `reports/jbu.txt`
+- `reports/license--from-MadChefKichen-Work-2015-inkzine-plus.txt`
+- `reports/license--from-MadChefKitchen-inkzine.txt`
+- `reports/license--from-MadChefKitchen-starsofa.txt`
+- `reports/license--from-inkzine-plus-inkzine-plus.txt`
+- `reports/license.txt`
+- `reports/myscripts.txt`
+- `reports/mystyle.txt`
+- `reports/nav buttons.txt`
+- `reports/passwords.txt`
+- `reports/readme--from-MadChefKichen-Work-2015-MadChefKitchen.txt`
+- `reports/readme--from-MadChefKitchen-inkzine.txt`
+- `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- `reports/readme--from-inkzine-plus-languages.txt`
+- `reports/readme.txt`
+- `reports/readme_de.txt`
+- `reports/readme_en.txt`
+- `reports/simple-products.csv`
+
+### Presentations
+- `MadChefKichen Work-2015/inkzine-plus/image/slides/aircraft-479772_1280.jpg`
+- `MadChefKichen Work-2015/inkzine-plus/image/slides/beautiful-701678_1280.jpg`
+- `MadChefKichen Work-2015/inkzine-plus/image/slides/summer-192179_1280.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/1-prev.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/1.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/2-prev.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/2.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/3-prev.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/3.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/4-prev.jpg`
+- `MadChefKichen Work-2015/starsofa/images/slides/4.jpg`
+- `images/slides/1-prev.jpg`
+- `images/slides/1.jpg`
+- `images/slides/2-prev.jpg`
+- `images/slides/2.jpg`
+- `images/slides/3-prev.jpg`
+- `images/slides/3.jpg`
+- `images/slides/4-prev.jpg`
+- `images/slides/4.jpg`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `MadChefKichen Work-2015/-Inventory.md`
+- `MadChefKichen Work-2015/Foundation Logo/New folder/README.md`
+- `MadChefKichen Work-2015/Foundation Logo/README.md`
+- `MadChefKichen Work-2015/Gift Certificates/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/__MACOSX/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/__MACOSX/inkzine-plus/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine-plus/inkzine-plus/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/css/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/css/bootstrap/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/css/bxslider/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/images/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/images/social/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/inkzine/inc/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/other files/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/starsofa/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/starsofa/css/README.md`
+- `MadChefKichen Work-2015/MadChefKitchen/starsofa/images/README.md`
+- `MadChefKichen Work-2015/README.md`
+- `MadChefKichen Work-2015/htdocs_keep/Maintenance/README.md`
+- `MadChefKichen Work-2015/htdocs_keep/Maintenance/images/README.md`
+- `MadChefKichen Work-2015/htdocs_keep/Maintenance/unused/README.md`
+- `MadChefKichen Work-2015/htdocs_keep/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/classes/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/css/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/css/bootstrap/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/css/bxslider/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/css/bxslider/images/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/css/css/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/image/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/image/slides/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/images/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/images/social/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/inc/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/inc/css/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/js/README.md`
+- `MadChefKichen Work-2015/inkzine-plus/js/min/README.md`
+- `MadChefKichen Work-2015/public_html/README.md`
+- `MadChefKichen Work-2015/public_html/images/README.md`
+- `MadChefKichen Work-2015/public_html/ver2/Archive/README.md`
+- `MadChefKichen Work-2015/public_html/ver2/README.md`
+- `MadChefKichen Work-2015/public_html/ver2/css/README.md`
+- `MadChefKichen Work-2015/public_html/ver2/fonts/README.md`
+- `MadChefKichen Work-2015/public_html/ver2/images/README.md`
+- `MadChefKichen Work-2015/starsofa/README.md`
+- `MadChefKichen Work-2015/starsofa/css/README.md`
+- `MadChefKichen Work-2015/starsofa/font/README.md`
+- `MadChefKichen Work-2015/starsofa/images/README.md`
+- `MadChefKichen Work-2015/starsofa/images/feedback/README.md`
+- `MadChefKichen Work-2015/starsofa/images/slides/README.md`
+- `MadChefKichen Work-2015/starsofa/inc/README.md`
+- `MadChefKichen Work-2015/starsofa/inc/css/README.md`
+- `MadChefKichen Work-2015/starsofa/inc/images/README.md`
+- `MadChefKichen Work-2015/starsofa/js/README.md`
+- `MadChefKichen Work-2015/xampp/Check3_files/README.md`
+- `MadChefKichen Work-2015/xampp/README.md`
+- `MadChefKichen Work-2015/xampp/anonymous/README.md`
+- `MadChefKichen Work-2015/xampp/contrib/README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `css/-Inventory.md`
+- `css/README.md`
+- `font/-Inventory.md`
+- `font/README.md`
+- `images/-Inventory.md`
+- `images/README.md`
+- `images/feedback/README.md`
+- `images/slides/README.md`
+- `images/smt/README.md`
+- `images/social-profiles/README.md`
+- `inc/-Inventory.md`
+- `inc/README.md`
+- `inc/css/README.md`
+- `inc/images/README.md`
+- `inc/images/menu/README.md`
+- `inc/widgets/README.md`
+- `inc/windows/README.md`
+- `js/-Inventory.md`
+- `js/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Work-Projects / opw-qualitrol-projects - 1 papers, 102 reports, 0 presentations, 70 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opw-qualitrol-projects
+- Hub path: `Work-Projects/opw-qualitrol-projects`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1z8BLSeSc-9JYbfsleHmoF4bDL_HGv7Ny
+- Import status: `completed`
+- Total indexed files in repo: `540`
+
+### Code / Project Location
+
+- `GDM/`
+- `Qualitrol Work/`
+- `SeverOn/`
+
+Project marker files:
+- `GDM/GDM23/Firmware/MPLAB.X/Makefile`
+- `GDM/GDM23/Firmware/USB Device - CDC - Serial Emulator -  C18 - Low Pin Count USB Development Kit.mcp`
+- `GDM/GDM23/Firmware/USB Device - CDC - Serial Emulator -  C18 - PICDEM FSUSB K50.mcp`
+- `GDM/GDM23/Firmware/USB Device - CDC - Serial Emulator -  C18 - PICDEM FSUSB.mcp`
+- `GDM/GDM24/Firmware/MPLAB.X/Makefile`
+- `GDM/GDM24/Firmware/USB Device - CDC - Serial Emulator -  C18 - Low Pin Count USB Development Kit.mcp`
+- `GDM/GDM24/Firmware/USB Device - CDC - Serial Emulator -  C18 - PICDEM FSUSB K50.mcp`
+- `GDM/GDM24/Firmware/USB Device - CDC - Serial Emulator -  C18 - PICDEM FSUSB.mcp`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Core/Serveron.Utility.Core.2008.csproj`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/RogersApp/RogersApp.csproj`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/Serveron.Diagnostics.2008.csproj`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/Serveron.Diagnostics.2008.sln`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/Serveron.Diagnostics.sln`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/Storage.2008.csproj`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/OtherDGA.sln`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/OtherDGA/OtherDGA.csproj`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/Serveron.Diagnostics/Serveron.Diagnostics.csproj`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/Serveron.Diagnostics/Serveron.Diagnostics.sln`
+- `SeverOn/TM View  5.2 Installer/Diagnostics and utilities 2008/Core/Serveron.Utility.Core.2008.csproj`
+
+### Papers
+- `papers/White+Paper+Volume+1.pdf`
+
+### Reports / Written Documentation
+- `reports/1.docx`
+- `reports/ADV-P-Application-Information-Definitions.pdf`
+- `reports/APPL CQCs MTD (2).pdf`
+- `reports/About Dissolved Gas Ratios--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- `reports/About Dissolved Gas Ratios.rtf`
+- `reports/BCM Lite HW Architecture Description (20131007) Rev 01.doc`
+- `reports/BCM Testing Procedure1.docx`
+- `reports/BCM Testing Procedures.docx`
+- `reports/BCMLite_TestPlan (Autosaved).doc`
+- `reports/BCM_Events and Records Pages _Test_plan (preliminary).doc`
+- `reports/BCM_Home_status_Test_plan (preliminary).doc`
+- `reports/Beattie.pdf`
+- `reports/Bug 14.docx`
+- `reports/BugZilla Bugs.docx`
+- `reports/CQC Analysis Form - APCQC.pdf`
+- `reports/CQC Analysis Form - DanielCQC.pdf`
+- `reports/CQC Analysis Form - DanielCQC2.pdf`
+- `reports/CQC Analysis Form - JanoCQC.pdf`
+- `reports/CQC Analysis Form - MikeCQC.pdf`
+- `reports/CQC Analysis Form - PeterCQC.pdf`
+- `reports/CQC Analysis Form - RaihanCQC.pdf`
+- `reports/Copy of Sales Territory Map - Sept 2013.xls`
+- `reports/CreationSql.install--from-Database-SqlScripts.txt`
+- `reports/CreationSql.install--from-Database-support-Creation-Scripts.txt`
+- `reports/CreationSql.install--from-SQL-Scripts-v1.0.txt`
+- `reports/CreationSql.install.txt`
+- `reports/FAQ.rtf`
+- `reports/How to turn on OPC--from-TM-View-5.2-How-to-turn-on-OPC.docx`
+- `reports/How to turn on OPC.docx`
+- `reports/I2T.docx`
+- `reports/Installation Manual.pdf`
+- `reports/IsqT.pdf`
+- `reports/IsquaredTCal.pdf`
+- `reports/Kronos Timekeeper Clock Guide.pdf`
+- `reports/Kronos locations.PDF`
+- `reports/License Terms.rtf`
+- `reports/OMICROM Issue.txt`
+- `reports/PSI Unit Test - Ambient Temperature.docx`
+- `reports/PSI Unit Test - Cons High Temperature.docx`
+- `reports/PSI Unit Test - Cons Low Temperature.docx`
+- `reports/PSI Unit Test - Low Temperature.docx`
+- `reports/PSP - Piter Garcia.xls`
+- `reports/Piter-PSP Prework.xlsx`
+- `reports/README--from-SQL-Scripts-v1.5.txt`
+- `reports/README--from-SQL-Scripts-v1.6.txt`
+- `reports/README--from-Updates-Update-1.5.txt`
+- `reports/README--from-Updates-Update-1.6.txt`
+- `reports/READ_ME--from-SQL-Scripts-v1.4.txt`
+- `reports/READ_ME--from-Updates-Update-1.4.txt`
+- `reports/READ_ME.txt`
+- `reports/REPORT_INITIAL.PDF`
+- `reports/Ratio Viewer Key Help--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- `reports/Ratio Viewer Key Help.rtf`
+- `reports/Read me.txt`
+- `reports/Readme.txt`
+- `reports/ReleaseNotes.rtf`
+- `reports/Setup_ReadMe.txt`
+- `reports/TM View Software User's Manual.pdf`
+- `reports/The Graduate Advisor Handbook A Student-Centered Approach.pdf`
+- `reports/Tutoring Form.doc`
+- `reports/Update1_1.install--from-Database-SqlScripts.txt`
+- `reports/Update1_1.install--from-SQL-Scripts-v1.1.txt`
+- `reports/Update1_1.install--from-Updates-Update-1.1.txt`
+- `reports/Update1_1.install.txt`
+- `reports/Update1_2.install--from-Database-SqlScripts.txt`
+- `reports/Update1_2.install--from-SQL-Scripts-v1.2.txt`
+- `reports/Update1_2.install--from-Updates-Update-1.2.txt`
+- `reports/Update1_2.install.txt`
+- `reports/Update1_3.install--from-Database-SqlScripts.txt`
+- `reports/Update1_3.install--from-SQL-Scripts-v1.3.txt`
+- `reports/Update1_3.install--from-Updates-Update-1.3.txt`
+- `reports/Update1_3.install.txt`
+- `reports/Update1_4.install--from-Database-SqlScripts.txt`
+- `reports/Update1_4.install--from-SQL-Scripts-v1.4.txt`
+- `reports/Update1_4.install--from-Updates-Update-1.4.txt`
+- `reports/Update1_4.install.txt`
+- `reports/Update1_5.install--from-Database-SqlScripts.txt`
+- `reports/Update1_5.install--from-SQL-Scripts-v1.5.txt`
+- `reports/Update1_5.install--from-Updates-Update-1.5.txt`
+- `reports/Update1_5.install.txt`
+- `reports/Update1_6.install--from-Database-SqlScripts.txt`
+- `reports/Update1_6.install--from-SQL-Scripts-v1.6.txt`
+- `reports/Update1_6.install--from-Updates-Update-1.6.txt`
+- `reports/Update1_6.install.txt`
+- `reports/Update2_0.install--from-Database-SqlScripts.txt`
+- `reports/Update2_0.install--from-SQL-Scripts-v2.0.txt`
+- `reports/Update2_0.install--from-Updates-Update-2.0.txt`
+- `reports/Update2_0.install.txt`
+- `reports/Update2_1.install--from-Database-SqlScripts.txt`
+- `reports/Update2_1.install--from-SQL-Scripts-v2.1.txt`
+- `reports/Update2_1.install--from-Updates-Update-2.1.txt`
+- `reports/Update2_1.install.txt`
+- `reports/Update2_2.install--from-Database-SqlScripts.txt`
+- `reports/Update2_2.install--from-SQL-Scripts-v2.2.txt`
+- `reports/Update2_2.install--from-Updates-Update-2.2.txt`
+- `reports/Update2_2.install.txt`
+- `reports/fuseterm.pdf`
+- `reports/resume2.pdf`
+- `reports/sig-alternate.cls`
+- `reports/~$1.docx`
+- `reports/~$M Testing Procedures.docx`
+- `reports/~$rdware Instructions APGV Project.docx`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `BCM Testing/-Inventory.md`
+- `BCM Testing/README.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `GDM/-Inventory.md`
+- `GDM/GDM23/-Inventory.md`
+- `GDM/GDM23/Firmware/MPLAB.X/README.md`
+- `GDM/GDM23/Firmware/MPLAB.X/nbproject/README.md`
+- `GDM/GDM23/Firmware/MPLAB.X/nbproject/private/README.md`
+- `GDM/GDM23/Firmware/README.md`
+- `GDM/GDM23/README.md`
+- `GDM/GDM24/-Inventory.md`
+- `GDM/GDM24/Firmware/MPLAB.X/README.md`
+- `GDM/GDM24/Firmware/MPLAB.X/nbproject/README.md`
+- `GDM/GDM24/Firmware/MPLAB.X/nbproject/private/README.md`
+- `GDM/GDM24/Firmware/README.md`
+- `GDM/GDM24/README.md`
+- `GDM/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `Qualitrol Work/-Inventory.md`
+- `Qualitrol Work/BCM-Test Manual/-Inventory.md`
+- `Qualitrol Work/BCM-Test Manual/BCM PICS/README.md`
+- `Qualitrol Work/BCM-Test Manual/README.md`
+- `Qualitrol Work/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Core/Images/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Core/Images/Serveron/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Core/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Core/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/RogersApp/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/RogersApp/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Serveron.Diagnostics/Shapes/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/DGA Support/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/DNP Support/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/Data Supplier Support/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/Licensing/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/TBM Support/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/Diagnostics and utilities 2008/Storage/TMS Support/README.md`
+- `Qualitrol Work/TM View 5.2/Diagnostics and utilities 2008/README.md`
+- `Qualitrol Work/TM View 5.2/How to turn on OPC/README.md`
+- `Qualitrol Work/TM View 5.2/How to turn on OPC/Things to Install/OPC Core Components Redistributable (x64)/README.md`
+- `Qualitrol Work/TM View 5.2/How to turn on OPC/Things to Install/OPC Core Components Redistributable (x86)/README.md`
+- `Qualitrol Work/TM View 5.2/How to turn on OPC/Things to Install/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/OtherDGA/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/OtherDGA/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/Serveron.Diagnostics/Properties/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/Serveron.Diagnostics/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/OtherDGA/Serveron.Diagnostics/Shapes/README.md`
+- `Qualitrol Work/TM View 5.2/OtherDGA/README.md`
+- `Qualitrol Work/TM View 5.2/README.md`
+- `Qualitrol Work/TM View 5.2/TM View Enterprise/Installer/README.md`
+- `Qualitrol Work/TM View 5.2/TM View Enterprise/Installer/Resources/README.md`
+- `Qualitrol Work/TM View 5.2/TM View Enterprise/README.md`
+- `Qualitrol Work/TM View 5.2/TM View/Installer/README.md`
+- `Qualitrol Work/TM View 5.2/TM View/Installer/Resources/README.md`
+- `Qualitrol Work/TM View 5.2/TM View/README.md`
+- `README.md`
+- `SeverOn/README.md`
+- `SeverOn/TM View  5.2 Installer/Diagnostics and utilities 2008/Core/README.md`
+- `SeverOn/TM View  5.2 Installer/Diagnostics and utilities 2008/README.md`
+- `SeverOn/TM View  5.2 Installer/README.md`
+- `papers/README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Work-Projects / opw-tiburonlockers - 0 papers, 11 reports, 0 presentations, 11 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opw-tiburonlockers
+- Hub path: `Work-Projects/opw-tiburonlockers`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/179pxwA-Gr1gGAHvn09ezeqOmjVMKgYre
+- Import status: `completed`
+- Total indexed files in repo: `44`
+
+### Code / Project Location
+
+- `Flow Charts/`
+
+### Papers
+- None indexed.
+
+### Reports / Written Documentation
+- `reports/AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx`
+- `reports/Feature Specs.docx`
+- `reports/Multidaywriteup DS.docx`
+- `reports/PeriodicW-O-OLF.docx`
+- `reports/Progressive.docx`
+- `reports/Ride Lockers.docx`
+- `reports/Visio-Progressive Flowchart.pdf`
+- `reports/designconcepts1.pdf`
+- `reports/designconcepts2.pdf.pdf`
+- `reports/designconcepts3.pdf.pdf`
+- `reports/designconcepts4.pdf`
+
+### Presentations
+- None indexed.
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `Flow Charts/-Inventory.md`
+- `Flow Charts/New folder/-Inventory.md`
+- `Flow Charts/New folder/README.md`
+- `Flow Charts/README.md`
+- `IMPORT_NOTES.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `reports/README.md`
+
+</details>
+
+<details>
+
+<summary>Work-Projects / opw-trueinteraction - 13 papers, 250 reports, 123 presentations, 122 docs/indexes</summary>
+
+- GitHub: https://github.com/pzg8794/opw-trueinteraction
+- Hub path: `Work-Projects/opw-trueinteraction`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Zfx8V3p4c5M-ZZb27_Xnjm_QRO8QkLGD
+- Import status: `needs Drive review`
+- Total indexed files in repo: `1657`
+
+### Code / Project Location
+
+- `TI_DropBox_Bkup/`
+
+### Papers
+- `papers/10.1.1.396.1519.pdf`
+- `papers/26-147.pdf`
+- `papers/6264820.pdf`
+- `papers/696.PDF`
+- `papers/JIPS_31.pdf`
+- `papers/Lovin.pdf`
+- `papers/P063.PDF`
+- `papers/P136.PDF`
+- `papers/UB_Tree_paper.pdf`
+- `papers/WH-TimeStudy.pdf`
+- `papers/fulltext.pdf`
+- `papers/p45.pdf`
+- `papers/wgz00.pdf`
+
+### Reports / Written Documentation
+- `reports/ MATERIAL RECORD - zmmtest1_19may2015 (Autosaved).csv`
+- `reports/01-14-2015.pdf`
+- `reports/0840037031_209383.doc`
+- `reports/128175 Lifetime Host Interface Specification with pickdownloadack.docx`
+- `reports/128175 Lifetime Software Functional Specification.docx`
+- `reports/370_46465_EY325_2012_1_2_1_1_Budgeting II.docx`
+- `reports/Academic Training Dept request template.doc`
+- `reports/AllNotes--from-Notes-PDFs.pdf`
+- `reports/AllNotes.pdf`
+- `reports/Architecture.pdf`
+- `reports/Cliff Proforma Example.csv`
+- `reports/Customers.txt`
+- `reports/DAILY EXTRACT FROM TOOL TO DS.TXT`
+- `reports/DAILY IMPORT FROM DS TO TOOL.TXT`
+- `reports/Data Analysis.docx`
+- `reports/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition-Mantesh.pdf`
+- `reports/Data_Exploration--from-DB-Schema-PDFs.pdf`
+- `reports/Data_Exploration--from-LTB---Sales-Portal-DB-Schema.docx`
+- `reports/Data_Exploration--from-System-Dev-Milestone2.docx`
+- `reports/Data_Exploration--from-repo-TI-Formal-Reports.docx`
+- `reports/Data_Exploration--from-repo-TI-Formal-Reports.pdf`
+- `reports/Data_Exploration--from-repo-Understaing_Data.docx`
+- `reports/Data_Exploration.docx`
+- `reports/Data_Exploration.pdf`
+- `reports/Dataset1-Media-Example-EDGES.csv`
+- `reports/Dataset1-Media-Example-NODES.csv`
+- `reports/Dataset2-Media-User-Example-EDGES.csv`
+- `reports/Dataset2-Media-User-Example-NODES.csv`
+- `reports/Doc Dec 04, 2015, 1313.pdf`
+- `reports/Doc Dec 30, 2015, 10-27 PM (1).pdf`
+- `reports/Doc Dec 30, 2015, 10-27 PM--from-Notes-PDFs.pdf`
+- `reports/Doc Dec 30, 2015, 10-27 PM.pdf`
+- `reports/Doc Jan 14, 2016, 9-47 PM.pdf`
+- `reports/Doc6.docx`
+- `reports/Doc6.pdf`
+- `reports/E-Commerce.docx`
+- `reports/ExcessReport--from-LTB---Sales-Portal-Client-Artifacts.txt`
+- `reports/ExcessReport--from-My_Notes-CSV-Files.csv`
+- `reports/ExcessReport--from-Notes-My_Notes.txt`
+- `reports/ExcessReport--from-Provided-ITEM.txt`
+- `reports/ExcessReport.csv`
+- `reports/ExcessReport.pdf`
+- `reports/ExcessReport.txt`
+- `reports/FCS HISTORY.TXT`
+- `reports/Fon Detail Pick Area.doc`
+- `reports/Fontana DC 7-16-13.pdf`
+- `reports/Fontana Detail Piece Pick Pictures.doc`
+- `reports/Forecast History Saves.docx`
+- `reports/Hungarian_j48_results_decimal_10.txt`
+- `reports/Hungarian_j48_results_decimal_e.txt`
+- `reports/Hungarian_j48_results_minmax.txt`
+- `reports/Hungarian_j48_results_unnormalized.txt`
+- `reports/INITIAL UPLOAD--from-PLANNING-Updated-Datafiles-as-of-20160224.TXT`
+- `reports/INITIAL UPLOAD.TXT`
+- `reports/ITEM - STATUS – products lifecycle status.txt`
+- `reports/Impactly Machine Learning Strategy.pdf`
+- `reports/LTB Sales Portal Functions Request--from-Understaing_Data-Analysis.docx`
+- `reports/LTB Sales Portal Functions Request.docx`
+- `reports/LTB Sales Portal-Requested Features--from-Documentation-Studied.docx`
+- `reports/LTB Sales Portal-Requested Features--from-LTB_Sales_Project-Introduction.docx`
+- `reports/LTB Sales Portal-Requested Features--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- `reports/LTB Sales Portal-Requested Features.docx`
+- `reports/LTB-SALES-WiresV6.pdf`
+- `reports/LTB-SALES-WiresV7--from-LTB_Sales_Project-GUI.pdf`
+- `reports/LTB-SALES-WiresV7.pdf`
+- `reports/LTBSP Current Status.pdf`
+- `reports/LTBSP M4 Progress.pdf`
+- `reports/LTBSP M5 Comprehensive Progress Report.pdf`
+- `reports/LTBSales.pdf`
+- `reports/LTBSalesPortal_Styleguide.pdf`
+- `reports/LTBSalesProtal_Styleguide.pdf`
+- `reports/LTBSales_Report--from-Client-Artifacts-DOCUMENTATION.docx`
+- `reports/LTBSales_Report--from-LTB---Sales-Portal-DB-Schema.docx`
+- `reports/LTBSales_Report--from-LTB_Sales_Project-Data-Analysis.docx`
+- `reports/LTBSales_Report--from-Notes-System-UML-Diagrams.docx`
+- `reports/LTBSales_Report--from-Provided-OTHERS.docx`
+- `reports/LTBSales_Report.docx`
+- `reports/LTBSales_Report.pdf`
+- `reports/LTBnotes.txt`
+- `reports/MATERIAL RECORD - zmmtest1_19may2015 (Autosaved).csv`
+- `reports/MOCA connection in vb dot net.rtf`
+- `reports/MP.csv`
+- `reports/MilestoneIV-Report.pdf`
+- `reports/MilestoneV-Report.docx`
+- `reports/MilestoneV-Report.pdf`
+- `reports/ModelIntegrationSystem.pdf`
+- `reports/My main duty is to provide technical direction for the development.docx`
+- `reports/NetSciX_2016_Workshop.pdf`
+- `reports/New_SAP_Exports.txt`
+- `reports/NoFraud Website Strategy__Final.pdf`
+- `reports/NoFraudNewLogos.pdf`
+- `reports/Notes-Dec-17,-2015.pdf`
+- `reports/NotesDec-17-2015--from-Notes-PDFs.pdf`
+- `reports/NotesDec-17-2015.pdf`
+- `reports/PDSLongText.txt`
+- `reports/PDSLongTextTest.txt`
+- `reports/PDSMaterialsTest.txt`
+- `reports/PLANNING - DS-DE-IU-2015.csv`
+- `reports/PLANNING - DS-DE1115.csv`
+- `reports/PLANNING - Demand Solutions Data Extract - Initial Upload.csv`
+- `reports/PLANNING - TabFields.csv`
+- `reports/PLANNING -DS1115.csv`
+- `reports/PLANNING--from-CSV-Files-Planning.docx`
+- `reports/PLANNOGRAM 12FT KITCHENWARE CUTLERY INLINE 3-25-15_SD.pdf`
+- `reports/PROFORMA - BP.csv`
+- `reports/PROFORMA - Cliff Proforma Example.pdf`
+- `reports/PROFORMA - CliffExample.csv`
+- `reports/PROFORMA - CliffExample2.csv`
+- `reports/PROFORMA - FExample.csv`
+- `reports/PROFORMA - FExample2.csv`
+- `reports/PROFORMA - Kmart Cutlery 2 and a half FT - MEGAN PROJECTIONS 11092015 (1).xlsx`
+- `reports/PROFORMA - Tabs Desc.csv`
+- `reports/PROFORMA - Template FY 2015.xls`
+- `reports/PROFORMA -- COMMISSIONS.csv`
+- `reports/PROFORMA -- REBATES - Condition Types.csv`
+- `reports/PROFORMA-1STKizmosColorECT.csv`
+- `reports/PROFORMA-KC2 FT-MP.csv`
+- `reports/PROFORMA-KC2.5 FT-MPcsv.csv`
+- `reports/PROFORMA-KC2FT2-MP.csv`
+- `reports/PROFORMA-RGrossZRSA12-2-15.csv`
+- `reports/PROFORMA-RRules ZSD039 12-2-15.csv`
+- `reports/PROFORMA-TKizmosColorEC .csv`
+- `reports/PROFORMA-TKizmosColorECT.csv`
+- `reports/PROFORMA-TempFY2015.csv`
+- `reports/PROFORMA.docx`
+- `reports/Performance.pdf`
+- `reports/Permissions - Cliff.docx`
+- `reports/Permissions_Based_System (Piter Garcia's conflicted copy 2016-01-13).docx`
+- `reports/Permissions_Based_System--from-LTB---Sales-Portal-DB-Schema.docx`
+- `reports/Permissions_Based_System--from-System-Dev-Milestone2.docx`
+- `reports/Permissions_Based_System--from-repo-TI-Formal-Reports.docx`
+- `reports/Permissions_Based_System--from-repo-Understaing_Data.docx`
+- `reports/Permissions_Based_System.docx`
+- `reports/Permissions_Based_System.pdf`
+- `reports/Piter Updated Academic Training.pdf`
+- `reports/Piter+Garcia+CV.doc`
+- `reports/PiterG.doc`
+- `reports/PiterGarciaCV.pdf`
+- `reports/Planning--from-LTB_Sales_Project-Data-Analysis.docx`
+- `reports/Planning.docx`
+- `reports/PlanningDraft--from-Client-Artifacts-DOCUMENTATION.docx`
+- `reports/PlanningDraft--from-Provided-OTHERS.docx`
+- `reports/PlanningDraft.docx`
+- `reports/Privacy_Policy.txt`
+- `reports/Product_Text.txt`
+- `reports/Proforma - Almost Final2.xlsx`
+- `reports/Progress_Report_MilestoneI.docx`
+- `reports/Progress_Report_MilestoneI.pdf`
+- `reports/Progress_Report_MilestoneII.pdf`
+- `reports/Progress_Report_MilestoneIII.pdf`
+- `reports/Project_Outline--from-LTB_Sales_Project-Introduction.docx`
+- `reports/Project_Outline--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- `reports/Project_Outline.docx`
+- `reports/Project_Outline.pdf`
+- `reports/Project_Overview--from-LTB_Sales_Project-Introduction.docx`
+- `reports/Project_Overview--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- `reports/Project_Overview.docx`
+- `reports/Project_Overview.pdf`
+- `reports/ProximaNovaSupplementGuide.pdf`
+- `reports/Rplot26.pdf`
+- `reports/SKM_C654e16060702520.pdf`
+- `reports/SampleSystemFlow.pdf`
+- `reports/Sell--from-Client-Artifacts-DOCUMENTATION.docx`
+- `reports/Sell--from-Provided-OTHERS.docx`
+- `reports/Sell.docx`
+- `reports/Set up_process.txt`
+- `reports/Slipsheet Loads (Autosaved).docx`
+- `reports/Standard Operating Procedure Detail revised 052016.doc`
+- `reports/Strategy_Plan--from-System-Dev-Milestone2.docx`
+- `reports/Strategy_Plan--from-repo-Understaing_Data.docx`
+- `reports/Strategy_Plan.docx`
+- `reports/Styleguide.pdf`
+- `reports/Synaptik Sample.docx`
+- `reports/Synaptik.pdf`
+- `reports/SystemFlowV1.pdf`
+- `reports/SystemFlowV2.pdf`
+- `reports/SystemUI--from-LTB_Sales_Project-GUI.pdf`
+- `reports/SystemUI.docx`
+- `reports/SystemUI.pdf`
+- `reports/SystemUML and Flow Diagrams.pdf`
+- `reports/SystemUML.pdf`
+- `reports/SystemUMLnFlow Diagrams.pdf`
+- `reports/TI HISTFCS 201501.TXT`
+- `reports/TI HISTFCS 201502.TXT`
+- `reports/TI HISTFCS 201503.TXT`
+- `reports/TI HISTFCS 201504.TXT`
+- `reports/TI HISTFCS 201505.TXT`
+- `reports/TI HISTFCS 201506.TXT`
+- `reports/TI HISTFCS 201507.TXT`
+- `reports/TI HISTFCS 201508.TXT`
+- `reports/TI HISTFCS 201509.TXT`
+- `reports/TI HISTFCS 201510.TXT`
+- `reports/TI HISTFCS 201511.TXT`
+- `reports/TI HISTFCS 201512.TXT`
+- `reports/TI HISTFCS 201601.TXT`
+- `reports/TI HISTFCS 201602.TXT`
+- `reports/TeamSchema_20151209.pdf`
+- `reports/TeamStories_20151209.pdf`
+- `reports/UnderstandingSystem.docx`
+- `reports/UnderstandingTerms--from-LTB_Sales_Project-Data-Analysis.docx`
+- `reports/UnderstandingTerms--from-Understaing_Data-Analysis.docx`
+- `reports/UnderstandingTerms.docx`
+- `reports/Untitled 2.rtf`
+- `reports/Untitled 3.rtf`
+- `reports/Untitled 4.rtf`
+- `reports/Untitled 5.rtf`
+- `reports/Untitled 6.rtf`
+- `reports/Untitled 7.rtf`
+- `reports/Untitled.rtf`
+- `reports/UpdatedSystemUML.pdf`
+- `reports/WH-Data Analysis.pdf`
+- `reports/Warehouse--from-TI_DropBox_Bkup-LTB-Warehouse.docx`
+- `reports/Warehouse-Delivery.docx`
+- `reports/Warehouse-MachineLearning.docx`
+- `reports/Warehouse-MachineLearning.pdf`
+- `reports/Warehouse-PicKnPacK.docx`
+- `reports/Warehouse.docx`
+- `reports/WireFrames-Demo1_Notes.rtf`
+- `reports/YCMR7_Extract.txt`
+- `reports/YCMS7.txt`
+- `reports/course02.docx`
+- `reports/data_dictionary.txt`
+- `reports/datagathering.xlsx`
+- `reports/ds_extract.csv`
+- `reports/edges.csv`
+- `reports/edges1.csv`
+- `reports/edges2.csv`
+- `reports/edges3.csv`
+- `reports/hungarian.data.processed.csv`
+- `reports/insticator sample.odt`
+- `reports/knop.csv`
+- `reports/kote504.txt`
+- `reports/kote545.txt`
+- `reports/kote546.txt`
+- `reports/kote548.txt`
+- `reports/nodes.csv`
+- `reports/nodes1.csv`
+- `reports/nodes2.csv`
+- `reports/notes (Anthony Castiglia's conflicted copy 2014-04-03).txt`
+- `reports/notes.txt`
+- `reports/picknpack.csv`
+- `reports/retailers--from-LTB---Sales-Portal-data.txt`
+- `reports/retailers.txt`
+- `reports/temp.txt`
+- `reports/test.pdf`
+- `reports/~$0_46465_EY325_2012_1_2_1_1_Budgeting II.docx`
+- `reports/~$40037031_209383.doc`
+- `reports/~$BSales_Report.docx`
+- `reports/~$Sell.docx`
+- `reports/~$derstandingTerms.docx`
+
+### Presentations
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-01.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-02.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-03.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-04.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-05.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-06.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-07.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-08.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-09.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-10.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-11.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-12.jpg`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-13.jpg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s1.a.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s1.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s10.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s11.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s12.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s13.b.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s2.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s3.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s4.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s5.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s6.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s7.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s8.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s9.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/thumbnail.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-l.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-m.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-r.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_d.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_n.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_p.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-cap-left.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-cap-right.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-fill.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_iwork_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_iwork_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_link_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_link_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_D.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_play-72_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_play-72_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_D.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_D.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-off_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-off_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-on_N.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-on_P.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/doc_info_mobile_cut.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/index.css`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/index.html`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_d.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_n.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_p.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/player.js`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_d.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_n.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_p.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/spinner_dkgrey.gif`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/string.js`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/waiting_bezel.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s1.a.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s1.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s10.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s11.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s12.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s13.b.png`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s2.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s3.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s4.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s5.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s6.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s7.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s8.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s9.b.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/thumbnail.jpeg`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/kpf.json`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/index.html`
+- `presentations/Basic Presentation V1.key`
+- `presentations/Basic Presentation V1.ppt`
+- `presentations/Basic Presentation V3.ppt`
+- `presentations/Basic Presentation V5.pdf`
+- `presentations/Basic Presentation V6.pdf`
+- `presentations/Basic Presentation V6.ppt`
+- `presentations/Basic Presentation V7.pdf`
+- `presentations/Basic Presentation V7.ppt`
+- `presentations/Basic Presentation V8.pdf`
+- `presentations/Basic Presentation V8.ppt`
+- `presentations/Design Example.key`
+- `presentations/DesignSketchV1.key`
+- `presentations/Finance-Wires.key`
+- `presentations/LTB Proforma FINAL Cliff.key`
+- `presentations/LTB Proforma FINAL.key`
+- `presentations/LTB-SALES-WiresV2 copy.key`
+- `presentations/LTB-SALES-WiresV2.key`
+- `presentations/LTB-SALES-WiresV3.key`
+- `presentations/LTB-SALES-WiresV4 - piter copy.key`
+- `presentations/LTB-SALES-WiresV4 - piter.key`
+- `presentations/LTB-SALES-WiresV5 copy.key`
+- `presentations/LTB-SALES-WiresV5.key`
+- `presentations/LTB-SALES-WiresV6 copy.key`
+- `presentations/LTB-SALES-WiresV6--from-GUI-stuff.key`
+- `presentations/LTB-SALES-WiresV6.key`
+- `presentations/LTB-SALES-WiresV7--from-GUI-stuff.key`
+- `presentations/LTB-SALES-WiresV7--from-LTB_Sales_Project-GUI.key`
+- `presentations/LTB-SALES-WiresV7.key`
+- `presentations/LTB-SALES-WiresV7.pptx`
+- `presentations/Management-Wires.key`
+- `presentations/NoFraudNewLogos.key`
+- `presentations/Reseller Intro.pptx`
+- `presentations/Sales-Wires.key`
+- `presentations/Untitled 5.key`
+- `presentations/Visual picking potential views.pptx`
+- `presentations/chap10_slides.pdf`
+- `presentations/intro-dw3.ppt`
+
+### Repo Documentation / Local Indexes
+- `-Inventory.md`
+- `DRIVE_ONLY.md`
+- `DRIVE_OVERVIEW.md`
+- `IMPORT_NOTES.md`
+- `LTB_Sales_Project/-Inventory.md`
+- `LTB_Sales_Project/README.md`
+- `OVERLEAF_PREP.md`
+- `README.md`
+- `Stuff/-Inventory.md`
+- `Stuff/Old_Stuff/-Inventory.md`
+- `Stuff/Old_Stuff/README.md`
+- `Stuff/README.md`
+- `TI Formal Reports/-Inventory.md`
+- `TI Formal Reports/Marketing Insights-Architecture Reference/-Inventory.md`
+- `TI Formal Reports/Marketing Insights-Architecture Reference/README.md`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/-Inventory.md`
+- `TI Formal Reports/NoFrad-Basic Presentation V8/README.md`
+- `TI Formal Reports/README.md`
+- `TI Formal Reports/TeamSchema_20151209-LearnerNation/-Inventory.md`
+- `TI Formal Reports/TeamSchema_20151209-LearnerNation/README.md`
+- `TI_DropBox_Bkup/-Inventory.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/-Inventory.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Client Artifacts/ITEM/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Client Artifacts/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/DB Schema/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/DB Schema/System Diagrams/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/DB Schema/System Diagrams/old/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/DB Schema/System UML Images/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Design(WIP)/0.Login/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Design(WIP)/1.Morning Start/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Design(WIP)/10a.TeamManagement/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Design(WIP)/2.Items/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Design(WIP)/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Logo/PNG/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Logo/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/Logo/SVG/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Assets/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Styleguide/PNG/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/LTB_ASSETS/Styleguide/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Maze's File/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/Data Analysis/Documentation/Provided/ITEM/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/Data Analysis/Documentation/Provided/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/Data Analysis/Documentation/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/Data Analysis/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/LTB-SALES-WiresV7-JPG/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/LTB-SALES-WiresV7/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/LTB-SALES-WiresV7/assets/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/stuff/LTB-SALES-WiresV7/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/GUI/stuff/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/LTB_Sales_Project/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/Notes/Photos/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/Notes/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/Notes/System UML & Diagrams/PARADIGM/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/Notes/System UML & Diagrams/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Piters Temp Files/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Whiteboard/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/Wires/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/data/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/data/old_product_images/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/data/old_product_images/creativetops/README.md`
+- `TI_DropBox_Bkup/LTB - Sales Portal/data/product_images/README.md`
+- `TI_DropBox_Bkup/LTB-Warehouse-APP/-Inventory.md`
+- `TI_DropBox_Bkup/LTB-Warehouse-APP/README.md`
+- `TI_DropBox_Bkup/LTB-Warehouse/-Inventory.md`
+- `TI_DropBox_Bkup/LTB-Warehouse/Data Analysis/README.md`
+- `TI_DropBox_Bkup/LTB-Warehouse/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Client Artifacts/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/ActiveDir/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/ActiveDir/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup1/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup1/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup2/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup2/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup3/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup3/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup4/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/Backup4/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/CleanRepo/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/CleanRepo/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/FinalRepo/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/FinalRepo/stylesheets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/CurrentRepo/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Liam's Files/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/Favicon/Jpeg/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/Favicon/PNG/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/Favicon/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/PNG/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/2.Logo/SVG/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/3.Assets/About Us/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/3.Assets/Banner_Images/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/3.Assets/Contact Us/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/3.Assets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/NoFraud_Phase1_Assets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/ForDev/Responsive Design/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/Wires/PNG/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/Maze's Files/Wires/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PHOTOS/FINAL PHOTOS/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PHOTOS/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/README.md`
+- `TI_DropBox_Bkup/NoFraud - Marketing Site/README.md`
+- `TI_DropBox_Bkup/NoFraud/-Inventory.md`
+- `TI_DropBox_Bkup/NoFraud/README.md`
+- `TI_DropBox_Bkup/README.md`
+- `Understaing_Data/-Inventory.md`
+- `Understaing_Data/Analysis/-Inventory.md`
+- `Understaing_Data/Analysis/README.md`
+- `Understaing_Data/README.md`
+- `papers/README.md`
+- `presentations/README.md`
+- `reports/README.md`
+
+</details>

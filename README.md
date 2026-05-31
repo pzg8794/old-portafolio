@@ -21,3 +21,10 @@ This is the lightweight GitHub hub for the old pre-2024 Portafolio cleanup. The 
 - Use individual repo links for real project contents and README documentation.
 - Keep private work/client and personal repos private unless reviewed.
 - Large binaries, videos, installers, and archives remain in Google Drive and are referenced from each repo README/import notes.
+
+<!-- MASTER_INDEX_LINK -->
+
+## Master Index
+
+Use [PORTFOLIO_MASTER_INDEX.md](PORTFOLIO_MASTER_INDEX.md) as the source of truth for project code repos, papers, reports, presentations, documentation indexes, and Drive-only heavy-file references.
+
