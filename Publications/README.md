@@ -1,17 +1,9 @@
 # Publications
 
-Drive source: https://drive.google.com/drive/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ
-
-Purpose: Old reports, papers, and publication-style portfolio outputs.
-
-## Items To Index
-
-- `CVPROJECT-1`
-- `ColorHistogramPart3`
-- `Final Project Report`
-- `Independent Study Report`
-- `Report PDFs`
-
 ## GitHub Repositories
 
-Project repositories/submodules created from this area should be listed here with their Drive source and privacy status.
+- [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications)
+
+## Notes
+
+These entries are tracked as git submodules in the old Portafolio hub. Clone with `git clone --recurse-submodules` only if you need local copies; otherwise use the GitHub links.

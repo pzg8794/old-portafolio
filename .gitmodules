@@ -1,0 +1,163 @@
+[submodule "Projects-Code/old-portafolio-code-3dpong"]
+	path = Projects-Code/old-portafolio-code-3dpong
+	url = https://github.com/pzg8794/old-portafolio-code-3dpong.git
+
+[submodule "Projects-Code/old-portafolio-code-apgv"]
+	path = Projects-Code/old-portafolio-code-apgv
+	url = https://github.com/pzg8794/old-portafolio-code-apgv.git
+
+[submodule "Projects-Code/old-portafolio-code-algo"]
+	path = Projects-Code/old-portafolio-code-algo
+	url = https://github.com/pzg8794/old-portafolio-code-algo.git
+
+[submodule "Projects-Code/old-portafolio-code-cpp"]
+	path = Projects-Code/old-portafolio-code-cpp
+	url = https://github.com/pzg8794/old-portafolio-code-cpp.git
+
+[submodule "Projects-Code/old-portafolio-code-cpp-oop"]
+	path = Projects-Code/old-portafolio-code-cpp-oop
+	url = https://github.com/pzg8794/old-portafolio-code-cpp-oop.git
+
+[submodule "Projects-Code/old-portafolio-code-csharp"]
+	path = Projects-Code/old-portafolio-code-csharp
+	url = https://github.com/pzg8794/old-portafolio-code-csharp.git
+
+[submodule "Projects-Code/old-portafolio-code-computer-graphics"]
+	path = Projects-Code/old-portafolio-code-computer-graphics
+	url = https://github.com/pzg8794/old-portafolio-code-computer-graphics.git
+
+[submodule "Projects-Code/old-portafolio-code-cryptography"]
+	path = Projects-Code/old-portafolio-code-cryptography
+	url = https://github.com/pzg8794/old-portafolio-code-cryptography.git
+
+[submodule "Projects-Code/old-portafolio-code-data-mining"]
+	path = Projects-Code/old-portafolio-code-data-mining
+	url = https://github.com/pzg8794/old-portafolio-code-data-mining.git
+
+[submodule "Projects-Code/old-portafolio-code-eets"]
+	path = Projects-Code/old-portafolio-code-eets
+	url = https://github.com/pzg8794/old-portafolio-code-eets.git
+
+[submodule "Projects-Code/old-portafolio-code-eets-2"]
+	path = Projects-Code/old-portafolio-code-eets-2
+	url = https://github.com/pzg8794/old-portafolio-code-eets-2.git
+
+[submodule "Projects-Code/old-portafolio-code-fct"]
+	path = Projects-Code/old-portafolio-code-fct
+	url = https://github.com/pzg8794/old-portafolio-code-fct.git
+
+[submodule "Projects-Code/old-portafolio-code-final-bs-project"]
+	path = Projects-Code/old-portafolio-code-final-bs-project
+	url = https://github.com/pzg8794/old-portafolio-code-final-bs-project.git
+
+[submodule "Projects-Code/old-portafolio-code-java-oop"]
+	path = Projects-Code/old-portafolio-code-java-oop
+	url = https://github.com/pzg8794/old-portafolio-code-java-oop.git
+
+[submodule "Projects-Code/old-portafolio-code-klm"]
+	path = Projects-Code/old-portafolio-code-klm
+	url = https://github.com/pzg8794/old-portafolio-code-klm.git
+
+[submodule "Projects-Code/old-portafolio-code-labs-undergrad"]
+	path = Projects-Code/old-portafolio-code-labs-undergrad
+	url = https://github.com/pzg8794/old-portafolio-code-labs-undergrad.git
+
+[submodule "Projects-Code/old-portafolio-code-matlab"]
+	path = Projects-Code/old-portafolio-code-matlab
+	url = https://github.com/pzg8794/old-portafolio-code-matlab.git
+
+[submodule "Projects-Code/old-portafolio-code-projects-workspace"]
+	path = Projects-Code/old-portafolio-code-projects-workspace
+	url = https://github.com/pzg8794/old-portafolio-code-projects-workspace.git
+
+[submodule "Projects-Code/old-portafolio-code-python"]
+	path = Projects-Code/old-portafolio-code-python
+	url = https://github.com/pzg8794/old-portafolio-code-python.git
+
+[submodule "Projects-Code/old-portafolio-code-senior-project"]
+	path = Projects-Code/old-portafolio-code-senior-project
+	url = https://github.com/pzg8794/old-portafolio-code-senior-project.git
+
+[submodule "Projects-Code/old-portafolio-code-stuff"]
+	path = Projects-Code/old-portafolio-code-stuff
+	url = https://github.com/pzg8794/old-portafolio-code-stuff.git
+
+[submodule "Projects-Code/old-portafolio-code-unix-programming"]
+	path = Projects-Code/old-portafolio-code-unix-programming
+	url = https://github.com/pzg8794/old-portafolio-code-unix-programming.git
+
+[submodule "Projects-Code/old-portafolio-code-work-project"]
+	path = Projects-Code/old-portafolio-code-work-project
+	url = https://github.com/pzg8794/old-portafolio-code-work-project.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-egl-310"]
+	path = Projects-No-Code/old-portafolio-nocode-egl-310
+	url = https://github.com/pzg8794/old-portafolio-nocode-egl-310.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-egl"]
+	path = Projects-No-Code/old-portafolio-nocode-egl
+	url = https://github.com/pzg8794/old-portafolio-nocode-egl.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-egl-310-1"]
+	path = Projects-No-Code/old-portafolio-nocode-egl-310-1
+	url = https://github.com/pzg8794/old-portafolio-nocode-egl-310-1.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-home-automation-power-control"]
+	path = Projects-No-Code/old-portafolio-nocode-home-automation-power-control
+	url = https://github.com/pzg8794/old-portafolio-nocode-home-automation-power-control.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-history-west-world"]
+	path = Projects-No-Code/old-portafolio-nocode-history-west-world
+	url = https://github.com/pzg8794/old-portafolio-nocode-history-west-world.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-math"]
+	path = Projects-No-Code/old-portafolio-nocode-math
+	url = https://github.com/pzg8794/old-portafolio-nocode-math.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-calculus-i"]
+	path = Projects-No-Code/old-portafolio-nocode-calculus-i
+	url = https://github.com/pzg8794/old-portafolio-nocode-calculus-i.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-calculus-ii"]
+	path = Projects-No-Code/old-portafolio-nocode-calculus-ii
+	url = https://github.com/pzg8794/old-portafolio-nocode-calculus-ii.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-differential-equations"]
+	path = Projects-No-Code/old-portafolio-nocode-differential-equations
+	url = https://github.com/pzg8794/old-portafolio-nocode-differential-equations.git
+
+[submodule "Projects-No-Code/old-portafolio-nocode-physics"]
+	path = Projects-No-Code/old-portafolio-nocode-physics
+	url = https://github.com/pzg8794/old-portafolio-nocode-physics.git
+
+[submodule "Publications/old-portafolio-publications"]
+	path = Publications/old-portafolio-publications
+	url = https://github.com/pzg8794/old-portafolio-publications.git
+
+[submodule "Resume-CV/CV_Piter-Garcia"]
+	path = Resume-CV/CV_Piter-Garcia
+	url = https://github.com/pzg8794/CV_Piter-Garcia.git
+
+[submodule "Persona/old-portafolio-persona"]
+	path = Persona/old-portafolio-persona
+	url = https://github.com/pzg8794/old-portafolio-persona.git
+
+[submodule "Persona/old-portafolio-bcs230-math3"]
+	path = Persona/old-portafolio-bcs230-math3
+	url = https://github.com/pzg8794/old-portafolio-bcs230-math3.git
+
+[submodule "Work-Projects/old-portafolio-work-madchefkitchen"]
+	path = Work-Projects/old-portafolio-work-madchefkitchen
+	url = https://github.com/pzg8794/old-portafolio-work-madchefkitchen.git
+
+[submodule "Work-Projects/old-portafolio-work-qualitrol-projects"]
+	path = Work-Projects/old-portafolio-work-qualitrol-projects
+	url = https://github.com/pzg8794/old-portafolio-work-qualitrol-projects.git
+
+[submodule "Work-Projects/old-portafolio-work-tiburonlockers"]
+	path = Work-Projects/old-portafolio-work-tiburonlockers
+	url = https://github.com/pzg8794/old-portafolio-work-tiburonlockers.git
+
+[submodule "Work-Projects/old-portafolio-work-trueinteraction"]
+	path = Work-Projects/old-portafolio-work-trueinteraction
+	url = https://github.com/pzg8794/old-portafolio-work-trueinteraction.git

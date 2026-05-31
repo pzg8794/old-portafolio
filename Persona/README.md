@@ -1,16 +1,10 @@
 # Persona
 
-Drive source: https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J
-
-Purpose: Personal or identity-adjacent legacy material. This area must stay private and should be reviewed carefully before sharing.
-
-## Items To Index
-
-- `Personal presentations/audio`
-- `English/TOEFL/SAT study material`
-- `BCS230 math/code material`
-- `Older class writing`
-
 ## GitHub Repositories
 
-Project repositories/submodules created from this area should be listed here with their Drive source and privacy status.
+- [old-portafolio-persona](https://github.com/pzg8794/old-portafolio-persona)
+- [old-portafolio-bcs230-math3](https://github.com/pzg8794/old-portafolio-bcs230-math3)
+
+## Notes
+
+These entries are tracked as git submodules in the old Portafolio hub. Clone with `git clone --recurse-submodules` only if you need local copies; otherwise use the GitHub links.
