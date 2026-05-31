@@ -66,6 +66,12 @@ These repos imported many GitHub-appropriate files, but the full Drive copy hit 
 | Work-Projects | [opw-tiburonlockers](https://github.com/pzg8794/opw-tiburonlockers) | PUBLIC | 1 | 0 | 11 | 0 | 11 | completed |
 | Work-Projects | [opw-trueinteraction](https://github.com/pzg8794/opw-trueinteraction) | PUBLIC | 18 | 13 | 250 | 123 | 122 | needs Drive review |
 
+<!-- OVERLEAF_TODO_REFERENCE -->
+
+## Overleaf Conversion Plan
+
+The next application-prep phase is tracked in [OVERLEAF_PROJECT_TODO.md](OVERLEAF_PROJECT_TODO.md). It lists every portfolio item and every paper, report, or presentation that should be converted into an Overleaf project for reusable writing samples, work samples, and proof-of-experience packets.
+
 ## Detailed Index
 
 <details>

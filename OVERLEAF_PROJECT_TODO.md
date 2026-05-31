@@ -1,0 +1,9859 @@
+# Overleaf Project TODO
+
+This checklist tracks the next cleanup phase: create one Overleaf project per old-portfolio item and convert every imported paper, report, and presentation into an application-ready writing/work-sample source.
+
+- Generated from GitHub repository trees on 2026-05-31 17:49 EDT.
+- Hub repo: https://github.com/pzg8794/old-portafolio
+- Master index: [PORTFOLIO_MASTER_INDEX.md](PORTFOLIO_MASTER_INDEX.md)
+- Portfolio items indexed: 42
+- Files to convert: 162 papers, 8065 reports, 359 presentations
+
+## Conversion Standard
+
+For each item below:
+
+- [ ] Create one Overleaf project named `old-portfolio/<repo-name>`.
+- [ ] Add a front-door `README.md` or `main.tex` explaining what the project proves and how it can support applications.
+- [ ] Create folders inside Overleaf: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, and `source-originals/`.
+- [ ] Convert `.tex` sources directly; convert `.doc`, `.docx`, `.odt`, `.rtf`, `.wps`, `.md`, and `.txt` into clean LaTeX sections or standalone documents.
+- [ ] For PDFs without editable source, preserve the original under `source-originals/` and create a LaTeX wrapper/summary with citation notes, screenshots/figures if useful, and application-facing framing.
+- [ ] For presentations, preserve the original deck and create an Overleaf-friendly writeup or slide notes document that explains the project, role, methods, evidence, and outcomes.
+- [ ] Export compiled PDFs back to GitHub or Drive and record the output location in the item README.
+- [ ] Keep heavy files, videos, raw data, and archives in Drive; link them from the Overleaf project rather than importing them.
+
+## Drive Review Needed Before Final Overleaf Packaging
+
+These repos have imported GitHub files, but their full Drive copy previously timed out. Before declaring their Overleaf projects complete, re-check Drive for any missing lightweight papers/reports/presentations.
+
+- [ ] `opc-cpp-oop`
+- [ ] `opc-java-oop`
+- [ ] `opc-klm`
+- [ ] `opc-matlab`
+- [ ] `opc-projects-workspace`
+- [ ] `opc-python`
+- [ ] `opc-work-project`
+- [ ] `opw-madchefkitchen`
+- [ ] `opw-trueinteraction`
+
+## Quick Checklist
+
+| Area | Item | Overleaf project | Papers | Reports | Presentations | Drive status |
+|---|---|---:|---:|---:|---:|---|
+| PHD | [old-portafolio-phd](https://github.com/pzg8794/old-portafolio-phd) | [ ] | 0 | 23 | 0 | completed |
+| Persona | [old-portafolio-bcs230-math3](https://github.com/pzg8794/old-portafolio-bcs230-math3) | [ ] | 0 | 4 | 0 | completed |
+| Persona | [old-portafolio-persona](https://github.com/pzg8794/old-portafolio-persona) | [ ] | 0 | 1 | 15 | completed |
+| Projects-Code | [opc-3dpong](https://github.com/pzg8794/opc-3dpong) | [ ] | 0 | 4 | 3 | completed |
+| Projects-Code | [opc-algo](https://github.com/pzg8794/opc-algo) | [ ] | 0 | 92 | 3 | completed |
+| Projects-Code | [opc-apgv](https://github.com/pzg8794/opc-apgv) | [ ] | 15 | 117 | 4 | completed |
+| Projects-Code | [opc-computer-graphics](https://github.com/pzg8794/opc-computer-graphics) | [ ] | 0 | 0 | 0 | completed |
+| Projects-Code | [opc-cpp](https://github.com/pzg8794/opc-cpp) | [ ] | 0 | 57 | 0 | completed |
+| Projects-Code | [opc-cpp-oop](https://github.com/pzg8794/opc-cpp-oop) | [ ] | 0 | 1341 | 46 | needs Drive review |
+| Projects-Code | [opc-cryptography](https://github.com/pzg8794/opc-cryptography) | [ ] | 0 | 47 | 0 | completed |
+| Projects-Code | [opc-csharp](https://github.com/pzg8794/opc-csharp) | [ ] | 0 | 0 | 0 | completed |
+| Projects-Code | [opc-data-mining](https://github.com/pzg8794/opc-data-mining) | [ ] | 86 | 538 | 24 | completed |
+| Projects-Code | [opc-eets](https://github.com/pzg8794/opc-eets) | [ ] | 0 | 302 | 0 | completed |
+| Projects-Code | [opc-eets-2](https://github.com/pzg8794/opc-eets-2) | [ ] | 0 | 99 | 0 | completed |
+| Projects-Code | [opc-fct](https://github.com/pzg8794/opc-fct) | [ ] | 1 | 224 | 4 | completed |
+| Projects-Code | [opc-final-bs-project](https://github.com/pzg8794/opc-final-bs-project) | [ ] | 2 | 8 | 0 | completed |
+| Projects-Code | [opc-java-oop](https://github.com/pzg8794/opc-java-oop) | [ ] | 0 | 756 | 31 | needs Drive review |
+| Projects-Code | [opc-klm](https://github.com/pzg8794/opc-klm) | [ ] | 2 | 2505 | 6 | needs Drive review |
+| Projects-Code | [opc-labs-undergrad](https://github.com/pzg8794/opc-labs-undergrad) | [ ] | 0 | 49 | 0 | completed |
+| Projects-Code | [opc-matlab](https://github.com/pzg8794/opc-matlab) | [ ] | 14 | 270 | 55 | needs Drive review |
+| Projects-Code | [opc-projects-workspace](https://github.com/pzg8794/opc-projects-workspace) | [ ] | 0 | 165 | 7 | needs Drive review |
+| Projects-Code | [opc-python](https://github.com/pzg8794/opc-python) | [ ] | 0 | 443 | 0 | needs Drive review |
+| Projects-Code | [opc-senior-project](https://github.com/pzg8794/opc-senior-project) | [ ] | 0 | 50 | 2 | completed |
+| Projects-Code | [opc-stuff](https://github.com/pzg8794/opc-stuff) | [ ] | 6 | 33 | 2 | completed |
+| Projects-Code | [opc-unix-programming](https://github.com/pzg8794/opc-unix-programming) | [ ] | 0 | 36 | 5 | completed |
+| Projects-Code | [opc-work-project](https://github.com/pzg8794/opc-work-project) | [ ] | 5 | 190 | 10 | needs Drive review |
+| Projects-No-Code | [opn-calculus-i](https://github.com/pzg8794/opn-calculus-i) | [ ] | 0 | 12 | 0 | completed |
+| Projects-No-Code | [opn-calculus-ii](https://github.com/pzg8794/opn-calculus-ii) | [ ] | 0 | 2 | 0 | completed |
+| Projects-No-Code | [opn-differential-equations](https://github.com/pzg8794/opn-differential-equations) | [ ] | 0 | 12 | 0 | completed |
+| Projects-No-Code | [opn-egl](https://github.com/pzg8794/opn-egl) | [ ] | 1 | 33 | 0 | completed |
+| Projects-No-Code | [opn-egl-310](https://github.com/pzg8794/opn-egl-310) | [ ] | 8 | 74 | 0 | completed |
+| Projects-No-Code | [opn-egl-310-1](https://github.com/pzg8794/opn-egl-310-1) | [ ] | 3 | 31 | 0 | completed |
+| Projects-No-Code | [opn-history-west-world](https://github.com/pzg8794/opn-history-west-world) | [ ] | 0 | 8 | 0 | completed |
+| Projects-No-Code | [opn-home-automation-power-control](https://github.com/pzg8794/opn-home-automation-power-control) | [ ] | 0 | 0 | 0 | completed |
+| Projects-No-Code | [opn-math](https://github.com/pzg8794/opn-math) | [ ] | 0 | 36 | 0 | completed |
+| Projects-No-Code | [opn-physics](https://github.com/pzg8794/opn-physics) | [ ] | 3 | 13 | 0 | completed |
+| Publications | [old-portafolio-publications](https://github.com/pzg8794/old-portafolio-publications) | [ ] | 1 | 8 | 0 | completed |
+| Resume-CV | [CV_Piter-Garcia](https://github.com/pzg8794/CV_Piter-Garcia) | [ ] | 1 | 34 | 0 | completed |
+| Work-Projects | [opw-madchefkitchen](https://github.com/pzg8794/opw-madchefkitchen) | [ ] | 0 | 85 | 19 | needs Drive review |
+| Work-Projects | [opw-qualitrol-projects](https://github.com/pzg8794/opw-qualitrol-projects) | [ ] | 1 | 102 | 0 | completed |
+| Work-Projects | [opw-tiburonlockers](https://github.com/pzg8794/opw-tiburonlockers) | [ ] | 0 | 11 | 0 | completed |
+| Work-Projects | [opw-trueinteraction](https://github.com/pzg8794/opw-trueinteraction) | [ ] | 13 | 250 | 123 | needs Drive review |
+
+## Item TODOs
+
+### PHD / old-portafolio-phd
+
+- GitHub: https://github.com/pzg8794/old-portafolio-phd
+- Hub path: `PHD/old-portafolio-phd`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1shw5hnPOAkPFol_AgYCvsl06vaGB_1iq
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/old-portafolio-phd`.
+- [ ] Link the Overleaf project from `old-portafolio-phd/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (23):
+- [ ] `reports/Academic Transcipt.pdf`
+- [ ] `reports/CUNNY-MS-Application.pdf`
+- [ ] `reports/Cunny Offices and Reference.txt`
+- [ ] `reports/Farmingdale State College Webmail - NYU.pdf`
+- [ ] `reports/FinalForm - RIT.pdf`
+- [ ] `reports/Fordham University _ Piter Garcia.pdf`
+- [ ] `reports/Formulario de Beca.docx`
+- [ ] `reports/Master Essay.docx`
+- [ ] `reports/NYU-Acceptance Letter.pdf`
+- [ ] `reports/NYU-MS Application.pdf`
+- [ ] `reports/Personal Statement.docx`
+- [ ] `reports/Personal Statement.pdf`
+- [ ] `reports/Personal_Statement.docx`
+- [ ] `reports/Polytechnic Institute of New York University- Graduate Admissions _ Piter Garcia.pdf`
+- [ ] `reports/PrintApplication_Action - Fordham.pdf`
+- [ ] `reports/SquirrelMail.pdf`
+- [ ] `reports/Statement - RIT.docx`
+- [ ] `reports/Statement - RIT.pdf`
+- [ ] `reports/Statement of Intent to Fordham University.docx`
+- [ ] `reports/The City College of New York City _ Piter Garcia- Payment.pdf`
+- [ ] `reports/Traanscripts.docx`
+- [ ] `reports/https___mail-attachment.googleusercontent.com_attachment_u_0__ui=2&ik=5f670ee901&view=att&th=137cd62a0a8a0be2&attid=0.pdf`
+- [ ] `reports/~$ster Essay.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Persona / old-portafolio-bcs230-math3
+
+- GitHub: https://github.com/pzg8794/old-portafolio-bcs230-math3
+- Hub path: `Persona/old-portafolio-bcs230-math3`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1aqy1jOg0loT_olRjQJ8X1u09aJQ8SfoC, https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/old-portafolio-bcs230-math3`.
+- [ ] Link the Overleaf project from `old-portafolio-bcs230-math3/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (4):
+- [ ] `reports/LabNo11 (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/LabNo11_output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/Math-Project-hw3-2 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Networked Businesses (2013_03_30 07_27_35 UTC).docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Persona / old-portafolio-persona
+
+- GitHub: https://github.com/pzg8794/old-portafolio-persona
+- Hub path: `Persona/old-portafolio-persona`
+- Visibility: `PRIVATE`
+- Drive source(s): https://drive.google.com/drive/folders/1gLGzwnuCDIylvnOXgkQLBmrSEFtl3fl1, https://drive.google.com/drive/folders/16CtgKRqq2DEXO48kcqUgBeCppQFxXQ3J
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/old-portafolio-persona`.
+- [ ] Link the Overleaf project from `old-portafolio-persona/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (1):
+- [ ] `reports/AMARCORD (2013_03_30 07_27_35 UTC).wps`
+
+Presentations (15):
+- [ ] `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHAS (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/AMIGO DEL ALMA, TU HAS ESCRITO MUCHASMUSICA (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/Cuando el camino me cansa y la sed (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/DIA TRAS DIA SIN SONIDO, (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/DIA TRAS DIA, (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/Esta mañan (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/Esta mañan (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/NO QUIERO AMOR QUE NO SABE DOMINARSE (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/NuevoPresentacióndeMicrosoftPowerPoint[1][1]. (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/TU CARTA1 (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/TU HAS ROTO MIS ATADURAS (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/la lagrima (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/la lagrima (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/mirame (2013_03_30 07_27_35 UTC).pps`
+- [ ] `presentations/tu libro (2013_03_30 07_27_35 UTC).pps`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-3dpong
+
+- GitHub: https://github.com/pzg8794/opc-3dpong
+- Hub path: `Projects-Code/opc-3dpong`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1JvyKbHAvCLe9qUlOYU6JtJjYB39yW7Y8
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-3dpong`.
+- [ ] Link the Overleaf project from `opc-3dpong/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (4):
+- [ ] `reports/3DPONG.xcodeproj/project.pbxproj`
+- [ ] `reports/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/websites I closed.txt`
+
+Presentations (3):
+- [ ] `presentations/APCG-Presentation1--from-portfolio-safe-opc-3dpong-0mil6c4k-repo.pptx`
+- [ ] `presentations/APCG-Presentation1.pptx`
+- [ ] `presentations/APCG-Presentation1__dup2.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-algo
+
+- GitHub: https://github.com/pzg8794/opc-algo
+- Hub path: `Projects-Code/opc-algo`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1L8x2JD_giGQFSC9uKYVKHaZBhvhuYToW
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-algo`.
+- [ ] Link the Overleaf project from `opc-algo/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (92):
+- [ ] `reports/10.1.1.32.2831.pdf`
+- [ ] `reports/131g.pdf`
+- [ ] `reports/2008_spring_hw6_solution.pdf`
+- [ ] `reports/2008_spring_hw7_solution (1).pdf`
+- [ ] `reports/2008_spring_hw7_solution.pdf`
+- [ ] `reports/66542060.pdf`
+- [ ] `reports/Advanced Algorithms Analysis and Design  - CS702 Fall 2008 Assignment 04.pdf`
+- [ ] `reports/AlgoFinal.docx`
+- [ ] `reports/AlgoHw5/Algorithms-Solutions-CH-25-Oct2010.doc`
+- [ ] `reports/AlgoHw5/BolandDumitrescuSolutions1.pdf`
+- [ ] `reports/AlgoHw5/Homework5Algo.pdf`
+- [ ] `reports/AlgoHw5/cs521_fall_2011_sol4.pdf`
+- [ ] `reports/AlgoHw5/hw3ans.doc`
+- [ ] `reports/AlgoHw6.pdf`
+- [ ] `reports/AlgoNotes.rtf`
+- [ ] `reports/Algorithm.Design..pdf`
+- [ ] `reports/Algorithms-Solutions-CH-25-Oct2010.doc`
+- [ ] `reports/AlgosFinalExam/AlgoFinal.docx`
+- [ ] `reports/AlgosFinalExam/First/lec1.pdf`
+- [ ] `reports/AlgosFinalExam/First/lec2.pdf`
+- [ ] `reports/AlgosFinalExam/First/lec3.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/hw5.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/hw6.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/hw7.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/lec17.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/lec18.pdf`
+- [ ] `reports/AlgosFinalExam/Fourth/lec19.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/131g.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution (1).pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/2008_spring_hw7_solution.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/HW4_Sol.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/New Microsoft Word Document.docx`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/No Title.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/No Title1.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/final-sol.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/hw7Algo.docx`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/kevin.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/ovn5.pdf`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q11.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q12.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q21.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q22.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q31.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q32.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/q33.jpg`
+- [ ] `reports/AlgosFinalExam/HW7-ALGOs/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
+- [ ] `reports/AlgosFinalExam/Second/hw3.pdf`
+- [ ] `reports/AlgosFinalExam/Second/lec15.pdf`
+- [ ] `reports/AlgosFinalExam/Third/hw4.pdf`
+- [ ] `reports/AlgosFinalExam/Third/lec16.pdf`
+- [ ] `reports/AlgosFinalExam/hw1.pdf`
+- [ ] `reports/AlgosFinalExam/hw2.pdf`
+- [ ] `reports/BolandDumitrescuSolutions1.pdf`
+- [ ] `reports/FourthAssignmentAlgo.pdf`
+- [ ] `reports/HW4_Sol.pdf`
+- [ ] `reports/Homework5Algo.pdf`
+- [ ] `reports/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf`
+- [ ] `reports/MST.pdf`
+- [ ] `reports/New Microsoft Word Document.docx`
+- [ ] `reports/No Title.pdf`
+- [ ] `reports/No Title1.pdf`
+- [ ] `reports/alg07spr_hw3sol.pdf`
+- [ ] `reports/assignment4-solutions.pdf`
+- [ ] `reports/courses.csail.mit.edu_6.046_spring04_lectures_lecture20-21.pdf`
+- [ ] `reports/cs521_fall_2011_sol4.pdf`
+- [ ] `reports/final-sol.pdf`
+- [ ] `reports/hw1.pdf`
+- [ ] `reports/hw2.pdf`
+- [ ] `reports/hw3.pdf`
+- [ ] `reports/hw3ans.doc`
+- [ ] `reports/hw4.pdf`
+- [ ] `reports/hw5-solutions.pdf`
+- [ ] `reports/hw5.pdf`
+- [ ] `reports/hw6.doc`
+- [ ] `reports/hw6.pdf`
+- [ ] `reports/hw6sol.pdf`
+- [ ] `reports/hw7.pdf`
+- [ ] `reports/hw7Algo.docx`
+- [ ] `reports/kevin.pdf`
+- [ ] `reports/lec1.pdf`
+- [ ] `reports/lec15.pdf`
+- [ ] `reports/lec16.pdf`
+- [ ] `reports/lec17.pdf`
+- [ ] `reports/lec18.pdf`
+- [ ] `reports/lec19.pdf`
+- [ ] `reports/lec2.pdf`
+- [ ] `reports/lec3.pdf`
+- [ ] `reports/ovn5.pdf`
+- [ ] `reports/ps6Sol.pdf`
+- [ ] `reports/report.pdf`
+- [ ] `reports/www.cs.vassar.edu_~walter_cs241index_lectures_PDF_NPC3.pdf`
+
+Presentations (3):
+- [ ] `presentations/8-Graph.pptx`
+- [ ] `presentations/AlgosFinalExam/HW7-ALGOs/HPtoHC.ppt`
+- [ ] `presentations/HPtoHC.ppt`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-apgv
+
+- GitHub: https://github.com/pzg8794/opc-apgv
+- Hub path: `Projects-Code/opc-apgv`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1TdzxYzLPdiqPiJTvpU6JX6acbTH6bt-l
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-apgv`.
+- [ ] Link the Overleaf project from `opc-apgv/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (15):
+- [ ] `papers/131-421-1-PB.pdf`
+- [ ] `papers/APGV-ProjectAbstract.docx`
+- [ ] `papers/Applied Perception/APGV-ProjectAbstract.docx`
+- [ ] `papers/Applied Perception/Papers/131-421-1-PB.pdf`
+- [ ] `papers/Applied Perception/Papers/HearThereICAD.pdf`
+- [ ] `papers/Applied Perception/Papers/UBICC_ER_IN_AS_DF_626.pdf`
+- [ ] `papers/Applied Perception/Papers/download.pdf`
+- [ ] `papers/Applied Perception/~$GV-ProjectAbstract.docx`
+- [ ] `papers/HearThereICAD.pdf`
+- [ ] `papers/IEEE_Conference_Paper_Template.doc`
+- [ ] `papers/Other/APGV-Holographic Pong Report/IEEE_Conference_Paper_Template.doc`
+- [ ] `papers/Other/APGV-Holographic Pong Report/thesis.tex`
+- [ ] `papers/UBICC_ER_IN_AS_DF_626.pdf`
+- [ ] `papers/download.pdf`
+- [ ] `papers/thesis.tex`
+
+Reports and written documentation (117):
+- [ ] `reports/APGV Topics List.pdf`
+- [ ] `reports/APGVCourseInfo.pdf`
+- [ ] `reports/APGVHistory.pdf`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/GUIDE.PDF`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/README.TXT`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/REPORT_INITIAL.PDF`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/report.pdf`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/report.tex`
+- [ ] `reports/Applied Perception/APGV-Holographic Pong/sig-alternate.tex`
+- [ ] `reports/Applied Perception/New Microsoft Word Document (1).docx`
+- [ ] `reports/Applied Perception/Part 1.docx`
+- [ ] `reports/Applied Perception/apcg-vudeos.docx`
+- [ ] `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGV Topics List.pdf`
+- [ ] `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVCourseInfo.pdf`
+- [ ] `reports/CSCI.713.01 - Applied Perception in Graphics - 9-2-2013 - 11-14 PM/content/enforced/469146-CSCI71301.2131/APGVHistory.pdf`
+- [ ] `reports/Final.docx`
+- [ ] `reports/FinalReport.pdf`
+- [ ] `reports/GUIDE.PDF`
+- [ ] `reports/Hardware Instructions APGV Project.docx`
+- [ ] `reports/IEEEtran.cls`
+- [ ] `reports/IEEEtran_HOWTO.pdf`
+- [ ] `reports/New Microsoft Word Document (1).docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/Capture.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/Final.docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/FinalReport.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/GUIDE.PDF`
+- [ ] `reports/Other/APGV-Holographic Pong Report/Hardware Instructions APGV Project.docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/README.TXT`
+- [ ] `reports/Other/APGV-Holographic Pong Report/REPORT_INITIAL.PDF`
+- [ ] `reports/Other/APGV-Holographic Pong Report/f.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/ff.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/fh.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/fly.jpg`
+- [ ] `reports/Other/APGV-Holographic Pong Report/imp.jpg`
+- [ ] `reports/Other/APGV-Holographic Pong Report/leapm.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/nh.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p1.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p10.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p11.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p12.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p13.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p14.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p2.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p3.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p4.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p5.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p6.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p7.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p8.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/p9.png`
+- [ ] `reports/Other/APGV-Holographic Pong Report/photo 1.JPG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/photo 2 (1).JPG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/photo 2.JPG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/photo 3.JPG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/reflection.jpg`
+- [ ] `reports/Other/APGV-Holographic Pong Report/report - Copy.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/report - Copy.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/report.docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/report.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/report.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/reportFW.docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/resume.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/resume1.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/resume2.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/resume2.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/s.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sig-alternate.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sig-alternate.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sv.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sw1.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sw2.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sw3.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/sx.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/t.PNG`
+- [ ] `reports/Other/APGV-Holographic Pong Report/trans_jour.docx`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/IEEEtran_HOWTO.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/README.txt`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_adv.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_conf.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.pdf`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/bare_jrnl_compsoc.tex`
+- [ ] `reports/Other/APGV-Holographic Pong Report/windows_latex_template/IEEEtran5/changelog.txt`
+- [ ] `reports/Other/APGV-Holographic Pong Report/~$rdware Instructions APGV Project.docx`
+- [ ] `reports/Part 1.docx`
+- [ ] `reports/README--from-windows_latex_template-IEEEtran5.txt`
+- [ ] `reports/README.TXT`
+- [ ] `reports/REPORT_INITIAL.PDF`
+- [ ] `reports/apcg-vudeos.docx`
+- [ ] `reports/bare_adv.tex`
+- [ ] `reports/bare_conf.pdf`
+- [ ] `reports/bare_conf.tex`
+- [ ] `reports/bare_jrnl.pdf`
+- [ ] `reports/bare_jrnl.tex`
+- [ ] `reports/bare_jrnl_compsoc.pdf`
+- [ ] `reports/bare_jrnl_compsoc.tex`
+- [ ] `reports/changelog.txt`
+- [ ] `reports/report - Copy.pdf`
+- [ ] `reports/report - Copy.tex`
+- [ ] `reports/report--from-Other-APGV-Holographic-Pong-Report.bib`
+- [ ] `reports/report--from-Other-APGV-Holographic-Pong-Report.pdf`
+- [ ] `reports/report--from-Other-APGV-Holographic-Pong-Report.tex`
+- [ ] `reports/report.bib`
+- [ ] `reports/report.docx`
+- [ ] `reports/report.pdf`
+- [ ] `reports/report.tex`
+- [ ] `reports/reportFW.docx`
+- [ ] `reports/resume.tex`
+- [ ] `reports/resume1.tex`
+- [ ] `reports/resume2.pdf`
+- [ ] `reports/resume2.tex`
+- [ ] `reports/sig-alternate.cls`
+- [ ] `reports/sig-alternate.pdf`
+- [ ] `reports/sig-alternate.tex`
+- [ ] `reports/trans_jour.docx`
+
+Presentations (4):
+- [ ] `presentations/APCG-Presentation1.pptx`
+- [ ] `presentations/Applied Perception/APCG-Presentation1.pptx`
+- [ ] `presentations/Other/APGV-Holographic Pong Report/presentation.tex`
+- [ ] `presentations/presentation.tex`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-computer-graphics
+
+- GitHub: https://github.com/pzg8794/opc-computer-graphics
+- Hub path: `Projects-Code/opc-computer-graphics`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Ow6uJMA49sK22tUCXm5DXNnIK4VBPNXX
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-computer-graphics`.
+- [ ] Link the Overleaf project from `opc-computer-graphics/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (0):
+- [ ] Confirm no report/written-documentation files are needed for this item.
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-cpp
+
+- GitHub: https://github.com/pzg8794/opc-cpp
+- Hub path: `Projects-Code/opc-cpp`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1kX4JD7PwXMhekrVy51BYv3gS9DOP7apr
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-cpp`.
+- [ ] Link the Overleaf project from `opc-cpp/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (57):
+- [ ] `reports/Assignment2--from-hw2-hw2.txt`
+- [ ] `reports/Assignment2.txt`
+- [ ] `reports/Assignment3.txt`
+- [ ] `reports/Assignment3/Assignment3.sln`
+- [ ] `reports/Assignment3/Assignment3/Assignment3.txt`
+- [ ] `reports/Assignment3/Assignment3/Assignment3.vcxproj`
+- [ ] `reports/Assignment3/Assignment3/AuthorSignature.cpp`
+- [ ] `reports/Assignment3/Assignment3/BaseballPlayer.cpp`
+- [ ] `reports/Assignment3/Assignment3/BaseballPlayer.h`
+- [ ] `reports/Assignment3/Assignment3/MyList.cpp`
+- [ ] `reports/Assignment3/Assignment3/MyList.h`
+- [ ] `reports/Assignment3/Assignment3/TeamData.cpp`
+- [ ] `reports/Assignment3/Output-Build.txt`
+- [ ] `reports/Assignment4.txt`
+- [ ] `reports/Assignment4/Assignment4.sln`
+- [ ] `reports/Assignment4/Assignment4/Assignment4.txt`
+- [ ] `reports/Assignment4/Assignment4/Assignment4.vcxproj`
+- [ ] `reports/Assignment4/Assignment4/AuthorSignature.cpp`
+- [ ] `reports/Assignment4/Assignment4/BaseballPlayers.cpp`
+- [ ] `reports/Assignment4/Assignment4/BaseballPlayers.h`
+- [ ] `reports/Assignment4/Assignment4/BaseballPlayers4.txt`
+- [ ] `reports/Assignment4/Assignment4/MainFile.cpp`
+- [ ] `reports/Assignment4/Assignment4/MyQueue.cpp`
+- [ ] `reports/Assignment4/Assignment4/MyQueue.h`
+- [ ] `reports/Assignment4/Assignment4/MyQueue4.txt`
+- [ ] `reports/Assignment4/Assignment4/MyStack.cpp`
+- [ ] `reports/Assignment4/Assignment4/MyStack.h`
+- [ ] `reports/Assignment4/Assignment4/MyStack4.txt`
+- [ ] `reports/Assignment4/Assignment4/header4.h`
+- [ ] `reports/Assignment4/Output-Build.txt`
+- [ ] `reports/BaseballPlayers4.txt`
+- [ ] `reports/Clonefile.txt`
+- [ ] `reports/Lab11/Lab11.sln`
+- [ ] `reports/Lab11/Lab11/Lab11.cpp`
+- [ ] `reports/Lab11/Lab11/Lab11.h`
+- [ ] `reports/Lab11/Lab11/Lab11.vcxproj`
+- [ ] `reports/Lab11/Lab11/Lab11IMP.cpp`
+- [ ] `reports/Lab11/Output-Build.txt`
+- [ ] `reports/Lab22/Lab22.sln`
+- [ ] `reports/Lab22/Lab22/BinarySearch.h`
+- [ ] `reports/Lab22/Lab22/BinarySearchInside.cpp`
+- [ ] `reports/Lab22/Lab22/BinaryTreeIMP.cpp`
+- [ ] `reports/Lab22/Lab22/Lab22.vcxproj`
+- [ ] `reports/Lab22/Lab22/MyMain.cpp`
+- [ ] `reports/Lab7/Lab7.sln`
+- [ ] `reports/Lab7/Lab7/Lab7.vcxproj`
+- [ ] `reports/Lab7/Lab7/Recursion.cpp`
+- [ ] `reports/Lab7/Lab7/Recursion.h`
+- [ ] `reports/Lab7/Lab7/Recursion1.cpp`
+- [ ] `reports/MyQueue4.txt`
+- [ ] `reports/MyStack4.txt`
+- [ ] `reports/Output-Build--from-repo-Assignment3.txt`
+- [ ] `reports/Output-Build--from-repo-Assignment4.txt`
+- [ ] `reports/Output-Build.txt`
+- [ ] `reports/hw2/hw2/Assignment2.txt`
+- [ ] `reports/hw2/hw2/Clonefile.txt`
+- [ ] `reports/test/test/Assignment2.txt`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-cpp-oop
+
+- GitHub: https://github.com/pzg8794/opc-cpp-oop
+- Hub path: `Projects-Code/opc-cpp-oop`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/13xdwMiaOA7TGKIJqCEROqGLJz2dsjAmN
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-cpp-oop`.
+- [ ] Link the Overleaf project from `opc-cpp-oop/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (1341):
+- [ ] `reports/1rst.txt`
+- [ ] `reports/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- [ ] `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- [ ] `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/3DPONG/3DPONG/lesson30/Lesson30/NeHe's Readme.txt`
+- [ ] `reports/3DPONG/3DPONG/lesson30/Lesson30/Readme.txt`
+- [ ] `reports/3DPONG/3DPONG/websites I closed.txt`
+- [ ] `reports/3DPONG/HapticsGame/HapticsGame/Results.txt`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/Project.sln`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/License.txt`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.sln`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcproj`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcxproj`
+- [ ] `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Readme.txt`
+- [ ] `reports/3DPONG/websites I closed.txt`
+- [ ] `reports/9783540430728-c1.pdf`
+- [ ] `reports/AES CIPHER.Part2.doc`
+- [ ] `reports/AdvSec05_quiz1.pdf`
+- [ ] `reports/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- [ ] `reports/Assigment#5_1.txt`
+- [ ] `reports/Assigment#5_2correction.txt`
+- [ ] `reports/Assigment#5_2pgRight..txt`
+- [ ] `reports/Assigment#5_3pgRight.txt`
+- [ ] `reports/Assigment5_input.txt`
+- [ ] `reports/Assignment Lab No.10.docx`
+- [ ] `reports/Assignment2--from-AssignmentNo1-AssignmentNo1.txt`
+- [ ] `reports/Assignment2--from-AssignmentNo2-AssignmentNo2.txt`
+- [ ] `reports/Assignment2--from-hw2-hw2.txt`
+- [ ] `reports/Assignment2--from-test-test.txt`
+- [ ] `reports/Assignment2.txt`
+- [ ] `reports/Assignment3.txt`
+- [ ] `reports/Assignment4.txt`
+- [ ] `reports/Assignment5.txt`
+- [ ] `reports/AssignmentNo.7A.docx`
+- [ ] `reports/AssignmentNo2_Output.txt`
+- [ ] `reports/AssignmentNo3Output.txt`
+- [ ] `reports/AssignmentNo4.1_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- [ ] `reports/AssignmentNo4.1_output.txt`
+- [ ] `reports/AssignmentNo4_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- [ ] `reports/AssignmentNo4_output.txt`
+- [ ] `reports/AssignmentNo5_output--from-AssigntmentNo.5-AssigntmentNo.5.txt`
+- [ ] `reports/AssignmentNo5_output.txt`
+- [ ] `reports/AssignmentNo6_input.txt`
+- [ ] `reports/AssignmentNo6_output--from-AssignmentNo6-AssignmentNo6.txt`
+- [ ] `reports/AssignmentNo6_output--from-Lab_AssigntmentNo.6-Lab_AssigntmentNo.6.txt`
+- [ ] `reports/AssignmentNo6_output--from-lab5-lab5.txt`
+- [ ] `reports/AssignmentNo6_output.txt`
+- [ ] `reports/AssignmentNo8_Low_inputfile.txt`
+- [ ] `reports/AssignmentNo8_Month_inputfile.txt`
+- [ ] `reports/AssignmentNo8_input.txt`
+- [ ] `reports/AssignmentNo8_inputfile.txt`
+- [ ] `reports/AssignmentNo8_output--from-LabAssigmentNo8-LabAssigmentNo8.txt`
+- [ ] `reports/AssignmentNo8_output--from-LabAssignmentNo9-LabAssignmentNo9.txt`
+- [ ] `reports/AssignmentNo8_output.txt`
+- [ ] `reports/AssignmentNo9_output.txt`
+- [ ] `reports/Assignment_1_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Assignment_2_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Assignment_3_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Assignment_4_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Assignment_5_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/BCS-230 LabNo8.docx`
+- [ ] `reports/BCS230 - Imput files.docx`
+- [ ] `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- [ ] `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- [ ] `reports/BaseballPlayers4.txt`
+- [ ] `reports/BaseballPlayers5.txt`
+- [ ] `reports/BinarySearchTree.txt`
+- [ ] `reports/Block_cipher_method.pdf`
+- [ ] `reports/C++ Program_Output.txt`
+- [ ] `reports/Ch3_Ex6input.txt`
+- [ ] `reports/Ch3_Ex6output.txt`
+- [ ] `reports/Clonefile.txt`
+- [ ] `reports/Code.docx`
+- [ ] `reports/Commenting_Guidlines.doc`
+- [ ] `reports/CppProjects/AssignmentNo3/AssignmentNo3.sln`
+- [ ] `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- [ ] `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- [ ] `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- [ ] `reports/CppProjects/AssignmentNo4/AssignmentNo4.sln`
+- [ ] `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- [ ] `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- [ ] `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- [ ] `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5.sln`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- [ ] `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- [ ] `reports/CppProjects/AssignmentNo6/AssignmentNo6.sln`
+- [ ] `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- [ ] `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- [ ] `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- [ ] `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- [ ] `reports/CppProjects/Assignment_2/Assignment_2.sln`
+- [ ] `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- [ ] `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- [ ] `reports/CppProjects/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- [ ] `reports/CppProjects/C++_Program/C++_Program.sln`
+- [ ] `reports/CppProjects/C++_Program/C++_Program/C++ Program_Output.txt`
+- [ ] `reports/CppProjects/C++_Program/C++_Program/C++_Program.cpp`
+- [ ] `reports/CppProjects/C++_Program/C++_Program/C++_Program.vcproj`
+- [ ] `reports/CppProjects/Celcius_Program/Celcius_Program.sln`
+- [ ] `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.cpp`
+- [ ] `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- [ ] `reports/CppProjects/EET-317L2/EET-317L2.sln`
+- [ ] `reports/CppProjects/EET-317L2/EET-317L2/EET-317L2.vcproj`
+- [ ] `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2.sln`
+- [ ] `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- [ ] `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.cpp`
+- [ ] `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- [ ] `reports/CppProjects/FixingAssignment5/FixingAssignment5.sln`
+- [ ] `reports/CppProjects/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- [ ] `reports/CppProjects/Lab4/Lab4.sln`
+- [ ] `reports/CppProjects/Lab4/Lab4.txt`
+- [ ] `reports/CppProjects/Lab4/Lab4/Lab4.cpp`
+- [ ] `reports/CppProjects/Lab4/Lab4/Lab4.vcproj`
+- [ ] `reports/CppProjects/Lab4/Lab4_Output.txt`
+- [ ] `reports/CppProjects/Lab5/Lab5.sln`
+- [ ] `reports/CppProjects/Lab5/Lab5/Lab4_Input.txt`
+- [ ] `reports/CppProjects/Lab5/Lab5/Lab4_Output.txt`
+- [ ] `reports/CppProjects/Lab5/Lab5/Lab5.cpp`
+- [ ] `reports/CppProjects/Lab5/Lab5/Lab5.vcproj`
+- [ ] `reports/CppProjects/LabNo.4/LabNo.4.sln`
+- [ ] `reports/CppProjects/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- [ ] `reports/CppProjects/LabNo.4/LabNo.4/Practice.cpp`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5.sln`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5/Lab4.cpp`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5/Lab4_Output.txt`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5/LabNo4.cpp`
+- [ ] `reports/CppProjects/LabNo.5/LabNo.5/LabNo5.cpp`
+- [ ] `reports/CppProjects/LabNo.8/LabNo.8.sln`
+- [ ] `reports/CppProjects/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- [ ] `reports/CppProjects/LabNo.8/LabNo.8/LabNo8.cpp`
+- [ ] `reports/CppProjects/LabNo.8/LabNo.8/Output_File.txt`
+- [ ] `reports/CppProjects/LabNo10/LabNo10.sln`
+- [ ] `reports/CppProjects/LabNo10/LabNo10/LabNo10.cpp`
+- [ ] `reports/CppProjects/LabNo10/LabNo10/LabNo10.vcproj`
+- [ ] `reports/CppProjects/LabNo10/LabNo10/LabNo10_Output.txt`
+- [ ] `reports/CppProjects/LabNo10/LabNo10/LabNo10_input.txt`
+- [ ] `reports/CppProjects/LabNo3/LabNo3.sln`
+- [ ] `reports/CppProjects/LabNo3/LabNo3/LabNo3.cpp`
+- [ ] `reports/CppProjects/LabNo3/LabNo3/LabNo3.vcproj`
+- [ ] `reports/CppProjects/LabNo3/LabNo3/LabNo3_Output.txt`
+- [ ] `reports/CppProjects/LabNo6/LabNo6.sln`
+- [ ] `reports/CppProjects/LabNo6/LabNo6/LabNo6.cpp`
+- [ ] `reports/CppProjects/LabNo6/LabNo6/LabNo6.vcproj`
+- [ ] `reports/CppProjects/LabNo6/LabNo6/Output.txt`
+- [ ] `reports/CppProjects/LabNo6/LabNo6/Output2.txt`
+- [ ] `reports/CppProjects/LabNo7/LabNo7.sln`
+- [ ] `reports/CppProjects/LabNo7/LabNo7/LabNo7.cpp`
+- [ ] `reports/CppProjects/LabNo7/LabNo7/LabNo7.vcproj`
+- [ ] `reports/CppProjects/LabNo7/LabNo7/Output.txt`
+- [ ] `reports/CppProjects/LabNo9/LabNo9.sln`
+- [ ] `reports/CppProjects/LabNo9/LabNo9/LabNo9.cpp`
+- [ ] `reports/CppProjects/LabNo9/LabNo9/LabNo9.vcproj`
+- [ ] `reports/CppProjects/LabNo9/LabNo9/LabNo9_Input.txt`
+- [ ] `reports/CppProjects/LabNo9/LabNo9/LabNo9_Output.txt`
+- [ ] `reports/CppProjects/Lab_No2/Lab_No2.sln`
+- [ ] `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.cpp`
+- [ ] `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- [ ] `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/CppProjects/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/CppProjects/PersonalProjects/DataBase/DataBase.sln`
+- [ ] `reports/CppProjects/PersonalProjects/DataBase/DataBase/DataBase.vcproj`
+- [ ] `reports/CppProjects/PersonalProjects/DataBase/DataBase/SMT.h`
+- [ ] `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program.sln`
+- [ ] `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours-Program.vcproj`
+- [ ] `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours_Program.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/MIke/MIke.sln`
+- [ ] `reports/CppProjects/PersonalProjects/MIke/MIke/MIke.vcproj`
+- [ ] `reports/CppProjects/PersonalProjects/MIke/MIke/Mike7.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management.sln`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/Mark's Bill Management.vcproj`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBill.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBillIMP.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksClass.h`
+- [ ] `reports/CppProjects/PersonalProjects/Mark's Bill Management/Output-Build.txt`
+- [ ] `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing.sln`
+- [ ] `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparision.h`
+- [ ] `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparisonIMP.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/ComaparingBills.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/MarksBillComparing.vcproj`
+- [ ] `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program.sln`
+- [ ] `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.cpp`
+- [ ] `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.vcproj`
+- [ ] `reports/CppProjects/PiterG/PiterG.sln`
+- [ ] `reports/CppProjects/PiterG/PiterG/PiterG.vcproj`
+- [ ] `reports/CppProjects/Pogram No. 2/Pogram No. 2.sln`
+- [ ] `reports/CppProjects/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- [ ] `reports/CppProjects/Pogram No. 2/Pogram No. 2/Program2.cpp`
+- [ ] `reports/CppProjects/Programming_Assingment2/Programming_Assingment2.sln`
+- [ ] `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- [ ] `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- [ ] `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- [ ] `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG.sln`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/AssemblyInfo.cpp`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/Form1.h`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ReadMe.txt`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.cpp`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.vcproj`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/resource.h`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.cpp`
+- [ ] `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.h`
+- [ ] `reports/CppProjects/fixing/fixing.sln`
+- [ ] `reports/CppProjects/fixing/fixing/Fixing.cpp`
+- [ ] `reports/CppProjects/fixing/fixing/fixing.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/testing_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output2.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming I/Using_Visual_C___Express.doc`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/Assigment5_input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/AssignmentNo5_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/Assignment Lab No.10.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS-230 LabNo8.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS230 - Imput files.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/Code.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/LABS11-13 Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab11BCS.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab12BCS.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab13BCS.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/LabNo10-BCS230-InputAndOutput.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/bcs-230-labNo9.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/BCS-230/chivo.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab-output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Assignment2.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/FirstLab.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Prog01.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/FirstLab/Output-Build.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/HM1/HM1/output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/HM2/HM2/output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/HM3/HM3/Output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.h`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayTypeIMP.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/Lab14.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo11_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo14_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Low_inputfile.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Month_inputfile.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_inputfile.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/AssignmentNo.7A.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignment7C.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7B.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/LabNo7C.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/New Text Document.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Output7A.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Output7B.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/Labn7.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/labn7.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/labno10.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/outputlab10.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo8_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo9_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab Assignment 6 - Output&Input.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/LabAssignmentNo6-Code.docx`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/AssignmentNo6_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6_Input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo6.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/HomeWorkone.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/homeworkone.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Assigment5_input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/AssignmentNo5_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Output5.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/Lab11c.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/lab11C.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo13_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.h`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentTypeIMP.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/lab13.vcproj`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab5/lab5.sln`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/AssignmentNo6_output.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/Lab_AssigntmentNo.6_Input.txt`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.cpp`
+- [ ] `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.vcproj`
+- [ ] `reports/Credits.rtf`
+- [ ] `reports/Crypto Homework 7.docx`
+- [ ] `reports/Crypto Homework 7.pdf`
+- [ ] `reports/CryptoHw7/9783540430728-c1.pdf`
+- [ ] `reports/CryptoHw7/AES CIPHER.Part2.doc`
+- [ ] `reports/CryptoHw7/AdvSec05_quiz1.pdf`
+- [ ] `reports/CryptoHw7/Block_cipher_method.pdf`
+- [ ] `reports/CryptoHw7/Crypto Homework 7.docx`
+- [ ] `reports/CryptoHw7/Crypto Homework 7.pdf`
+- [ ] `reports/CryptoHw7/Cryptograph_Primitives_and_Protocols.pdf`
+- [ ] `reports/CryptoHw7/Homework7.docx`
+- [ ] `reports/CryptoHw7/Student Center-FallSchedule.pdf`
+- [ ] `reports/CryptoHw7/chpater_4_homework.pdf`
+- [ ] `reports/CryptoHw7/cry/cry.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/CryptoHw7/cry/cry/en.lproj/Credits.rtf`
+- [ ] `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/CryptoHw7/crym/crym.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/CryptoHw7/cryp/cryp.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/CryptoHw7/cryp/cryp/cryp.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/crypto/crypto.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/project.pbxproj`
+- [ ] `reports/CryptoHw7/feistelProof.pdf`
+- [ ] `reports/CryptoHw7/hw3sol.pdf`
+- [ ] `reports/CryptoHw7/introcrypto.pdf`
+- [ ] `reports/CryptoHw7/p_garcia.doc`
+- [ ] `reports/CryptoHw7/p_garcia.pdf`
+- [ ] `reports/CryptoHw7/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- [ ] `reports/Cryptograph_Primitives_and_Protocols.pdf`
+- [ ] `reports/Data Extructure /BCS-317/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- [ ] `reports/Data Extructure /BCS-317/Assignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/Assignment3.sln`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcproj`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/Assignment3/team.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/UpgradeLog.XML`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4.sln`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.txt`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/AuthorSignature.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.h`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers4.txt`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MainFile.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.h`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue4.txt`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.h`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack4.txt`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Assignment4/header4.h`
+- [ ] `reports/Data Extructure /BCS-317/Assignment4/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1.sln`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/Assignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcproj`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.cpp`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.h`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.cpp`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.h`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/UpgradeLog.XML`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2.sln`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Assignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.sln`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcproj`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Clonefile.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.cpp`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.h`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArrayIMP.cpp`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/TestingAssignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/UpgradeLog.XML`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/UpgradeLog.XML`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/Assignment_1_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Data Extructure /BCS-317/Assignment_2_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Data Extructure /BCS-317/Assignment_3_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Data Extructure /BCS-317/Assignment_4_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Data Extructure /BCS-317/Assignment_5_-_BCS_370_Data_Structures.doc`
+- [ ] `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- [ ] `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- [ ] `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/Assignment5.txt`
+- [ ] `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BaseballPlayers5.txt`
+- [ ] `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BinarySearchTree.txt`
+- [ ] `reports/Data Extructure /BCS-317/BinaryTree/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/BinaryTree/Output-Debug.txt`
+- [ ] `reports/Data Extructure /BCS-317/Commenting_Guidlines.doc`
+- [ ] `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/Lab 1.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Lab11.sln`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.h`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11IMP.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab11/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22.sln`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearch.h`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearchInside.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22/BinaryTreeIMP.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22/Lab22.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/Lab22/Lab22/MyMain.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab7/Lab7.sln`
+- [ ] `reports/Data Extructure /BCS-317/Lab7/Lab7/Lab7.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.h`
+- [ ] `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion1.cpp`
+- [ ] `reports/Data Extructure /BCS-317/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/TrueFalse/Output-Build.txt`
+- [ ] `reports/Data Extructure /BCS-317/TrueFalse/TrueFalse/ReadMe.txt`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/hw2/hw2/Assignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/hw2/hw2/Clonefile.txt`
+- [ ] `reports/Data Extructure /BCS-317/lab1/FacebookPost.h`
+- [ ] `reports/Data Extructure /BCS-317/lab1/Lab 1.cpp`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog.XML`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog2.XML`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost.sln`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcproj`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcxproj`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- [ ] `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- [ ] `reports/Data Extructure /BCS-317/lab1/facebook.cpp`
+- [ ] `reports/Data Extructure /BCS-317/lab1/facebookpost.cpp`
+- [ ] `reports/Data Extructure /BCS-317/test/test/Assignment2.txt`
+- [ ] `reports/Data Extructure /BCS-317/testing/testing/ReadMe.txt`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo1/AssignmentNo1.vcproj`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.h`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.h`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/AssignmentNo2.vcproj`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.h`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArrayIMP.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/Assignment2.txt`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/AssignmentNo2.vcproj`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.h`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArrayIMP.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)/Assignment2.txt`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2/AssignmentNo2.vcproj`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.cpp`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.h`
+- [ ] `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArrayIMP.cpp`
+- [ ] `reports/Debugging Problems.docx`
+- [ ] `reports/EET 110#2 (2).docx`
+- [ ] `reports/EET 110#2.docx`
+- [ ] `reports/EET 110.docx`
+- [ ] `reports/EET%20110#2.docx`
+- [ ] `reports/EET-110.docx`
+- [ ] `reports/EET-110/1rst.txt`
+- [ ] `reports/EET-110/Assigment#5/A4 A/ReadMe.txt`
+- [ ] `reports/EET-110/Assigment#5/A4 A/Solution12.sln`
+- [ ] `reports/EET-110/Assigment#5/Assigment#5_1.txt`
+- [ ] `reports/EET-110/Assigment#5/Assigment#5_2correction.txt`
+- [ ] `reports/EET-110/Assigment#5/Assigment#5_2pgRight..txt`
+- [ ] `reports/EET-110/Assigment#5/Assigment#5_3pgRight.txt`
+- [ ] `reports/EET-110/Assigment#5/Assignment5_1.cpp`
+- [ ] `reports/EET-110/Assigment#5/Assignment5_3.cpp`
+- [ ] `reports/EET-110/Assigment#5/Experiment_N5.cpp_code.txt`
+- [ ] `reports/EET-110/Assigment#5/Monthly Payment_4.txt`
+- [ ] `reports/EET-110/Assigment#5/New Text Document.txt`
+- [ ] `reports/EET-110/Assigment#5/Resistors in Parallel.txt`
+- [ ] `reports/EET-110/Assigment#5/To print out/EET-113-No3.docx`
+- [ ] `reports/EET-110/Assigment#5/To print out/EET-177NO.5.docx`
+- [ ] `reports/EET-110/Assigment#5/To print out/MortgageCalculator2..txt`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Piter Garcia.cpp`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#1.txt`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.jpg`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.txt`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2jpg2.jpg`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question.jpg`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Questionjpg2.jpg`
+- [ ] `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing_Question.cpp`
+- [ ] `reports/EET-110/Assigment#5/Writing a Program with Two Functions.txt`
+- [ ] `reports/EET-110/Assignment (a).jpg`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1.sln`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.cpp`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.vcproj`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/ReadMe.txt`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/app.ico`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/resource.h`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.cpp`
+- [ ] `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.h`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2.sln`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.cpp`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.vcproj`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/ReadMe.txt`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/app.ico`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/resource.h`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.cpp`
+- [ ] `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.h`
+- [ ] `reports/EET-110/Assignment2 (3A)2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- [ ] `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- [ ] `reports/EET-110/Assignment2 (3A)2/ReadMe.txt`
+- [ ] `reports/EET-110/Assignment2 (3A)2/app.ico`
+- [ ] `reports/EET-110/Assignment2 (3A)2/resource.h`
+- [ ] `reports/EET-110/Assignment2 (3A)2/stdafx.cpp`
+- [ ] `reports/EET-110/Assignment2 (3A)2/stdafx.h`
+- [ ] `reports/EET-110/Assignment3/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Assignment3/Assignment3.cpp`
+- [ ] `reports/EET-110/Assignment3/Assignment3.vcproj`
+- [ ] `reports/EET-110/Assignment3/ReadMe.txt`
+- [ ] `reports/EET-110/Assignment3/app.ico`
+- [ ] `reports/EET-110/Assignment3/resource.h`
+- [ ] `reports/EET-110/Assignment3/stdafx.cpp`
+- [ ] `reports/EET-110/Assignment3/stdafx.h`
+- [ ] `reports/EET-110/Assignment4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Assignment4/Assignment4.cpp`
+- [ ] `reports/EET-110/Assignment4/Assignment4.vcproj`
+- [ ] `reports/EET-110/Assignment4/ReadMe.txt`
+- [ ] `reports/EET-110/Assignment4/app.ico`
+- [ ] `reports/EET-110/Assignment4/resource.h`
+- [ ] `reports/EET-110/Assignment4/stdafx.cpp`
+- [ ] `reports/EET-110/Assignment4/stdafx.h`
+- [ ] `reports/EET-110/Debugging Problems.docx`
+- [ ] `reports/EET-110/EET 110#2 (2).docx`
+- [ ] `reports/EET-110/EET 110#2.docx`
+- [ ] `reports/EET-110/EET 110.docx`
+- [ ] `reports/EET-110/EET%20110#2.docx`
+- [ ] `reports/EET-110/EET-110.docx`
+- [ ] `reports/EET-110/ExamNo.1.cpp`
+- [ ] `reports/EET-110/ExamNo2.cpp`
+- [ ] `reports/EET-110/ExamNo2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/ExamNo2/ExamNo2.cpp`
+- [ ] `reports/EET-110/ExamNo2/ExamNo2.vcproj`
+- [ ] `reports/EET-110/ExamNo2/ReadMe.txt`
+- [ ] `reports/EET-110/ExamNo2/app.ico`
+- [ ] `reports/EET-110/ExamNo2/resource.h`
+- [ ] `reports/EET-110/ExamNo2/stdafx.cpp`
+- [ ] `reports/EET-110/ExamNo2/stdafx.h`
+- [ ] `reports/EET-110/ExamNo4.cpp`
+- [ ] `reports/EET-110/ExamNo4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/ExamNo4/ExamNo4.cpp`
+- [ ] `reports/EET-110/ExamNo4/ExamNo4.vcproj`
+- [ ] `reports/EET-110/ExamNo4/ReadMe.txt`
+- [ ] `reports/EET-110/ExamNo4/app.ico`
+- [ ] `reports/EET-110/ExamNo4/resource.h`
+- [ ] `reports/EET-110/ExamNo4/stdafx.cpp`
+- [ ] `reports/EET-110/ExamNo4/stdafx.h`
+- [ ] `reports/EET-110/Experiment_No5_3cpp.txt`
+- [ ] `reports/EET-110/Parallel_Circuit.5.txt`
+- [ ] `reports/EET-110/Ray B.docx`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A).sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A).sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3).sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/app.ico`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/stdafx.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-223-LabExp4/EET-223-LabExp4.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-223LabExp/EET-223LabExp.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-LAB/EET-LAB.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/EET-Lab Report/EET-Lab Report.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/correction/correction.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/correction/correction/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/correction/correction/correction.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/correction/correction/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf.sln`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/AssemblyInfo.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/ReadMe.txt`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.vcproj`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/resource.h`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.cpp`
+- [ ] `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.h`
+- [ ] `reports/EET-110/assignment4.jpg`
+- [ ] `reports/EET-110/exam.jpg`
+- [ ] `reports/EET-110/exam1st.cpp`
+- [ ] `reports/EET-110/exam2nd.cpp`
+- [ ] `reports/EET-110/examrd.cpp`
+- [ ] `reports/EET-113-No3.docx`
+- [ ] `reports/EET-177NO.5.docx`
+- [ ] `reports/EET-327LAB13C++CODE/EET-327LAB13.sln`
+- [ ] `reports/EET-327LAB13C++CODE/EET-327LAB13/EET-327LAB13.vcproj`
+- [ ] `reports/EET-327LAB13C++CODE/EET-327LAB13/EET327LabNo13_output.txt`
+- [ ] `reports/EET-327LAB13C++CODE/EET-327LAB13/LAB13.cpp`
+- [ ] `reports/EET327LabNo13_output.txt`
+- [ ] `reports/Experiment_N5.cpp_code.txt`
+- [ ] `reports/Experiment_No5_3cpp.txt`
+- [ ] `reports/ExtraCreditNo.2-Output.txt`
+- [ ] `reports/FCTextC/extracreditFCT.xcodeproj/project.pbxproj`
+- [ ] `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- [ ] `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- [ ] `reports/FirstLab-output.txt`
+- [ ] `reports/Homework7.docx`
+- [ ] `reports/LAB20.txt`
+- [ ] `reports/LABS11-13 Output.txt`
+- [ ] `reports/Lab Assignment 6 - Output&Input.docx`
+- [ ] `reports/Lab11BCS.docx`
+- [ ] `reports/Lab12BCS.docx`
+- [ ] `reports/Lab13BCS.docx`
+- [ ] `reports/Lab4.txt`
+- [ ] `reports/Lab4/Lab4.sln`
+- [ ] `reports/Lab4/Lab4/Lab4.cpp`
+- [ ] `reports/Lab4/Lab4/Lab4.txt`
+- [ ] `reports/Lab4/Lab4/Lab4.vcproj`
+- [ ] `reports/Lab4/Lab4/Lab4_Output.txt`
+- [ ] `reports/Lab4_Input.txt`
+- [ ] `reports/Lab4_Output--from-Lab5-Lab5.txt`
+- [ ] `reports/Lab4_Output--from-LabNo.5-LabNo.5.txt`
+- [ ] `reports/Lab4_Output.txt`
+- [ ] `reports/LabAssignmentNo6-Code.docx`
+- [ ] `reports/LabNo10-BCS230-InputAndOutput.docx`
+- [ ] `reports/LabNo10_Output.txt`
+- [ ] `reports/LabNo10_input.txt`
+- [ ] `reports/LabNo11--from-LabAssignment11-LabAssignment11.txt`
+- [ ] `reports/LabNo11--from-lab11C-lab11C.txt`
+- [ ] `reports/LabNo11--from-lab11b-lab11b.txt`
+- [ ] `reports/LabNo11.txt`
+- [ ] `reports/LabNo11_output--from-LabAssignment11-LabAssignment11.txt`
+- [ ] `reports/LabNo11_output--from-lab11C-lab11C.txt`
+- [ ] `reports/LabNo11_output--from-lab11b-lab11b.txt`
+- [ ] `reports/LabNo11_output.txt`
+- [ ] `reports/LabNo13_output.txt`
+- [ ] `reports/LabNo14_output.txt`
+- [ ] `reports/LabNo3_Output.txt`
+- [ ] `reports/LabNo7B.docx`
+- [ ] `reports/LabNo7C.docx`
+- [ ] `reports/LabNo9_Input.txt`
+- [ ] `reports/LabNo9_Output.txt`
+- [ ] `reports/Lab_AssigntmentNo.6_Input.txt`
+- [ ] `reports/Lab_No2_Output--from-Lab_No2-Lab_No2.txt`
+- [ ] `reports/Lab_No2_Output.txt`
+- [ ] `reports/License.txt`
+- [ ] `reports/Losing Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Losing Example.txt`
+- [ ] `reports/Monthly Payment_4.txt`
+- [ ] `reports/MortgageCalculator2..txt`
+- [ ] `reports/MyQueue4.txt`
+- [ ] `reports/MyStack4.txt`
+- [ ] `reports/NeHe's Readme.txt`
+- [ ] `reports/Neutral Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Neutral Example.txt`
+- [ ] `reports/New Text Document--from-EET-110-Assigment-5.txt`
+- [ ] `reports/New Text Document.txt`
+- [ ] `reports/Output--from-AssignmentNo7-AssignmentNo7.txt`
+- [ ] `reports/Output--from-HM3-HM3.txt`
+- [ ] `reports/Output--from-LabNo12-LabNo12.txt`
+- [ ] `reports/Output--from-LabNo12a-LabNo12a.txt`
+- [ ] `reports/Output--from-LabNo6-LabNo6.txt`
+- [ ] `reports/Output--from-LabNo7-LabNo7.txt`
+- [ ] `reports/Output-Build--from-BCS-317-Assignment4.txt`
+- [ ] `reports/Output-Build--from-BCS-317-AssignmentNo2.txt`
+- [ ] `reports/Output-Build--from-BCS-317-BinaryTree.txt`
+- [ ] `reports/Output-Build--from-BCS-317-Lab11.txt`
+- [ ] `reports/Output-Build--from-BCS-317-TrueFalse.txt`
+- [ ] `reports/Output-Build--from-Data-Extructure--BCS-317.txt`
+- [ ] `reports/Output-Build--from-PersonalProjects-Mark-s-Bill-Management.txt`
+- [ ] `reports/Output-Build--from-Stuff-Assignment3.txt`
+- [ ] `reports/Output-Build--from-Stuff-Assignment4.txt`
+- [ ] `reports/Output-Build--from-Stuff-Lab11.txt`
+- [ ] `reports/Output-Build.txt`
+- [ ] `reports/Output-Debug.txt`
+- [ ] `reports/Output-Premium-NoneExceeded.txt`
+- [ ] `reports/Output-Premium-a&bExceeded.txt`
+- [ ] `reports/Output-Premium-aExceeded.txt`
+- [ ] `reports/Output-Premium-bExceeded.txt`
+- [ ] `reports/Output-Regular1.txt`
+- [ ] `reports/Output-Regular2.txt`
+- [ ] `reports/Output2--from-LabNo6-LabNo6.txt`
+- [ ] `reports/Output2.txt`
+- [ ] `reports/Output5.txt`
+- [ ] `reports/Output7A.txt`
+- [ ] `reports/Output7B.txt`
+- [ ] `reports/Output_File.txt`
+- [ ] `reports/Output_Game--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Output_Game.txt`
+- [ ] `reports/Output_Game2--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Output_Game2.txt`
+- [ ] `reports/PA2_Output.txt`
+- [ ] `reports/Parallel_Circuit.5.txt`
+- [ ] `reports/Programing Question#1.txt`
+- [ ] `reports/Programing Question#2.txt`
+- [ ] `reports/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- [ ] `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- [ ] `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- [ ] `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- [ ] `reports/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- [ ] `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- [ ] `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- [ ] `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- [ ] `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- [ ] `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- [ ] `reports/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- [ ] `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- [ ] `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- [ ] `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- [ ] `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- [ ] `reports/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- [ ] `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- [ ] `reports/Programming I/Assignment_2/Assignment_2.sln`
+- [ ] `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- [ ] `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- [ ] `reports/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- [ ] `reports/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- [ ] `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- [ ] `reports/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- [ ] `reports/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- [ ] `reports/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- [ ] `reports/Programming I/Lab4/Lab4.sln`
+- [ ] `reports/Programming I/Lab4/Lab4.txt`
+- [ ] `reports/Programming I/Lab4/Lab4/Lab4.cpp`
+- [ ] `reports/Programming I/Lab4/Lab4/Lab4.vcproj`
+- [ ] `reports/Programming I/Lab4/Lab4_Output.txt`
+- [ ] `reports/Programming I/Lab5/Lab5.sln`
+- [ ] `reports/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- [ ] `reports/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- [ ] `reports/Programming I/Lab5/Lab5/Lab5.cpp`
+- [ ] `reports/Programming I/Lab5/Lab5/Lab5.vcproj`
+- [ ] `reports/Programming I/LabNo.4/LabNo.4.sln`
+- [ ] `reports/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- [ ] `reports/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5.sln`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- [ ] `reports/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- [ ] `reports/Programming I/LabNo.8/LabNo.8.sln`
+- [ ] `reports/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- [ ] `reports/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- [ ] `reports/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- [ ] `reports/Programming I/LabNo10/LabNo10.sln`
+- [ ] `reports/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- [ ] `reports/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- [ ] `reports/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- [ ] `reports/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- [ ] `reports/Programming I/LabNo12/LabNo12.sln`
+- [ ] `reports/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- [ ] `reports/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- [ ] `reports/Programming I/LabNo12/LabNo12/Output.txt`
+- [ ] `reports/Programming I/LabNo12a/LabNo12a.sln`
+- [ ] `reports/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- [ ] `reports/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- [ ] `reports/Programming I/LabNo12a/LabNo12a/Output.txt`
+- [ ] `reports/Programming I/LabNo13/LabNo13.sln`
+- [ ] `reports/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- [ ] `reports/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- [ ] `reports/Programming I/LabNo13/LabNo13/output.txt`
+- [ ] `reports/Programming I/LabNo14/LabNo14.sln`
+- [ ] `reports/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- [ ] `reports/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- [ ] `reports/Programming I/LabNo14/LabNo14/output.txt`
+- [ ] `reports/Programming I/LabNo14/LabNo14/testing_output.txt`
+- [ ] `reports/Programming I/LabNo15/LabNo15.sln`
+- [ ] `reports/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- [ ] `reports/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- [ ] `reports/Programming I/LabNo15/LabNo15/output.txt`
+- [ ] `reports/Programming I/LabNo15A/LabNo15A.sln`
+- [ ] `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- [ ] `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- [ ] `reports/Programming I/LabNo3/LabNo3.sln`
+- [ ] `reports/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- [ ] `reports/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- [ ] `reports/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- [ ] `reports/Programming I/LabNo6/LabNo6.sln`
+- [ ] `reports/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- [ ] `reports/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- [ ] `reports/Programming I/LabNo6/LabNo6/Output.txt`
+- [ ] `reports/Programming I/LabNo6/LabNo6/Output2.txt`
+- [ ] `reports/Programming I/LabNo7/LabNo7.sln`
+- [ ] `reports/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- [ ] `reports/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- [ ] `reports/Programming I/LabNo7/LabNo7/Output.txt`
+- [ ] `reports/Programming I/LabNo9/LabNo9.sln`
+- [ ] `reports/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- [ ] `reports/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- [ ] `reports/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- [ ] `reports/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- [ ] `reports/Programming I/Lab_No2/Lab_No2.sln`
+- [ ] `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- [ ] `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- [ ] `reports/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/Programming I/Lab_No2/Lab_No2_Output.txt`
+- [ ] `reports/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- [ ] `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- [ ] `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- [ ] `reports/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- [ ] `reports/Programming I/Using_Visual_C___Express.doc`
+- [ ] `reports/Ray B.docx`
+- [ ] `reports/ReadMe--from-4-4.txt`
+- [ ] `reports/ReadMe--from-ASSIGMENT2-3A--ASSIGMENT2-3A.txt`
+- [ ] `reports/ReadMe--from-AnotherCurrection-AnotherCurrection.txt`
+- [ ] `reports/ReadMe--from-AnotherCurrection2-AnotherCurrection2.txt`
+- [ ] `reports/ReadMe--from-Assigment-5-A4-A.txt`
+- [ ] `reports/ReadMe--from-Assigment4-Assigment4.txt`
+- [ ] `reports/ReadMe--from-Assignment-7A1-Assignment-7A1.txt`
+- [ ] `reports/ReadMe--from-Assignment-7A2-Assignment-7A2.txt`
+- [ ] `reports/ReadMe--from-Assignment2-2A--Assignment2-2A.txt`
+- [ ] `reports/ReadMe--from-Assignment2-3A--Assignment2-3A.txt`
+- [ ] `reports/ReadMe--from-Assignment2-3A-2-Assignment2-3A-2.txt`
+- [ ] `reports/ReadMe--from-Assignment3-3--Assignment3-3.txt`
+- [ ] `reports/ReadMe--from-Assignment3-Assignment3.txt`
+- [ ] `reports/ReadMe--from-Assignment4-Assignment4.txt`
+- [ ] `reports/ReadMe--from-Assignment4_1-Assignment4_1.txt`
+- [ ] `reports/ReadMe--from-Assignment4_1_-Assignment4_1_.txt`
+- [ ] `reports/ReadMe--from-Assignment4_2-Assignment4_2.txt`
+- [ ] `reports/ReadMe--from-Assignment4_2_-Assignment4_2_.txt`
+- [ ] `reports/ReadMe--from-EET-110-Assignment2-3A-2.txt`
+- [ ] `reports/ReadMe--from-EET-110-Assignment3.txt`
+- [ ] `reports/ReadMe--from-EET-110-Assignment4.txt`
+- [ ] `reports/ReadMe--from-EET-110-ExamNo2.txt`
+- [ ] `reports/ReadMe--from-EET-110-ExamNo4.txt`
+- [ ] `reports/ReadMe--from-ShirtDiscount_PG-ShirtDiscount_PG.txt`
+- [ ] `reports/ReadMe--from-TrueFalse-TrueFalse.txt`
+- [ ] `reports/ReadMe--from-testing-testing.txt`
+- [ ] `reports/ReadMe.txt`
+- [ ] `reports/Readme--from-lesson30-Lesson30.txt`
+- [ ] `reports/Readme--from-shadowmap-Shadow-Mapping.txt`
+- [ ] `reports/Refilling_funds Output--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Refilling_funds Output.txt`
+- [ ] `reports/Resistors in Parallel.txt`
+- [ ] `reports/Results.txt`
+- [ ] `reports/Student Center-FallSchedule.pdf`
+- [ ] `reports/Stuff/Assignment3/Assignment3.sln`
+- [ ] `reports/Stuff/Assignment3/Assignment3/Assignment3.txt`
+- [ ] `reports/Stuff/Assignment3/Assignment3/Assignment3.vcxproj`
+- [ ] `reports/Stuff/Assignment3/Assignment3/AuthorSignature.cpp`
+- [ ] `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.cpp`
+- [ ] `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.h`
+- [ ] `reports/Stuff/Assignment3/Assignment3/MyList.cpp`
+- [ ] `reports/Stuff/Assignment3/Assignment3/MyList.h`
+- [ ] `reports/Stuff/Assignment3/Assignment3/TeamData.cpp`
+- [ ] `reports/Stuff/Assignment3/Output-Build.txt`
+- [ ] `reports/Stuff/Assignment4/Assignment4.sln`
+- [ ] `reports/Stuff/Assignment4/Assignment4/Assignment4.txt`
+- [ ] `reports/Stuff/Assignment4/Assignment4/Assignment4.vcxproj`
+- [ ] `reports/Stuff/Assignment4/Assignment4/AuthorSignature.cpp`
+- [ ] `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.cpp`
+- [ ] `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.h`
+- [ ] `reports/Stuff/Assignment4/Assignment4/BaseballPlayers4.txt`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MainFile.cpp`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyQueue.cpp`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyQueue.h`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyQueue4.txt`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyStack.cpp`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyStack.h`
+- [ ] `reports/Stuff/Assignment4/Assignment4/MyStack4.txt`
+- [ ] `reports/Stuff/Assignment4/Assignment4/header4.h`
+- [ ] `reports/Stuff/Assignment4/Output-Build.txt`
+- [ ] `reports/Stuff/Lab1/LAB1.asm`
+- [ ] `reports/Stuff/Lab1/lab1.txt`
+- [ ] `reports/Stuff/Lab1/lab1answers.txt`
+- [ ] `reports/Stuff/Lab11/Lab11.sln`
+- [ ] `reports/Stuff/Lab11/Lab11/Lab11.cpp`
+- [ ] `reports/Stuff/Lab11/Lab11/Lab11.h`
+- [ ] `reports/Stuff/Lab11/Lab11/Lab11.vcxproj`
+- [ ] `reports/Stuff/Lab11/Lab11/Lab11IMP.cpp`
+- [ ] `reports/Stuff/Lab11/Output-Build.txt`
+- [ ] `reports/Stuff/Lab17/lab17-answers.txt`
+- [ ] `reports/Stuff/Lab17/lab17.asm`
+- [ ] `reports/Stuff/Lab19/LAB19.asm`
+- [ ] `reports/Stuff/Lab19/LAB19b.asm`
+- [ ] `reports/Stuff/Lab19/lab19- answers.txt`
+- [ ] `reports/Stuff/Lab19/lab19b- answers.txt`
+- [ ] `reports/Stuff/Lab20/LAB20.txt`
+- [ ] `reports/Stuff/Lab20/lab25-answers.txt`
+- [ ] `reports/Stuff/Lab22/Lab22.sln`
+- [ ] `reports/Stuff/Lab22/Lab22/BinarySearch.h`
+- [ ] `reports/Stuff/Lab22/Lab22/BinarySearchInside.cpp`
+- [ ] `reports/Stuff/Lab22/Lab22/BinaryTreeIMP.cpp`
+- [ ] `reports/Stuff/Lab22/Lab22/Lab22.vcxproj`
+- [ ] `reports/Stuff/Lab22/Lab22/MyMain.cpp`
+- [ ] `reports/Stuff/Lab3/Assignment3.h`
+- [ ] `reports/Stuff/Lab3/Assignmentt3.cpp`
+- [ ] `reports/Stuff/Lab3/Assignmentt3.vcxproj`
+- [ ] `reports/Stuff/Lab6/Lab6.vcxproj`
+- [ ] `reports/Stuff/Lab7/Lab7.sln`
+- [ ] `reports/Stuff/Lab7/Lab7/Lab7.vcxproj`
+- [ ] `reports/Stuff/Lab7/Lab7/Recursion.cpp`
+- [ ] `reports/Stuff/Lab7/Lab7/Recursion.h`
+- [ ] `reports/Stuff/Lab7/Lab7/Recursion1.cpp`
+- [ ] `reports/Stuff/Lab7/lab7.asm`
+- [ ] `reports/Stuff/Lab7/lab7.m`
+- [ ] `reports/Stuff/ReadMe.txt`
+- [ ] `reports/Stuff/hw2/hw2/Assignment2.txt`
+- [ ] `reports/Stuff/hw2/hw2/Clonefile.txt`
+- [ ] `reports/Stuff/test/test/Assignment2.txt`
+- [ ] `reports/TestingAssignment2.txt`
+- [ ] `reports/Using_Visual_C___Express.doc`
+- [ ] `reports/Winning Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- [ ] `reports/Winning Example.txt`
+- [ ] `reports/Writing a Program with Two Functions.txt`
+- [ ] `reports/bcs-230-labNo9.docx`
+- [ ] `reports/checking_grades.txt`
+- [ ] `reports/chivo.docx`
+- [ ] `reports/chpater_4_homework.pdf`
+- [ ] `reports/feistelProof.pdf`
+- [ ] `reports/hw3sol.pdf`
+- [ ] `reports/introcrypto.pdf`
+- [ ] `reports/lab1.txt`
+- [ ] `reports/lab17-answers.txt`
+- [ ] `reports/lab19- answers.txt`
+- [ ] `reports/lab19b- answers.txt`
+- [ ] `reports/lab1answers.txt`
+- [ ] `reports/lab25-answers.txt`
+- [ ] `reports/output--from-HM1-HM1.txt`
+- [ ] `reports/output--from-HM2-HM2.txt`
+- [ ] `reports/output--from-LabNo13-LabNo13.txt`
+- [ ] `reports/output--from-LabNo14-LabNo14.txt`
+- [ ] `reports/output.txt`
+- [ ] `reports/outputlab10.txt`
+- [ ] `reports/p_garcia.doc`
+- [ ] `reports/p_garcia.pdf`
+- [ ] `reports/testing_output.txt`
+- [ ] `reports/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- [ ] `reports/websites I closed.txt`
+
+Presentations (46):
+- [ ] `presentations/BCS_370_L10_-_Ch_4.ppt`
+- [ ] `presentations/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- [ ] `presentations/BCS_370_L12_-_Exam_2_Review.ppt`
+- [ ] `presentations/BCS_370_L13_-_Ch_5_p1.ppt`
+- [ ] `presentations/BCS_370_L15_-_Ch_5_p2.ppt`
+- [ ] `presentations/BCS_370_L17_-_Ch_7.ppt`
+- [ ] `presentations/BCS_370_L18_Lab_-_Recursion.ppt`
+- [ ] `presentations/BCS_370_L19_-_Ch_8_p1.ppt`
+- [ ] `presentations/BCS_370_L1_-_C___Review (1).ppt`
+- [ ] `presentations/BCS_370_L1_-_C___Review.ppt`
+- [ ] `presentations/BCS_370_L20_-_Ch_8_p2.ppt`
+- [ ] `presentations/BCS_370_L21_-_Ch_8_p3.ppt`
+- [ ] `presentations/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- [ ] `presentations/BCS_370_L2_-_Classes_p1.ppt`
+- [ ] `presentations/BCS_370_L2_-_Classes_p2.ppt`
+- [ ] `presentations/BCS_370_L3_-_Pointers_p1.ppt`
+- [ ] `presentations/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- [ ] `presentations/BCS_370_L5_-_Pointers_p2.ppt`
+- [ ] `presentations/BCS_370_L7_-_Ch_2.ppt`
+- [ ] `presentations/BCS_370_L8_-_Ch_3.ppt`
+- [ ] `presentations/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- [ ] `presentations/CryptoHw7/S4-AES.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L10_-_Ch_4.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L12_-_Exam_2_Review.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L13_-_Ch_5_p1.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L15_-_Ch_5_p2.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L17_-_Ch_7.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L18_Lab_-_Recursion.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L19_-_Ch_8_p1.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review (1).ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L20_-_Ch_8_p2.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L21_-_Ch_8_p3.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p1.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p2.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L3_-_Pointers_p1.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L5_-_Pointers_p2.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L7_-_Ch_2.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L8_-_Ch_3.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- [ ] `presentations/Data Extructure /BCS-317/LinkedUnsortedLists.ppt`
+- [ ] `presentations/LinkedUnsortedLists.ppt`
+- [ ] `presentations/S4-AES.ppt`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-cryptography
+
+- GitHub: https://github.com/pzg8794/opc-cryptography
+- Hub path: `Projects-Code/opc-cryptography`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1dPgNtC9rmbp9CHKD0utqpEf_mDWuKJ9s
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-cryptography`.
+- [ ] Link the Overleaf project from `opc-cryptography/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (47):
+- [ ] `reports/940115assign5Solutions.pdf`
+- [ ] `reports/940115assign6Solutions.pdf`
+- [ ] `reports/Assignment 4.docx`
+- [ ] `reports/CRYPEXAM&NOTES.txt`
+- [ ] `reports/CRYPT.txt`
+- [ ] `reports/CrypNotes.txt`
+- [ ] `reports/CryptHW2.docx`
+- [ ] `reports/CryptNotes.txt`
+- [ ] `reports/CryptNotes5.txt`
+- [ ] `reports/CryptNotesWeek8.txt`
+- [ ] `reports/Crypto Homework 5.docx`
+- [ ] `reports/Crypto Homework 5.pdf`
+- [ ] `reports/CryptoHw4/940115assign5Solutions.pdf`
+- [ ] `reports/CryptoHw4/Assignment 4.docx`
+- [ ] `reports/CryptoHw4/Cryptohw4.pdf`
+- [ ] `reports/CryptoHw4/assignment3.pdf`
+- [ ] `reports/CryptoHw4/hw5sol.pdf`
+- [ ] `reports/CryptoHw5/Crypto Homework 5.docx`
+- [ ] `reports/CryptoHw5/Crypto Homework 5.pdf`
+- [ ] `reports/CryptoHw5/FRINTNewCh2324.pdf`
+- [ ] `reports/CryptoHw5/Probability.pdf`
+- [ ] `reports/CryptoHw5/chapter_8_homework.pdf`
+- [ ] `reports/CryptoHw5/recitation12-3.pdf`
+- [ ] `reports/CryptoNotes.txt`
+- [ ] `reports/CryptoNotes7.txt`
+- [ ] `reports/Cryptography Theory And Practice - Douglas Stinson.pdf`
+- [ ] `reports/Cryptohw4 copy.docx`
+- [ ] `reports/Cryptohw4--from-repo-CryptoHw4.pdf`
+- [ ] `reports/Cryptohw4.docx`
+- [ ] `reports/Cryptohw4.pdf`
+- [ ] `reports/ExtraCredit - Cryptography.docx`
+- [ ] `reports/FRINTNewCh2324.pdf`
+- [ ] `reports/PS11.pdf`
+- [ ] `reports/Probability.pdf`
+- [ ] `reports/Trappe_W.,_Washington_L.C.-Introduction_to_Cryptography_with_Coding_Theory-Pearson_Education_Int(2006).pdf`
+- [ ] `reports/assignment3.pdf`
+- [ ] `reports/chapter_8_homework.pdf`
+- [ ] `reports/crypto2007tt.pdf`
+- [ ] `reports/cryptoNotes copy.txt`
+- [ ] `reports/crypto_5_29.pdf`
+- [ ] `reports/crypto_6_03.pdf`
+- [ ] `reports/hw5sol.pdf`
+- [ ] `reports/intro.pdf`
+- [ ] `reports/recitation12-3.pdf`
+- [ ] `reports/rsa-example.pdf`
+- [ ] `reports/sebenta_EN.pdf`
+- [ ] `reports/section 20 hill cipher.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-csharp
+
+- GitHub: https://github.com/pzg8794/opc-csharp
+- Hub path: `Projects-Code/opc-csharp`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/15nBPQ4untE57C62hFJeaOCuz5eflQHHY
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-csharp`.
+- [ ] Link the Overleaf project from `opc-csharp/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (0):
+- [ ] Confirm no report/written-documentation files are needed for this item.
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-data-mining
+
+- GitHub: https://github.com/pzg8794/opc-data-mining
+- Hub path: `Projects-Code/opc-data-mining`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1A2zgFRN7sovwpr9JqKaohbfIA7h5UBCI
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-data-mining`.
+- [ ] Link the Overleaf project from `opc-data-mining/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (86):
+- [ ] `papers/AnnotatedBibliographyHowTo.pdf`
+- [ ] `papers/Big Data Medical Diagnosis - Paper2.pdf`
+- [ ] `papers/Big Data Medical Diagnosis - Paper3.pdf`
+- [ ] `papers/Big Data Medical Diagnosis - PaperII.pdf`
+- [ ] `papers/CSCI 721TermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/CSCI 721TermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/SampleTermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/termpaper_template/SampleTermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/GUIDE.PDF`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.TXT`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/sig-alternate.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI 721TermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/SampleTermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/SampleTermPaper.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/GUIDE.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/README.TXT`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/sig-alternate.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper1.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper2.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Paper3.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/TermPaper1.docx`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/PaperReading.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/REPORT_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/report.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/report.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper1/sig-alternate.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/REPORT_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper1.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper2.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/TermPaper3.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/report.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/report.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper2/sig-alternate.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/REPORT_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper1.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper2.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/TermPaper3.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/report.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/report.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - Paper3/sig-alternate.tex`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/Big Data Medical Diagnosis - PaperII.pdf`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/TermPhase2.txt`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/termpaper2.docx`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/Big Data Medical Diagnosis - Papers/termpaper2.odt`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/Data Cleaning & Processing/Paper1.pdf`
+- [ ] `papers/Data Cleaning & Processing/Paper2.pdf`
+- [ ] `papers/Data Cleaning & Processing/Paper3.pdf`
+- [ ] `papers/Data Cleaning & Processing/TermPaper1.docx`
+- [ ] `papers/Data Cleaning & Processing/Weeks/Week1/PaperReading.pdf`
+- [ ] `papers/GUIDE.PDF`
+- [ ] `papers/Paper1.pdf`
+- [ ] `papers/Paper2.pdf`
+- [ ] `papers/Paper3.pdf`
+- [ ] `papers/PaperReading.pdf`
+- [ ] `papers/README.TXT`
+- [ ] `papers/REPORT_INITIAL.PDF`
+- [ ] `papers/SampleTermPaper.pdf`
+- [ ] `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.PDF`
+- [ ] `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.PDF`
+- [ ] `papers/TERMPAPER_INITIAL--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.PDF`
+- [ ] `papers/TERMPAPER_INITIAL.PDF`
+- [ ] `papers/TermPaper1.docx`
+- [ ] `papers/TermPaper1.pdf`
+- [ ] `papers/TermPaper2.pdf`
+- [ ] `papers/TermPaper3.pdf`
+- [ ] `papers/TermPhase2.txt`
+- [ ] `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos-2.pdf`
+- [ ] `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos-2.tex`
+- [ ] `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.pdf`
+- [ ] `papers/report--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.tex`
+- [ ] `papers/report.pdf`
+- [ ] `papers/report.tex`
+- [ ] `papers/sig-alternate--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.cls`
+- [ ] `papers/sig-alternate--from-Big-Data-Medical-Diagnosis---Papers-Big-Data-Medical-Diagnos.tex`
+- [ ] `papers/sig-alternate.cls`
+- [ ] `papers/sig-alternate.tex`
+- [ ] `papers/termpaper.bib`
+- [ ] `papers/termpaper2.docx`
+- [ ] `papers/termpaper2.odt`
+
+Reports and written documentation (538):
+- [ ] `reports/1-s2.0-S0957417408007306-main_2.pdf`
+- [ ] `reports/10Problems-06.pdf`
+- [ ] `reports/1866.full.pdf`
+- [ ] `reports/216.full.pdf`
+- [ ] `reports/304-1434-1-PB.pdf`
+- [ ] `reports/310.full.pdf`
+- [ ] `reports/43.pdf`
+- [ ] `reports/59-70.pdf`
+- [ ] `reports/612259.pdf`
+- [ ] `reports/Analysis--from-Hw3-W_Normalization.odt`
+- [ ] `reports/Analysis.doc`
+- [ ] `reports/Analysis.docx`
+- [ ] `reports/Analysis.odt`
+- [ ] `reports/Bands.csv`
+- [ ] `reports/BigData/BDHW6/HW6.pdf`
+- [ ] `reports/BigData/BDHW6/Homework (1).docx`
+- [ ] `reports/BigData/BDHW6/Homework.docx`
+- [ ] `reports/BigData/BDHW6/Homework6.docx`
+- [ ] `reports/BigData/BDHW6/Homework6.pdf`
+- [ ] `reports/BigData/HW9.pdf`
+- [ ] `reports/BigData/Homework9.doc`
+- [ ] `reports/BigData/Q2Hw8/RQ2Hw8/1st test/Rouput.txt`
+- [ ] `reports/BigData/Q2Hw8/RQ2Hw8/1st test/output.txt`
+- [ ] `reports/BigData/h7bd/HW7.pdf`
+- [ ] `reports/BigData/h7bd/HW7Q3/HW7.pdf`
+- [ ] `reports/BigData/h7bd/HW7Q3/Homework7.doc`
+- [ ] `reports/BigData/h7bd/HW7Q3/Homework7.pdf`
+- [ ] `reports/BigData/h7bd/Homework7.doc`
+- [ ] `reports/BigData/h7bd/Homework7.pdf`
+- [ ] `reports/BigData/h7bd/solution2.pdf`
+- [ ] `reports/BigData/hw5/Homework5.docx`
+- [ ] `reports/BigData/hw8bd/HW8.pdf`
+- [ ] `reports/BigData/hw8bd/Weka_clustering.pdf`
+- [ ] `reports/BigData/hw8bd/homework8 (1).doc`
+- [ ] `reports/BigData/hw8bd/homework8.doc`
+- [ ] `reports/BigData/hw8bd/homework8.docx`
+- [ ] `reports/BigData/hw8bd/homework8.pdf`
+- [ ] `reports/BigData/hw9.doc`
+- [ ] `reports/C25.pdf`
+- [ ] `reports/CRISP-DM.pdf`
+- [ ] `reports/CSCI721GroupProject.pdf`
+- [ ] `reports/CSCI721Syllabus.pdf`
+- [ ] `reports/CSCI721W1_Overview.pdf`
+- [ ] `reports/CSCI721W2_DataTypes.pdf`
+- [ ] `reports/CSCI721W4DataAnalysis.pdf`
+- [ ] `reports/CSCI721W4_Extra_Graphing data.pdf`
+- [ ] `reports/CSCI721W5Non_numerics.pdf`
+- [ ] `reports/CSCI721W5Non_numerics1.pdf`
+- [ ] `reports/CSCI721W9_MissingData.pdf`
+- [ ] `reports/DC&P.docx`
+- [ ] `reports/Data Cleaning & Processing/Class Documents/CSCI721GroupProject.pdf`
+- [ ] `reports/Data Cleaning & Processing/Class Documents/CSCI721Syllabus.pdf`
+- [ ] `reports/Data Cleaning & Processing/Class Documents/DataCleaning&PreparationBook.pdf`
+- [ ] `reports/Data Cleaning & Processing/Class Documents/GroupProjectInst.pdf`
+- [ ] `reports/Data Cleaning & Processing/Class Documents/Syllabus.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI721GroupProject.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/CSCI721Syllabus.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/DataCleaning&PreparationBook.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/GroupProjectInst.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/Syllabus.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/Bands.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/australian-crabs.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/bands_attribute_names.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/flea.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/olive.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Data Files/tips.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/GroupProject/Phases/Phase01.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/CSCI721W1_Overview.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/IntroductionToBigData.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/DC&P.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 Work/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/10Problems-06.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/43.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/59-70.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week1/week1 reading/download.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/CSCI721W2_DataTypes.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/HW1.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/Review.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1Sol.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1Sol.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week2/hw1read1.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/612259.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/dmi5420.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/week3.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/1-s2.0-S0957417408007306-main_2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/1866.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/216.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/304-1434-1-PB.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/310.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/CSCI721W4DataAnalysis.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/CSCI721W4_Extra_Graphing data.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/DataAnalysisExercise.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Diabetes.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/HW9Sol.doc`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Icann-Iconip2003-2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/Project1-13.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/WEEK4 .docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/bayes-example.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/condition.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q5.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv.xlsx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/hw2q91.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week4/level2_rename_mean_5.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics1.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/report (1).pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning & Processing/report.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/DataCleaningPreparationBook.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Analysis.doc`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Analysis.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/Hungarian.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/TreeAS.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZClassifiersErrors.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZScoreNN.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/Zclassification.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/ZscoreHungarian1-22.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/Zscorehungarian1-2[1].png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/classification.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/classifierError.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1ntn.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/hungarian1tree.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/treeNAS.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/wekaTree.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/MATLAB_RulesGeneration & Classification/zscoresH1classifierErrors.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/HungarianDataset.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output1.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output2.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Output3.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/Rplot01.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZNNRplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput1.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput2.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZOutput3.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZRplot02.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZScoreNumRplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1-1.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1-3.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreH1Rplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/ZscoreHungDataSet.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/R_NNS/zscoreH1-2.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/Zclustering.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/Zscorecluster1-2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/cluster.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/WEKA_KNN & Clustering/hungariancluster.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WRM_Z-scores/zscoresMH1.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/Hungarian_normalized_minmax.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/MInMaxRplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/MMNNRplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/ModelNumRplot.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/max_minmodel.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxmin-2.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxmin1-1.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/R_NNS/maxminNN.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_decimal_10.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_decimal_e.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_minmax.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/WR_minmax/WEKA_Classification & Rules Generation/Hungarian_j48_results_unnormalized.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Analysis.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Analysis.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_decimal_10.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_decimal_e.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_minmax.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/Results/Hungarian_j48_results_unnormalized.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/data_dictionary.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/hungarian.data.processed.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_Normalization/notes.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/Hungarian_j48_results_decimal_10.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/W_decimapoint/WEKA - Classification & Rules Generation/Hungarian_j48_results_unnormalized.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/ZAnalysis1.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/data_dictionary.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/matrix2.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw3/notes.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/Diabetes.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/Second.jpg`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/first.jpg`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/hw4-1.m`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/hw4.m`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/Matlab/smothedDataset.jpg`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Diabetes.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/Screenshot from 2014-04-14 21_58_23.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Manipulated Data/Screenshot from 2014-04-14 22_04_50.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_31_00.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_32_58.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_46_53.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/WEKA/Screenshot from 2014-04-14 21_55_38.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/extra work.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/hw4.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Homeworks/Hw4/hw4.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/C25.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/MidtermEssay.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/essay copy.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/essay.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/midterm.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Midterm/quiz.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/MissingData2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/MissingData3.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Outlier.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Phase3.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/WEEK4 .docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Week6nd7 Discussion.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/Week10/WEEK10BLG2.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/CSCI721W9_MissingData.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Missing Values Weka Methods.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Missing Values Weka Methods.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/MissingData.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 1.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 2.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/Untitled 3.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/Weeks/week9/weather.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Phase3.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cities.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityD.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityS.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/cityT.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/data.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/dataT.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/platform3.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/search.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/searchT.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engine nd tables/userP.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/imp1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Engineline Implementation/imp2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/IDEAN.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/JCL1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Java/JCL2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-15-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-15b-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-All-All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCBM-AllB-All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCL1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCL2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-15A-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-15B-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM-AllA-All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCNM_AllB_All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-15A-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-15B-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-AllA-All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/MCZM-AllB-All.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL3.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL4.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-3.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-4.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL5-5.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL6.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL7.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/MZCL8.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/Matlab/Untitled Folder/table.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/RCL1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/RCL15.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1-1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1-12.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot1.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot10.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot11.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot12.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot13.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot14.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot15.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot2.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot3.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot4.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot5.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot6.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot7.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot8.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Project Pictures/R/Rplot9.png`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/ProjectTempStuff.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/Untitled 1.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/GUIDE.PDF`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/New Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/README.TXT`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p365-pinto.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p415-radinsky.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/p435-kokkodis.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/report.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/report.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/sig-alternate.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/sig-alternate.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/~$w Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/GUIDE.PDF`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/New Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/README.TXT`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p365-pinto.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p415-radinsky.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/p435-kokkodis.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/report.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/report.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/sig-alternate.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/sig-alternate.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/~$w Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/GUIDE.PDF`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/New Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/README.TXT`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p365-pinto.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p415-radinsky.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/p435-kokkodis.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/report.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/report.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/sig-alternate.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/sig-alternate.tex`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/~$w Microsoft Word Document.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/phase1.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/report.pdf`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/week12.docx`
+- [ ] `reports/Data Cleaning & Processing/Data Cleaning/week14.odt`
+- [ ] `reports/Data Cleaning & Processing/Data Files/Bands.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Files/australian-crabs.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Files/bands_attribute_names.txt`
+- [ ] `reports/Data Cleaning & Processing/Data Files/flea.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Files/olive.csv`
+- [ ] `reports/Data Cleaning & Processing/Data Files/tips.csv`
+- [ ] `reports/Data Cleaning & Processing/GroupProject/Phases/Phase01.pdf`
+- [ ] `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.TXT`
+- [ ] `reports/Data Cleaning & Processing/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/portmgr/dmg/ReadMe.rtf`
+- [ ] `reports/Data Cleaning & Processing/Phase2/Phase2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/CSCI721W1_Overview.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/IntroductionToBigData.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/DC&P.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 Work/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/10Problems-06.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/43.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/59-70.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week1/week1 reading/download.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/CSCI721W2_DataTypes.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/HW1.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/Review.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/hw1Sol.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/hw1Sol.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week2/hw1read1.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week3/612259.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week3/dmi5420.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week3/week3.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/1-s2.0-S0957417408007306-main_2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/1866.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/216.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/304-1434-1-PB.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/310.full.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/CSCI721W4DataAnalysis.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/CSCI721W4_Extra_Graphing data.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/DataAnalysisExercise.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/Diabetes.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/Diabetes1.xlsx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/HW9Sol.doc`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/Icann-Iconip2003-2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/Project1-13.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/WEEK4 .docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/bayes-example.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/condition.txt`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/hw2.docx`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/hw2.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/hw2q5.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/hw2q9.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/hw2q91.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/Week4/level2_rename_mean_5.csv`
+- [ ] `reports/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics.pdf`
+- [ ] `reports/Data Cleaning & Processing/Weeks/week5/CSCI721W5Non_numerics1.pdf`
+- [ ] `reports/Data Cleaning & Processing/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- [ ] `reports/Data Cleaning & Processing/phase3/phase3/README.txt`
+- [ ] `reports/Data Cleaning & Processing/report (1).pdf`
+- [ ] `reports/Data Cleaning & Processing/report.pdf`
+- [ ] `reports/DataAnalysisExercise.csv`
+- [ ] `reports/DataCleaning&PreparationBook.pdf`
+- [ ] `reports/DataCleaningPreparationBook.pdf`
+- [ ] `reports/DataDataCleaning-20124.pdf`
+- [ ] `reports/DataMining-Intro.pdf`
+- [ ] `reports/DataSets.pdf`
+- [ ] `reports/DecisionTrees-20124.pdf`
+- [ ] `reports/Diabetes--from-Hw4-Matlab.csv`
+- [ ] `reports/Diabetes.csv`
+- [ ] `reports/Diabetes.txt`
+- [ ] `reports/Diabetes1.xlsx`
+- [ ] `reports/DirtyDataAssignment.pdf`
+- [ ] `reports/DonationData.csv`
+- [ ] `reports/First Week/CRISP-DM.pdf`
+- [ ] `reports/First Week/DataDataCleaning-20124.pdf`
+- [ ] `reports/First Week/DataMining-Intro.pdf`
+- [ ] `reports/GUIDE.PDF`
+- [ ] `reports/GroupProjectInst.pdf`
+- [ ] `reports/HW1.csv`
+- [ ] `reports/HW1/DirtyDataAssignment.pdf`
+- [ ] `reports/HW1/DonationData.csv`
+- [ ] `reports/HW1/TermProject.pdf`
+- [ ] `reports/HW2.pdf`
+- [ ] `reports/HW2/HW2.pdf`
+- [ ] `reports/HW2/TeamProjectExample.pdf`
+- [ ] `reports/HW6.pdf`
+- [ ] `reports/HW7.pdf`
+- [ ] `reports/HW8.pdf`
+- [ ] `reports/HW9.pdf`
+- [ ] `reports/HW9Sol.doc`
+- [ ] `reports/Homework (1).docx`
+- [ ] `reports/Homework.docx`
+- [ ] `reports/Homework5.docx`
+- [ ] `reports/Homework6.docx`
+- [ ] `reports/Homework6.pdf`
+- [ ] `reports/Homework7--from-h7bd-HW7Q3.doc`
+- [ ] `reports/Homework7--from-h7bd-HW7Q3.pdf`
+- [ ] `reports/Homework7.doc`
+- [ ] `reports/Homework7.pdf`
+- [ ] `reports/Homework9.doc`
+- [ ] `reports/Hungarian.csv`
+- [ ] `reports/Hungarian_j48_results_decimal_10--from-WR_minmax-WEKA_Classification-Rules-Generation.txt`
+- [ ] `reports/Hungarian_j48_results_decimal_10--from-W_Normalization-Results.txt`
+- [ ] `reports/Hungarian_j48_results_decimal_10.txt`
+- [ ] `reports/Hungarian_j48_results_decimal_e.txt`
+- [ ] `reports/Hungarian_j48_results_minmax.txt`
+- [ ] `reports/Hungarian_j48_results_unnormalized--from-WR_minmax-WEKA_Classification-Rules-Generation.txt`
+- [ ] `reports/Hungarian_j48_results_unnormalized--from-W_Normalization-Results.txt`
+- [ ] `reports/Hungarian_j48_results_unnormalized.txt`
+- [ ] `reports/Hungarian_normalized_minmax.csv`
+- [ ] `reports/Icann-Iconip2003-2.pdf`
+- [ ] `reports/IntroClassification-1R.pdf`
+- [ ] `reports/IntroductionToBigData.pdf`
+- [ ] `reports/MSProjectReport.pdf`
+- [ ] `reports/MidtermEssay.txt`
+- [ ] `reports/Missing Values Weka Methods.docx`
+- [ ] `reports/Missing Values Weka Methods.odt`
+- [ ] `reports/MissingData.pdf`
+- [ ] `reports/MissingData2.pdf`
+- [ ] `reports/MissingData3.pdf`
+- [ ] `reports/NaiveBayes-20124.pdf`
+- [ ] `reports/New Microsoft Word Document.docx`
+- [ ] `reports/Outlier.pdf`
+- [ ] `reports/Output1.txt`
+- [ ] `reports/Output2.txt`
+- [ ] `reports/Output3.txt`
+- [ ] `reports/Phase01.pdf`
+- [ ] `reports/Phase2.pdf`
+- [ ] `reports/Phase3--from-Data-Cleaning-What-Should-I-Wear-Phases.docx`
+- [ ] `reports/Phase3.docx`
+- [ ] `reports/Project1-13.docx`
+- [ ] `reports/ProjectTempStuff.odt`
+- [ ] `reports/README--from-MacPorts-2.1.1-config.TXT`
+- [ ] `reports/README--from-phase3-phase3.txt`
+- [ ] `reports/README.TXT`
+- [ ] `reports/ReadMe.rtf`
+- [ ] `reports/Review.docx`
+- [ ] `reports/Rouput.txt`
+- [ ] `reports/Syllabus.pdf`
+- [ ] `reports/TeamProjectExample.pdf`
+- [ ] `reports/TermProject.pdf`
+- [ ] `reports/Untitled 1--from-Weeks-week9.odt`
+- [ ] `reports/Untitled 1.odt`
+- [ ] `reports/Untitled 2.odt`
+- [ ] `reports/Untitled 3.odt`
+- [ ] `reports/WEEK10BLG2.odt`
+- [ ] `reports/WEEK4 .docx`
+- [ ] `reports/Week6nd7 Discussion.odt`
+- [ ] `reports/Weka_clustering.pdf`
+- [ ] `reports/What Should I Wear.pdf`
+- [ ] `reports/What problems do you think can arise by combining data from distributed and heterogeneous sources.docx`
+- [ ] `reports/ZAnalysis1.odt`
+- [ ] `reports/ZOutput1.txt`
+- [ ] `reports/ZOutput2.txt`
+- [ ] `reports/ZOutput3.txt`
+- [ ] `reports/ZScoreNN.txt`
+- [ ] `reports/ZscoreH1-1.txt`
+- [ ] `reports/ZscoreH1-3.txt`
+- [ ] `reports/australian-crabs.csv`
+- [ ] `reports/bands_attribute_names.txt`
+- [ ] `reports/bayes-example.pdf`
+- [ ] `reports/condition.txt`
+- [ ] `reports/data_dictionary.txt`
+- [ ] `reports/davetang.org-Using_R_to_obtain_basic_statistics_on_your_dataset.pdf`
+- [ ] `reports/dm.pdf.pdf.pdf`
+- [ ] `reports/dmi5420.pdf`
+- [ ] `reports/download.pdf`
+- [ ] `reports/essay copy.odt`
+- [ ] `reports/essay.odt`
+- [ ] `reports/extra work.docx`
+- [ ] `reports/flea.csv`
+- [ ] `reports/homework8 (1).doc`
+- [ ] `reports/homework8.doc`
+- [ ] `reports/homework8.docx`
+- [ ] `reports/homework8.pdf`
+- [ ] `reports/hungarian.data.processed.csv`
+- [ ] `reports/hw1Sol.docx`
+- [ ] `reports/hw1Sol.pdf`
+- [ ] `reports/hw1read1.docx`
+- [ ] `reports/hw2--from-Weeks-Week4.pdf`
+- [ ] `reports/hw2.docx`
+- [ ] `reports/hw2q5.csv`
+- [ ] `reports/hw2q9.csv`
+- [ ] `reports/hw2q9.csv.xlsx`
+- [ ] `reports/hw2q91.csv`
+- [ ] `reports/hw4.docx`
+- [ ] `reports/hw4.pdf`
+- [ ] `reports/hw9.doc`
+- [ ] `reports/level2_rename_mean_5.csv`
+- [ ] `reports/matrix2.txt`
+- [ ] `reports/maxmin-2.txt`
+- [ ] `reports/maxmin1-1.txt`
+- [ ] `reports/maxminNN.txt`
+- [ ] `reports/midterm.odt`
+- [ ] `reports/notes.txt`
+- [ ] `reports/olive.csv`
+- [ ] `reports/output.txt`
+- [ ] `reports/p365-pinto.pdf`
+- [ ] `reports/p415-radinsky.pdf`
+- [ ] `reports/p435-kokkodis.pdf`
+- [ ] `reports/phase1.odt`
+- [ ] `reports/quiz.pdf`
+- [ ] `reports/report (1).pdf`
+- [ ] `reports/report--from-Data-Cleaning-Processing-Data-Cleaning.pdf`
+- [ ] `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.pdf`
+- [ ] `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.tex`
+- [ ] `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.pdf`
+- [ ] `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.tex`
+- [ ] `reports/report--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.pdf`
+- [ ] `reports/report.bib`
+- [ ] `reports/report.pdf`
+- [ ] `reports/report.tex`
+- [ ] `reports/sig-alternate.cls`
+- [ ] `reports/sig-alternate.pdf`
+- [ ] `reports/sig-alternate.tex`
+- [ ] `reports/solution2.pdf`
+- [ ] `reports/tips.csv`
+- [ ] `reports/weather.csv`
+- [ ] `reports/week12.docx`
+- [ ] `reports/week14.odt`
+- [ ] `reports/week3.docx`
+- [ ] `reports/zscoreH1-2.txt`
+- [ ] `reports/zscoresMH1.csv`
+
+Presentations (24):
+- [ ] `presentations/27F157AL5Enhanced ER-diagram.ppt`
+- [ ] `presentations/BigData/27F157AL5Enhanced ER-diagram.ppt`
+- [ ] `presentations/BigData/ERD_Examples.ppt`
+- [ ] `presentations/BigData/hw8bd/clustering_mod.ppt`
+- [ ] `presentations/BigData/hw8bd/k-mean-clustering.ppt`
+- [ ] `presentations/CRISP-Slides.pdf`
+- [ ] `presentations/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/PaperReading.pptx`
+- [ ] `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Class Documents/termpaper_template/termpaper_template/PaperReading.pptx`
+- [ ] `presentations/Data Cleaning & Processing/Data Cleaning & Processing/Weeks/Week3/lecture1.ppt`
+- [ ] `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase1/PaperReading.pptx`
+- [ ] `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase2/PaperReading.pptx`
+- [ ] `presentations/Data Cleaning & Processing/Data Cleaning/What Should I Wear Phases/What Should I Wear - Phase3/PaperReading.pptx`
+- [ ] `presentations/Data Cleaning & Processing/Weeks/Week3/lecture1.ppt`
+- [ ] `presentations/Data Cleaning & Processing/phase3/phase3/bigdata_finalppt.ppt`
+- [ ] `presentations/ERD_Examples.ppt`
+- [ ] `presentations/First Week/CRISP-Slides.pdf`
+- [ ] `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase1.pptx`
+- [ ] `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase2.pptx`
+- [ ] `presentations/PaperReading--from-What-Should-I-Wear-Phases-What-Should-I-Wear---Phase3.pptx`
+- [ ] `presentations/PaperReading.pptx`
+- [ ] `presentations/bigdata_finalppt.ppt`
+- [ ] `presentations/clustering_mod.ppt`
+- [ ] `presentations/k-mean-clustering.ppt`
+- [ ] `presentations/lecture1.ppt`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-eets
+
+- GitHub: https://github.com/pzg8794/opc-eets
+- Hub path: `Projects-Code/opc-eets`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1dR-XaEtmzlyGcilFBjg0ImCEw-jo5ORY
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-eets`.
+- [ ] Link the Overleaf project from `opc-eets/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (302):
+- [ ] `reports/14.txt`
+- [ ] `reports/317-LabNo.5 (2).docx`
+- [ ] `reports/317-LabNo.5.docx`
+- [ ] `reports/317LAB#3 (2).docx`
+- [ ] `reports/317LAB#3.docx`
+- [ ] `reports/317LAB#31.docx`
+- [ ] `reports/5th lab report-225.docx`
+- [ ] `reports/6th lab report-225.docx`
+- [ ] `reports/Book1 (Autosaved)2.xlsx`
+- [ ] `reports/Book1 (Autosaved)22.xlsx`
+- [ ] `reports/Book1.xlsx`
+- [ ] `reports/Book12.xlsx`
+- [ ] `reports/Book2.xlsx`
+- [ ] `reports/C++ Program Output.docx`
+- [ ] `reports/CH_7_HW_SOLUTION.pdf`
+- [ ] `reports/CIN.docx`
+- [ ] `reports/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- [ ] `reports/DC-EET-222-5.docx`
+- [ ] `reports/Doc1.docx`
+- [ ] `reports/EET - 223/Assignment#2.3.vsd`
+- [ ] `reports/EET - 223/Assignment#2.4.vsd`
+- [ ] `reports/EET - 223/Assignment#de.vsd`
+- [ ] `reports/EET - 223/Assignment#de2.vsd`
+- [ ] `reports/EET - 223/CH_7_HW_SOLUTION.pdf`
+- [ ] `reports/EET - 223/EET-223-LabExp4.cpp`
+- [ ] `reports/EET - 223/EET-223-LabExp4.sln`
+- [ ] `reports/EET - 223/EET-223-LabExp4.vcproj`
+- [ ] `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4.sln`
+- [ ] `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.cpp`
+- [ ] `reports/EET - 223/EET-223-LabExp4/EET-223-LabExp4/EET-223-LabExp4.vcproj`
+- [ ] `reports/EET - 223/EET-223.Lab Experiment#4.cpp`
+- [ ] `reports/EET - 223/EET-223.Lab Experiment#4jpg.jpg`
+- [ ] `reports/EET - 223/EET-223.Lab Experiment#4pic.jpg`
+- [ ] `reports/EET - 223/EET-223LabExp.sln`
+- [ ] `reports/EET - 223/EET-223LabExp.vcproj`
+- [ ] `reports/EET - 223/EET-223LabExp/EET-223LabExp.sln`
+- [ ] `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.cpp`
+- [ ] `reports/EET - 223/EET-223LabExp/EET-223LabExp/EET-223LabExp.vcproj`
+- [ ] `reports/EET - 223/EET.docx`
+- [ ] `reports/EET - 223/Electronics Laborator1.doc`
+- [ ] `reports/EET - 223/Exp#7-EET223 (2).docx`
+- [ ] `reports/EET - 223/Exp#7-EET223.docx`
+- [ ] `reports/EET - 223/Lab Experiment#3.2.vsd`
+- [ ] `reports/EET - 223/Lab Experiment#3.vsd`
+- [ ] `reports/EET - 223/Lab Experiment-eet223#6.vsd`
+- [ ] `reports/EET - 223/Lab.vsd`
+- [ ] `reports/EET - 223/Lab1.vsd`
+- [ ] `reports/EET - 223/Lab2.vsd`
+- [ ] `reports/EET - 223/One_shot_Prob_ANS.doc`
+- [ ] `reports/EET - 223/Test1_Solution.pdf`
+- [ ] `reports/EET - 223/Test2_solution (1).pdf`
+- [ ] `reports/EET - 223/Test2_solution.pdf`
+- [ ] `reports/EET - 223/ch7_HW.pdf`
+- [ ] `reports/EET - 223/eet223ab4.docx`
+- [ ] `reports/EET - 223/lab 223-4 (2).vsd`
+- [ ] `reports/EET - 223/lab 223-4.vsd`
+- [ ] `reports/EET - 223/lab#5 (2).vsd`
+- [ ] `reports/EET - 223/lab#5.2.vsd`
+- [ ] `reports/EET - 223/lab#5.vsd`
+- [ ] `reports/EET - 223/~$T 105, Experiments #6 nd 7..docx`
+- [ ] `reports/EET - Stuffs/CIN.docx`
+- [ ] `reports/EET - Stuffs/DC Operating Characteristics De Solid State Diodes-EET117.docx`
+- [ ] `reports/EET - Stuffs/EET 105 lab 8 nd 9 (Repaired).docx`
+- [ ] `reports/EET - Stuffs/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- [ ] `reports/EET - Stuffs/EET 105 lab 8 nd 9.docx`
+- [ ] `reports/EET - Stuffs/EET 105, Experiments #6 nd 7..docx`
+- [ ] `reports/EET - Stuffs/Experiment # 6.docx`
+- [ ] `reports/EET - Stuffs/Experiment%20# 6.docx`
+- [ ] `reports/EET - Stuffs/Experiment%20# 7.docx`
+- [ ] `reports/EET - Stuffs/Experiment8.docx`
+- [ ] `reports/EET - Stuffs/Farmingdale  University of New York44 (2).docx`
+- [ ] `reports/EET - Stuffs/Farmingdale  University of New York44.docx`
+- [ ] `reports/EET - Stuffs/Lab Report # 11 EET 105.docx`
+- [ ] `reports/EET - Stuffs/Lab Report #12.docx`
+- [ ] `reports/EET - Stuffs/Lab Report #4.docx`
+- [ ] `reports/EET - Stuffs/Lab Report #5.docx`
+- [ ] `reports/EET - Stuffs/Lab Report #8, superpositio.docx`
+- [ ] `reports/EET - Stuffs/Lab Report Experiment#3.docx`
+- [ ] `reports/EET - Stuffs/Lab Report Experiment.docx`
+- [ ] `reports/EET - Stuffs/Lab Report# 14, EET105.docx`
+- [ ] `reports/EET - Stuffs/Lab%20Report%20#4 and #3.docx`
+- [ ] `reports/EET - Stuffs/Lab%20Report%20Experiment#2.docx`
+- [ ] `reports/EET - Stuffs/lab Report # 10.docx`
+- [ ] `reports/EET 105 lab 8 nd 9 (Repaired).docx`
+- [ ] `reports/EET 105 lab 8 nd 9 nd 10 (Repaired).docx`
+- [ ] `reports/EET 105 lab 8 nd 9.docx`
+- [ ] `reports/EET 105, Experiments #6 nd 7..docx`
+- [ ] `reports/EET-113 Theoretical Data.docx`
+- [ ] `reports/EET-113-5.docx`
+- [ ] `reports/EET-113-Lab-Report#2.docx`
+- [ ] `reports/EET-113/Doc1.docx`
+- [ ] `reports/EET-113/EET-113 Theoretical Data.docx`
+- [ ] `reports/EET-113/EET-113-5.docx`
+- [ ] `reports/EET-113/EET-113-Lab-Report#2.docx`
+- [ ] `reports/EET-113/Series Circuit.docx`
+- [ ] `reports/EET-117-Lab-Report.docx`
+- [ ] `reports/EET-117.docx`
+- [ ] `reports/EET-117/EET-117-Lab-Report.docx`
+- [ ] `reports/EET-117/EET-117.docx`
+- [ ] `reports/EET-117/EET117.docx`
+- [ ] `reports/EET-117/Experiment#9-1rst Part.docx`
+- [ ] `reports/EET-117/Experiment#9-2nd Part.docx`
+- [ ] `reports/EET-117/RC (Repaired).docx`
+- [ ] `reports/EET-117/RC.docx`
+- [ ] `reports/EET-117/VBE (Repaired).docx`
+- [ ] `reports/EET-117/VBE.docx`
+- [ ] `reports/EET-117/exp12.docx`
+- [ ] `reports/EET-117/~$E (Repaired).docx`
+- [ ] `reports/EET-222-5.docx`
+- [ ] `reports/EET-222.cpp#4.docx`
+- [ ] `reports/EET-222/DC-EET-222-5.docx`
+- [ ] `reports/EET-222/EET-222-5.docx`
+- [ ] `reports/EET-222/Lab #4, EET-222.cpp`
+- [ ] `reports/EET-222/Lab Cover Shee1.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/EET-222.cpp#4.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/C++ Program Output.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - C++  Source Code.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#1 Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - STAGE#2 Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4print.txt`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4jpg.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Stage#1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Stage#2.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/eet223ab4.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Micro-Cap Evaluation 9.lnk- Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment#12/Complete Waveform.jpg`
+- [ ] `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg`
+- [ ] `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg- waveform.jpg`
+- [ ] `reports/EET-222/Lab Experiment#12/Lab Report No.12.jpg2.jpg`
+- [ ] `reports/EET-222/Lab Experiment#12/Untitled.jpg`
+- [ ] `reports/EET-222/eet222ab2 (2).docx`
+- [ ] `reports/EET-222/eet222ab2.docx`
+- [ ] `reports/EET-222/output-circuit#5.txt`
+- [ ] `reports/EET-222/~$b Report #4 and #3.docx`
+- [ ] `reports/EET-223-LabExp4print.txt`
+- [ ] `reports/EET-225, Exp#8 (1).docx`
+- [ ] `reports/EET-225, Exp#8.docx`
+- [ ] `reports/EET-225/5th lab report-225.docx`
+- [ ] `reports/EET-225/6th lab report-225.docx`
+- [ ] `reports/EET-225/Bitmap Image in Drawing in 5th lab report-225.docx.vsd`
+- [ ] `reports/EET-225/EET-225, Exp#8 (1).docx`
+- [ ] `reports/EET-225/EET-225, Exp#8.docx`
+- [ ] `reports/EET-225/Formal-Lab-#3-eet-225.docx`
+- [ ] `reports/EET-225/Formal-Lab-#8eet-225.docx`
+- [ ] `reports/EET-225/Lab Report#2 - EET-225.docx`
+- [ ] `reports/EET-225/Lab#1- EET-225.docx`
+- [ ] `reports/EET-225/Lab#2-EET-225.vsd`
+- [ ] `reports/EET-225/LabShee251.rtf`
+- [ ] `reports/EET-225/SB.docx`
+- [ ] `reports/EET-225/Take Home Exam (2).docx`
+- [ ] `reports/EET-225/Take Home Exam.docx`
+- [ ] `reports/EET-225/fs.docx`
+- [ ] `reports/EET-225/scan0001.docx`
+- [ ] `reports/EET-225/~$rmal-Lab-#3-eet-225.docx`
+- [ ] `reports/EET-228/Drawing1-Lab#3-EET-228.vsd`
+- [ ] `reports/EET-228/Lab#1-EET-228.docx`
+- [ ] `reports/EET-228/Lab#2-EET-228.docx`
+- [ ] `reports/EET-228/Lab#4-228.vsd`
+- [ ] `reports/EET-228/Lab#4-228.vsd (2).docx`
+- [ ] `reports/EET-228/Lab#4-228.vsd.docx`
+- [ ] `reports/EET-228/Lab-5-228sheet.rtf`
+- [ ] `reports/EET-228/Lab-6-228.docx`
+- [ ] `reports/EET-228/Vin.docx`
+- [ ] `reports/EET-228/lab#3-EET-228.docx`
+- [ ] `reports/EET-228/lab-5-eet-228 (2).docx`
+- [ ] `reports/EET-228/lab-5-eet-228.docx`
+- [ ] `reports/EET-228/lab-8-eet-228.docx`
+- [ ] `reports/EET-228/~$b#1-EET-228.docx`
+- [ ] `reports/EET-228/~$b#3-EET-228.docx`
+- [ ] `reports/EET-228/~$b#4-228.vsd.docx`
+- [ ] `reports/EET-228/~$b-5-eet-228 (2).docx`
+- [ ] `reports/EET-251/Labs 0,1,2,3 of EET-251.doc`
+- [ ] `reports/EET-311/14.txt`
+- [ ] `reports/EET-311/EET-331Lab#2 (Repaired).docx`
+- [ ] `reports/EET-311/Lab#1-311.docx`
+- [ ] `reports/EET-311/LabNo4 (Repaired).docx`
+- [ ] `reports/EET-311/LabNo6.docx`
+- [ ] `reports/EET-311LabNo19.docx`
+- [ ] `reports/EET-311LabNo5.docx`
+- [ ] `reports/EET-317LabNo4 (2).docx`
+- [ ] `reports/EET-317LabNo4.docx`
+- [ ] `reports/EET-317LabNo5.xlsx`
+- [ ] `reports/EET-317LabNo6.docx`
+- [ ] `reports/EET-317lab#2 (2).docx`
+- [ ] `reports/EET-317lab#2.docx`
+- [ ] `reports/EET-331Lab#2 (Repaired)--from-repo-EET-311.docx`
+- [ ] `reports/EET-331Lab#2 (Repaired).docx`
+- [ ] `reports/EET-331Lab#2.docx`
+- [ ] `reports/EET-331Lab#2.dwing.vsd`
+- [ ] `reports/EET-440 Networking Course Summary.docx`
+- [ ] `reports/EET-440/EET-440 Networking Course Summary.docx`
+- [ ] `reports/EET-440/~$T-440 Networking Course Summary.docx`
+- [ ] `reports/EET.docx`
+- [ ] `reports/EET117.docx`
+- [ ] `reports/EET317Lab#2/317-LabNo.5 (2).docx`
+- [ ] `reports/EET317Lab#2/317-LabNo.5.docx`
+- [ ] `reports/EET317Lab#2/317LAB#3 (2).docx`
+- [ ] `reports/EET317Lab#2/317LAB#3.docx`
+- [ ] `reports/EET317Lab#2/317LAB#31.docx`
+- [ ] `reports/EET317Lab#2/EET-317LabNo4 (2).docx`
+- [ ] `reports/EET317Lab#2/EET-317LabNo4.docx`
+- [ ] `reports/EET317Lab#2/EET-317LabNo5.xlsx`
+- [ ] `reports/EET317Lab#2/EET-317LabNo6.docx`
+- [ ] `reports/EET317Lab#2/EET-317lab#2 (2).docx`
+- [ ] `reports/EET317Lab#2/EET-317lab#2.docx`
+- [ ] `reports/EET317Lab#2/Experiment#1-EET317 (Repaired) (2).docx`
+- [ ] `reports/EET317Lab#2/Experiment#1-EET317 (Repaired).docx`
+- [ ] `reports/EET317Lab#2/Experiment#1-EET317.docx`
+- [ ] `reports/EET317Lab#2/Lab#3.docx`
+- [ ] `reports/EET317Lab#2/Will Brennan                                           eet317lab3                                                               10.doc`
+- [ ] `reports/EET317Lab#2/lab#2-EET-317.docx`
+- [ ] `reports/EET317Lab#2/lab#5-EET-317.docx`
+- [ ] `reports/Electronics Laborator1.doc`
+- [ ] `reports/Exp#7-EET223 (2).docx`
+- [ ] `reports/Exp#7-EET223.docx`
+- [ ] `reports/Experiment # 6.docx`
+- [ ] `reports/Experiment#1-EET317 (Repaired) (2).docx`
+- [ ] `reports/Experiment#1-EET317 (Repaired).docx`
+- [ ] `reports/Experiment#1-EET317.docx`
+- [ ] `reports/Experiment#9-1rst Part.docx`
+- [ ] `reports/Experiment#9-2nd Part.docx`
+- [ ] `reports/Experiment%20# 6.docx`
+- [ ] `reports/Experiment%20# 7.docx`
+- [ ] `reports/Experiment8.docx`
+- [ ] `reports/Farmingdale  University of New York44 (2).docx`
+- [ ] `reports/Farmingdale  University of New York44.docx`
+- [ ] `reports/Formal-Lab-#3-eet-225.docx`
+- [ ] `reports/Formal-Lab-#8eet-225.docx`
+- [ ] `reports/How_to_run_Microsoft_CLR_Protocol.doc`
+- [ ] `reports/Lab Cover Shee1.docx`
+- [ ] `reports/Lab Report # 11 EET 105.docx`
+- [ ] `reports/Lab Report #12.docx`
+- [ ] `reports/Lab Report #4.docx`
+- [ ] `reports/Lab Report #5.docx`
+- [ ] `reports/Lab Report #8, superpositio.docx`
+- [ ] `reports/Lab Report Experiment#3.docx`
+- [ ] `reports/Lab Report Experiment.docx`
+- [ ] `reports/Lab Report# 14, EET105.docx`
+- [ ] `reports/Lab Report#2 - EET-225.docx`
+- [ ] `reports/Lab#1- EET-225.docx`
+- [ ] `reports/Lab#1-311--from-repo-EET-311.docx`
+- [ ] `reports/Lab#1-311.docx`
+- [ ] `reports/Lab#1-EET-228.docx`
+- [ ] `reports/Lab#2-EET-228.docx`
+- [ ] `reports/Lab#3--from-repo-EET317Lab-2.docx`
+- [ ] `reports/Lab#3.docx`
+- [ ] `reports/Lab#4-228.vsd (2).docx`
+- [ ] `reports/Lab#4-228.vsd.docx`
+- [ ] `reports/Lab#5.docx`
+- [ ] `reports/Lab%20Report%20#4 and #3.docx`
+- [ ] `reports/Lab%20Report%20Experiment#2.docx`
+- [ ] `reports/Lab-5-228sheet.rtf`
+- [ ] `reports/Lab-6-228.docx`
+- [ ] `reports/LabNo4 (Repaired)--from-repo-EET-311.docx`
+- [ ] `reports/LabNo4 (Repaired).docx`
+- [ ] `reports/LabNo4.docx`
+- [ ] `reports/LabNo6--from-repo-EET-311.docx`
+- [ ] `reports/LabNo6.docx`
+- [ ] `reports/LabShee251.rtf`
+- [ ] `reports/Labs 0,1,2,3 of EET-251.doc`
+- [ ] `reports/One_shot_Prob_ANS.doc`
+- [ ] `reports/RC (Repaired).docx`
+- [ ] `reports/RC.docx`
+- [ ] `reports/SB.docx`
+- [ ] `reports/Series Circuit.docx`
+- [ ] `reports/Take Home Exam (2).docx`
+- [ ] `reports/Take Home Exam--from-repo-EET-225.docx`
+- [ ] `reports/Take Home Exam.docx`
+- [ ] `reports/Test1_Solution.pdf`
+- [ ] `reports/Test2_solution (1).pdf`
+- [ ] `reports/Test2_solution.pdf`
+- [ ] `reports/VBE (Repaired).docx`
+- [ ] `reports/VBE.docx`
+- [ ] `reports/Vin.docx`
+- [ ] `reports/Waveform-lab15.jpg`
+- [ ] `reports/Will Brennan                                           eet317lab3                                                               10.doc`
+- [ ] `reports/ch7_HW.pdf`
+- [ ] `reports/eet222ab2 (2).docx`
+- [ ] `reports/eet222ab2.docx`
+- [ ] `reports/eet223ab4--from-Lab-Experiment-4-Lab-4.docx`
+- [ ] `reports/eet223ab4.docx`
+- [ ] `reports/exp12.docx`
+- [ ] `reports/fs.docx`
+- [ ] `reports/lab Report # 10.docx`
+- [ ] `reports/lab#2-EET-317.docx`
+- [ ] `reports/lab#3-EET-228.docx`
+- [ ] `reports/lab#5-EET-317.docx`
+- [ ] `reports/lab-5-eet-228 (2).docx`
+- [ ] `reports/lab-5-eet-228.docx`
+- [ ] `reports/lab-8-eet-228.docx`
+- [ ] `reports/lab3-311.vsd`
+- [ ] `reports/output-circuit#5.txt`
+- [ ] `reports/scan0001.docx`
+- [ ] `reports/~$T-331Lab#2.docx`
+- [ ] `reports/~$periment#1-EET317.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-eets-2
+
+- GitHub: https://github.com/pzg8794/opc-eets-2
+- Hub path: `Projects-Code/opc-eets-2`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1gSWgHyQekc9iEIKSXQGpdvFzfE1JuvVA
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-eets-2`.
+- [ ] Link the Overleaf project from `opc-eets-2/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (99):
+- [ ] `reports/14.txt`
+- [ ] `reports/317LAB#3--from-EET317Lab-2-Lab-Experiment-4.docx`
+- [ ] `reports/317LAB#3.docx`
+- [ ] `reports/317LAB#31.docx`
+- [ ] `reports/C++ Program Output.docx`
+- [ ] `reports/Circuit-Source Code.1.txt`
+- [ ] `reports/Circuit-Source Code.txt`
+- [ ] `reports/DC-EET-222-5.docx`
+- [ ] `reports/EET-222-5.docx`
+- [ ] `reports/EET-222.cpp-Lab Experiment#4.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#1 Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#1 Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#2 Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier - STAGE#2 Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Cascade Amplifier Output1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Circuit-Source Code.1.txt`
+- [ ] `reports/EET-222/Lab Experiment #4/Circuit-Source Code.txt`
+- [ ] `reports/EET-222/Lab Experiment #4/Circuit.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Circuit1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Circuit12.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/EET-222 - Lab Experiment No. 4- C++ Source Code.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/EET-222.cpp-Lab Experiment#4.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/C++ Program Output.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Cascade Amplifier - C++  Source Code.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223-LabExp4print.txt`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4jpg.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Stage#1.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/Stage#2.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/Lab 4/eet222ab4.docx`
+- [ ] `reports/EET-222/Lab Experiment #4/Micro-Cap Evaluation 9.lnk- Output.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/STAGE-1-Cascaded Amplifier.cpp`
+- [ ] `reports/EET-222/Lab Experiment #4/Waveforme.jpg`
+- [ ] `reports/EET-222/Lab Experiment #4/waveform1.jpg`
+- [ ] `reports/EET-222/New Folder/Lab#12/Complete Waveform.jpg`
+- [ ] `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg`
+- [ ] `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg- waveform.jpg`
+- [ ] `reports/EET-222/New Folder/Lab#12/Lab Report No.12.jpg2.jpg`
+- [ ] `reports/EET-222/New Folder/Lab#12/Lab12 calculations.docx`
+- [ ] `reports/EET-222/New Folder/output-circuit#5.txt`
+- [ ] `reports/EET-222/eet222lab.docx`
+- [ ] `reports/EET-222/eet222lab2.docx`
+- [ ] `reports/EET-222/experiment#5/DC-EET-222-5.docx`
+- [ ] `reports/EET-222/experiment#5/EET-222-5.docx`
+- [ ] `reports/EET-222/experiment#5/waveform-lab5.jpg`
+- [ ] `reports/EET-223-LabExp4print.txt`
+- [ ] `reports/EET-223/Assignment#2.3.vsd`
+- [ ] `reports/EET-223/Assignment#2.4.vsd`
+- [ ] `reports/EET-223/Assignment#de.vsd`
+- [ ] `reports/EET-223/Assignment#de2.vsd`
+- [ ] `reports/EET-223/Exp#7-EET223.docx`
+- [ ] `reports/EET-223/Lab Experiment#3.2.vsd`
+- [ ] `reports/EET-223/Lab Experiment#3.vsd`
+- [ ] `reports/EET-223/Lab Experiment-eet223#6.vsd`
+- [ ] `reports/EET-223/Lab.vsd`
+- [ ] `reports/EET-223/Lab1.vsd`
+- [ ] `reports/EET-223/Lab2.vsd`
+- [ ] `reports/EET-223/lab 223-4.vsd`
+- [ ] `reports/EET-223/lab#5.2.vsd`
+- [ ] `reports/EET-223/lab#5.vsd`
+- [ ] `reports/EET-311/14.txt`
+- [ ] `reports/EET-311/EET-331Lab#2 (Repaired).docx`
+- [ ] `reports/EET-311/Lab#1-311.docx`
+- [ ] `reports/EET-311/LabNo4 (Repaired).docx`
+- [ ] `reports/EET-311/LabNo6.docx`
+- [ ] `reports/EET-317lab#2.docx`
+- [ ] `reports/EET-331Lab#2 (Repaired).docx`
+- [ ] `reports/EET317Lab#2/317LAB#3.docx`
+- [ ] `reports/EET317Lab#2/317LAB#31.docx`
+- [ ] `reports/EET317Lab#2/EET-317lab#2.docx`
+- [ ] `reports/EET317Lab#2/Experiment#1-EET317 (Repaired).docx`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/317LAB#3.docx`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/C++ Program Output.docx`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/EET-223-LabExp4.cpp`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/EET-223-LabExp4print.txt`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/EET-223.Lab Experiment#4jpg.jpg`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4.cpp`
+- [ ] `reports/EET317Lab#2/Lab Experiment #4/Lab 4/EET-223.Lab Experiment#4pic.jpg`
+- [ ] `reports/EET317Lab#2/Lab#3.docx`
+- [ ] `reports/EET317Lab#2/LabNo4.docx`
+- [ ] `reports/EET317Lab#2/New Microsoft Office Excel Worksheet.xlsx`
+- [ ] `reports/EET317Lab#2/Will Brennan                                           eet317lab3                                                               10.doc`
+- [ ] `reports/Exp#7-EET223.docx`
+- [ ] `reports/Experiment#1-EET317 (Repaired).docx`
+- [ ] `reports/Lab#1-311.docx`
+- [ ] `reports/Lab#3.docx`
+- [ ] `reports/Lab12 calculations.docx`
+- [ ] `reports/LabNo4 (Repaired).docx`
+- [ ] `reports/LabNo4.docx`
+- [ ] `reports/LabNo6.docx`
+- [ ] `reports/New Microsoft Office Excel Worksheet.xlsx`
+- [ ] `reports/Will Brennan                                           eet317lab3                                                               10.doc`
+- [ ] `reports/eet222ab4.docx`
+- [ ] `reports/eet222lab.docx`
+- [ ] `reports/eet222lab2.docx`
+- [ ] `reports/output-circuit#5.txt`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-fct
+
+- GitHub: https://github.com/pzg8794/opc-fct
+- Hub path: `Projects-Code/opc-fct`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-DX9ifMHdHqOB0kHF54Qsje9qqYQEJEr
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-fct`.
+- [ ] Link the Overleaf project from `opc-fct/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (1):
+- [ ] `papers/rm_jv_finalpaper.doc`
+
+Reports and written documentation (224):
+- [ ] `reports/05-decide-4p.pdf`
+- [ ] `reports/0907.0159.pdf`
+- [ ] `reports/123a.pdf`
+- [ ] `reports/2-Homework.pdf`
+- [ ] `reports/2010hw7_solution.pdf`
+- [ ] `reports/355hw2s12sol.pdf`
+- [ ] `reports/355hw3s12sol.pdf`
+- [ ] `reports/355hw4s11sol.pdf`
+- [ ] `reports/355hw4s12sol.pdf`
+- [ ] `reports/355hw6sol.pdf`
+- [ ] `reports/4005.docx`
+- [ ] `reports/700_0122_hmwk5.pdf`
+- [ ] `reports/700_0122_hmwk7.pdf`
+- [ ] `reports/700_0122_hmwk8.pdf`
+- [ ] `reports/700_final_examples_answers.pdf`
+- [ ] `reports/CS422_HW7sol.doc`
+- [ ] `reports/Comp-CFL-10.pdf`
+- [ ] `reports/Decidable Languages(2).docx`
+- [ ] `reports/FCT-HW2.docx`
+- [ ] `reports/FCT-HW2.pdf`
+- [ ] `reports/FCTEXAM.txt`
+- [ ] `reports/FCTH7.docx`
+- [ ] `reports/FCTH7.pdf`
+- [ ] `reports/FCTHW1.docx`
+- [ ] `reports/FCTHW1.pdf`
+- [ ] `reports/FCTHW4.docx`
+- [ ] `reports/FCTHW4.pdf`
+- [ ] `reports/FCTHW8.docx`
+- [ ] `reports/FCTHW8.pdf`
+- [ ] `reports/FCTHomework 6.docx`
+- [ ] `reports/FCTHomework 6.pdf`
+- [ ] `reports/FCTNotes.txt`
+- [ ] `reports/FCT_HW06.PDF`
+- [ ] `reports/FCT_HW07.PDF`
+- [ ] `reports/FCT_HW08.PDF`
+- [ ] `reports/FCT_HW4.PDF`
+- [ ] `reports/FCT_HW5.PDF`
+- [ ] `reports/FCT_HW5/355hw4s11sol.pdf`
+- [ ] `reports/FCT_HW5/Homework 5FCT.docx`
+- [ ] `reports/FCT_HW5/Homework 5FCT.pdf`
+- [ ] `reports/FCT_Hw3/0907.0159.pdf`
+- [ ] `reports/FCT_Hw3/Homework 3.docx`
+- [ ] `reports/FCT_Hw3/Homework 3.pdf`
+- [ ] `reports/FCT_Hw3/fctSourceBook.pdf`
+- [ ] `reports/FCT_Hw3/hw1sol.pdf`
+- [ ] `reports/FCT_Hw4/FCTHW4.pdf`
+- [ ] `reports/FCT_Hw4/PDAEXAMPLE.jff`
+- [ ] `reports/FCT_Hw6/FCTHomework 6.docx`
+- [ ] `reports/FCT_Hw6/FCTHomework 6.pdf`
+- [ ] `reports/FCT_Hw6/hw4sol.pdf`
+- [ ] `reports/FCT_Hw6/sol3.pdf`
+- [ ] `reports/FCT_Hw6/sol4.pdf`
+- [ ] `reports/FCT_Hw7/05-decide-4p.pdf`
+- [ ] `reports/FCT_Hw7/Decidable Languages(2).docx`
+- [ ] `reports/FCT_Hw7/FCTH7.docx`
+- [ ] `reports/FCT_Hw7/FCTH7.pdf`
+- [ ] `reports/FCT_Hw7/Homework 4_sol.pdf`
+- [ ] `reports/FCT_Hw7/Sol5.pdf`
+- [ ] `reports/FCT_Hw7/assign3ans.pdf`
+- [ ] `reports/FCT_Hw7/hw1.sols.pdf`
+- [ ] `reports/FCT_Hw7/hw3ans.pdf`
+- [ ] `reports/FCT_Hw7/hw6sol.pdf`
+- [ ] `reports/FCT_Hw7/lecture-16.pdf`
+- [ ] `reports/FCT_Hw7/sol4.pdf`
+- [ ] `reports/FCT_Hw9/123a.pdf`
+- [ ] `reports/FCT_Hw9/700_0122_hmwk5.pdf`
+- [ ] `reports/FCT_Hw9/700_0122_hmwk7.pdf`
+- [ ] `reports/FCT_Hw9/700_0122_hmwk8.pdf`
+- [ ] `reports/FCT_Hw9/700_final_examples_answers.pdf`
+- [ ] `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- [ ] `reports/FCT_Hw9/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- [ ] `reports/FCT_Hw9/Report.pdf`
+- [ ] `reports/FCT_Hw9/UploadedFile_130051889226924856.doc`
+- [ ] `reports/FCT_Hw9/c3.pdf`
+- [ ] `reports/FCT_Hw9/cc-script.pdf`
+- [ ] `reports/FCT_Hw9/enumrec.pdf`
+- [ ] `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW06.PDF`
+- [ ] `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW07.PDF`
+- [ ] `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW08.PDF`
+- [ ] `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW4.PDF`
+- [ ] `reports/FCT_Hw9/fct148/fcthomeworks/FCT_HW5.PDF`
+- [ ] `reports/FCT_Hw9/homework1Solution.pdf`
+- [ ] `reports/FCT_Hw9/lect18.pdf`
+- [ ] `reports/FCT_Hw9/rdd3443_FCT_assign02 copy.PDF`
+- [ ] `reports/FCT_Hw9/rdd3443_FCT_assign02.PDF`
+- [ ] `reports/Homework 3.docx`
+- [ ] `reports/Homework 3.pdf`
+- [ ] `reports/Homework 4_sol.pdf`
+- [ ] `reports/Homework 5FCT.docx`
+- [ ] `reports/Homework 5FCT.pdf`
+- [ ] `reports/Homework 6_sol.pdf`
+- [ ] `reports/ICST - Assignment 9.docx`
+- [ ] `reports/ICST - Assignment 9.pdf`
+- [ ] `reports/ICST-A1.docx`
+- [ ] `reports/ICST-A7--from-ICST-ICST---Final-Exam-Review.pdf`
+- [ ] `reports/ICST-A7.docx`
+- [ ] `reports/ICST-A7.pdf`
+- [ ] `reports/ICST-A72.pdf`
+- [ ] `reports/ICST-A7Notes.docx`
+- [ ] `reports/ICST-HW6--from-ICST-ICST---Final-Exam-Review.pdf`
+- [ ] `reports/ICST-HW6.docx`
+- [ ] `reports/ICST-HW6.pdf`
+- [ ] `reports/ICST.txt`
+- [ ] `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.docx`
+- [ ] `reports/ICST/ICST - Final Exam Review/ICST - Assignment 9.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/ICST-A7.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/ICST-HW6.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/a8.docx`
+- [ ] `reports/ICST/ICST - Final Exam Review/as8.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/cfg2npda.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/complexity.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/compute.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/fcthw1.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/fcthw12.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw211.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw212.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw22.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw221.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw23.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw232.jff`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw6.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw7.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw8.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/hw9.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/notes.txt`
+- [ ] `reports/ICST/ICST - Final Exam Review/reduction.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/turing.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/turingmachine.pdf`
+- [ ] `reports/ICST/ICST - Final Exam Review/ucfl.pdf`
+- [ ] `reports/ICST/ICST-HW3/4005.docx`
+- [ ] `reports/ICST/ICST-HW3/ICST-A1.docx`
+- [ ] `reports/ICST/ICST-HW3/ICSTHW3.docx`
+- [ ] `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.docx`
+- [ ] `reports/ICST/ICST-HW3/Introduction To Computer Science Theory 2123.pdf`
+- [ ] `reports/ICST/ICST-HW3/UploadedFile_130084775846874074.doc`
+- [ ] `reports/ICST/ICST-HW3/hw3.pdf`
+- [ ] `reports/ICST/ICST-HW3/hw3.rtf`
+- [ ] `reports/ICST/ICST-HW4/2-Homework.pdf`
+- [ ] `reports/ICST/ICST-HW4/ISCT-HW4.docx`
+- [ ] `reports/ICST/ICST-HW4/ISCT-HW42.docx`
+- [ ] `reports/ICST/ICST-HW4/ISCT-HW4Notes.docx`
+- [ ] `reports/ICST/ICST-HW4/hw3s.pdf`
+- [ ] `reports/ICST/ICST-HW4/hw4-2-73final.jff`
+- [ ] `reports/ICST/ICST-HW4/hw4-2-7final2.jff`
+- [ ] `reports/ICST/ICST-HW4/s3_3.pdf`
+- [ ] `reports/ICST/ICST-HW6/ICST-A7.docx`
+- [ ] `reports/ICST/ICST-HW6/ICST-A7.pdf`
+- [ ] `reports/ICST/ICST-HW6/ICST-A72.pdf`
+- [ ] `reports/ICST/ICST-HW6/ICST-A7Notes.docx`
+- [ ] `reports/ICST/ICST-HW6/ICST-HW6.docx`
+- [ ] `reports/ICST/ICST-HW6/ICST-HW6.pdf`
+- [ ] `reports/ICST/ICST-HW6/hw7.pdf`
+- [ ] `reports/ICST/ICST-HW8/a8.docx`
+- [ ] `reports/ICST/ICST-HW9/ICST - Assignment 9.docx`
+- [ ] `reports/ICST/ICST-HW9/csci3255 HW  9 and 11.doc`
+- [ ] `reports/ICST/ICST-HW9/hw9.pdf`
+- [ ] `reports/ICST/ICST-STUFF/355hw2s12sol.pdf`
+- [ ] `reports/ICST/ICST-STUFF/355hw3s12sol.pdf`
+- [ ] `reports/ICST/ICST-STUFF/355hw4s12sol.pdf`
+- [ ] `reports/ICST/ICST-STUFF/355hw6sol.pdf`
+- [ ] `reports/ICST/ICST-STUFF/Comp-CFL-10.pdf`
+- [ ] `reports/ICST/ICST-STUFF/MIDTERM1-20111124-Solution.pdf`
+- [ ] `reports/ICST/ICST-STUFF/a8.docx`
+- [ ] `reports/ICST/ICST-STUFF/as8.pdf`
+- [ ] `reports/ICST/ICST-STUFF/cfg2npda.pdf`
+- [ ] `reports/ICST/ICST-STUFF/hw5_sol.pdf`
+- [ ] `reports/ICST/ICST-STUFF/hw7.pdf`
+- [ ] `reports/ICST/ICST-STUFF/hwsol7.pdf`
+- [ ] `reports/ICST/ICST-STUFF/ps4-solns.pdf`
+- [ ] `reports/ICST/ICST-STUFF/ucfl.pdf`
+- [ ] `reports/ICSTHW3.docx`
+- [ ] `reports/ISCT-HW4.docx`
+- [ ] `reports/ISCT-HW42.docx`
+- [ ] `reports/ISCT-HW4Notes.docx`
+- [ ] `reports/Introduction To Computer Science Theory 2123.docx`
+- [ ] `reports/Introduction To Computer Science Theory 2123.pdf`
+- [ ] `reports/Introduction To The Theory Of Computation - Michael Sipser copy.pdf`
+- [ ] `reports/Introduction To The Theory Of Computation - Michael Sipser.pdf`
+- [ ] `reports/MIDTERM1-20111124-Solution.pdf`
+- [ ] `reports/Report.pdf`
+- [ ] `reports/Sol5.pdf`
+- [ ] `reports/UploadedFile_130051889226924856.doc`
+- [ ] `reports/UploadedFile_130084775846874074.doc`
+- [ ] `reports/a8--from-ICST-ICST---Final-Exam-Review.docx`
+- [ ] `reports/a8--from-ICST-ICST-HW8.docx`
+- [ ] `reports/a8.docx`
+- [ ] `reports/as8.pdf`
+- [ ] `reports/assign3ans.pdf`
+- [ ] `reports/c3.pdf`
+- [ ] `reports/cc-script.pdf`
+- [ ] `reports/cfg2npda.pdf`
+- [ ] `reports/complexity.pdf`
+- [ ] `reports/compute.pdf`
+- [ ] `reports/csci3255 HW  9 and 11.doc`
+- [ ] `reports/enumrec.pdf`
+- [ ] `reports/fctSourceBook.pdf`
+- [ ] `reports/homework1Solution.pdf`
+- [ ] `reports/hw1.sols.pdf`
+- [ ] `reports/hw1sol.pdf`
+- [ ] `reports/hw3.pdf`
+- [ ] `reports/hw3.rtf`
+- [ ] `reports/hw3ans.pdf`
+- [ ] `reports/hw3s.pdf`
+- [ ] `reports/hw4sol.pdf`
+- [ ] `reports/hw5_sol.pdf`
+- [ ] `reports/hw6.pdf`
+- [ ] `reports/hw6sol.pdf`
+- [ ] `reports/hw7.pdf`
+- [ ] `reports/hw8.pdf`
+- [ ] `reports/hw9.pdf`
+- [ ] `reports/hwsol7.pdf`
+- [ ] `reports/lect18.pdf`
+- [ ] `reports/lecture-16.pdf`
+- [ ] `reports/notes.txt`
+- [ ] `reports/ps4-solns.pdf`
+- [ ] `reports/rdd3443_FCT_assign02 copy.PDF`
+- [ ] `reports/rdd3443_FCT_assign02.PDF`
+- [ ] `reports/reduction.pdf`
+- [ ] `reports/s3_3.pdf`
+- [ ] `reports/sol3.pdf`
+- [ ] `reports/sol4.pdf`
+- [ ] `reports/turing.pdf`
+- [ ] `reports/turingmachine.pdf`
+- [ ] `reports/ucfl.pdf`
+
+Presentations (4):
+- [ ] `presentations/FCT_Hw9/NonContextFree.ppt`
+- [ ] `presentations/FCT_Hw9/closure.pptx`
+- [ ] `presentations/NonContextFree.ppt`
+- [ ] `presentations/closure.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-final-bs-project
+
+- GitHub: https://github.com/pzg8794/opc-final-bs-project
+- Hub path: `Projects-Code/opc-final-bs-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1HipmKhThN4dE6Vtf_CdxWJFupfN_2XqU
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-final-bs-project`.
+- [ ] Link the Overleaf project from `opc-final-bs-project/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (2):
+- [ ] `papers/ProposalEGL310.docx`
+- [ ] `papers/ProposalEGL310.pdf`
+
+Reports and written documentation (8):
+- [ ] `reports/Design Project.docx`
+- [ ] `reports/EGL-310 ASSIGNMENT6.doc`
+- [ ] `reports/EGL-310 Assignment 6.pdf`
+- [ ] `reports/Final Project Report USE.docx`
+- [ ] `reports/REPORT SPECIFICATIONS.docx`
+- [ ] `reports/Updated Report.doc`
+- [ ] `reports/Xbee_part4/project_config.h`
+- [ ] `reports/software part.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-java-oop
+
+- GitHub: https://github.com/pzg8794/opc-java-oop
+- Hub path: `Projects-Code/opc-java-oop`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1cbbnx1wAbvKFco2s2SiYgYUpCsM0M36W
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-java-oop`.
+- [ ] Link the Overleaf project from `opc-java-oop/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (756):
+- [ ] `reports/-AliceChapter1.redacted.txt`
+- [ ] `reports/02.pdf`
+- [ ] `reports/1-_Fundamentals_of_Computer_Aided_Design_2-_Introduction_to_....pdf`
+- [ ] `reports/10.1007-s00145-012-9128-3.pdf`
+- [ ] `reports/243-ClassSchedule2123.pdf`
+- [ ] `reports/243-final-review-answers.pdf`
+- [ ] `reports/243-final-review.pdf`
+- [ ] `reports/2Dpipeline.pdf`
+- [ ] `reports/2DviewingAndTransformations.pdf`
+- [ ] `reports/33242-0131743627_答案ISM.pdf`
+- [ ] `reports/51.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(1).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(2).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51(3).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/51.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(1).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(2).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/52(3).jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/71.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/72.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/FinalReport.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/GUIDE.PDF`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/HLSm.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/QuadraticAV.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/README.TXT`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/REPORT_INITIAL.PDF`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-51.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/SPR-52.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData1.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/TestData2.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c1.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c2.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/c4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d1.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d2.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/d5.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/dirList.docx`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/f.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/fly.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h1.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h2.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h3.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h5.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/h6.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls1.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls2.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hls4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl2.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hsl4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-1.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr-2.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/hspr.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/j.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m1.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m2.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m4.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/m5.jpg`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n1.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n2.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/n3.png`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report - Copy.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/report.tex`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/sig-alternate.tex`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Algo Experimental Project/spr.pdf`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Experimental Project - Algo.docx`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirscberg.docx`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/Hirschberg.java`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/DynamicAV1.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/MemoizationAV1.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/NaiveRecursive.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV.txt`
+- [ ] `reports/AlgoExpProject/AlgoExpProject-2013-12-03/documents-export-2013-12-08/QuadraticAV1.txt`
+- [ ] `reports/AlgoExpProject/bin/DynamicAV.txt`
+- [ ] `reports/AlgoExpProject/bin/MemoizationAV.txt`
+- [ ] `reports/AlgoExpProject/bin/NaiveRecursive.txt`
+- [ ] `reports/AlgoExpProject/bin/QuadraticAV.txt`
+- [ ] `reports/AlgoExpProject/output.txt`
+- [ ] `reports/AlgoExpProject/projectGraph.m`
+- [ ] `reports/AlgoExpProject/src/DynamicAV.java`
+- [ ] `reports/AlgoExpProject/src/DynamicAV.txt`
+- [ ] `reports/AlgoExpProject/src/GenerateInputs.java`
+- [ ] `reports/AlgoExpProject/src/LCS.java`
+- [ ] `reports/AlgoExpProject/src/MemoizationAV.java`
+- [ ] `reports/AlgoExpProject/src/MemoizationAV.txt`
+- [ ] `reports/AlgoExpProject/src/NaiveRecursive.java`
+- [ ] `reports/AlgoExpProject/src/NaiveRecursive.txt`
+- [ ] `reports/AlgoExpProject/src/QuadraticAV.txt`
+- [ ] `reports/AlgoExpProject/src/TestAlgorithms.java`
+- [ ] `reports/AlgoExpProject/test.txt`
+- [ ] `reports/AliceChapter1--from-Stuff-lab7.txt`
+- [ ] `reports/AliceChapter1--from-lab7-Redacter.txt`
+- [ ] `reports/AliceChapter1.redacted.txt`
+- [ ] `reports/AliceChapter1.txt`
+- [ ] `reports/Best Time for Vacationing.docx`
+- [ ] `reports/Best Time for Vacationing.pdf`
+- [ ] `reports/Best Time for Vacationing2.docx`
+- [ ] `reports/Best Time for Vacationing2.pdf`
+- [ ] `reports/BillImage.pdf`
+- [ ] `reports/BischofsClass/hw4/lab4-1/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-1/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-1/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-1/Peach (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-2/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-2/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-2/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-3/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-3/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-3/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-3/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-4/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-4/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-4/FruitException (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-4/Mangoes (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw4/lab4-4/TestFruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/BischofsClass/hw5/MyHashSetB/result (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/BischofsClass/hw5/MyHashSetB/results (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/CG1HW3.docx`
+- [ ] `reports/CG1HW3.pdf`
+- [ ] `reports/CG_Important Question with Answer.pdf`
+- [ ] `reports/CGfundamentals.pdf`
+- [ ] `reports/CSC-243-Final-Review-2011-3.pdf`
+- [ ] `reports/CSc472.pdf`
+- [ ] `reports/Clipping.pdf`
+- [ ] `reports/Computer Graphics - Assingment1.docx`
+- [ ] `reports/Computer Graphics - HW2.docx`
+- [ ] `reports/Computer Graphics - HW2.pdf`
+- [ ] `reports/Computer Graphics I - Assignment1.pdf`
+- [ ] `reports/Computer Graphics I - Assignment2.pdf`
+- [ ] `reports/Computer Graphics I - Assignment3.pdf`
+- [ ] `reports/Computer Graphics I - HW2.pdf`
+- [ ] `reports/Computer Graphics I - HW4.pdf`
+- [ ] `reports/Computer Graphics I - Midterm Project Option.pdf`
+- [ ] `reports/Computer Graphics I copy 2.docx`
+- [ ] `reports/Computer Graphics I copy.docx`
+- [ ] `reports/Computer Graphics I.docx`
+- [ ] `reports/Computer Graphics I.pdf`
+- [ ] `reports/Computer Graphics and Human Simulation.docx`
+- [ ] `reports/Computer Graphics and Human Simulation.pdf`
+- [ ] `reports/Computer Graphics/CG-FinalExam/bin/texture.jpg`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/Coordinates.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/Shapes.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/cg1Shape.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/lightingParams.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/shaderProgram.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/simpleShape.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/tessMain.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/tessMain2.java`
+- [ ] `reports/Computer Graphics/CG-FinalExam/src/texture.jpg`
+- [ ] `reports/Computer Graphics/anotherFinal/bin/texture.jpg`
+- [ ] `reports/Computer Graphics/anotherFinal/cg2Shape.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/Shapes.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/cg1Shape.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/coordinates.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/lightingParams.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/shaderProgram.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/simpleShape.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/tessMain.java`
+- [ ] `reports/Computer Graphics/anotherFinal/src/texture.jpg`
+- [ ] `reports/Computer Graphics/anotherFinal/textureMain.java`
+- [ ] `reports/Computer Graphics/anotherFinal/textureParams.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/bin/texture.jpg`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/Coordinates.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/Shapes.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/cg1Shape.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/lightingParams.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/shaderProgram.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/simpleShape.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/tessMain.java`
+- [ ] `reports/Computer Graphics/anotherandtemFinal/src/texture.jpg`
+- [ ] `reports/Computer_Graphics_with_Open_GL_10.pdf`
+- [ ] `reports/Configuring SFML (1).pdf`
+- [ ] `reports/Configuring SFML.pdf`
+- [ ] `reports/CourseInfo.pdf`
+- [ ] `reports/Crypto Homework 1.docx`
+- [ ] `reports/Crypto Homework 1.pdf`
+- [ ] `reports/Crypto-Homework 6.docx`
+- [ ] `reports/Crypto/CryptoEC/ExtraCredit - Cryptography.pdf`
+- [ ] `reports/Crypto/CryptoHW1/Crypto Homework 1.docx`
+- [ ] `reports/Crypto/CryptoHW1/Crypto Homework 1.pdf`
+- [ ] `reports/Crypto/CryptoHW1/out.txt`
+- [ ] `reports/Crypto/CryptoHW1/out1.txt`
+- [ ] `reports/Crypto/CryptoHW1/out2.txt`
+- [ ] `reports/Crypto/CryptoHW1/result.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw3/out-Piter’s MacBook Pro.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw3/out.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw3/output.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw32/out-Piter’s MacBook Pro.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw32/out.txt`
+- [ ] `reports/Crypto/CryptoHw3/Crypthw32/output.txt`
+- [ ] `reports/Crypto/CryptoHw3/Cryptography Homework 3.docx`
+- [ ] `reports/Crypto/CryptoHw3/Cryptography Homework 3.pdf`
+- [ ] `reports/Crypto/CryptoHw3/output.txt`
+- [ ] `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/D8_3 v1_1.pdf`
+- [ ] `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/chapter_8_homework.pdf`
+- [ ] `reports/Crypto/CryptoHw6/Crypthw6/cryptohw6/ldc_tutorial.pdf`
+- [ ] `reports/Crypto/CryptoHw6/Crypto-Homework 6.docx`
+- [ ] `reports/Crypto/CryptoHw6/HomeworkCrypt6 copy.docx`
+- [ ] `reports/Crypto/CryptoHw6/HomeworkCrypt6.docx`
+- [ ] `reports/Crypto/CryptoHw6/HomeworkCrypt6.pdf`
+- [ ] `reports/Crypto/CryptoHw6/LinearAttackO.txt`
+- [ ] `reports/Crypto/CryptoHw6/input.txt`
+- [ ] `reports/Crypto/CryptoHw6/key.txt`
+- [ ] `reports/Crypto/CryptoHw6/laws.pdf`
+- [ ] `reports/Cryptography Homework 3.docx`
+- [ ] `reports/Cryptography Homework 3.pdf`
+- [ ] `reports/D8_3 v1_1.pdf`
+- [ ] `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.docx`
+- [ ] `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing.pdf`
+- [ ] `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.docx`
+- [ ] `reports/Data MIning_Best Time To Vacation/Best Time for Vacationing2.pdf`
+- [ ] `reports/Data MIning_Best Time To Vacation/Drawing3.pdf`
+- [ ] `reports/Data MIning_Best Time To Vacation/Phase2/BestVacation Framework/BestVacation/MacPorts-2.1.1/config/README.TXT`
+- [ ] `reports/Data MIning_Best Time To Vacation/Phase2/Phase2.pdf`
+- [ ] `reports/Drawing3.pdf`
+- [ ] `reports/Duncan Robert - Java/Lab7/Redacter1/Redact.java`
+- [ ] `reports/Duncan Robert - Java/Lab7/Redacter1/RedactWriter.java`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/243-final-review-answers.pdf`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/243-final-review.pdf`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/CSC-243-Final-Review-2011-3.pdf`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/Java Final Review.rtf`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/input.rtf`
+- [ ] `reports/Duncan Robert - Java/RushHourGame/javanotesprojecpart1.rtf`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PizzaRun.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/PrimeSieve.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Snowflake.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/StdDraw.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/Turtle.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab1/src/postLabReport.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/AddExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/Expression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/IntExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/Interp.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/JavaLab3Notes.rtf`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/MulExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/Parse.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/SubExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/243_Lab3/one1.docx`
+- [ ] `reports/Duncan Robert - Java/Stuff/BinaryTree/src/BinaryTreeExample.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/PizzaRun.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/PrimeSieve.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem1.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem10.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem2.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem3.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem4.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem5.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem6.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem7.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem8.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Problem9.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Snowflake.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/StdDraw.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle copy.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/Turtle.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PizzaRun.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/PrimeSieve.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem1.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem10.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem2.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem3.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem4.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem5.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem6.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem7.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem8.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Problem9.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/Snowflake.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/CS243_lab1/src/postLabReport.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/Java .pdf`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/AddExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Expression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/ExpressionTree.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/IntExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Interp.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/MulExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/Parse.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/JavaLab3/src/SubExpression.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/AudioBook.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/Book.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/ElectronicBook.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/HardcoverBook.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/JavaMidtermNotes.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/Media.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/PaperbackBook.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/Store.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/LabWeek7/storeName.png`
+- [ ] `reports/Duncan Robert - Java/Stuff/backProjectCode.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/dlab5/BaseballCard.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/dlab5/Dealer.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/dlab5/Fan.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/homework1.docx`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Card.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Computer.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Human.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Player.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Poker.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/PokerHand.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Ranks.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Suits.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Winner.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7 2/Redact.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7 2/RedactWriter.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/-AliceChapter1.redacted.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/AliceChapter1.txt`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/MyException.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/Redact.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/RedactWriter.java`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab7/alice-redacts.txt`
+- [ ] `reports/Duncan Robert - Java/WaterPuzzle/bin/design.txt`
+- [ ] `reports/Duncan Robert - Java/WaterPuzzle/src/design.txt`
+- [ ] `reports/Duncan Robert - Java/lab1/PizzaRun.java`
+- [ ] `reports/Duncan Robert - Java/lab1/PrimeSieve.java`
+- [ ] `reports/Duncan Robert - Java/lab1/Snowflake.java`
+- [ ] `reports/Duncan Robert - Java/lab1/StdDraw.java`
+- [ ] `reports/Duncan Robert - Java/lab1/Turtle.java`
+- [ ] `reports/Duncan Robert - Java/lab1/postLabReport.txt`
+- [ ] `reports/Duncan Robert - Java/lab2/CarRadio/CarRadio.java`
+- [ ] `reports/Duncan Robert - Java/lab2/CarRadio/test-all.input.txt`
+- [ ] `reports/Duncan Robert - Java/lab2/CarRadio/test-power.input.txt`
+- [ ] `reports/Duncan Robert - Java/lab2/CarRadio/test-tune3.input.txt`
+- [ ] `reports/Duncan Robert - Java/lab2/CarRadio/test-volume1.input.txt`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/AddExpression.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/Expression.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/IntExpression.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/Interp.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/MulExpression.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/Parse.java`
+- [ ] `reports/Duncan Robert - Java/lab3/RegExParser/SubExpression.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Card.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Computer.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Human.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Player.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Poker.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/PokerHand.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Ranks.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Suits.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Winner.java`
+- [ ] `reports/Duncan Robert - Java/lab5/BCardsDealer/BaseballCard.java`
+- [ ] `reports/Duncan Robert - Java/lab5/BCardsDealer/Dealer.java`
+- [ ] `reports/Duncan Robert - Java/lab5/BCardsDealer/Fan.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/Card.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardBack.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardButton.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CardFace.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/CheatFrame.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/ConcentrationModel.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/GViewControl.java`
+- [ ] `reports/Duncan Robert - Java/lab6/BCardsDealerApp/TextViewControl.java`
+- [ ] `reports/Duncan Robert - Java/lab8/TrollsBridge/RunWoolies.java`
+- [ ] `reports/Duncan Robert - Java/lab8/TrollsBridge/TrollsBridge.java`
+- [ ] `reports/Duncan Robert - Java/lab8/TrollsBridge/Woolie.java`
+- [ ] `reports/DynamicAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- [ ] `reports/DynamicAV.txt`
+- [ ] `reports/DynamicAV1.txt`
+- [ ] `reports/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- [ ] `reports/Experimental Project - Algo.docx`
+- [ ] `reports/ExtraCredit - Cryptography.pdf`
+- [ ] `reports/FinalReport.pdf`
+- [ ] `reports/GUIDE--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.PDF`
+- [ ] `reports/HLSm.pdf`
+- [ ] `reports/HW4.docx`
+- [ ] `reports/HW4.pdf`
+- [ ] `reports/Hirscberg.docx`
+- [ ] `reports/HomeworkCrypt6 copy.docx`
+- [ ] `reports/HomeworkCrypt6.docx`
+- [ ] `reports/HomeworkCrypt6.pdf`
+- [ ] `reports/How to Use the vi Editor.pdf`
+- [ ] `reports/InSITE10p693-704Ghuloum751.pdf`
+- [ ] `reports/Java .pdf`
+- [ ] `reports/Java Coding Standard.pdf`
+- [ ] `reports/Java Final Review.rtf`
+- [ ] `reports/JavaLab3Notes.rtf`
+- [ ] `reports/JavaMidtermNotes.txt`
+- [ ] `reports/LinearAttackO.txt`
+- [ ] `reports/Lines_circles.pdf`
+- [ ] `reports/Matrices.pdf`
+- [ ] `reports/MemoizationAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- [ ] `reports/MemoizationAV.txt`
+- [ ] `reports/MemoizationAV1.txt`
+- [ ] `reports/MidpointLineStarJavaProgram.rtf`
+- [ ] `reports/NaiveRecursive--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- [ ] `reports/NaiveRecursive.txt`
+- [ ] `reports/Orange_Book_-_OpenGL_Shading_Language_2nd_Edition.pdf`
+- [ ] `reports/Phase2.pdf`
+- [ ] `reports/PhillWhite/lab1/PowerSet/PowerSet (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab1/PowerSet/PowerSet.java`
+- [ ] `reports/PhillWhite/lab1/UnixAccount/UnixAccount (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab1/UnixAccount/UnixAccount.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Card (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Card.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Computer.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Human (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Human.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Poker.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Ranks.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Suits.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Card (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Card.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Computer (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Computer.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Human (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Human.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Poker (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Poker.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Ranks (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Ranks.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Suits (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Suits.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Card (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Card.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Computer (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Computer.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Human (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Human.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Poker (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Poker.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Ranks (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Ranks.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Suits (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Suits.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Card (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Card.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Computer (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Computer.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Human (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Human.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Poker (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Poker.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/PokerHand (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/PokerHand.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Ranks (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Ranks.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Suits (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Suits.java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Apples.java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Fruit.java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Mangos.java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Peach (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitA/Peach.java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Apples.java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Fruit.java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitB/Mangos.java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Apples.java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Fruit.java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitC/Mangos.java`
+- [ ] `reports/PhillWhite/lab4/FruitC/TotalPrice (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitC/TotalPrice.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Apples (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Apples.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Fruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Fruit.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/FruitException (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/FruitException.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/FruitException2 (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/FruitException2.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Mangoes (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Mangoes.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Mangos (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/Mangos.java`
+- [ ] `reports/PhillWhite/lab4/FruitD/TestFruit (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab4/FruitD/TestFruit.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/BSTTest.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/BinSet.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/Card.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/Ranks.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/Ranks1.java`
+- [ ] `reports/PhillWhite/lab5/BinSet/TestBinSet.java`
+- [ ] `reports/PhillWhite/lab6/RunWoolies (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab6/TrollsBridge (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab6/TrollsBridge/RunWoolies.java`
+- [ ] `reports/PhillWhite/lab6/TrollsBridge/TrollsBridge.java`
+- [ ] `reports/PhillWhite/lab6/TrollsBridge/Woolie.java`
+- [ ] `reports/PhillWhite/lab6/Woolie (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/Contacts (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/Contacts.java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/MenuSelec (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/MenuSelec.java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/Names (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBook/Names.java`
+- [ ] `reports/PhillWhite/lab8/AddressBookApp/AddressBook (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBookApp/AddressBook.java`
+- [ ] `reports/PhillWhite/lab8/AddressBookApp/Contacts (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab8/AddressBookApp/Contacts.java`
+- [ ] `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab9/VCipherReader/VigenereCipherReader.java`
+- [ ] `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab9/VCipherReader/VigenereCipherWriter.java`
+- [ ] `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab9/VCipherReaderA/VigenereCipherReader.java`
+- [ ] `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab9/VCipherReaderB/VigenereCipherWriter.java`
+- [ ] `reports/PhillWhite/stuff/Example (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/stuff/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/PhillWhite/stuff/outagain (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/PhillWhite/stuff/xanadu (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/PhillWhite/stuff/xanadu.txt`
+- [ ] `reports/PointsAndVectors.pdf`
+- [ ] `reports/PolygonFill.pdf`
+- [ ] `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-Algo-Experimental-Project.txt`
+- [ ] `reports/QuadraticAV--from-AlgoExpProject-2013-12-03-documents-export-2013-12-08.txt`
+- [ ] `reports/QuadraticAV.txt`
+- [ ] `reports/QuadraticAV1.txt`
+- [ ] `reports/README--from-MacPorts-2.1.1-config.TXT`
+- [ ] `reports/README.TXT`
+- [ ] `reports/REPORT_INITIAL.PDF`
+- [ ] `reports/Rasterization a line.pdf`
+- [ ] `reports/ReadMe.rtf`
+- [ ] `reports/RecitationWeek1.docx`
+- [ ] `reports/RecitationWeek1.txt`
+- [ ] `reports/SPR-51.pdf`
+- [ ] `reports/SPR-52.pdf`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/A.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/B.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/C.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/D.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/E.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/F.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/G.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/H.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/I.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/K.jpg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/download.jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (12).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (13).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (14).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (15).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (16).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (17).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (4).jpeg`
+- [ ] `reports/TravisBrown/Battleship/JavaProject2/images (8).jpeg`
+- [ ] `reports/TravisBrown/Battleship/Project2/A.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/B.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/BattleShip.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/BattleShipFrame.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/BattleShipModel.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/BattleShipTextView.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/Board.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/C.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/Cell.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/CellButton.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/Cells.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/CheatFrame.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/D.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/E.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/F.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/G.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/H.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/I.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/ImageSplitTest.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/K.jpg`
+- [ ] `reports/TravisBrown/Battleship/Project2/MyException.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/Ship.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/Water.java`
+- [ ] `reports/TravisBrown/Battleship/Project2/battleship.jpeg`
+- [ ] `reports/TravisBrown/Lab8/TrollsBridge/RunWoolies.java`
+- [ ] `reports/TravisBrown/Lab8/TrollsBridge/TrollsBridge.java`
+- [ ] `reports/TravisBrown/Lab8/TrollsBridge/Woolie.java`
+- [ ] `reports/TravisBrown/PrinterSim/data-in.txt`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/A.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/B.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShip.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipFrame.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipModel.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/BattleShipTextView.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/Board.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/C.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/Cell.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/CellButton.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/Cells.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/CheatFrame.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/D.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/E.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/F.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/G.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/H.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/I.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/ImageSplitTest.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/K.jpg`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/MyException.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/Ship.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/Water.java`
+- [ ] `reports/TravisBrown/SubmittedFinalProject/Project2/battleship.jpeg`
+- [ ] `reports/TravisBrown/lab1/lab1/InsertionSort.java`
+- [ ] `reports/TravisBrown/lab1/lab1/PizzaRun.java`
+- [ ] `reports/TravisBrown/lab1/lab1/Snowflake.java`
+- [ ] `reports/TravisBrown/lab1/lab1/StdDraw.java`
+- [ ] `reports/TravisBrown/lab1/lab1/Turtle.java`
+- [ ] `reports/TravisBrown/lab1/lab1/postLabReport.txt`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Card.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Computer.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Human.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Poker.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/PokerHand.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Ranks.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Suits.java`
+- [ ] `reports/TravisBrown/lab3/PassengerPriority/Flight.java`
+- [ ] `reports/TravisBrown/lab3/PassengerPriority/HeapQueue.java`
+- [ ] `reports/TravisBrown/lab3/PassengerPriority/LinkedListQueue.java`
+- [ ] `reports/TravisBrown/lab3/PassengerPriority/Passenger.java`
+- [ ] `reports/TravisBrown/lab3/PassengerPriority/PriorityQueue.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/AudioBook.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/Book.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/CassetteBook.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/ElectronicBook.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/HardcoverBook.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/Media.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/PaperbackBook.java`
+- [ ] `reports/TravisBrown/lab4/BookStore/Store.java`
+- [ ] `reports/TravisBrown/lab5/BinSet.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/AudioBook.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/BarneysBooks.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/Book.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/CassetteBook.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/ElectronicBook.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/GViewControl.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/HardcoverBook.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/Media.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/PaperbackBook.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/Store.java`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/input.txt`
+- [ ] `reports/TravisBrown/lab6/BookStoreApp/storeName.png`
+- [ ] `reports/TravisBrown/lab7/Redacter/-AliceChapter1.redacted.txt`
+- [ ] `reports/TravisBrown/lab7/Redacter/AliceChapter1.txt`
+- [ ] `reports/TravisBrown/lab7/Redacter/MyException.java`
+- [ ] `reports/TravisBrown/lab7/Redacter/Redact.java`
+- [ ] `reports/TravisBrown/lab7/Redacter/RedactWriter.java`
+- [ ] `reports/TravisBrown/lab7/Redacter/alice-redacts.txt`
+- [ ] `reports/TravisBrown/stuff/lab1/InsertionSort.java`
+- [ ] `reports/TravisBrown/stuff/lab1/PizzaRun.java`
+- [ ] `reports/TravisBrown/stuff/lab1/Snowflake.java`
+- [ ] `reports/TravisBrown/stuff/lab1/StdDraw.java`
+- [ ] `reports/TravisBrown/stuff/lab1/Turtle.java`
+- [ ] `reports/TravisBrown/stuff/lab1/postLabReport.txt`
+- [ ] `reports/TravisBrown/stuff/lab2/Card.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Computer.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Human.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Poker.java`
+- [ ] `reports/TravisBrown/stuff/lab2/PokerHand.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Ranks.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Suits.java`
+- [ ] `reports/Unix Reference Card.pdf`
+- [ ] `reports/WhatIsCG.pdf`
+- [ ] `reports/alice-redacts--from-Stuff-lab7.txt`
+- [ ] `reports/alice-redacts--from-lab7-Redacter.txt`
+- [ ] `reports/alice-redacts.txt`
+- [ ] `reports/backProjectCode.txt`
+- [ ] `reports/cghw2answers.docx`
+- [ ] `reports/cgnotespart1.pdf`
+- [ ] `reports/chapter_8_homework.pdf`
+- [ ] `reports/characteroutput (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/chesssetup.txt`
+- [ ] `reports/data-in.txt`
+- [ ] `reports/design--from-WaterPuzzle-bin.txt`
+- [ ] `reports/design--from-WaterPuzzle-src.txt`
+- [ ] `reports/design.txt`
+- [ ] `reports/dirList.docx`
+- [ ] `reports/final exam - answer1.docx`
+- [ ] `reports/graphicass01.doc`
+- [ ] `reports/guide to try.pdf`
+- [ ] `reports/guide.pdf`
+- [ ] `reports/homework1.docx`
+- [ ] `reports/hspr.pdf`
+- [ ] `reports/hw6.pdf`
+- [ ] `reports/input--from-Crypto-CryptoHw6.txt`
+- [ ] `reports/input.rtf`
+- [ ] `reports/input.txt`
+- [ ] `reports/introduction to OpenGL.pdf`
+- [ ] `reports/javanotesprojecpart1.rtf`
+- [ ] `reports/jinput_license.txt`
+- [ ] `reports/jogl_license.txt`
+- [ ] `reports/key.txt`
+- [ ] `reports/laws.pdf`
+- [ ] `reports/ldc_tutorial.pdf`
+- [ ] `reports/lzma_license.txt`
+- [ ] `reports/one1.docx`
+- [ ] `reports/openal_license.txt`
+- [ ] `reports/opengl-programming-guide-7e.pdf`
+- [ ] `reports/out--from-CryptoHw3-Crypthw3.txt`
+- [ ] `reports/out--from-CryptoHw3-Crypthw32.txt`
+- [ ] `reports/out-Piter’s MacBook Pro.txt`
+- [ ] `reports/out.txt`
+- [ ] `reports/out1.txt`
+- [ ] `reports/out2.txt`
+- [ ] `reports/outagain (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/output--from-Crypto-CryptoHw3.txt`
+- [ ] `reports/output--from-CryptoHw3-Crypthw3.txt`
+- [ ] `reports/output--from-CryptoHw3-Crypthw32.txt`
+- [ ] `reports/output.txt`
+- [ ] `reports/postLabReport--from-243_Lab1-src.txt`
+- [ ] `reports/postLabReport--from-CS243_lab1-src.txt`
+- [ ] `reports/postLabReport--from-Duncan-Robert---Java-lab1.txt`
+- [ ] `reports/postLabReport.txt`
+- [ ] `reports/questionare.rtf`
+- [ ] `reports/report - Copy.pdf`
+- [ ] `reports/report.bib`
+- [ ] `reports/report.pdf`
+- [ ] `reports/report.tex`
+- [ ] `reports/resources.txt`
+- [ ] `reports/result (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/result.txt`
+- [ ] `reports/results (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/retirizercopy.rtf`
+- [ ] `reports/sig-alternate.cls`
+- [ ] `reports/sig-alternate.tex`
+- [ ] `reports/spr.pdf`
+- [ ] `reports/stuff/ChestGame_NM/chesssetup.txt`
+- [ ] `reports/stuff/ChestGame_NM/design.txt`
+- [ ] `reports/stuff/Docs/10.1007-s00145-012-9128-3.pdf`
+- [ ] `reports/stuff/Docs/E58EFDFC-6266-43D2-BD1A-4B67DE16CEF6.docx`
+- [ ] `reports/stuff/Docs/How to Use the vi Editor.pdf`
+- [ ] `reports/stuff/Docs/Java Coding Standard.pdf`
+- [ ] `reports/stuff/Docs/Rasterization a line.pdf`
+- [ ] `reports/stuff/Docs/RecitationWeek1.docx`
+- [ ] `reports/stuff/Docs/Unix Reference Card.pdf`
+- [ ] `reports/stuff/Docs/guide to try.pdf`
+- [ ] `reports/stuff/Docs/guide.pdf`
+- [ ] `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jinput_license.txt`
+- [ ] `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/jogl_license.txt`
+- [ ] `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/lzma_license.txt`
+- [ ] `reports/stuff/Docs/lwjgl-2.9.0/doc/3rdparty/openal_license.txt`
+- [ ] `reports/stuff/Docs/lwjgl-2.9.0/res/resources.txt`
+- [ ] `reports/stuff/Docs/questionare.rtf`
+- [ ] `reports/stuff/Docs/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- [ ] `reports/stuff/Others/RecitationWeek1.txt`
+- [ ] `reports/tessellation.pdf`
+- [ ] `reports/test-all.input.txt`
+- [ ] `reports/test-power.input.txt`
+- [ ] `reports/test-tune3.input.txt`
+- [ ] `reports/test-volume1.input.txt`
+- [ ] `reports/test.txt`
+- [ ] `reports/tut1a.pdf`
+- [ ] `reports/www.cs.rit.edu_~vcss243_Recitations_01_worksheet.pdf`
+- [ ] `reports/xanadu (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/xanadu.txt`
+
+Presentations (31):
+- [ ] `Duncan Robert - Java/Stuff/lab4/Deck.java`
+- [ ] `Duncan Robert - Java/lab4/PokerHand1/Deck.java`
+- [ ] `PhillWhite/lab2/PokerHandA/Deck.java`
+- [ ] `PhillWhite/lab2/PokerHandB/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/lab2/PokerHandB/Deck.java`
+- [ ] `PhillWhite/lab2/PokerHandC/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/lab2/PokerHandC/Deck.java`
+- [ ] `PhillWhite/lab3/PokerHandD/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/lab3/PokerHandD/Deck.java`
+- [ ] `PhillWhite/stuff/Lab3/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/stuff/lab2/lab2-1/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/stuff/lab2/lab2-2/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `PhillWhite/stuff/lab2/lab2-3/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `TravisBrown/lab2/pokerhand/Deck.java`
+- [ ] `TravisBrown/stuff/lab2/Deck.java`
+- [ ] `presentations/2IV60_1_intro.ppt`
+- [ ] `presentations/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `presentations/Crypto/CryptoHw3/Lecture16.ppt`
+- [ ] `presentations/Lecture16.ppt`
+- [ ] `presentations/stuff/Docs/CV_Lec02_MATLAB (2013_03_30 07_27_35 UTC).ppt`
+- [ ] `reports/Duncan Robert - Java/Stuff/lab4/Deck.java`
+- [ ] `reports/Duncan Robert - Java/lab4/PokerHand1/Deck.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandA/Deck.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandB/Deck.java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab2/PokerHandC/Deck.java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `reports/PhillWhite/lab3/PokerHandD/Deck.java`
+- [ ] `reports/TravisBrown/lab2/pokerhand/Deck.java`
+- [ ] `reports/TravisBrown/stuff/lab2/Deck.java`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-klm
+
+- GitHub: https://github.com/pzg8794/opc-klm
+- Hub path: `Projects-Code/opc-klm`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1sMjN2lg17ecMohW-YlVw2ejnC61mWpdo
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-klm`.
+- [ ] Link the Overleaf project from `opc-klm/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (2):
+- [ ] `papers/GARCIA BAUTISTA-STUDY PLA1.pdf`
+- [ ] `papers/LeapGesture_BScThesis.pdf`
+
+Reports and written documentation (2505):
+- [ ] `reports/29 Viola et al SP3.pdf`
+- [ ] `reports/A0K--from-A-A1.txt`
+- [ ] `reports/A0K.txt`
+- [ ] `reports/A0LM--from-A-A1.txt`
+- [ ] `reports/A0LM.txt`
+- [ ] `reports/A1K--from-A-A1.txt`
+- [ ] `reports/A1K.txt`
+- [ ] `reports/A1LM--from-A-A1.txt`
+- [ ] `reports/A1LM.txt`
+- [ ] `reports/A2K--from-A-A1.txt`
+- [ ] `reports/A2K.txt`
+- [ ] `reports/A2LM--from-A-A1.txt`
+- [ ] `reports/A2LM.txt`
+- [ ] `reports/A3K--from-A-A1.txt`
+- [ ] `reports/A3K.txt`
+- [ ] `reports/A3LM--from-A-A1.txt`
+- [ ] `reports/A3LM.txt`
+- [ ] `reports/A4K--from-A-A1.txt`
+- [ ] `reports/A4K.txt`
+- [ ] `reports/A4LM--from-A-A1.txt`
+- [ ] `reports/A4LM.txt`
+- [ ] `reports/A5K--from-A-A1.txt`
+- [ ] `reports/A5K.txt`
+- [ ] `reports/A5LM--from-A-A1.txt`
+- [ ] `reports/A5LM.txt`
+- [ ] `reports/A6K--from-A-A1.txt`
+- [ ] `reports/A6K.txt`
+- [ ] `reports/A6LM--from-A-A1.txt`
+- [ ] `reports/A6LM.txt`
+- [ ] `reports/B0K--from-B-B1.txt`
+- [ ] `reports/B0K.txt`
+- [ ] `reports/B0LM--from-B-B1.txt`
+- [ ] `reports/B0LM.txt`
+- [ ] `reports/B1K--from-B-B1.txt`
+- [ ] `reports/B1K.txt`
+- [ ] `reports/B1LM--from-B-B1.txt`
+- [ ] `reports/B1LM.txt`
+- [ ] `reports/B2K--from-B-B1.txt`
+- [ ] `reports/B2K.txt`
+- [ ] `reports/B2LM--from-B-B1.txt`
+- [ ] `reports/B2LM.txt`
+- [ ] `reports/B3K--from-B-B1.txt`
+- [ ] `reports/B3K.txt`
+- [ ] `reports/B3LM--from-B-B1.txt`
+- [ ] `reports/B3LM.txt`
+- [ ] `reports/B4K--from-B-B1.txt`
+- [ ] `reports/B4K.txt`
+- [ ] `reports/B4LM--from-B-B1.txt`
+- [ ] `reports/B4LM.txt`
+- [ ] `reports/B5K--from-B-B1.txt`
+- [ ] `reports/B5K.txt`
+- [ ] `reports/B5LM--from-B-B1.txt`
+- [ ] `reports/B5LM.txt`
+- [ ] `reports/B6K--from-B-B1.txt`
+- [ ] `reports/B6K.txt`
+- [ ] `reports/B6LM--from-B-B1.txt`
+- [ ] `reports/B6LM.txt`
+- [ ] `reports/C0K--from-C-C2.txt`
+- [ ] `reports/C0K.txt`
+- [ ] `reports/C0LM--from-C-C2.txt`
+- [ ] `reports/C0LM.txt`
+- [ ] `reports/C1K--from-C-C2.txt`
+- [ ] `reports/C1K.txt`
+- [ ] `reports/C1LM--from-C-C2.txt`
+- [ ] `reports/C1LM.txt`
+- [ ] `reports/C2K--from-C-C2.txt`
+- [ ] `reports/C2K.txt`
+- [ ] `reports/C2LM--from-C-C2.txt`
+- [ ] `reports/C2LM.txt`
+- [ ] `reports/C3K--from-C-C2.txt`
+- [ ] `reports/C3K.txt`
+- [ ] `reports/C3LM--from-C-C2.txt`
+- [ ] `reports/C3LM.txt`
+- [ ] `reports/C4K--from-C-C2.txt`
+- [ ] `reports/C4K.txt`
+- [ ] `reports/C4LM--from-C-C2.txt`
+- [ ] `reports/C4LM.txt`
+- [ ] `reports/C5K--from-C-C2.txt`
+- [ ] `reports/C5K.txt`
+- [ ] `reports/C5LM--from-C-C2.txt`
+- [ ] `reports/C5LM.txt`
+- [ ] `reports/C6K--from-C-C2.txt`
+- [ ] `reports/C6K.txt`
+- [ ] `reports/C6LM--from-C-C2.txt`
+- [ ] `reports/C6LM.txt`
+- [ ] `reports/D0K--from-D-D2.txt`
+- [ ] `reports/D0K.txt`
+- [ ] `reports/D0LM--from-D-D2.txt`
+- [ ] `reports/D0LM.txt`
+- [ ] `reports/D1K--from-D-D2.txt`
+- [ ] `reports/D1K.txt`
+- [ ] `reports/D1LM--from-D-D2.txt`
+- [ ] `reports/D1LM.txt`
+- [ ] `reports/D2K--from-D-D2.txt`
+- [ ] `reports/D2K.txt`
+- [ ] `reports/D2LM--from-D-D2.txt`
+- [ ] `reports/D2LM.txt`
+- [ ] `reports/D3K--from-D-D2.txt`
+- [ ] `reports/D3K.txt`
+- [ ] `reports/D3LM--from-D-D2.txt`
+- [ ] `reports/D3LM.txt`
+- [ ] `reports/D4K--from-D-D2.txt`
+- [ ] `reports/D4K.txt`
+- [ ] `reports/D4LM--from-D-D2.txt`
+- [ ] `reports/D4LM.txt`
+- [ ] `reports/D5K--from-D-D2.txt`
+- [ ] `reports/D5K.txt`
+- [ ] `reports/D5LM--from-D-D2.txt`
+- [ ] `reports/D5LM.txt`
+- [ ] `reports/D6K--from-D-D2.txt`
+- [ ] `reports/D6K.txt`
+- [ ] `reports/D6LM--from-D-D2.txt`
+- [ ] `reports/D6LM.txt`
+- [ ] `reports/E0K--from-E-E1.txt`
+- [ ] `reports/E0K.txt`
+- [ ] `reports/E0LM--from-E-E1.txt`
+- [ ] `reports/E0LM.txt`
+- [ ] `reports/E1K--from-E-E1.txt`
+- [ ] `reports/E1K.txt`
+- [ ] `reports/E1LM--from-E-E1.txt`
+- [ ] `reports/E1LM.txt`
+- [ ] `reports/E2K--from-E-E1.txt`
+- [ ] `reports/E2K.txt`
+- [ ] `reports/E2LM--from-E-E1.txt`
+- [ ] `reports/E2LM.txt`
+- [ ] `reports/E3K--from-E-E1.txt`
+- [ ] `reports/E3K.txt`
+- [ ] `reports/E3LM--from-E-E1.txt`
+- [ ] `reports/E3LM.txt`
+- [ ] `reports/E4K--from-E-E1.txt`
+- [ ] `reports/E4K.txt`
+- [ ] `reports/E4LM--from-E-E1.txt`
+- [ ] `reports/E4LM.txt`
+- [ ] `reports/E5K--from-E-E1.txt`
+- [ ] `reports/E5K.txt`
+- [ ] `reports/E5LM--from-E-E1.txt`
+- [ ] `reports/E5LM.txt`
+- [ ] `reports/E6K--from-E-E1.txt`
+- [ ] `reports/E6K.txt`
+- [ ] `reports/E6LM--from-E-E1.txt`
+- [ ] `reports/E6LM.txt`
+- [ ] `reports/ElbowLeft              --from-A1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-A2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-B2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-C1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-C2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-D1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-D2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-E1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-E2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-F1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-F2-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-G1-Metrices.txt`
+- [ ] `reports/ElbowLeft              --from-G2-Metrices.txt`
+- [ ] `reports/ElbowLeft              .txt`
+- [ ] `reports/ElbowRight             --from-A1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-A2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-B2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-C1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-C2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-D1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-D2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-E1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-E2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-F1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-F2-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-G1-Metrices.txt`
+- [ ] `reports/ElbowRight             --from-G2-Metrices.txt`
+- [ ] `reports/ElbowRight             .txt`
+- [ ] `reports/F0K--from-F-F1.txt`
+- [ ] `reports/F0K.txt`
+- [ ] `reports/F0LM--from-F-F1.txt`
+- [ ] `reports/F0LM.txt`
+- [ ] `reports/F1K--from-F-F1.txt`
+- [ ] `reports/F1K.txt`
+- [ ] `reports/F1LM--from-F-F1.txt`
+- [ ] `reports/F1LM.txt`
+- [ ] `reports/F2K--from-F-F1.txt`
+- [ ] `reports/F2K.txt`
+- [ ] `reports/F2LM--from-F-F1.txt`
+- [ ] `reports/F2LM.txt`
+- [ ] `reports/F3K--from-F-F1.txt`
+- [ ] `reports/F3K.txt`
+- [ ] `reports/F3LM--from-F-F1.txt`
+- [ ] `reports/F3LM.txt`
+- [ ] `reports/F4K--from-F-F1.txt`
+- [ ] `reports/F4K.txt`
+- [ ] `reports/F4LM--from-F-F1.txt`
+- [ ] `reports/F4LM.txt`
+- [ ] `reports/F5K--from-F-F1.txt`
+- [ ] `reports/F5K.txt`
+- [ ] `reports/F5LM--from-F-F1.txt`
+- [ ] `reports/F5LM.txt`
+- [ ] `reports/F6K--from-F-F1.txt`
+- [ ] `reports/F6K.txt`
+- [ ] `reports/F6LM--from-F-F1.txt`
+- [ ] `reports/F6LM.txt`
+- [ ] `reports/G0K--from-G-G2.txt`
+- [ ] `reports/G0K.txt`
+- [ ] `reports/G0LM--from-G-G2.txt`
+- [ ] `reports/G0LM.txt`
+- [ ] `reports/G1K--from-G-G2.txt`
+- [ ] `reports/G1K.txt`
+- [ ] `reports/G1LM--from-G-G2.txt`
+- [ ] `reports/G1LM.txt`
+- [ ] `reports/G2K--from-G-G2.txt`
+- [ ] `reports/G2K.txt`
+- [ ] `reports/G2LM--from-G-G2.txt`
+- [ ] `reports/G2LM.txt`
+- [ ] `reports/G3K--from-G-G2.txt`
+- [ ] `reports/G3K.txt`
+- [ ] `reports/G3LM--from-G-G2.txt`
+- [ ] `reports/G3LM.txt`
+- [ ] `reports/G4K--from-G-G2.txt`
+- [ ] `reports/G4K.txt`
+- [ ] `reports/G4LM--from-G-G2.txt`
+- [ ] `reports/G4LM.txt`
+- [ ] `reports/G5K--from-G-G2.txt`
+- [ ] `reports/G5K.txt`
+- [ ] `reports/G5LM--from-G-G2.txt`
+- [ ] `reports/G5LM.txt`
+- [ ] `reports/G6K--from-G-G2.txt`
+- [ ] `reports/G6K.txt`
+- [ ] `reports/G6LM--from-G-G2.txt`
+- [ ] `reports/G6LM.txt`
+- [ ] `reports/H0K--from-H-H1.txt`
+- [ ] `reports/H0K.txt`
+- [ ] `reports/H0LM--from-H-H1.txt`
+- [ ] `reports/H0LM.txt`
+- [ ] `reports/H1K--from-H-H1.txt`
+- [ ] `reports/H1K.txt`
+- [ ] `reports/H1LM--from-H-H1.txt`
+- [ ] `reports/H1LM.txt`
+- [ ] `reports/H2K--from-H-H1.txt`
+- [ ] `reports/H2K.txt`
+- [ ] `reports/H2LM--from-H-H1.txt`
+- [ ] `reports/H2LM.txt`
+- [ ] `reports/H3K--from-H-H1.txt`
+- [ ] `reports/H3K.txt`
+- [ ] `reports/H3LM--from-H-H1.txt`
+- [ ] `reports/H3LM.txt`
+- [ ] `reports/H4K--from-H-H1.txt`
+- [ ] `reports/H4K.txt`
+- [ ] `reports/H4LM--from-H-H1.txt`
+- [ ] `reports/H4LM.txt`
+- [ ] `reports/H5K--from-H-H1.txt`
+- [ ] `reports/H5K.txt`
+- [ ] `reports/H5LM--from-H-H1.txt`
+- [ ] `reports/H5LM.txt`
+- [ ] `reports/H6K--from-H-H1.txt`
+- [ ] `reports/H6K.txt`
+- [ ] `reports/H6LM--from-H-H1.txt`
+- [ ] `reports/H6LM.txt`
+- [ ] `reports/HandLeft               --from-A1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-A2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-B2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-C1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-C2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-D1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-D2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-E1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-E2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-F1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-F2-Metrices.txt`
+- [ ] `reports/HandLeft               --from-G1-Metrices.txt`
+- [ ] `reports/HandLeft               --from-G2-Metrices.txt`
+- [ ] `reports/HandLeft               .txt`
+- [ ] `reports/HandRight              --from-A1-Metrices.txt`
+- [ ] `reports/HandRight              --from-A2-Metrices.txt`
+- [ ] `reports/HandRight              --from-B2-Metrices.txt`
+- [ ] `reports/HandRight              --from-C1-Metrices.txt`
+- [ ] `reports/HandRight              --from-C2-Metrices.txt`
+- [ ] `reports/HandRight              --from-D1-Metrices.txt`
+- [ ] `reports/HandRight              --from-D2-Metrices.txt`
+- [ ] `reports/HandRight              --from-E1-Metrices.txt`
+- [ ] `reports/HandRight              --from-E2-Metrices.txt`
+- [ ] `reports/HandRight              --from-F1-Metrices.txt`
+- [ ] `reports/HandRight              --from-F2-Metrices.txt`
+- [ ] `reports/HandRight              --from-G1-Metrices.txt`
+- [ ] `reports/HandRight              --from-G2-Metrices.txt`
+- [ ] `reports/HandRight              .txt`
+- [ ] `reports/HandTipLeft            --from-A1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-A2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-B2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-C1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-C2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-D1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-D2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-E1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-E2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-F1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-F2-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-G1-Metrices.txt`
+- [ ] `reports/HandTipLeft            --from-G2-Metrices.txt`
+- [ ] `reports/HandTipLeft            .txt`
+- [ ] `reports/HandTipRight           --from-A1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-A2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-B2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-C1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-C2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-D1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-D2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-E1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-E2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-F1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-F2-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-G1-Metrices.txt`
+- [ ] `reports/HandTipRight           --from-G2-Metrices.txt`
+- [ ] `reports/HandTipRight           .txt`
+- [ ] `reports/Head                   --from-A1-Metrices.txt`
+- [ ] `reports/Head                   --from-A2-Metrices.txt`
+- [ ] `reports/Head                   --from-B2-Metrices.txt`
+- [ ] `reports/Head                   --from-C1-Metrices.txt`
+- [ ] `reports/Head                   --from-C2-Metrices.txt`
+- [ ] `reports/Head                   --from-D1-Metrices.txt`
+- [ ] `reports/Head                   --from-D2-Metrices.txt`
+- [ ] `reports/Head                   --from-E1-Metrices.txt`
+- [ ] `reports/Head                   --from-E2-Metrices.txt`
+- [ ] `reports/Head                   --from-F1-Metrices.txt`
+- [ ] `reports/Head                   --from-F2-Metrices.txt`
+- [ ] `reports/Head                   --from-G1-Metrices.txt`
+- [ ] `reports/Head                   --from-G2-Metrices.txt`
+- [ ] `reports/Head                   .txt`
+- [ ] `reports/HipRight               --from-A1-Metrices.txt`
+- [ ] `reports/HipRight               --from-A2-Metrices.txt`
+- [ ] `reports/HipRight               --from-B2-Metrices.txt`
+- [ ] `reports/HipRight               --from-C1-Metrices.txt`
+- [ ] `reports/HipRight               --from-C2-Metrices.txt`
+- [ ] `reports/HipRight               --from-D1-Metrices.txt`
+- [ ] `reports/HipRight               --from-D2-Metrices.txt`
+- [ ] `reports/HipRight               --from-E1-Metrices.txt`
+- [ ] `reports/HipRight               --from-E2-Metrices.txt`
+- [ ] `reports/HipRight               --from-F1-Metrices.txt`
+- [ ] `reports/HipRight               --from-F2-Metrices.txt`
+- [ ] `reports/HipRight               --from-G1-Metrices.txt`
+- [ ] `reports/HipRight               --from-G2-Metrices.txt`
+- [ ] `reports/HipRight               .txt`
+- [ ] `reports/I0K.txt`
+- [ ] `reports/I0LM.txt`
+- [ ] `reports/I1K.txt`
+- [ ] `reports/I1LM.txt`
+- [ ] `reports/I2K.txt`
+- [ ] `reports/I2LM.txt`
+- [ ] `reports/I3K.txt`
+- [ ] `reports/I3LM.txt`
+- [ ] `reports/I4K.txt`
+- [ ] `reports/I4LM.txt`
+- [ ] `reports/I5K.txt`
+- [ ] `reports/I5LM.txt`
+- [ ] `reports/I6K.txt`
+- [ ] `reports/I6LM.txt`
+- [ ] `reports/KLM.FileListAbsolute.txt`
+- [ ] `reports/KLM.csproj.FileListAbsolute--from-x64-Debug.txt`
+- [ ] `reports/KLM.csproj.FileListAbsolute--from-x86-Debug.txt`
+- [ ] `reports/KLM.csproj.FileListAbsolute.txt`
+- [ ] `reports/Left_HandArm_D         --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandArm_D         .txt`
+- [ ] `reports/Left_HandArm_M         --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandArm_M         .txt`
+- [ ] `reports/Left_HandArm_N         --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandArm_N         .txt`
+- [ ] `reports/Left_HandElbow_        --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_        .txt`
+- [ ] `reports/Left_HandElbow_M       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_M       .txt`
+- [ ] `reports/Left_HandElbow_N       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandElbow_N       .txt`
+- [ ] `reports/Left_HandMatrixO       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixO       .txt`
+- [ ] `reports/Left_HandMatrixXB      --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixXB      .txt`
+- [ ] `reports/Left_HandMatrixYB      --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixYB      .txt`
+- [ ] `reports/Left_HandMatrixZB      --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      --from-G2-Metrices.txt`
+- [ ] `reports/Left_HandMatrixZB      .txt`
+- [ ] `reports/Left_HandPalm_M        --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_M        .txt`
+- [ ] `reports/Left_HandPalm_N        --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_N        .txt`
+- [ ] `reports/Left_HandPalm_P        --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandPalm_P        .txt`
+- [ ] `reports/Left_HandWrist_M       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_M       .txt`
+- [ ] `reports/Left_HandWrist_N       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_N       .txt`
+- [ ] `reports/Left_HandWrist_P       --from-A1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-A2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-B2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-C1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-C2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-D1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-D2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-E1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-E2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-F1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-F2-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       --from-G1-Metrices.txt`
+- [ ] `reports/Left_HandWrist_P       .txt`
+- [ ] `reports/Left_Hand_D            --from-A1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-A2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-B2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-C1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-C2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-D1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-D2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-E1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-E2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-F1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-F2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-G1-Metrices.txt`
+- [ ] `reports/Left_Hand_D            --from-G2-Metrices.txt`
+- [ ] `reports/Left_Hand_D            .txt`
+- [ ] `reports/Left_Hand_M            --from-A1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-A2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-B2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-C1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-C2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-D1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-D2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-E1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-E2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-F1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-F2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-G1-Metrices.txt`
+- [ ] `reports/Left_Hand_M            --from-G2-Metrices.txt`
+- [ ] `reports/Left_Hand_M            .txt`
+- [ ] `reports/Left_Hand_N            --from-A1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-A2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-B2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-C1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-C2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-D1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-D2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-E1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-E2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-F1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-F2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-G1-Metrices.txt`
+- [ ] `reports/Left_Hand_N            --from-G2-Metrices.txt`
+- [ ] `reports/Left_Hand_N            .txt`
+- [ ] `reports/LightBuzz.Vitruvius.csproj.FileListAbsolute--from-x86-Debug.txt`
+- [ ] `reports/LightBuzz.Vitruvius.csproj.FileListAbsolute.txt`
+- [ ] `reports/Neck                   --from-A1-Metrices.txt`
+- [ ] `reports/Neck                   --from-A2-Metrices.txt`
+- [ ] `reports/Neck                   --from-B2-Metrices.txt`
+- [ ] `reports/Neck                   --from-C1-Metrices.txt`
+- [ ] `reports/Neck                   --from-C2-Metrices.txt`
+- [ ] `reports/Neck                   --from-D1-Metrices.txt`
+- [ ] `reports/Neck                   --from-D2-Metrices.txt`
+- [ ] `reports/Neck                   --from-E1-Metrices.txt`
+- [ ] `reports/Neck                   --from-E2-Metrices.txt`
+- [ ] `reports/Neck                   --from-F1-Metrices.txt`
+- [ ] `reports/Neck                   --from-F2-Metrices.txt`
+- [ ] `reports/Neck                   --from-G1-Metrices.txt`
+- [ ] `reports/Neck                   .txt`
+- [ ] `reports/NuiExpressionModelManifest.txt`
+- [ ] `reports/Others_Arm_Features    --from-A1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-A2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-B2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-C1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-C2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-D1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-D2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-E1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-E2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-F1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-F2-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    --from-G1-Metrices.txt`
+- [ ] `reports/Others_Arm_Features    .txt`
+- [ ] `reports/Others_Elbow_Features  --from-A1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-A2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-B2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-C1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-C2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-D1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-D2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-E1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-E2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-F1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-F2-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  --from-G1-Metrices.txt`
+- [ ] `reports/Others_Elbow_Features  .txt`
+- [ ] `reports/Others_Finger_Featuers --from-A1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-A2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-B2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-C1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-C2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-D1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-D2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-E1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-E2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-F1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-F2-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers --from-G1-Metrices.txt`
+- [ ] `reports/Others_Finger_Featuers .txt`
+- [ ] `reports/Others_Hand_Features   --from-A1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-A2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-B2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-C1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-C2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-D1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-D2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-E1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-E2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-F1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-F2-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   --from-G1-Metrices.txt`
+- [ ] `reports/Others_Hand_Features   .txt`
+- [ ] `reports/Others_Palm_Features   --from-A1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-A2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-B2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-C1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-C2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-D1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-D2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-E1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-E2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-F1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-F2-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   --from-G1-Metrices.txt`
+- [ ] `reports/Others_Palm_Features   .txt`
+- [ ] `reports/Others_Wrist_Features  --from-A1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-A2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-B2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-C1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-C2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-D1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-D2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-E1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-E2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-F1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-F2-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  --from-G1-Metrices.txt`
+- [ ] `reports/Others_Wrist_Features  .txt`
+- [ ] `reports/Project System Architecture.png`
+- [ ] `reports/Project System Architecture.vsdx`
+- [ ] `reports/ShoulderLeft           --from-A1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-A2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-B2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-C1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-C2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-D1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-D2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-E1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-E2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-F1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-F2-Metrices.txt`
+- [ ] `reports/ShoulderLeft           --from-G1-Metrices.txt`
+- [ ] `reports/ShoulderLeft           .txt`
+- [ ] `reports/ShoulderRight          --from-A1-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-A2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-B2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-C1-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-C2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-D1-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-D2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-E1-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-E2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-F1-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-F2-Metrices.txt`
+- [ ] `reports/ShoulderRight          --from-G1-Metrices.txt`
+- [ ] `reports/ShoulderRight          .txt`
+- [ ] `reports/SpineMid               --from-A1-Metrices.txt`
+- [ ] `reports/SpineMid               --from-A2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-B2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-C1-Metrices.txt`
+- [ ] `reports/SpineMid               --from-C2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-D1-Metrices.txt`
+- [ ] `reports/SpineMid               --from-D2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-E1-Metrices.txt`
+- [ ] `reports/SpineMid               --from-E2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-F1-Metrices.txt`
+- [ ] `reports/SpineMid               --from-F2-Metrices.txt`
+- [ ] `reports/SpineMid               --from-G1-Metrices.txt`
+- [ ] `reports/SpineMid               .txt`
+- [ ] `reports/SpineShoulder          --from-A1-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-A2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-B2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-C1-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-C2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-D1-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-D2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-E1-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-E2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-F1-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-F2-Metrices.txt`
+- [ ] `reports/SpineShoulder          --from-G1-Metrices.txt`
+- [ ] `reports/SpineShoulder          .txt`
+- [ ] `reports/TYPE_INDEX             --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_INDEX             .txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXD_N          .txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipP         .txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipS         .txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_INDEXTipV         .txt`
+- [ ] `reports/TYPE_MIDDLE            --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLE            .txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/TYPE_PINKY             --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_PINKY             .txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYD_N          .txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipP         .txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipS         .txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_PINKYTipV         .txt`
+- [ ] `reports/TYPE_RING              --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_RING              --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_RING              .txt`
+- [ ] `reports/TYPE_RINGD_N           --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_RINGD_N           .txt`
+- [ ] `reports/TYPE_RINGTipP          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipP          .txt`
+- [ ] `reports/TYPE_RINGTipS          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipS          .txt`
+- [ ] `reports/TYPE_RINGTipV          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_RINGTipV          .txt`
+- [ ] `reports/TYPE_THUMB             --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_THUMB             .txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBD_N          .txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipP         .txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipS         .txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-A1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-A2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-B2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-C1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-C2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-D1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-D2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-E1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-E2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-F1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-F2-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         --from-G1-Metrices.txt`
+- [ ] `reports/TYPE_THUMBTipV         .txt`
+- [ ] `reports/ThumbLeft              --from-A1-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-A2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-B2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-C1-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-C2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-D1-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-D2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-E1-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-E2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-F1-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-F2-Metrices.txt`
+- [ ] `reports/ThumbLeft              --from-G1-Metrices.txt`
+- [ ] `reports/ThumbLeft              .txt`
+- [ ] `reports/ThumbRight             --from-A1-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-A2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-B2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-C1-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-C2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-D1-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-D2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-E1-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-E2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-F1-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-F2-Metrices.txt`
+- [ ] `reports/ThumbRight             --from-G1-Metrices.txt`
+- [ ] `reports/ThumbRight             .txt`
+- [ ] `reports/Workbook1.csv`
+- [ ] `reports/WristLeft              --from-A1-Metrices.txt`
+- [ ] `reports/WristLeft              --from-A2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-B2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-C1-Metrices.txt`
+- [ ] `reports/WristLeft              --from-C2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-D1-Metrices.txt`
+- [ ] `reports/WristLeft              --from-D2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-E1-Metrices.txt`
+- [ ] `reports/WristLeft              --from-E2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-F1-Metrices.txt`
+- [ ] `reports/WristLeft              --from-F2-Metrices.txt`
+- [ ] `reports/WristLeft              --from-G1-Metrices.txt`
+- [ ] `reports/WristLeft              .txt`
+- [ ] `reports/WristRight             --from-A1-Metrices.txt`
+- [ ] `reports/WristRight             --from-A2-Metrices.txt`
+- [ ] `reports/WristRight             --from-B2-Metrices.txt`
+- [ ] `reports/WristRight             --from-C1-Metrices.txt`
+- [ ] `reports/WristRight             --from-C2-Metrices.txt`
+- [ ] `reports/WristRight             --from-D1-Metrices.txt`
+- [ ] `reports/WristRight             --from-D2-Metrices.txt`
+- [ ] `reports/WristRight             --from-E1-Metrices.txt`
+- [ ] `reports/WristRight             --from-E2-Metrices.txt`
+- [ ] `reports/WristRight             --from-F1-Metrices.txt`
+- [ ] `reports/WristRight             --from-F2-Metrices.txt`
+- [ ] `reports/WristRight             --from-G1-Metrices.txt`
+- [ ] `reports/WristRight             .txt`
+- [ ] `reports/main.pdf`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/A6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/A6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/A/A2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/B6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/B6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/B/B2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/C6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/C6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/C/C2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/D6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/D6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/D/D2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/E6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/E6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/E/E2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/F6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/F6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/F/F2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/G6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/G6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/G/G2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/H6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H1/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/H6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ElbowLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ElbowRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandLeft               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandRight              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandTipLeft            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HandTipRight           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Head                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/HipRight               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_D         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_M         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandArm_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandElbow_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixO       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixXB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixYB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandMatrixZB      .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_M        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_N        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandPalm_P        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_M       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_N       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_HandWrist_P       .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_D            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_M            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Left_Hand_N            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Neck                   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Arm_Features    .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Elbow_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Finger_Featuers .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Hand_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Palm_Features   .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/Others_Wrist_Features  .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ShoulderLeft           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ShoulderRight          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/SpineMid               .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/SpineShoulder          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEX             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_INDEXTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLE            .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLED_N         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipP        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipS        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_MIDDLETipV        .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKY             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipP         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_PINKYTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RING              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGD_N           .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipP          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipS          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_RINGTipV          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMB             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBD_N          .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBTipS         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/TYPE_THUMBTipV         .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ThumbLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/ThumbRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/WristLeft              .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/H/H2/Metrices/WristRight             .txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I1/I6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/I/I2/I6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J1/J6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/J/J2/J6LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K0K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K0LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K1K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K1LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K2K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K2LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K3K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K3LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K4K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K4LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K5K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K5LM.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K6K.txt`
+- [ ] `reports/src/KLM/Data/Alphabet/K/K1/K6LM.txt`
+
+Presentations (6):
+- [ ] `presentations/Infusing Student Scholarship into Classroom Engagement.ppt`
+- [ ] `presentations/Poster (1).ppt`
+- [ ] `presentations/Poster.docx`
+- [ ] `presentations/Poster.pdf`
+- [ ] `presentations/Poster.ppt`
+- [ ] `presentations/PosterSpeech.docx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-labs-undergrad
+
+- GitHub: https://github.com/pzg8794/opc-labs-undergrad
+- Hub path: `Projects-Code/opc-labs-undergrad`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1RsuNUgH_bqDfSrB1YM2RtyrHJJTTzgCf
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-labs-undergrad`.
+- [ ] Link the Overleaf project from `opc-labs-undergrad/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (49):
+- [ ] `reports/317 nd 311 labs/317LAB#3 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/317 nd 311 labs/LabNo4 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/317 nd 311 labs/LabNo6 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/317LAB#3 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/AssignmentNo.7A (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS-230 LabNo.7/AssignmentNo.7A (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS-230 LabNo.7/LabNo7B (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS-230 LabNo.7/LabNo7C (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS11-13/LABS11-13 Output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/BCS11-13/Lab11BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS11-13/Lab12BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/BCS11-13/Lab13BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LABS11-13 Output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC)--from-repo-LabAssignmentNo6.docx`
+- [ ] `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC)--from-repo-Lab_AssignmentNo5.docx`
+- [ ] `reports/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab11BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab12BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab13BCS (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab4-Unix/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC)--from-repo-LabAssignmentNo6.docx`
+- [ ] `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC)--from-repo-Lab_AssignmentNo5.docx`
+- [ ] `reports/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabAssignmentNo6/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabAssignmentNo6/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabNo4 (Repaired) (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabNo6 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabNo7B (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/LabNo7C (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/Lab_AssignmentNo5/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Lab_AssignmentNo5/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/Unix Lab14/lab14 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab101 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/lab101.docx/lab101 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/lab101.docx/lab11_1 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/lab11_1 (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/lab12-unix/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab12_case (2013_03_30 07_27_35 UTC)--from-repo-lab12-unix.rtf`
+- [ ] `reports/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab12unix/lab12_case (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab14 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab4 (2013_03_30 07_27_35 UTC)--from-repo-Lab4-Unix.rtf`
+- [ ] `reports/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab5 (2)/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab54/Lab_5_1 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab54/lab4 (2013_03_30 07_27_35 UTC).rtf`
+- [ ] `reports/lab6-230/Lab Assignment 6 - Output&Input (2013_03_30 07_27_35 UTC).docx`
+- [ ] `reports/lab6-230/LabAssignmentNo6-Code (2013_03_30 07_27_35 UTC).docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-matlab
+
+- GitHub: https://github.com/pzg8794/opc-matlab
+- Hub path: `Projects-Code/opc-matlab`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1iOzNvYr8ff47j9TUNQCwVBjhzIUspre4
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-matlab`.
+- [ ] Link the Overleaf project from `opc-matlab/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (14):
+- [ ] `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal - ACV.docx`
+- [ ] `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal - ACV.pdf`
+- [ ] `papers/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal.docx`
+- [ ] `papers/Advance & Computer Vision/ACV/~$search Project Proposal.docx`
+- [ ] `papers/Advance & Computer Vision/ACV2/Proposal.docx`
+- [ ] `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/cvproposal.docx`
+- [ ] `papers/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$proposal.docx`
+- [ ] `papers/Proposal--from-ColorHistogramFolder-documents-export-2013-02-10.docx`
+- [ ] `papers/Proposal.docx`
+- [ ] `papers/Proposal.pdf`
+- [ ] `papers/Research Project Proposal - ACV.docx`
+- [ ] `papers/Research Project Proposal - ACV.pdf`
+- [ ] `papers/Research Project Proposal.docx`
+- [ ] `papers/cvproposal.docx`
+
+Reports and written documentation (270):
+- [ ] `reports/10.1.1.229.1174.pdf`
+- [ ] `reports/2012-13 Registration Guide 9-20-12.pdf`
+- [ ] `reports/5_2 Answer.txt`
+- [ ] `reports/700_final_examples.pdf`
+- [ ] `reports/8-2.txt`
+- [ ] `reports/A.docx`
+- [ ] `reports/ACV_HW2_KarinaDamico_PeterGarcia.docx`
+- [ ] `reports/ACV_HW2_KarinaDamico_PeterGarcia.pdf`
+- [ ] `reports/APCG-HW1/abSIRD_for_Matlab/license.txt`
+- [ ] `reports/Advance & Computer Vision/ACV/ACV-Stuff/cs295p_final_report_yunzhang.pdf`
+- [ ] `reports/Advance & Computer Vision/ACV2/CV_Lec02_MATLAB.pdf`
+- [ ] `reports/Advance & Computer Vision/ACV2/EditingReport.docx`
+- [ ] `reports/Advance & Computer Vision/ACV2/Latex/Report.pdf`
+- [ ] `reports/Advance & Computer Vision/ACV2/homework2.pdf`
+- [ ] `reports/Advance & Computer Vision/CVStuff/CV-HOMEWORK NUMBER TWO.docx`
+- [ ] `reports/Advance & Computer Vision/ComputerVision/Hw3_1/Homework3_1.docx`
+- [ ] `reports/Advance & Computer Vision/ComputerVision/Hw3_1/Homework3_1.pdf`
+- [ ] `reports/Advance & Computer Vision/ComputerVision/hw2/CV-HOMEWORK NUMBER TWO.docx`
+- [ ] `reports/Advance & Computer Vision/ComputerVision/hw4/CV HomeWork Number4.pdf`
+- [ ] `reports/CAR SEGMENTATION - Project Progress.pdf`
+- [ ] `reports/CV HomeWork Number4.pdf`
+- [ ] `reports/CV-HOMEWORK NUMBER TWO.docx`
+- [ ] `reports/CVHW1.docx`
+- [ ] `reports/CVHW4.docx`
+- [ ] `reports/CVPROJECT--from-ACV-ColorHistogramFolder.docx`
+- [ ] `reports/CVPROJECT--from-ComputerVision-CV-PROJECT.docx`
+- [ ] `reports/CVPROJECT-1.docx`
+- [ ] `reports/CVPROJECT-1.pdf`
+- [ ] `reports/CVPROJECT-2.pdf`
+- [ ] `reports/CVPROJECT.docx`
+- [ ] `reports/CVPROJECT.pdf`
+- [ ] `reports/CV_HW6_PiterGarcia (Autosaved).docx`
+- [ ] `reports/CV_HW6_PiterGarcia (Autosaved).pdf`
+- [ ] `reports/CV_HW6_PiterGarcia.docx`
+- [ ] `reports/CV_HW6_PiterGarcia.pdf`
+- [ ] `reports/CV_Lec02_MATLAB.pdf`
+- [ ] `reports/ColorHistogramPart.docx`
+- [ ] `reports/ColorHistogramPart.pdf`
+- [ ] `reports/ColorHistogramPart2.pdf`
+- [ ] `reports/ColorHistogramPart3.pdf`
+- [ ] `reports/CryptHW2_FINAL.docx`
+- [ ] `reports/CryptHW2_FINAL.pdf`
+- [ ] `reports/Document2.docx`
+- [ ] `reports/EET - 327 -Lab11.docx`
+- [ ] `reports/EET - 327 -Lab9.docx`
+- [ ] `reports/EET-327 LAB53.docx`
+- [ ] `reports/EET-327 LabNo24.docx`
+- [ ] `reports/EET-327 LabNo30.docx`
+- [ ] `reports/EET-327 lab12.docx`
+- [ ] `reports/EET-327 lab20.docx`
+- [ ] `reports/EET-327/EET - 327 -Lab11.docx`
+- [ ] `reports/EET-327/EET - 327 -Lab9.docx`
+- [ ] `reports/EET-327/EET-327 LAB53.docx`
+- [ ] `reports/EET-327/EET-327 LabNo24.docx`
+- [ ] `reports/EET-327/EET-327 LabNo30.docx`
+- [ ] `reports/EET-327/EET-327 lab12.docx`
+- [ ] `reports/EET-327/EET-327 lab20.docx`
+- [ ] `reports/EET-327/EET-327Lab15.docx`
+- [ ] `reports/EET-327/EET-327Lab16.docx`
+- [ ] `reports/EET-327Lab15.docx`
+- [ ] `reports/EET-327Lab16.docx`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab10/lab10conclusion.doc`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-A.txt`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-ANSWERS.txt`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/LAB6-B.txt`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/LAB6C-ANSWERS.txt`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/lab6a.txt`
+- [ ] `reports/EET-420/420piter labs/EET-420/Lab6/lab6b.txt`
+- [ ] `reports/EET-420/420piter labs/Lab10.m.txt`
+- [ ] `reports/EET-420/420piter labs/Lab4/Lab4o.txt`
+- [ ] `reports/EET-420/420piter labs/Lab4/Lab4o1.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6-A ANSWERS.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6-A.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6-B.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6C-ANSWERS.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6_B-Answers.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/LAB6_C.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/lab6a.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/lab6b.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/lab6c.txt`
+- [ ] `reports/EET-420/420piter labs/Lab6/lab6conclusion.docx`
+- [ ] `reports/EET-420/420piter labs/Lab7/Lab7-Conclusion.docx`
+- [ ] `reports/EET-420/420piter labs/Lab7/Lab7_3R80Answers.txt`
+- [ ] `reports/EET-420/420piter labs/Lab7/lab7_3answers.txt`
+- [ ] `reports/EET-420/420piter labs/lab5-EET420/lab5-2A.txt`
+- [ ] `reports/EET-420/420piter labs/lab5-EET420/lab5-2b.txt`
+- [ ] `reports/EET-420/420piter labs/lab5-EET420/lab5-2c.txt`
+- [ ] `reports/EET-420/420piter labs/lab5-EET420/lab51answers.txt`
+- [ ] `reports/EET-420/EET 420 Labs/LAB#10.doc`
+- [ ] `reports/EET-420/EET 420 Labs/LAB#5.doc`
+- [ ] `reports/EET-420/EET 420 Labs/Lab10.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab2B.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab4A.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab4b.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab5_cir1.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab5_cir2.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab5_cir3.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab6.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab7.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab7_R=20.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab8.docx`
+- [ ] `reports/EET-420/EET 420 Labs/Lab8_part3.txt`
+- [ ] `reports/EET-420/EET 420 Labs/Lab9.txt`
+- [ ] `reports/EET418/418Labs/EET-418/LAB11.0.txt`
+- [ ] `reports/EET418/418Labs/EET-418/Lab 7.docx`
+- [ ] `reports/EET418/418Labs/EET-418/job4.0.txt`
+- [ ] `reports/EET418/418Labs/EET418labs/418l/8-2.txt`
+- [ ] `reports/EET418/418Labs/EET418labs/418l/lab15.rtf`
+- [ ] `reports/EET418/EET-418/Lab12/LAB12_1 OUTPUT.txt`
+- [ ] `reports/EET418/EET-418/Lab3/New Text Document.txt`
+- [ ] `reports/EET418/EET-418/Lab4/5_2 Answer.txt`
+- [ ] `reports/EET418/EET-418/Lab4/Lab4o.txt`
+- [ ] `reports/EET418/EET-418/Lab4/Lab4o1.txt`
+- [ ] `reports/EET418/EET-418/Lab5/LAB5-ANSWER.txt`
+- [ ] `reports/EET418/EET-418/Lab5/LAB5_2.txt`
+- [ ] `reports/EET418/EET-418II/lab25.txt`
+- [ ] `reports/EET418/EET-418II/lab25t.txt`
+- [ ] `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/LAB10answers.txt`
+- [ ] `reports/EET418/ET-418L-Piter Complete Labs/Lab10/Lab10/lab101answers.txt`
+- [ ] `reports/EET418/ET-418L-Piter Complete Labs/Lab12/LAB12B_Answer.txt`
+- [ ] `reports/EET418/ET-418L-Piter Complete Labs/Lab12/LAB12_1 OUTPUT.txt`
+- [ ] `reports/EET418/ET-418L-Piter Complete Labs/Lab15/lab15a_answer.txt`
+- [ ] `reports/EET418/Incomplete Labs 418/New Folder/New Folder/LAB10answers.txt`
+- [ ] `reports/EET418/Incomplete Labs 418/New Folder/New Folder/lab101answers.txt`
+- [ ] `reports/EET418/LAB 5.docx`
+- [ ] `reports/EET418/Test2-Review/lab16.docx`
+- [ ] `reports/EET418/lab 6.txt`
+- [ ] `reports/EET418/lab3.docx`
+- [ ] `reports/EET418/lab3.txt`
+- [ ] `reports/EET418/lab4.docx`
+- [ ] `reports/EditingReport--from-ColorHistogramFolder-documents-export-2013-02-10.docx`
+- [ ] `reports/EditingReport.docx`
+- [ ] `reports/HW1_AdvancedCV.docx`
+- [ ] `reports/HW1_AdvancedCV.pdf`
+- [ ] `reports/HW30.txt`
+- [ ] `reports/Homework3_1.docx`
+- [ ] `reports/Homework3_1.pdf`
+- [ ] `reports/Hw3_3.docx`
+- [ ] `reports/Hw3_3.pdf`
+- [ ] `reports/InfoNetSec05_Ex1_sol.pdf`
+- [ ] `reports/LAB 5.docx`
+- [ ] `reports/LAB#10.doc`
+- [ ] `reports/LAB#5.doc`
+- [ ] `reports/LAB10answers.txt`
+- [ ] `reports/LAB11.0.txt`
+- [ ] `reports/LAB12.docx`
+- [ ] `reports/LAB12B_Answer.txt`
+- [ ] `reports/LAB12_1 OUTPUT.txt`
+- [ ] `reports/LAB5-ANSWER.txt`
+- [ ] `reports/LAB5_2.txt`
+- [ ] `reports/LAB6-A ANSWERS.txt`
+- [ ] `reports/LAB6-A.txt`
+- [ ] `reports/LAB6-ANSWERS.txt`
+- [ ] `reports/LAB6-B.txt`
+- [ ] `reports/LAB6.docx`
+- [ ] `reports/LAB6C-ANSWERS.txt`
+- [ ] `reports/LAB6_B-Answers.txt`
+- [ ] `reports/LAB6_C.txt`
+- [ ] `reports/LAB6_OUTPUT.txt`
+- [ ] `reports/Lab 7.docx`
+- [ ] `reports/Lab10.m.txt`
+- [ ] `reports/Lab10.txt`
+- [ ] `reports/Lab2B.txt`
+- [ ] `reports/Lab4A.txt`
+- [ ] `reports/Lab4b.txt`
+- [ ] `reports/Lab4o.txt`
+- [ ] `reports/Lab4o1.txt`
+- [ ] `reports/Lab5_cir1.txt`
+- [ ] `reports/Lab5_cir2.txt`
+- [ ] `reports/Lab5_cir3.txt`
+- [ ] `reports/Lab6.txt`
+- [ ] `reports/Lab7-Conclusion.docx`
+- [ ] `reports/Lab7.txt`
+- [ ] `reports/Lab7_3R80Answers.txt`
+- [ ] `reports/Lab7_Output.txt`
+- [ ] `reports/Lab7_R=20.txt`
+- [ ] `reports/Lab8--from-EET-420-EET-420-Labs.docx`
+- [ ] `reports/Lab8_part3.txt`
+- [ ] `reports/Lab9--from-EET-420-EET-420-Labs.txt`
+- [ ] `reports/New Text Document (1).txt`
+- [ ] `reports/New Text Document (2).txt`
+- [ ] `reports/New Text Document (3).txt`
+- [ ] `reports/New Text Document (4).txt`
+- [ ] `reports/New Text Document (5).txt`
+- [ ] `reports/New Text Document.txt`
+- [ ] `reports/NewVisa-NewDS2019.pdf`
+- [ ] `reports/Piter Garcia - update2.pdf`
+- [ ] `reports/README--from-ACV2-DT-OC5.txt`
+- [ ] `reports/Report.docx`
+- [ ] `reports/Report.odt`
+- [ ] `reports/Report.pdf`
+- [ ] `reports/Report3.pdf`
+- [ ] `reports/Shetty_Prajwal.pdf`
+- [ ] `reports/Tracking Cars Using Optical Flow.docx`
+- [ ] `reports/TuringMachine.pdf`
+- [ ] `reports/Update3.odt`
+- [ ] `reports/Update4.pdf`
+- [ ] `reports/Visit Canada as a tourist.docx`
+- [ ] `reports/[README].txt`
+- [ ] `reports/a.txt`
+- [ ] `reports/aaaaaa.txt`
+- [ ] `reports/acv_report.doc`
+- [ ] `reports/acv_report.docx`
+- [ ] `reports/acv_report.pdf`
+- [ ] `reports/bin-ratio-cvpr10 - Scene Category.docx`
+- [ ] `reports/bin-ratio-cvpr10 - Scene Category.pdf`
+- [ ] `reports/bin-ratio-cvpr10 - Scene Category_new.rtf`
+- [ ] `reports/black.txt`
+- [ ] `reports/cipher.txt`
+- [ ] `reports/cs295p_final_report_yunzhang.pdf`
+- [ ] `reports/ece480_dt3_application_note_dembelef.pdf`
+- [ ] `reports/exgcd.pdf`
+- [ ] `reports/ho08.pdf`
+- [ ] `reports/homework2.pdf`
+- [ ] `reports/hw2.docx`
+- [ ] `reports/hw2.pdf`
+- [ ] `reports/ieee.bib`
+- [ ] `reports/ieee.cls`
+- [ ] `reports/ieee.tex`
+- [ ] `reports/ieeeOrig.tex`
+- [ ] `reports/input.txt`
+- [ ] `reports/installer_input.txt`
+- [ ] `reports/job4.0.txt`
+- [ ] `reports/lab 10.docx`
+- [ ] `reports/lab 14.docx`
+- [ ] `reports/lab 5a.docx`
+- [ ] `reports/lab 6.txt`
+- [ ] `reports/lab101answers.txt`
+- [ ] `reports/lab10conclusion.doc`
+- [ ] `reports/lab11.docx`
+- [ ] `reports/lab13.docx`
+- [ ] `reports/lab15.docx`
+- [ ] `reports/lab15.rtf`
+- [ ] `reports/lab15a_answer.txt`
+- [ ] `reports/lab16.docx`
+- [ ] `reports/lab25.txt`
+- [ ] `reports/lab25t.txt`
+- [ ] `reports/lab3.docx`
+- [ ] `reports/lab3.txt`
+- [ ] `reports/lab4--from-418l-lab-reports.docx`
+- [ ] `reports/lab4.docx`
+- [ ] `reports/lab5-2A.txt`
+- [ ] `reports/lab5-2b.txt`
+- [ ] `reports/lab5-2c.txt`
+- [ ] `reports/lab51answers.txt`
+- [ ] `reports/lab6a.txt`
+- [ ] `reports/lab6b.txt`
+- [ ] `reports/lab6c.txt`
+- [ ] `reports/lab6conclusion.docx`
+- [ ] `reports/lab7.docx`
+- [ ] `reports/lab7_3answers.txt`
+- [ ] `reports/lab8-1answers.txt`
+- [ ] `reports/lab8-2 answers.txt`
+- [ ] `reports/lab8.docx`
+- [ ] `reports/lab9-Answers.txt`
+- [ ] `reports/lab9.docx`
+- [ ] `reports/lab9.txt`
+- [ ] `reports/lec21.pdf`
+- [ ] `reports/license--from-APCG-HW1-abSIRD_for_Matlab.txt`
+- [ ] `reports/license--from-APCG-HW1-stereogram.txt`
+- [ ] `reports/license.txt`
+- [ ] `reports/output.txt`
+- [ ] `reports/practiceMidterm.pdf`
+- [ ] `reports/practiceMidtermSolutions.pdf`
+- [ ] `reports/readme.txt`
+- [ ] `reports/report.doc`
+- [ ] `reports/saved.txt`
+- [ ] `reports/scan0001.pdf`
+- [ ] `reports/suryadevara-hw3.doc`
+- [ ] `reports/tut4-q4+5.doc`
+
+Presentations (55):
+- [ ] `Advance & Computer Vision/ACV2/FinalPresentation.png`
+- [ ] `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.docx`
+- [ ] `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.pdf`
+- [ ] `presentations/Advance & Computer Vision/ACV/ACV-HW3/Presentation-hw3.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal-Presentation.pdf`
+- [ ] `presentations/Advance & Computer Vision/ACV/ACV-Proposal/Research Project Proposal-Presentation.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV/Piter Garcia - update2.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV/Update1 (1).pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV/Update1.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/BIIS2011_1Lec02-1.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/FinalPresentation.png`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Final_Presentation-1.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Final_Presentation-2.pdf`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Final_Presentation-2.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Final_Presentation.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Piter Garcia - update2.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Presentation.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Presentation1.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Presentation2.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Update1.pptx`
+- [ ] `presentations/Advance & Computer Vision/ACV2/Update3.pptx`
+- [ ] `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/CAR SEGMENTATION - Project Progress.pptx`
+- [ ] `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/pptproporsalpresentation.pptx`
+- [ ] `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$CAR SEGMENTATION - Project Progress.pptx`
+- [ ] `presentations/Advance & Computer Vision/ComputerVision/CV-PROJECT/CV-PROJECT STUFF/~$pptproporsalpresentation.pptx`
+- [ ] `presentations/BIIS2011_1Lec02-1.pptx`
+- [ ] `presentations/CAR SEGMENTATION - Project Progress.pptx`
+- [ ] `presentations/EET418/EET-418II/EET418_ClassVisit.ppt`
+- [ ] `presentations/EET418/EET-418II/Lab5155.ppt`
+- [ ] `presentations/EET418_ClassVisit.ppt`
+- [ ] `presentations/Final_Presentation--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- [ ] `presentations/Final_Presentation-1.pptx`
+- [ ] `presentations/Final_Presentation-2.pdf`
+- [ ] `presentations/Final_Presentation-2.pptx`
+- [ ] `presentations/Final_Presentation.pptx`
+- [ ] `presentations/Lab5155.ppt`
+- [ ] `presentations/Piter Garcia - update2--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- [ ] `presentations/Piter Garcia - update2.pptx`
+- [ ] `presentations/Presentation-hw3.docx`
+- [ ] `presentations/Presentation-hw3.pdf`
+- [ ] `presentations/Presentation-hw3.pptx`
+- [ ] `presentations/Presentation.pptx`
+- [ ] `presentations/Presentation1.pptx`
+- [ ] `presentations/Presentation2.pptx`
+- [ ] `presentations/Research Project Proposal-Presentation.pdf`
+- [ ] `presentations/Research Project Proposal-Presentation.pptx`
+- [ ] `presentations/Update1 (1).pptx`
+- [ ] `presentations/Update1(2).pptx`
+- [ ] `presentations/Update1--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- [ ] `presentations/Update1.pptx`
+- [ ] `presentations/Update2.pptx`
+- [ ] `presentations/Update3--from-ColorHistogramFolder-documents-export-2013-02-10.pptx`
+- [ ] `presentations/Update3.pptx`
+- [ ] `presentations/Update4.pptx`
+- [ ] `presentations/pptproporsalpresentation.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-projects-workspace
+
+- GitHub: https://github.com/pzg8794/opc-projects-workspace
+- Hub path: `Projects-Code/opc-projects-workspace`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1TWgPEbsqaU2-S8gES1lrT9lXSbOjHOM8
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-projects-workspace`.
+- [ ] Link the Overleaf project from `opc-projects-workspace/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (165):
+- [ ] `reports/-.txt`
+- [ ] `reports/243JavaClass/243_Lab1/bin/postLabReport.txt`
+- [ ] `reports/243JavaClass/243_Lab1/src/postLabReport.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-all.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-all.input.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-all.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-all.output.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-power.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-power.input.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-power.output.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-tune3.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-tune3.input.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-tune3.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-tune3.output.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-volume1.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-volume1.input.txt`
+- [ ] `reports/243JavaClass/243_Lab2/test-volume1.output.txt`
+- [ ] `reports/243JavaClass/243_Lab5/input.txt`
+- [ ] `reports/243JavaClass/243_Lab7/-.txt`
+- [ ] `reports/243JavaClass/243_Lab7/AliceChapter1-Piter’s MacBook Pro.txt`
+- [ ] `reports/243JavaClass/243_Lab7/AliceChapter1.txt`
+- [ ] `reports/243JavaClass/243_Lab7/AliceChapter1Output.txt`
+- [ ] `reports/243JavaClass/243_Lab7/Output-Piter’s MacBook Pro.txt`
+- [ ] `reports/243JavaClass/243_Lab7/Output.txt`
+- [ ] `reports/243JavaClass/243_Lab7/alice-redacts-Piter’s MacBook Pro.txt`
+- [ ] `reports/243JavaClass/243_Lab7/alice-redacts.txt`
+- [ ] `reports/AliceChapter1 (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/AliceChapter1--from-243JavaClass-243_Lab7.txt`
+- [ ] `reports/AliceChapter1-Piter’s MacBook Pro.txt`
+- [ ] `reports/AliceChapter1.rabbit (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/AliceChapter1.rabbit.txt`
+- [ ] `reports/AliceChapter1.txt`
+- [ ] `reports/AliceChapter1Output.txt`
+- [ ] `reports/AliceInWonderland (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/AliceInWonderland.caterpillar (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/AliceInWonderland.caterpillar.txt`
+- [ ] `reports/AliceInWonderland.txt`
+- [ ] `reports/AliceInWonderlandDecoded (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/AliceInWonderlandDecoded.txt`
+- [ ] `reports/Clean.csv`
+- [ ] `reports/DatasetS2.csv`
+- [ ] `reports/DatasetS3--from-Data-Cleaning-PCleaning.csv`
+- [ ] `reports/DatasetS3.csv`
+- [ ] `reports/DynamicAV .txt`
+- [ ] `reports/DynamicAV.txt`
+- [ ] `reports/InvalidAgeDB.csv`
+- [ ] `reports/InvalidAgeDB2.csv`
+- [ ] `reports/MemoizationAV--from-AlgoExpProject-bin.txt`
+- [ ] `reports/MemoizationAV.txt`
+- [ ] `reports/NaiveRecursive .txt`
+- [ ] `reports/NaiveRecursive.txt`
+- [ ] `reports/Output--from-243JavaClass-243_Lab7.txt`
+- [ ] `reports/Output-Piter’s MacBook Pro.txt`
+- [ ] `reports/QuadraticAV .txt`
+- [ ] `reports/QuadraticAV--from-AlgoExpProject-bin.txt`
+- [ ] `reports/QuadraticAV.txt`
+- [ ] `reports/Rob/rob_lab7/AliceChapter1.txt`
+- [ ] `reports/Rob/rob_lab7/alice-redacts.txt`
+- [ ] `reports/Rob/rob_lab7/outxt.txt`
+- [ ] `reports/URecords.csv`
+- [ ] `reports/URecords2.csv`
+- [ ] `reports/URecords21.csv`
+- [ ] `reports/URecords22.csv`
+- [ ] `reports/ValidAgeDB.csv`
+- [ ] `reports/ValidAgeDB2.csv`
+- [ ] `reports/ValideAgeDB2.csv`
+- [ ] `reports/alice-redacts--from-243JavaClass-243_Lab7.txt`
+- [ ] `reports/alice-redacts-Piter’s MacBook Pro.txt`
+- [ ] `reports/alice-redacts.txt`
+- [ ] `reports/bands_attribute_names.txt`
+- [ ] `reports/data-in--from-PrinterSim-PrinterSim2.txt`
+- [ ] `reports/data-in.txt`
+- [ ] `reports/decoded (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/decoded.txt`
+- [ ] `reports/design.txt`
+- [ ] `reports/indexNamesMap.txt`
+- [ ] `reports/input--from-Cryptography-Cryphw1.txt`
+- [ ] `reports/input--from-labs-lab4.txt`
+- [ ] `reports/input.rtf`
+- [ ] `reports/input.txt`
+- [ ] `reports/input1.txt`
+- [ ] `reports/input2.txt`
+- [ ] `reports/javaLikeNames (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/javaLikeNames.txt`
+- [ ] `reports/kublakhan (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/kublakhan.opium.txt`
+- [ ] `reports/kublakhan.txt`
+- [ ] `reports/labs/lab1/postLabReport.txt`
+- [ ] `reports/labs/lab4/input.txt`
+- [ ] `reports/out--from-Cryptography-Cryphw1.txt`
+- [ ] `reports/out-Piter’s MacBook Pro.txt`
+- [ ] `reports/out.txt`
+- [ ] `reports/out1.txt`
+- [ ] `reports/out2--from-Cryphw1-bin.txt`
+- [ ] `reports/out2--from-Cryphw1-src.txt`
+- [ ] `reports/out2.txt`
+- [ ] `reports/out3.txt`
+- [ ] `reports/output (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- [ ] `reports/output (2013_03_30 07_27_35 UTC)--from-hw9-Homework9.txt`
+- [ ] `reports/output (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- [ ] `reports/output (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- [ ] `reports/output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/output--from-243JavaClass-hw9.txt`
+- [ ] `reports/output--from-AlgosProject-AlgoExpProject.txt`
+- [ ] `reports/output--from-AlgosProject-AlgoProject.txt`
+- [ ] `reports/output--from-Cryptography-Crypthw3.txt`
+- [ ] `reports/output--from-hw9-Homework9.txt`
+- [ ] `reports/output--from-lab7-Homework9.txt`
+- [ ] `reports/output--from-lab7-Homework9_2.txt`
+- [ ] `reports/output.txt`
+- [ ] `reports/output2 (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/output2.txt`
+- [ ] `reports/outputAlice (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- [ ] `reports/outputAlice (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/outputAlice--from-lab7-Homework9.txt`
+- [ ] `reports/outputAlice.txt`
+- [ ] `reports/outputDecode (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/outputDecode.txt`
+- [ ] `reports/outxt.txt`
+- [ ] `reports/postLabReport (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/postLabReport--from-labs-lab1.txt`
+- [ ] `reports/postLabReport--from-src-lab1.txt`
+- [ ] `reports/postLabReport.txt`
+- [ ] `reports/rdproof (2013_03_30 07_27_35 UTC)--from-Homework9_2-bin.txt`
+- [ ] `reports/rdproof (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/rdproof.txt`
+- [ ] `reports/reader (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- [ ] `reports/reader (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- [ ] `reports/reader (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/reader--from-lab7-Homework9.txt`
+- [ ] `reports/reader--from-lab7-Homework9_2.txt`
+- [ ] `reports/reader.txt`
+- [ ] `reports/savedIndexNames (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/savedIndexNames-Piter’s MacBook Pro.txt`
+- [ ] `reports/savedIndexNames.txt`
+- [ ] `reports/test--from-Rob-rob-p3.txt`
+- [ ] `reports/test-all.input (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- [ ] `reports/test-all.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-all.input.txt`
+- [ ] `reports/test-all.output (2013_03_30 07_27_35 UTC)--from-243_Lab2-src.txt`
+- [ ] `reports/test-all.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-all.output.txt`
+- [ ] `reports/test-power.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-power.input.txt`
+- [ ] `reports/test-power.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-power.output.txt`
+- [ ] `reports/test-tune3.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-tune3.input.txt`
+- [ ] `reports/test-tune3.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-tune3.output.txt`
+- [ ] `reports/test-volume1.input (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-volume1.input.txt`
+- [ ] `reports/test-volume1.output (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/test-volume1.output.txt`
+- [ ] `reports/test.txt`
+- [ ] `reports/writer (2013_03_30 07_27_35 UTC)--from-lab7-Homework9.txt`
+- [ ] `reports/writer (2013_03_30 07_27_35 UTC)--from-lab7-Homework9_2.txt`
+- [ ] `reports/writer (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/writer--from-lab7-Homework9.txt`
+- [ ] `reports/writer--from-lab7-Homework9_2.txt`
+- [ ] `reports/writer.txt`
+- [ ] `reports/writer1 (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/writer1.txt`
+- [ ] `reports/writer3 (2013_03_30 07_27_35 UTC).txt`
+- [ ] `reports/writer3.txt`
+
+Presentations (7):
+- [ ] `243JavaClass/243_Lab4/src/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `243JavaClass/243_Lab4/src/Deck.java`
+- [ ] `labs/lab2/src/Deck.java`
+- [ ] `poker/JavaLab4/src/Deck (2013_03_30 07_27_35 UTC).java`
+- [ ] `poker/JavaLab4/src/Deck.java`
+- [ ] `poker/src/Deck.java`
+- [ ] `poker/tempPoker/src/Deck.java`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-python
+
+- GitHub: https://github.com/pzg8794/opc-python
+- Hub path: `Projects-Code/opc-python`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1DplBiGewvlo94Qr82rlFYtWWa-GbHGQn
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-python`.
+- [ ] Link the Overleaf project from `opc-python/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (443):
+- [ ] `reports/DemoPresetation.docx`
+- [ ] `reports/LICENSE.txt`
+- [ ] `reports/Phase2.pdf`
+- [ ] `reports/README.TXT`
+- [ ] `reports/SOURCES.txt`
+- [ ] `reports/activation_email.txt`
+- [ ] `reports/activation_email_subject.txt`
+- [ ] `reports/booster.txt`
+- [ ] `reports/data_25.1875_-80.6875.txt`
+- [ ] `reports/data_25.1875_-80.8125.txt`
+- [ ] `reports/data_25.1875_-80.9375.txt`
+- [ ] `reports/data_25.1875_-81.0625.txt`
+- [ ] `reports/data_25.3125_-80.4375.txt`
+- [ ] `reports/data_25.3125_-80.5625.txt`
+- [ ] `reports/data_25.3125_-80.6875.txt`
+- [ ] `reports/data_25.3125_-80.8125.txt`
+- [ ] `reports/data_25.3125_-80.9375.txt`
+- [ ] `reports/data_25.3125_-81.0625.txt`
+- [ ] `reports/data_25.4375_-80.4375.txt`
+- [ ] `reports/data_25.4375_-80.5625.txt`
+- [ ] `reports/data_25.4375_-80.6875.txt`
+- [ ] `reports/data_25.4375_-80.8125.txt`
+- [ ] `reports/data_25.4375_-80.9375.txt`
+- [ ] `reports/data_25.4375_-81.0625.txt`
+- [ ] `reports/data_25.5625_-80.4375.txt`
+- [ ] `reports/data_25.5625_-80.5625.txt`
+- [ ] `reports/data_25.5625_-80.6875.txt`
+- [ ] `reports/data_25.5625_-80.8125.txt`
+- [ ] `reports/data_25.5625_-80.9375.txt`
+- [ ] `reports/data_25.5625_-81.0625.txt`
+- [ ] `reports/data_25.5625_-81.1875.txt`
+- [ ] `reports/data_25.6875_-80.3125.txt`
+- [ ] `reports/data_25.6875_-80.4375.txt`
+- [ ] `reports/data_25.6875_-80.5625.txt`
+- [ ] `reports/data_25.6875_-80.6875.txt`
+- [ ] `reports/data_25.6875_-80.8125.txt`
+- [ ] `reports/data_25.6875_-80.9375.txt`
+- [ ] `reports/data_25.6875_-81.0625.txt`
+- [ ] `reports/data_25.6875_-81.1875.txt`
+- [ ] `reports/data_25.8125_-80.1875.txt`
+- [ ] `reports/data_25.8125_-80.3125.txt`
+- [ ] `reports/data_25.8125_-80.4375.txt`
+- [ ] `reports/data_25.8125_-80.5625.txt`
+- [ ] `reports/data_25.8125_-80.6875.txt`
+- [ ] `reports/data_25.8125_-80.8125.txt`
+- [ ] `reports/data_25.8125_-80.9375.txt`
+- [ ] `reports/data_25.8125_-81.0625.txt`
+- [ ] `reports/data_25.8125_-81.1875.txt`
+- [ ] `reports/data_25.8125_-81.3125.txt`
+- [ ] `reports/data_25.9375_-80.1875.txt`
+- [ ] `reports/data_25.9375_-80.3125.txt`
+- [ ] `reports/data_25.9375_-80.4375.txt`
+- [ ] `reports/data_25.9375_-80.5625.txt`
+- [ ] `reports/data_26.6875_-80.5625.txt`
+- [ ] `reports/data_26.6875_-80.6875.txt`
+- [ ] `reports/data_26.6875_-80.8125.txt`
+- [ ] `reports/data_26.6875_-80.9375.txt`
+- [ ] `reports/data_26.6875_-81.0625.txt`
+- [ ] `reports/data_26.6875_-81.1875.txt`
+- [ ] `reports/data_26.6875_-81.3125.txt`
+- [ ] `reports/data_26.6875_-81.4375.txt`
+- [ ] `reports/data_26.6875_-81.5625.txt`
+- [ ] `reports/data_26.6875_-81.6875.txt`
+- [ ] `reports/data_26.6875_-81.8125.txt`
+- [ ] `reports/data_26.6875_-81.9375.txt`
+- [ ] `reports/data_26.6875_-82.0625.txt`
+- [ ] `reports/data_26.8125_-80.0625.txt`
+- [ ] `reports/data_26.8125_-80.1875.txt`
+- [ ] `reports/data_26.8125_-80.3125.txt`
+- [ ] `reports/data_26.8125_-80.4375.txt`
+- [ ] `reports/data_26.8125_-80.5625.txt`
+- [ ] `reports/data_26.8125_-80.9375.txt`
+- [ ] `reports/data_26.8125_-81.0625.txt`
+- [ ] `reports/data_26.8125_-81.1875.txt`
+- [ ] `reports/data_26.8125_-81.3125.txt`
+- [ ] `reports/data_26.8125_-81.4375.txt`
+- [ ] `reports/data_26.8125_-81.5625.txt`
+- [ ] `reports/data_26.8125_-81.6875.txt`
+- [ ] `reports/data_26.8125_-81.8125.txt`
+- [ ] `reports/data_26.8125_-81.9375.txt`
+- [ ] `reports/data_26.9375_-80.1875.txt`
+- [ ] `reports/data_26.9375_-80.3125.txt`
+- [ ] `reports/data_26.9375_-80.4375.txt`
+- [ ] `reports/data_26.9375_-80.5625.txt`
+- [ ] `reports/data_26.9375_-81.0625.txt`
+- [ ] `reports/data_26.9375_-81.1875.txt`
+- [ ] `reports/data_26.9375_-81.3125.txt`
+- [ ] `reports/data_26.9375_-81.4375.txt`
+- [ ] `reports/data_26.9375_-81.5625.txt`
+- [ ] `reports/data_26.9375_-81.6875.txt`
+- [ ] `reports/data_26.9375_-81.8125.txt`
+- [ ] `reports/data_26.9375_-81.9375.txt`
+- [ ] `reports/data_26.9375_-82.0625.txt`
+- [ ] `reports/data_26.9375_-82.1875.txt`
+- [ ] `reports/data_26.9375_-82.3125.txt`
+- [ ] `reports/data_27.0625_-80.1875.txt`
+- [ ] `reports/data_27.0625_-80.3125.txt`
+- [ ] `reports/data_27.0625_-80.4375.txt`
+- [ ] `reports/data_27.0625_-80.5625.txt`
+- [ ] `reports/data_27.0625_-80.9375.txt`
+- [ ] `reports/data_27.0625_-81.0625.txt`
+- [ ] `reports/data_27.0625_-81.1875.txt`
+- [ ] `reports/data_27.0625_-81.3125.txt`
+- [ ] `reports/data_27.0625_-81.4375.txt`
+- [ ] `reports/data_27.0625_-81.5625.txt`
+- [ ] `reports/data_27.0625_-81.6875.txt`
+- [ ] `reports/data_27.0625_-81.8125.txt`
+- [ ] `reports/data_27.0625_-81.9375.txt`
+- [ ] `reports/data_27.0625_-82.0625.txt`
+- [ ] `reports/data_27.0625_-82.1875.txt`
+- [ ] `reports/data_27.0625_-82.3125.txt`
+- [ ] `reports/data_27.0625_-82.4375.txt`
+- [ ] `reports/data_27.1875_-80.3125.txt`
+- [ ] `reports/data_27.1875_-80.4375.txt`
+- [ ] `reports/data_27.1875_-80.5625.txt`
+- [ ] `reports/data_27.1875_-80.6875.txt`
+- [ ] `reports/data_27.1875_-80.8125.txt`
+- [ ] `reports/data_27.1875_-80.9375.txt`
+- [ ] `reports/data_27.1875_-81.0625.txt`
+- [ ] `reports/data_27.1875_-81.1875.txt`
+- [ ] `reports/data_27.1875_-81.3125.txt`
+- [ ] `reports/data_27.1875_-81.4375.txt`
+- [ ] `reports/data_27.1875_-81.5625.txt`
+- [ ] `reports/data_27.1875_-81.6875.txt`
+- [ ] `reports/data_27.1875_-81.8125.txt`
+- [ ] `reports/data_27.1875_-81.9375.txt`
+- [ ] `reports/data_27.1875_-82.0625.txt`
+- [ ] `reports/data_27.1875_-82.1875.txt`
+- [ ] `reports/data_27.1875_-82.3125.txt`
+- [ ] `reports/data_27.1875_-82.4375.txt`
+- [ ] `reports/data_27.3125_-80.3125.txt`
+- [ ] `reports/data_27.3125_-80.4375.txt`
+- [ ] `reports/data_27.3125_-80.5625.txt`
+- [ ] `reports/data_27.3125_-80.6875.txt`
+- [ ] `reports/data_27.3125_-80.8125.txt`
+- [ ] `reports/data_27.3125_-80.9375.txt`
+- [ ] `reports/data_27.3125_-81.0625.txt`
+- [ ] `reports/data_27.3125_-81.1875.txt`
+- [ ] `reports/data_27.3125_-81.3125.txt`
+- [ ] `reports/data_27.3125_-81.4375.txt`
+- [ ] `reports/data_27.3125_-81.5625.txt`
+- [ ] `reports/data_27.3125_-81.6875.txt`
+- [ ] `reports/data_27.3125_-81.8125.txt`
+- [ ] `reports/data_27.3125_-81.9375.txt`
+- [ ] `reports/data_27.3125_-82.0625.txt`
+- [ ] `reports/data_27.3125_-82.1875.txt`
+- [ ] `reports/data_27.3125_-82.3125.txt`
+- [ ] `reports/data_27.3125_-82.4375.txt`
+- [ ] `reports/data_27.4375_-80.3125.txt`
+- [ ] `reports/data_27.4375_-80.4375.txt`
+- [ ] `reports/data_27.4375_-80.5625.txt`
+- [ ] `reports/data_27.4375_-80.6875.txt`
+- [ ] `reports/data_27.4375_-80.8125.txt`
+- [ ] `reports/data_27.4375_-80.9375.txt`
+- [ ] `reports/data_27.4375_-81.0625.txt`
+- [ ] `reports/data_27.4375_-81.1875.txt`
+- [ ] `reports/data_27.4375_-81.3125.txt`
+- [ ] `reports/data_27.4375_-81.4375.txt`
+- [ ] `reports/data_27.4375_-81.5625.txt`
+- [ ] `reports/data_27.4375_-81.6875.txt`
+- [ ] `reports/data_27.4375_-81.8125.txt`
+- [ ] `reports/data_27.4375_-81.9375.txt`
+- [ ] `reports/data_27.4375_-82.0625.txt`
+- [ ] `reports/data_27.4375_-82.1875.txt`
+- [ ] `reports/data_27.4375_-82.3125.txt`
+- [ ] `reports/data_27.4375_-82.4375.txt`
+- [ ] `reports/data_27.4375_-82.5625.txt`
+- [ ] `reports/data_27.5625_-80.4375.txt`
+- [ ] `reports/data_27.5625_-80.5625.txt`
+- [ ] `reports/data_27.5625_-80.6875.txt`
+- [ ] `reports/data_27.5625_-80.8125.txt`
+- [ ] `reports/data_27.5625_-80.9375.txt`
+- [ ] `reports/data_27.5625_-81.0625.txt`
+- [ ] `reports/data_27.5625_-81.1875.txt`
+- [ ] `reports/data_27.5625_-81.3125.txt`
+- [ ] `reports/data_27.5625_-81.5625.txt`
+- [ ] `reports/data_27.5625_-81.6875.txt`
+- [ ] `reports/data_27.5625_-81.8125.txt`
+- [ ] `reports/data_27.5625_-81.9375.txt`
+- [ ] `reports/data_27.5625_-82.0625.txt`
+- [ ] `reports/data_27.5625_-82.1875.txt`
+- [ ] `reports/data_27.5625_-82.3125.txt`
+- [ ] `reports/data_27.5625_-82.4375.txt`
+- [ ] `reports/data_27.5625_-82.5625.txt`
+- [ ] `reports/data_27.6875_-80.4375.txt`
+- [ ] `reports/data_27.6875_-80.5625.txt`
+- [ ] `reports/data_27.6875_-80.6875.txt`
+- [ ] `reports/data_27.6875_-80.8125.txt`
+- [ ] `reports/data_27.6875_-80.9375.txt`
+- [ ] `reports/data_27.6875_-81.0625.txt`
+- [ ] `reports/data_27.6875_-81.1875.txt`
+- [ ] `reports/data_27.6875_-81.3125.txt`
+- [ ] `reports/data_27.6875_-81.4375.txt`
+- [ ] `reports/data_27.6875_-81.5625.txt`
+- [ ] `reports/data_27.6875_-81.6875.txt`
+- [ ] `reports/data_27.6875_-81.8125.txt`
+- [ ] `reports/data_27.6875_-81.9375.txt`
+- [ ] `reports/data_27.6875_-82.0625.txt`
+- [ ] `reports/data_27.6875_-82.1875.txt`
+- [ ] `reports/data_27.6875_-82.3125.txt`
+- [ ] `reports/data_27.6875_-82.4375.txt`
+- [ ] `reports/data_27.8125_-80.5625.txt`
+- [ ] `reports/data_27.8125_-80.6875.txt`
+- [ ] `reports/data_27.8125_-80.8125.txt`
+- [ ] `reports/data_27.8125_-80.9375.txt`
+- [ ] `reports/data_27.8125_-81.0625.txt`
+- [ ] `reports/data_27.8125_-81.1875.txt`
+- [ ] `reports/data_27.8125_-81.3125.txt`
+- [ ] `reports/data_27.8125_-81.4375.txt`
+- [ ] `reports/data_27.8125_-81.5625.txt`
+- [ ] `reports/data_27.8125_-81.6875.txt`
+- [ ] `reports/data_27.8125_-81.8125.txt`
+- [ ] `reports/data_27.8125_-81.9375.txt`
+- [ ] `reports/data_27.8125_-82.0625.txt`
+- [ ] `reports/data_27.8125_-82.1875.txt`
+- [ ] `reports/data_27.8125_-82.3125.txt`
+- [ ] `reports/data_27.8125_-82.6875.txt`
+- [ ] `reports/data_27.9375_-80.5625.txt`
+- [ ] `reports/data_27.9375_-80.6875.txt`
+- [ ] `reports/data_27.9375_-80.8125.txt`
+- [ ] `reports/data_27.9375_-80.9375.txt`
+- [ ] `reports/data_27.9375_-81.0625.txt`
+- [ ] `reports/data_27.9375_-81.1875.txt`
+- [ ] `reports/data_27.9375_-81.4375.txt`
+- [ ] `reports/data_27.9375_-81.5625.txt`
+- [ ] `reports/data_27.9375_-81.6875.txt`
+- [ ] `reports/data_27.9375_-81.8125.txt`
+- [ ] `reports/data_27.9375_-81.9375.txt`
+- [ ] `reports/data_27.9375_-82.0625.txt`
+- [ ] `reports/data_27.9375_-82.1875.txt`
+- [ ] `reports/data_27.9375_-82.3125.txt`
+- [ ] `reports/data_27.9375_-82.4375.txt`
+- [ ] `reports/data_27.9375_-82.6875.txt`
+- [ ] `reports/data_27.9375_-82.8125.txt`
+- [ ] `reports/data_28.0625_-80.6875.txt`
+- [ ] `reports/data_28.0625_-80.8125.txt`
+- [ ] `reports/data_28.0625_-80.9375.txt`
+- [ ] `reports/data_28.0625_-81.0625.txt`
+- [ ] `reports/data_28.0625_-81.1875.txt`
+- [ ] `reports/data_28.0625_-81.3125.txt`
+- [ ] `reports/data_28.0625_-81.4375.txt`
+- [ ] `reports/data_28.0625_-81.5625.txt`
+- [ ] `reports/data_28.0625_-81.6875.txt`
+- [ ] `reports/data_28.0625_-81.8125.txt`
+- [ ] `reports/data_28.0625_-81.9375.txt`
+- [ ] `reports/data_28.0625_-82.0625.txt`
+- [ ] `reports/data_28.0625_-82.1875.txt`
+- [ ] `reports/data_28.0625_-82.3125.txt`
+- [ ] `reports/data_28.0625_-82.4375.txt`
+- [ ] `reports/data_28.0625_-82.5625.txt`
+- [ ] `reports/data_28.0625_-82.6875.txt`
+- [ ] `reports/data_28.1875_-80.6875.txt`
+- [ ] `reports/data_28.1875_-80.8125.txt`
+- [ ] `reports/data_28.1875_-80.9375.txt`
+- [ ] `reports/data_28.1875_-81.0625.txt`
+- [ ] `reports/data_28.1875_-81.1875.txt`
+- [ ] `reports/data_28.1875_-81.3125.txt`
+- [ ] `reports/data_28.1875_-81.4375.txt`
+- [ ] `reports/data_28.1875_-81.5625.txt`
+- [ ] `reports/data_28.1875_-81.6875.txt`
+- [ ] `reports/data_28.1875_-81.8125.txt`
+- [ ] `reports/data_28.1875_-81.9375.txt`
+- [ ] `reports/data_28.1875_-82.0625.txt`
+- [ ] `reports/data_28.1875_-82.1875.txt`
+- [ ] `reports/data_28.1875_-82.3125.txt`
+- [ ] `reports/data_28.1875_-82.4375.txt`
+- [ ] `reports/data_28.1875_-82.5625.txt`
+- [ ] `reports/data_28.1875_-82.6875.txt`
+- [ ] `reports/data_28.3125_-80.8125.txt`
+- [ ] `reports/data_28.3125_-80.9375.txt`
+- [ ] `reports/data_28.3125_-81.0625.txt`
+- [ ] `reports/data_28.3125_-81.1875.txt`
+- [ ] `reports/data_28.3125_-81.3125.txt`
+- [ ] `reports/data_28.3125_-81.4375.txt`
+- [ ] `reports/data_28.3125_-81.5625.txt`
+- [ ] `reports/data_28.3125_-81.6875.txt`
+- [ ] `reports/data_28.3125_-81.8125.txt`
+- [ ] `reports/data_28.3125_-81.9375.txt`
+- [ ] `reports/data_28.3125_-82.0625.txt`
+- [ ] `reports/data_28.3125_-82.1875.txt`
+- [ ] `reports/data_28.3125_-82.3125.txt`
+- [ ] `reports/data_28.3125_-82.4375.txt`
+- [ ] `reports/data_28.3125_-82.5625.txt`
+- [ ] `reports/data_28.3125_-82.6875.txt`
+- [ ] `reports/data_28.4375_-80.6875.txt`
+- [ ] `reports/data_28.4375_-80.8125.txt`
+- [ ] `reports/data_28.4375_-80.9375.txt`
+- [ ] `reports/data_28.4375_-81.0625.txt`
+- [ ] `reports/data_28.4375_-81.1875.txt`
+- [ ] `reports/data_28.4375_-81.3125.txt`
+- [ ] `reports/data_28.4375_-81.4375.txt`
+- [ ] `reports/data_28.4375_-81.5625.txt`
+- [ ] `reports/data_28.4375_-81.6875.txt`
+- [ ] `reports/data_28.4375_-81.8125.txt`
+- [ ] `reports/data_28.4375_-81.9375.txt`
+- [ ] `reports/data_28.4375_-82.0625.txt`
+- [ ] `reports/data_28.4375_-82.1875.txt`
+- [ ] `reports/data_28.4375_-82.3125.txt`
+- [ ] `reports/data_28.4375_-82.4375.txt`
+- [ ] `reports/data_28.4375_-82.5625.txt`
+- [ ] `reports/data_28.5625_-80.6875.txt`
+- [ ] `reports/data_28.5625_-80.8125.txt`
+- [ ] `reports/data_28.5625_-80.9375.txt`
+- [ ] `reports/data_28.5625_-81.0625.txt`
+- [ ] `reports/data_28.5625_-81.1875.txt`
+- [ ] `reports/data_28.5625_-81.3125.txt`
+- [ ] `reports/data_28.5625_-81.4375.txt`
+- [ ] `reports/data_28.5625_-81.5625.txt`
+- [ ] `reports/data_28.5625_-81.6875.txt`
+- [ ] `reports/data_28.5625_-81.8125.txt`
+- [ ] `reports/data_28.5625_-81.9375.txt`
+- [ ] `reports/data_28.5625_-82.0625.txt`
+- [ ] `reports/data_28.5625_-82.1875.txt`
+- [ ] `reports/data_28.5625_-82.3125.txt`
+- [ ] `reports/data_28.5625_-82.4375.txt`
+- [ ] `reports/data_28.5625_-82.5625.txt`
+- [ ] `reports/data_28.6875_-80.6875.txt`
+- [ ] `reports/data_28.6875_-80.8125.txt`
+- [ ] `reports/data_28.6875_-80.9375.txt`
+- [ ] `reports/data_28.6875_-81.0625.txt`
+- [ ] `reports/data_28.6875_-81.1875.txt`
+- [ ] `reports/data_28.6875_-81.3125.txt`
+- [ ] `reports/data_28.6875_-81.4375.txt`
+- [ ] `reports/data_28.6875_-81.5625.txt`
+- [ ] `reports/data_28.6875_-81.6875.txt`
+- [ ] `reports/data_28.6875_-81.8125.txt`
+- [ ] `reports/data_28.6875_-81.9375.txt`
+- [ ] `reports/data_28.6875_-82.0625.txt`
+- [ ] `reports/data_28.6875_-82.1875.txt`
+- [ ] `reports/data_28.6875_-82.3125.txt`
+- [ ] `reports/data_28.6875_-82.4375.txt`
+- [ ] `reports/data_28.6875_-82.5625.txt`
+- [ ] `reports/data_28.8125_-80.9375.txt`
+- [ ] `reports/data_28.8125_-81.0625.txt`
+- [ ] `reports/data_28.8125_-81.1875.txt`
+- [ ] `reports/data_28.8125_-81.3125.txt`
+- [ ] `reports/data_28.8125_-81.4375.txt`
+- [ ] `reports/data_28.8125_-81.5625.txt`
+- [ ] `reports/data_28.8125_-81.6875.txt`
+- [ ] `reports/data_28.8125_-81.8125.txt`
+- [ ] `reports/data_28.8125_-81.9375.txt`
+- [ ] `reports/data_28.8125_-82.0625.txt`
+- [ ] `reports/data_28.8125_-82.1875.txt`
+- [ ] `reports/data_28.8125_-82.3125.txt`
+- [ ] `reports/data_28.8125_-82.4375.txt`
+- [ ] `reports/data_28.8125_-82.5625.txt`
+- [ ] `reports/data_28.9375_-80.9375.txt`
+- [ ] `reports/data_28.9375_-81.0625.txt`
+- [ ] `reports/data_28.9375_-81.1875.txt`
+- [ ] `reports/data_28.9375_-81.3125.txt`
+- [ ] `reports/data_28.9375_-81.4375.txt`
+- [ ] `reports/data_28.9375_-81.5625.txt`
+- [ ] `reports/data_28.9375_-81.6875.txt`
+- [ ] `reports/data_28.9375_-81.8125.txt`
+- [ ] `reports/data_28.9375_-81.9375.txt`
+- [ ] `reports/data_28.9375_-82.0625.txt`
+- [ ] `reports/data_28.9375_-82.1875.txt`
+- [ ] `reports/data_28.9375_-82.3125.txt`
+- [ ] `reports/data_28.9375_-82.4375.txt`
+- [ ] `reports/data_28.9375_-82.5625.txt`
+- [ ] `reports/data_28.9375_-82.6875.txt`
+- [ ] `reports/data_29.0625_-80.9375.txt`
+- [ ] `reports/data_29.0625_-81.0625.txt`
+- [ ] `reports/data_29.0625_-81.1875.txt`
+- [ ] `reports/data_29.0625_-81.3125.txt`
+- [ ] `reports/data_29.0625_-81.4375.txt`
+- [ ] `reports/data_29.0625_-81.5625.txt`
+- [ ] `reports/data_29.0625_-81.6875.txt`
+- [ ] `reports/data_29.0625_-81.8125.txt`
+- [ ] `reports/data_29.0625_-81.9375.txt`
+- [ ] `reports/data_29.0625_-82.0625.txt`
+- [ ] `reports/data_29.0625_-82.1875.txt`
+- [ ] `reports/data_29.0625_-82.3125.txt`
+- [ ] `reports/data_29.0625_-82.4375.txt`
+- [ ] `reports/data_29.0625_-82.5625.txt`
+- [ ] `reports/data_29.0625_-82.6875.txt`
+- [ ] `reports/data_29.1875_-81.0625.txt`
+- [ ] `reports/data_29.1875_-81.1875.txt`
+- [ ] `reports/data_29.1875_-81.3125.txt`
+- [ ] `reports/data_29.1875_-81.4375.txt`
+- [ ] `reports/data_29.1875_-81.5625.txt`
+- [ ] `reports/data_29.1875_-81.6875.txt`
+- [ ] `reports/data_29.1875_-81.8125.txt`
+- [ ] `reports/data_29.1875_-81.9375.txt`
+- [ ] `reports/data_29.1875_-82.0625.txt`
+- [ ] `reports/data_29.1875_-82.1875.txt`
+- [ ] `reports/data_29.1875_-82.3125.txt`
+- [ ] `reports/data_29.1875_-82.4375.txt`
+- [ ] `reports/data_29.1875_-82.5625.txt`
+- [ ] `reports/data_29.1875_-82.6875.txt`
+- [ ] `reports/data_29.1875_-82.8125.txt`
+- [ ] `reports/data_29.1875_-82.9375.txt`
+- [ ] `reports/data_29.3125_-81.0625.txt`
+- [ ] `reports/data_29.3125_-81.1875.txt`
+- [ ] `reports/data_29.3125_-81.3125.txt`
+- [ ] `reports/data_29.3125_-81.4375.txt`
+- [ ] `reports/data_29.3125_-81.6875.txt`
+- [ ] `reports/data_29.3125_-81.8125.txt`
+- [ ] `reports/data_29.3125_-81.9375.txt`
+- [ ] `reports/data_29.3125_-82.0625.txt`
+- [ ] `reports/data_29.3125_-82.1875.txt`
+- [ ] `reports/data_29.3125_-82.3125.txt`
+- [ ] `reports/data_29.3125_-82.4375.txt`
+- [ ] `reports/data_29.3125_-82.5625.txt`
+- [ ] `reports/data_29.3125_-82.6875.txt`
+- [ ] `reports/data_29.3125_-82.8125.txt`
+- [ ] `reports/data_29.3125_-82.9375.txt`
+- [ ] `reports/data_29.3125_-83.0625.txt`
+- [ ] `reports/data_29.4375_-81.1875.txt`
+- [ ] `reports/data_29.4375_-81.3125.txt`
+- [ ] `reports/data_29.4375_-81.4375.txt`
+- [ ] `reports/data_29.4375_-81.5625.txt`
+- [ ] `reports/data_29.4375_-81.6875.txt`
+- [ ] `reports/data_29.4375_-81.8125.txt`
+- [ ] `reports/data_29.4375_-81.9375.txt`
+- [ ] `reports/data_29.4375_-82.0625.txt`
+- [ ] `reports/data_29.4375_-82.1875.txt`
+- [ ] `reports/data_29.4375_-82.3125.txt`
+- [ ] `reports/data_29.4375_-82.4375.txt`
+- [ ] `reports/data_29.4375_-82.5625.txt`
+- [ ] `reports/data_29.4375_-82.6875.txt`
+- [ ] `reports/data_29.4375_-82.8125.txt`
+- [ ] `reports/data_29.4375_-82.9375.txt`
+- [ ] `reports/data_29.4375_-83.0625.txt`
+- [ ] `reports/data_29.4375_-83.1875.txt`
+- [ ] `reports/data_29.5625_-81.1875.txt`
+- [ ] `reports/data_29.5625_-81.3125.txt`
+- [ ] `reports/data_29.5625_-81.4375.txt`
+- [ ] `reports/data_29.5625_-81.5625.txt`
+- [ ] `reports/data_29.5625_-81.6875.txt`
+- [ ] `reports/data_29.5625_-81.8125.txt`
+- [ ] `reports/data_29.5625_-81.9375.txt`
+- [ ] `reports/data_29.5625_-82.4375.txt`
+- [ ] `reports/data_29.5625_-82.5625.txt`
+- [ ] `reports/dependency_links.txt`
+- [ ] `reports/development.txt`
+- [ ] `reports/django_registration.txt`
+- [ ] `reports/install.txt`
+- [ ] `reports/pilbitmap.txt`
+- [ ] `reports/requires.txt`
+- [ ] `reports/sanedoc.txt`
+- [ ] `reports/top_level.txt`
+- [ ] `reports/userena.txt`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-senior-project
+
+- GitHub: https://github.com/pzg8794/opc-senior-project
+- Hub path: `Projects-Code/opc-senior-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1xrjkJtN-ocMETC89D2PlxJQ_nQsMsskF
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-senior-project`.
+- [ ] Link the Overleaf project from `opc-senior-project/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (50):
+- [ ] `reports/00965c.pdf`
+- [ ] `reports/AN_104_FTDI_Drivers_Installation_Guide_for_WindowsXP(FT_000093).pdf`
+- [ ] `reports/Design Project.docx`
+- [ ] `reports/IMPORTANT README.txt`
+- [ ] `reports/Installation of C18 compiler and open project_18F.pdf`
+- [ ] `reports/LCD Manual.pdf`
+- [ ] `reports/Microcontroller Programmer.doc`
+- [ ] `reports/MicrocontrollerDatasheet.pdf`
+- [ ] `reports/New Microsoft Word Document (Autosaved).docx`
+- [ ] `reports/PIC Start-up Kit/mplab8.20A and HI-TECH C PRO step.pdf`
+- [ ] `reports/PIC18F4550help.docx`
+- [ ] `reports/PICDEM FS USB Demo Board Users Guide.pdf`
+- [ ] `reports/PICdatasheet.pdf`
+- [ ] `reports/PICkit2 Overview.pdf`
+- [ ] `reports/Project-Searches.docx`
+- [ ] `reports/Qos measurment of Zigbee home automation network using various modulation schemes.pdf`
+- [ ] `reports/SK40C_Users_Manual.pdf`
+- [ ] `reports/SKXbee User Manual.pdf`
+- [ ] `reports/Smart-Plugs Doc.pdf`
+- [ ] `reports/Smart-Plugs Doc2.pdf`
+- [ ] `reports/Smart-Plugs3.doc`
+- [ ] `reports/Transaction Details - PayPal - Senior Project.pdf`
+- [ ] `reports/UIC00B Operating System.txt`
+- [ ] `reports/UIC00B_&_UIC-S_Users_Manual.pdf`
+- [ ] `reports/UPDATE REPORT2.docx`
+- [ ] `reports/Updated Report.doc`
+- [ ] `reports/X-CTU Config & Test.pdf`
+- [ ] `reports/XBEE-PRO RF MODULES.pdf`
+- [ ] `reports/ZigBee Basaed Industrial Automation Profiel for Power Monitorin Systems.doc`
+- [ ] `reports/ZigBee Basaed Industrial Automation Profiel for Power Monitorin Systems.pdf`
+- [ ] `reports/ZigBee_The Emerging Technology in Building Automation.doc`
+- [ ] `reports/ZigBee_The Emerging Technology in Building Automation.pdf`
+- [ ] `reports/chart_xbee_rf_features.pdf`
+- [ ] `reports/code.txt`
+- [ ] `reports/datasheet.pdf`
+- [ ] `reports/ds_xbeemultipointmodules.pdf`
+- [ ] `reports/header.txt`
+- [ ] `reports/intent_to_grad.pdf`
+- [ ] `reports/lcd1.pdf`
+- [ ] `reports/lcd2.pdf`
+- [ ] `reports/manual_xb_oemrfmodules_802.15.4.pdf`
+- [ ] `reports/mplab8.20A and HI-TECH C PRO step.pdf`
+- [ ] `reports/open project_16F.pdf`
+- [ ] `reports/p18f4550.txt`
+- [ ] `reports/readme.pdf`
+- [ ] `reports/samplecode.txt`
+- [ ] `reports/schematics_xbeemodule.pdf`
+- [ ] `reports/~$dated Report.doc`
+- [ ] `reports/~$gBee Basaed Industrial Automation Profiel for Power Monitorin Systems.doc`
+- [ ] `reports/~$gBee_The Emerging Technology in Building Automation.doc`
+
+Presentations (2):
+- [ ] `presentations/New Microsoft PowerPoint Presentation.pptx`
+- [ ] `presentations/PowerPoint Presentation.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-stuff
+
+- GitHub: https://github.com/pzg8794/opc-stuff
+- Hub path: `Projects-Code/opc-stuff`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/11SLFV_YqeCtZb2NYQM0MLHMD1UZmr2rz
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-stuff`.
+- [ ] Link the Overleaf project from `opc-stuff/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (6):
+- [ ] `papers/Physics Graph Paper.rtf`
+- [ ] `papers/Physics plain Graph Paper.doc`
+- [ ] `papers/USBMemory/Physics/Physics1/Physics Graph Paper.rtf`
+- [ ] `papers/USBMemory/Physics/Physics1/Physics plain Graph Paper.doc`
+- [ ] `papers/USBMemory/session1/Physics Graph Paper.rtf`
+- [ ] `papers/USBMemory/session1/Physics plain Graph Paper.doc`
+
+Reports and written documentation (33):
+- [ ] `reports/2010session.pdf`
+- [ ] `reports/2010session.rtf`
+- [ ] `reports/2010session1.rtf`
+- [ ] `reports/A Rose for Emily.docx`
+- [ ] `reports/A Rose for Emily1.docx`
+- [ ] `reports/Conclusion, physics lab report.docx`
+- [ ] `reports/EET-317LabNo4.docx`
+- [ ] `reports/EET-440 Networking Course Summary.docx`
+- [ ] `reports/EGL.docx`
+- [ ] `reports/Exp#7-EET223.docx`
+- [ ] `reports/Physics Lab Report-14.docx`
+- [ ] `reports/PiterCV-recent.doc`
+- [ ] `reports/PiterCV-recent1 (Autosaved).doc`
+- [ ] `reports/PiterCV-recent1 (Autosaved)1.doc`
+- [ ] `reports/Schedule.docx`
+- [ ] `reports/USBMemory/EET-440 Networking Course Summary.docx`
+- [ ] `reports/USBMemory/Physics/Physics1/Conclusion, physics lab report.docx`
+- [ ] `reports/USBMemory/Physics/Physics1/Physics Lab Report-14.docx`
+- [ ] `reports/USBMemory/session1/eet222lab.docx`
+- [ ] `reports/USBMemory/session1/eet222lab2.docx`
+- [ ] `reports/USBMemory/session2/Conclusion, physics lab report.docx`
+- [ ] `reports/USBMemory/session2/EET-317LabNo4.docx`
+- [ ] `reports/Young Goodman Brown..docx`
+- [ ] `reports/Young Goodman Brown.1.docx`
+- [ ] `reports/eet222lab.docx`
+- [ ] `reports/eet222lab2.docx`
+- [ ] `reports/eet223ab4.docx`
+- [ ] `reports/plain--from-Physics-Physics1.doc`
+- [ ] `reports/plain--from-USBMemory-session1.doc`
+- [ ] `reports/plain.doc`
+- [ ] `reports/plain.pdf`
+- [ ] `reports/right plain.docx`
+- [ ] `reports/right plain.pdf`
+
+Presentations (2):
+- [ ] `presentations/USBMemory/session1/informe final cambio climatico 2007 (2).ppt`
+- [ ] `presentations/informe final cambio climatico 2007 (2).ppt`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-unix-programming
+
+- GitHub: https://github.com/pzg8794/opc-unix-programming
+- Hub path: `Projects-Code/opc-unix-programming`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Wnb7H5kzNPU7AR3R4t8QICzQn5ooFBer
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-unix-programming`.
+- [ ] Link the Overleaf project from `opc-unix-programming/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (36):
+- [ ] `reports/Before starting your first terminal session.docx`
+- [ ] `reports/FINAL PROJECT.docx`
+- [ ] `reports/Finals in on File.docx`
+- [ ] `reports/GarcpFinalProject-Unix.docx`
+- [ ] `reports/How UNIX is used in Workplace.docx`
+- [ ] `reports/In this terminal session 8.docx`
+- [ ] `reports/Lab_5_1.rtf`
+- [ ] `reports/Review Exercises.docx`
+- [ ] `reports/Review ExercisesCH14.docx`
+- [ ] `reports/Review_Exercises.docx`
+- [ ] `reports/Terminal Session 3.txt`
+- [ ] `reports/Terminal Session 5.docx`
+- [ ] `reports/Terminal Session 6.docx`
+- [ ] `reports/Terminal Session 8.docx`
+- [ ] `reports/Terminal Session9.docx`
+- [ ] `reports/UNIX_Jeopardy_Review_1-1.doc`
+- [ ] `reports/UNIX_Review_1wanswers(2).docx`
+- [ ] `reports/UNIX_Review_1wanswers.docx`
+- [ ] `reports/Unix Manual- VI Reference.docx`
+- [ ] `reports/Unix Programming - Commands Summary.docx`
+- [ ] `reports/lab1.docx`
+- [ ] `reports/lab11_1.docx`
+- [ ] `reports/lab12_case.rtf`
+- [ ] `reports/lab13.rtf`
+- [ ] `reports/lab14.rtf`
+- [ ] `reports/lab15.docx`
+- [ ] `reports/lab2.rtf`
+- [ ] `reports/lab3_1.rtf`
+- [ ] `reports/lab4.rtf`
+- [ ] `reports/lab6-unix.rtf`
+- [ ] `reports/lab7.docx`
+- [ ] `reports/lab8_2.docx`
+- [ ] `reports/lab9_1-Unix.docx`
+- [ ] `reports/quiz6-Terminal Session.docx`
+- [ ] `reports/terminal session 4.docx`
+- [ ] `reports/unix homeworks.txt`
+
+Presentations (5):
+- [ ] `presentations/Lecture_12.pptx`
+- [ ] `presentations/Lecture_3___VI_Editor.ppt`
+- [ ] `presentations/UnixUnbounded_5e_Chapter_3edited.pptx`
+- [ ] `presentations/UnixUnbounded_5e_Chapter_5_edited.pptx`
+- [ ] `presentations/chmod___Octal_Digits.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-Code / opc-work-project
+
+- GitHub: https://github.com/pzg8794/opc-work-project
+- Hub path: `Projects-Code/opc-work-project`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1imPlJSNqt6v7JYMas8Dq0kuw9x8hcpDR
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opc-work-project`.
+- [ ] Link the Overleaf project from `opc-work-project/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (5):
+- [ ] `papers/ECONOMICS_STUDY_GUIDE_MIDTERM.doc`
+- [ ] `papers/Elvis AV Proposal # 2.pdf`
+- [ ] `papers/Elvis_AV_Proposal_#_2.doc.docx`
+- [ ] `papers/Stuff/Fisher/Elvis AV Proposal # 2.pdf`
+- [ ] `papers/Stuff/Fisher/Elvis_AV_Proposal_#_2.doc.docx`
+
+Reports and written documentation (190):
+- [ ] `reports/09septaa.txt`
+- [ ] `reports/2010session (2).rtf`
+- [ ] `reports/2010session.pdf`
+- [ ] `reports/2010session.rtf`
+- [ ] `reports/2010session1.rtf`
+- [ ] `reports/2013CBC_Advisory_Manual.pdf`
+- [ ] `reports/ABOUT_APACHE.txt`
+- [ ] `reports/ADA Accessible Lockers.docx`
+- [ ] `reports/AMERICAN_NV200_LEAFLET.pdf`
+- [ ] `reports/Additional Forms (2015).pdf`
+- [ ] `reports/AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx`
+- [ ] `reports/Apex_Manual.pdf`
+- [ ] `reports/ApplicationParts.txt`
+- [ ] `reports/Audi Viz Feb 28-Rev 3.doc`
+- [ ] `reports/Audi Viz Feb 28-Rev 3.pdf`
+- [ ] `reports/AudiVizFeb28-Rev3.doc`
+- [ ] `reports/Bill Acceptors and Features Comparison.docx`
+- [ ] `reports/Boarder 2.docx`
+- [ ] `reports/Boarder.docx`
+- [ ] `reports/CHANGES--from-xampp-apache.txt`
+- [ ] `reports/Card-No1-Information.pdf`
+- [ ] `reports/Codificador CRT-591_ct_ENG1.pdf`
+- [ ] `reports/Communication Protocol CD.docx`
+- [ ] `reports/Communication Protocol EL.doc`
+- [ ] `reports/Copy of index.txt`
+- [ ] `reports/Director of Marketing (Autosaved).docx`
+- [ ] `reports/Director of Marketing.docx`
+- [ ] `reports/End.pdf`
+- [ ] `reports/F1 Tiburon RFP Introduction.docx`
+- [ ] `reports/F2 Administration Local Interface.docx`
+- [ ] `reports/F3 Administration Web Interface.docx`
+- [ ] `reports/F4 User Interface.docx`
+- [ ] `reports/F5 Mobile Interface.docx`
+- [ ] `reports/F7 3rd Party Hardware.docx`
+- [ ] `reports/F8 Tiburon Hardware.docx`
+- [ ] `reports/Feature Specs.docx`
+- [ ] `reports/Final Safety & Risk Declaration Cardiff].doc`
+- [ ] `reports/Final Safety & Risk Declaration Cardiff].pdf`
+- [ ] `reports/Fire Risk Assessment.doc`
+- [ ] `reports/FoodQuestionnaireShort_member.docx`
+- [ ] `reports/GLOBAL WARMING.docx`
+- [ ] `reports/Global Warming--from-Global-Warming-Speech-Global-Warming.docx`
+- [ ] `reports/Global Warming.1.docx`
+- [ ] `reports/Globalization and Technology.docx`
+- [ ] `reports/Greenhouse Gase1.docx`
+- [ ] `reports/Greenhouse Gases.docx`
+- [ ] `reports/HT-24 28 ENCODER.pdf`
+- [ ] `reports/HelpScript.txt`
+- [ ] `reports/INSTALL.txt`
+- [ ] `reports/INTRODUCTION.docx`
+- [ ] `reports/INTRODUCTION1.docx`
+- [ ] `reports/Indoors.docx`
+- [ ] `reports/Instructions.docx`
+- [ ] `reports/Instructions.pdf`
+- [ ] `reports/International Cinema.docx`
+- [ ] `reports/John - Audi Viz Feb 28-Rev 3-H.docx`
+- [ ] `reports/KillDisk.pdf`
+- [ ] `reports/LICENSE.txt`
+- [ ] `reports/Logo.docx`
+- [ ] `reports/MX53_Combo_SC.pdf`
+- [ ] `reports/MadChefKitchen.pdf`
+- [ ] `reports/Marketing Breaf.docx`
+- [ ] `reports/Marketing Program.doc`
+- [ ] `reports/Mechanical Operating and Maintenance Manual.doc`
+- [ ] `reports/Mechanical Operating and Maintenance Manual.docx`
+- [ ] `reports/Mechanical Operating and Maintenance Manual.pdf`
+- [ ] `reports/Medical Consent Form (Park & Play)[1].doc`
+- [ ] `reports/Medical Consent Form _Activities_[1] Cardiff.doc`
+- [ ] `reports/Medical Consent Form _Activities_[1] Cardiff.pdf`
+- [ ] `reports/Melting Ice Caps.docx`
+- [ ] `reports/Microsoft Word - Fire.rtf`
+- [ ] `reports/Microsoft Word - Food Policy.doc`
+- [ ] `reports/Microsoft Word - Form 01 Nominated Supplier List.doc`
+- [ ] `reports/Microsoft Word - Form 02 Delivery Monitoring.rtf`
+- [ ] `reports/Microsoft Word - H&S Risk Assessment.doc`
+- [ ] `reports/Microsoft Word - H&S policy.doc`
+- [ ] `reports/Montana.docx`
+- [ ] `reports/Multidaywriteup DS.docx`
+- [ ] `reports/NDA_Piter.docx`
+- [ ] `reports/NDA_Piter.pdf`
+- [ ] `reports/NOTICE.txt`
+- [ ] `reports/NV200 appendices manual section 6.pdf`
+- [ ] `reports/NV200 field service manual section 2.pdf`
+- [ ] `reports/NV200 manual introduction.pdf`
+- [ ] `reports/NV200 mechanical and electrical manual section 4.pdf`
+- [ ] `reports/NV200 quick start manual section 1.pdf`
+- [ ] `reports/NV200 software implementation manual section 5.pdf`
+- [ ] `reports/NV200 software support manual section 3.pdf`
+- [ ] `reports/NV200_appendices_manual_section_6.docx`
+- [ ] `reports/NV9USB appendices manual section 6.pdf`
+- [ ] `reports/NV9USB field service manual section 2.pdf`
+- [ ] `reports/NV9USB manual introduction.pdf`
+- [ ] `reports/NV9USB mechanical and electrical manual section 4.pdf`
+- [ ] `reports/NV9USB quick start manual section 1.pdf`
+- [ ] `reports/NV9USB software implementation manual section 5.pdf`
+- [ ] `reports/NV9USB software support manual section 3.pdf`
+- [ ] `reports/New AD COPY.docx`
+- [ ] `reports/OPENSSL-NEWS.txt`
+- [ ] `reports/OPENSSL-README.txt`
+- [ ] `reports/OcoeeInnRaftingWaiver(fixed).docx`
+- [ ] `reports/OcoeeInnRaftingWaiver(fixed).rtf`
+- [ ] `reports/OcoeeInnRaftingWaiver.doc`
+- [ ] `reports/OcoeeInnRaftingWaiver.pdf`
+- [ ] `reports/Outline.docx`
+- [ ] `reports/PG Confirmation Letter.pdf`
+- [ ] `reports/PPTLS_Proctoring_OffCampusInstructions.pdf`
+- [ ] `reports/PTLS_Proctoring_OffCampusInstructions.pdf`
+- [ ] `reports/PeriodicW-O-OLF.docx`
+- [ ] `reports/Progressive.docx`
+- [ ] `reports/Project-Mock up (2).docx`
+- [ ] `reports/Project-Mock up.docx`
+- [ ] `reports/Project-Mock up2.docx`
+- [ ] `reports/Project-Mockup.pdf`
+- [ ] `reports/Project-Mockup0.pdf`
+- [ ] `reports/README--from-xampp-apache.txt`
+- [ ] `reports/Reichmann.docx`
+- [ ] `reports/Rent.pdf`
+- [ ] `reports/Ride Lockers.docx`
+- [ ] `reports/SNOWPARK_11-BB.pdf`
+- [ ] `reports/Snow Pic.docx`
+- [ ] `reports/Sponsored Links.docx`
+- [ ] `reports/SummaryReport.pdf`
+- [ ] `reports/Surfas Schedule v2.docx`
+- [ ] `reports/Surfas Schedule.docx`
+- [ ] `reports/Survey.docx`
+- [ ] `reports/TIB_003.1 - Statement of Work - E-locker and Charge Daddy - TrackChanges....pdf`
+- [ ] `reports/TLS_Proctoring_OffCampusInstructions.docx`
+- [ ] `reports/TLS_Proctoring_OffCampusInstructions.pdf`
+- [ ] `reports/Terms and Conditions _Park & Play_[1].doc`
+- [ ] `reports/Terms and Conditions for Activities[1] Cardiff.doc`
+- [ ] `reports/Terms and Conditions for Activities[1] Cardiff.pdf`
+- [ ] `reports/Tiburon Charge Daddy Administrator User Guide Tech Instruction 1.d.docx`
+- [ ] `reports/Tiburon Charge Daddy Venue User Guide Tech Instruction 1.d.docx`
+- [ ] `reports/UPDATED CULVER CITY CLASS SCHEDULE.docx`
+- [ ] `reports/US National WW Center Waiver.doc`
+- [ ] `reports/US National WW Center Waiver.pdf`
+- [ ] `reports/Visio-Progressive Flowchart.pdf`
+- [ ] `reports/WA F&B BP.101.doc`
+- [ ] `reports/WA F&B BP.101.docx`
+- [ ] `reports/WA F&B BP.101.pdf`
+- [ ] `reports/bv50-leaflet.pdf`
+- [ ] `reports/bv50-technical-manual.pdf`
+- [ ] `reports/cbu.txt`
+- [ ] `reports/changelog--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/changelog.txt`
+- [ ] `reports/changes.txt`
+- [ ] `reports/confirmation letter PG.docx`
+- [ ] `reports/download.csv`
+- [ ] `reports/draft1.txt`
+- [ ] `reports/draft2.txt`
+- [ ] `reports/draft3.txt`
+- [ ] `reports/draft4.txt`
+- [ ] `reports/draft5.txt`
+- [ ] `reports/draft6.txt`
+- [ ] `reports/draft7.txt`
+- [ ] `reports/hbu.txt`
+- [ ] `reports/hw3 (for loops).pdf`
+- [ ] `reports/impactly-hubspot-vast-css backup.txt`
+- [ ] `reports/invite 3.docx`
+- [ ] `reports/jbu.txt`
+- [ ] `reports/license--from-MadChefKitchen-inkzine-plus1.txt`
+- [ ] `reports/license--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/license--from-MadChefKitchen-starsofa.txt`
+- [ ] `reports/license--from-MadChefKitchen-starsofa1.txt`
+- [ ] `reports/license--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/mockUp.pdf`
+- [ ] `reports/mockUp2.pdf`
+- [ ] `reports/mockup2, editing.doc`
+- [ ] `reports/mockup2.doc`
+- [ ] `reports/myscripts.txt`
+- [ ] `reports/mystyle.txt`
+- [ ] `reports/nav buttons.txt`
+- [ ] `reports/notesfrommildmelddan.txt`
+- [ ] `reports/notesfrommildmeldtom.txt`
+- [ ] `reports/nv200-leaflet.pdf`
+- [ ] `reports/nv9usb-maintenance-guide.pdf`
+- [ ] `reports/passwords.txt`
+- [ ] `reports/readme--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/readme--from-MadChefKitchen-starsofa.txt`
+- [ ] `reports/readme--from-MadChefKitchen-starsofa1.txt`
+- [ ] `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/readme.auth_remote.txt`
+- [ ] `reports/readme.txt`
+- [ ] `reports/readme_de.txt`
+- [ ] `reports/readme_en.txt`
+- [ ] `reports/script.txt`
+- [ ] `reports/simple-products.csv`
+- [ ] `reports/waiver SURF LA.doc`
+- [ ] `reports/waiver SURF LA.pdf`
+
+Presentations (10):
+- [ ] `presentations/Concept Presentation.doc`
+- [ ] `presentations/Greenhouse.ppsx`
+- [ ] `presentations/Greenhouse.ppt`
+- [ ] `presentations/Greenhouse.pptx`
+- [ ] `presentations/IDF14_ChargingLockers_ScreenFlow_082214.pptx`
+- [ ] `presentations/Pollution.ppsx`
+- [ ] `presentations/Stuff/Fisher/Concept Presentation.doc`
+- [ ] `presentations/Stuff/Fisher/markerting plan.pptx`
+- [ ] `presentations/XXXGreenhouse.ppsx`
+- [ ] `presentations/markerting plan.pptx`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-calculus-i
+
+- GitHub: https://github.com/pzg8794/opn-calculus-i
+- Hub path: `Projects-No-Code/opn-calculus-i`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-4cZx5mxbZILs3v-Qk1Rvt-NkIti_Gmw
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-calculus-i`.
+- [ ] Link the Overleaf project from `opn-calculus-i/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (12):
+- [ ] `reports/116 HW 1.rtf`
+- [ ] `reports/Assignment#2 Math.docx`
+- [ ] `reports/Factor into binomials.docx`
+- [ ] `reports/Math Given three credit card scenarios.docx`
+- [ ] `reports/Math's Assignments.docx`
+- [ ] `reports/Math's Homework 2.docx`
+- [ ] `reports/Math's Homework, Trigonometry.docx`
+- [ ] `reports/Math's Homework.docx`
+- [ ] `reports/Math's Project, Peter.docx`
+- [ ] `reports/Math's Project.xlsx.docx`
+- [ ] `reports/Math's Project333.xlsx`
+- [ ] `reports/Math.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-calculus-ii
+
+- GitHub: https://github.com/pzg8794/opn-calculus-ii
+- Hub path: `Projects-No-Code/opn-calculus-ii`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Wm9apCxcGH019Uwhn6QyZgfRyUBZbK8O
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-calculus-ii`.
+- [ ] Link the Overleaf project from `opn-calculus-ii/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (2):
+- [ ] `reports/Calculus.docx`
+- [ ] `reports/CalculusII-Formulas.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-differential-equations
+
+- GitHub: https://github.com/pzg8794/opn-differential-equations
+- Hub path: `Projects-No-Code/opn-differential-equations`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1V_iwPOMWqNFmSCRqXOFwIl1Ch3HpS1kq
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-differential-equations`.
+- [ ] Link the Overleaf project from `opn-differential-equations/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (12):
+- [ ] `reports/DE-HW4 (Repaired).odt`
+- [ ] `reports/DE-HW4.docx`
+- [ ] `reports/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- [ ] `reports/Math Homework - Question No.1 of Test No.1.docx`
+- [ ] `reports/Math Homework-253.docx`
+- [ ] `reports/Math Homework.docx`
+- [ ] `reports/Math Homework2-253.docx`
+- [ ] `reports/Math-235.odt`
+- [ ] `reports/Math-Project-hw3(ONLY).docx`
+- [ ] `reports/RLC.docx`
+- [ ] `reports/RLC.pdf`
+- [ ] `reports/~$th Homework - Question No.1 of Test No.1.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-egl
+
+- GitHub: https://github.com/pzg8794/opn-egl
+- Hub path: `Projects-No-Code/opn-egl`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1u9x4GCQ13WHJhyVe8R5glytmzyQHn9IO
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-egl`.
+- [ ] Link the Overleaf project from `opn-egl/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (1):
+- [ ] `papers/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+
+Reports and written documentation (33):
+- [ ] `reports/A Rose for Emily.docx`
+- [ ] `reports/A Rose for Emily1.docx`
+- [ ] `reports/Advertising cover.docx`
+- [ ] `reports/Advertising has existed in the world since the beginning of our society.docx`
+- [ ] `reports/Advertising.docx`
+- [ ] `reports/American musicianin full Robert Sylvester Kelly.docx`
+- [ ] `reports/Building my Future.docx`
+- [ ] `reports/Cause and Effect.docx`
+- [ ] `reports/Does man protect or destroy his environment.docx`
+- [ ] `reports/EGL- A Song Analysis.docx`
+- [ ] `reports/EGL- A Song Analysis1.docx`
+- [ ] `reports/EGL- How to succeed in College.docx`
+- [ ] `reports/EGL-Personality.docx`
+- [ ] `reports/EGL-Visiting Writer Program.docx`
+- [ ] `reports/EGL.docx`
+- [ ] `reports/EGL101-Essay.docx`
+- [ ] `reports/Functions of the Family.docx`
+- [ ] `reports/Love versus Hate.docx`
+- [ ] `reports/Persuasive Essay - Does man protect or destroy his environment.docx`
+- [ ] `reports/Stages of Reading Literature as Aesthetic Experiencing.docx`
+- [ ] `reports/The proof that she protected and preserved her past relies mainly on two elements.docx`
+- [ ] `reports/The story.docx`
+- [ ] `reports/To Die Dreaming is a popular drink of that Dominican Republic.docx`
+- [ ] `reports/Tracks of My Life-1.docx`
+- [ ] `reports/We as human beings make many decisions.docx`
+- [ ] `reports/Workcite's essaay.docx`
+- [ ] `reports/Young Goodman Brown. (2).docx`
+- [ ] `reports/Young Goodman Brown..docx`
+- [ ] `reports/Young Goodman Brown.1 (2).docx`
+- [ ] `reports/Young Goodman Brown.1.docx`
+- [ ] `reports/englishHW.docx`
+- [ ] `reports/~$ung Goodman Brown..docx`
+- [ ] `reports/~$ung Goodman Brown.1.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-egl-310
+
+- GitHub: https://github.com/pzg8794/opn-egl-310
+- Hub path: `Projects-No-Code/opn-egl-310`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1g_vLUpKz-_nbxKxBm3sL_0O53E9vgvYD
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-egl-310`.
+- [ ] Link the Overleaf project from `opn-egl-310/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (8):
+- [ ] `papers/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+- [ ] `papers/AnotherArticle.doc`
+- [ ] `papers/Article.doc`
+- [ ] `papers/EGL-310 (1)/AnotherArticle.doc`
+- [ ] `papers/EGL-310 (1)/Article.doc`
+- [ ] `papers/EGL-310 (1)/TheArticle.doc`
+- [ ] `papers/EGL/Abstract Expressionism is a modern art movement which came about in America a little after world war two.docx`
+- [ ] `papers/TheArticle.doc`
+
+Reports and written documentation (74):
+- [ ] `reports/A Rose for Emily.docx`
+- [ ] `reports/A Rose for Emily1.docx`
+- [ ] `reports/Advertising cover.docx`
+- [ ] `reports/Advertising has existed in the world since the beginning of our society.docx`
+- [ ] `reports/Advertising.docx`
+- [ ] `reports/American musicianin full Robert Sylvester Kelly.docx`
+- [ ] `reports/Assignment 9_Memo.docx`
+- [ ] `reports/AssignmentforTuesdayEGL.doc`
+- [ ] `reports/Brochure - EGL-310.pdf`
+- [ ] `reports/Building my Future.docx`
+- [ ] `reports/Cause and Effect.docx`
+- [ ] `reports/Does man protect or destroy his environment.docx`
+- [ ] `reports/EGL- A Song Analysis.docx`
+- [ ] `reports/EGL- A Song Analysis1.docx`
+- [ ] `reports/EGL- How to succeed in College.docx`
+- [ ] `reports/EGL-310 (1)/Assignment 9_Memo.docx`
+- [ ] `reports/EGL-310 (1)/AssignmentforTuesdayEGL.doc`
+- [ ] `reports/EGL-310 (1)/EGL-310 ASSIGNMENT6.doc`
+- [ ] `reports/EGL-310 (1)/EGL-310 Assignment 6.doc`
+- [ ] `reports/EGL-310 (1)/EGL-310 Assignment 6.pdf`
+- [ ] `reports/EGL-310 (1)/EGL-310_Assignment_6.pdf`
+- [ ] `reports/EGL-310 (1)/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- [ ] `reports/EGL-310 (1)/assignment5.doc`
+- [ ] `reports/EGL-310 (1)/assignment5.pdf`
+- [ ] `reports/EGL-310 (1)/egl-310 assignment 7a.docx`
+- [ ] `reports/EGL-310 ASSIGNMENT6.doc`
+- [ ] `reports/EGL-310 Assigment 7.docx`
+- [ ] `reports/EGL-310 Assignment 6.doc`
+- [ ] `reports/EGL-310 Assignment 6.pdf`
+- [ ] `reports/EGL-310_Assigment_7.docx`
+- [ ] `reports/EGL-310_Assignment_6.pdf`
+- [ ] `reports/EGL-Personality.docx`
+- [ ] `reports/EGL-Visiting Writer Program.docx`
+- [ ] `reports/EGL.docx`
+- [ ] `reports/EGL101-Essay.docx`
+- [ ] `reports/EGLFEB14.odt`
+- [ ] `reports/Functions of the Family.docx`
+- [ ] `reports/Future Career and Social Media.doc`
+- [ ] `reports/INTERVIEW FINAL.doc`
+- [ ] `reports/INTERVIEW FINAL.pdf`
+- [ ] `reports/Instructuions EGL-310.doc`
+- [ ] `reports/Interview Questions.doc`
+- [ ] `reports/Interview Questions[1].doc`
+- [ ] `reports/InterviewQuestions2.doc`
+- [ ] `reports/Love versus Hate.docx`
+- [ ] `reports/Module Title.docx`
+- [ ] `reports/Pages_Templates_User_Manual.pdf`
+- [ ] `reports/Person to Interview.doc`
+- [ ] `reports/Persuasive Essay - Does man protect or destroy his environment.docx`
+- [ ] `reports/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- [ ] `reports/SKXbee User Manual_new.rtf`
+- [ ] `reports/Stages of Reading Literature as Aesthetic Experiencing.docx`
+- [ ] `reports/The proof that she protected and preserved her past relies mainly on two elements.docx`
+- [ ] `reports/The story.docx`
+- [ ] `reports/TheInterviewReally.doc`
+- [ ] `reports/TheInterviewReally.odt`
+- [ ] `reports/To Die Dreaming is a popular drink of that Dominican Republic.docx`
+- [ ] `reports/Tracks of My Life-1.docx`
+- [ ] `reports/We as human beings make many decisions.docx`
+- [ ] `reports/Workcite's essaay.docx`
+- [ ] `reports/Young Goodman Brown. (2).docx`
+- [ ] `reports/Young Goodman Brown..docx`
+- [ ] `reports/Young Goodman Brown.1 (2).docx`
+- [ ] `reports/Young Goodman Brown.1.docx`
+- [ ] `reports/assignment5.doc`
+- [ ] `reports/assignment5.pdf`
+- [ ] `reports/c00769879.pdf`
+- [ ] `reports/egl-310 assignment 7a.docx`
+- [ ] `reports/englishHW.docx`
+- [ ] `reports/essay info.docx`
+- [ ] `reports/setup.doc`
+- [ ] `reports/zigbee_installation_tips-instructionsEGL310.pdf`
+- [ ] `reports/~$ung Goodman Brown..docx`
+- [ ] `reports/~$ung Goodman Brown.1.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-egl-310-1
+
+- GitHub: https://github.com/pzg8794/opn-egl-310-1
+- Hub path: `Projects-No-Code/opn-egl-310-1`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1PfH5cRKuhLtc7Zl7AlCTWqYAmz7v3pbK
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-egl-310-1`.
+- [ ] Link the Overleaf project from `opn-egl-310-1/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (3):
+- [ ] `papers/AnotherArticle.doc`
+- [ ] `papers/Article.doc`
+- [ ] `papers/TheArticle.doc`
+
+Reports and written documentation (31):
+- [ ] `reports/Assignment 9_Memo.docx`
+- [ ] `reports/AssignmentforTuesdayEGL.doc`
+- [ ] `reports/Brochure - EGL-310.pdf`
+- [ ] `reports/EGL-310 ASSIGNMENT6.doc`
+- [ ] `reports/EGL-310 Assigment 7.docx`
+- [ ] `reports/EGL-310 Assignment 6.doc`
+- [ ] `reports/EGL-310 Assignment 6.pdf`
+- [ ] `reports/EGL-310_Assigment_7.docx`
+- [ ] `reports/EGL-310_Assignment_6.pdf`
+- [ ] `reports/EGLFEB14.odt`
+- [ ] `reports/Future Career and Social Media.doc`
+- [ ] `reports/INTERVIEW FINAL.doc`
+- [ ] `reports/INTERVIEW FINAL.pdf`
+- [ ] `reports/Instructuions EGL-310.doc`
+- [ ] `reports/Interview Questions.doc`
+- [ ] `reports/Interview Questions[1].doc`
+- [ ] `reports/InterviewQuestions2.doc`
+- [ ] `reports/Module Title.docx`
+- [ ] `reports/Pages_Templates_User_Manual.pdf`
+- [ ] `reports/Person to Interview.doc`
+- [ ] `reports/Question_2_-_EGL_SECOND_ASSIGNMENT.docx`
+- [ ] `reports/SKXbee User Manual_new.rtf`
+- [ ] `reports/TheInterviewReally.doc`
+- [ ] `reports/TheInterviewReally.odt`
+- [ ] `reports/assignment5.doc`
+- [ ] `reports/assignment5.pdf`
+- [ ] `reports/c00769879.pdf`
+- [ ] `reports/egl-310 assignment 7a.docx`
+- [ ] `reports/essay info.docx`
+- [ ] `reports/setup.doc`
+- [ ] `reports/zigbee_installation_tips-instructionsEGL310.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-history-west-world
+
+- GitHub: https://github.com/pzg8794/opn-history-west-world
+- Hub path: `Projects-No-Code/opn-history-west-world`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Vx-8w3axgIQN4V-jHzMAsnhPHHitO31Q
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-history-west-world`.
+- [ ] Link the Overleaf project from `opn-history-west-world/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (8):
+- [ ] `reports/An Explanation of the Rise and Fall of Rome.docx`
+- [ ] `reports/Chapter 19-History Notes.docx`
+- [ ] `reports/History Assigment - sumarize.docx`
+- [ ] `reports/History Assigment.docx`
+- [ ] `reports/History Assignment Investigation.docx`
+- [ ] `reports/History Part II.docx`
+- [ ] `reports/Schedule.docx`
+- [ ] `reports/~$apter 19-History Notes.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-home-automation-power-control
+
+- GitHub: https://github.com/pzg8794/opn-home-automation-power-control
+- Hub path: `Projects-No-Code/opn-home-automation-power-control`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Uy85jB1auLKFzX14nHMr4Nc_DpLF9nt_
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-home-automation-power-control`.
+- [ ] Link the Overleaf project from `opn-home-automation-power-control/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (0):
+- [ ] Confirm no report/written-documentation files are needed for this item.
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-math
+
+- GitHub: https://github.com/pzg8794/opn-math
+- Hub path: `Projects-No-Code/opn-math`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1SSEdh8qTsBbWItLlIff0X1Iafny08MeJ
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-math`.
+- [ ] Link the Overleaf project from `opn-math/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (36):
+- [ ] `reports/116 HW 1.rtf`
+- [ ] `reports/Assignment#2 Math.docx`
+- [ ] `reports/Caculus I/Assignment#2 Math.docx`
+- [ ] `reports/Caculus I/Math's Assignments.docx`
+- [ ] `reports/Caculus I/Math's Homework 2.docx`
+- [ ] `reports/Caculus I/Math's Homework, Trigonometry.docx`
+- [ ] `reports/Caculus I/Math's Homework.docx`
+- [ ] `reports/Calculus.docx`
+- [ ] `reports/CalculusII-Formulas.docx`
+- [ ] `reports/DE-HW4 (Repaired).odt`
+- [ ] `reports/DE-HW4.docx`
+- [ ] `reports/Differential Equations/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- [ ] `reports/Differential Equations/Math Homework - Question No.1 of Test No.1.docx`
+- [ ] `reports/Differential Equations/Math Homework-253.docx`
+- [ ] `reports/Differential Equations/Math Homework.docx`
+- [ ] `reports/Differential Equations/Math Homework2-253.docx`
+- [ ] `reports/Differential Equations/~$th Homework - Question No.1 of Test No.1.docx`
+- [ ] `reports/Factor into binomials.docx`
+- [ ] `reports/Math Given three credit card scenarios.docx`
+- [ ] `reports/Math Homework - Question No.1 of Test No.1 (Repaired).docx`
+- [ ] `reports/Math Homework - Question No.1 of Test No.1.docx`
+- [ ] `reports/Math Homework-253.docx`
+- [ ] `reports/Math Homework.docx`
+- [ ] `reports/Math Homework2-253.docx`
+- [ ] `reports/Math's Assignments.docx`
+- [ ] `reports/Math's Homework 2.docx`
+- [ ] `reports/Math's Homework, Trigonometry.docx`
+- [ ] `reports/Math's Homework.docx`
+- [ ] `reports/Math's Project, Peter.docx`
+- [ ] `reports/Math's Project.xlsx.docx`
+- [ ] `reports/Math's Project333.xlsx`
+- [ ] `reports/Math-235.odt`
+- [ ] `reports/Math-Project-hw3(ONLY).docx`
+- [ ] `reports/Math.docx`
+- [ ] `reports/RLC.docx`
+- [ ] `reports/RLC.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Projects-No-Code / opn-physics
+
+- GitHub: https://github.com/pzg8794/opn-physics
+- Hub path: `Projects-No-Code/opn-physics`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1lN4We9GUDUQV9hvE_tDdPGtsRmjz5Gqp
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opn-physics`.
+- [ ] Link the Overleaf project from `opn-physics/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (3):
+- [ ] `papers/Graph Paper.pdf`
+- [ ] `papers/Physics Graph Paper.rtf`
+- [ ] `papers/Physics plain Graph Paper.doc`
+
+Reports and written documentation (13):
+- [ ] `reports/Conclusion Physics lab report.docx`
+- [ ] `reports/Conclusion, physics lab report.docx`
+- [ ] `reports/Conclusion-phy-20.docx`
+- [ ] `reports/Physics - lab report - 22.docx`
+- [ ] `reports/Physics Lab Report-14.docx`
+- [ ] `reports/Physics Lab Report-20.docx`
+- [ ] `reports/plain (2).doc`
+- [ ] `reports/plain.doc`
+- [ ] `reports/plain.docx`
+- [ ] `reports/plain.pdf`
+- [ ] `reports/right plain.docx`
+- [ ] `reports/right plain.pdf`
+- [ ] `reports/vectors.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Publications / old-portafolio-publications
+
+- GitHub: https://github.com/pzg8794/old-portafolio-publications
+- Hub path: `Publications/old-portafolio-publications`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1YgPvyUzF9gM_FwCFwxBjUHjw56KPGGkJ
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/old-portafolio-publications`.
+- [ ] Link the Overleaf project from `old-portafolio-publications/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (1):
+- [ ] `papers/FinalReport-IndependentStudy.pdf`
+
+Reports and written documentation (8):
+- [ ] `reports/CVPROJECT-1.docx`
+- [ ] `reports/CVPROJECT-1.pdf`
+- [ ] `reports/ColorHistogramPart3.pdf`
+- [ ] `reports/Final Project Report USE.pdf`
+- [ ] `reports/FinalReport.pdf`
+- [ ] `reports/report (1).pdf`
+- [ ] `reports/report (2).pdf`
+- [ ] `reports/report.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Resume-CV / CV_Piter-Garcia
+
+- GitHub: https://github.com/pzg8794/CV_Piter-Garcia
+- Hub path: `Resume-CV/CV_Piter-Garcia`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1-V2h2ghDW13q3o7oTUU6W4CDGySum4ea
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/CV_Piter-Garcia`.
+- [ ] Link the Overleaf project from `CV_Piter-Garcia/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (1):
+- [ ] `papers/intended_area_of_study.md`
+
+Reports and written documentation (34):
+- [ ] `reports/CS Developer Interview Preparation--from-repo-legacy-interview-prep.docx`
+- [ ] `reports/CS Developer Interview Preparation.docx`
+- [ ] `reports/CS Developer Interview Preparation.odt`
+- [ ] `reports/Candidate Profile Sheet.doc`
+- [ ] `reports/Data Analyst Interview Preparation--from-repo-legacy-interview-prep.docx`
+- [ ] `reports/Data Analyst Interview Preparation.docx`
+- [ ] `reports/Data Analyst Interview Preparation.odt`
+- [ ] `reports/Piter_Garcia-Resume.pdf`
+- [ ] `reports/a3d3_postbac_fellowship_application.pdf`
+- [ ] `reports/account_setup_checklists.md`
+- [ ] `reports/account_setup_tracker.md`
+- [ ] `reports/ai_hub_resume.pdf`
+- [ ] `reports/ai_hub_resume.tex`
+- [ ] `reports/cv_piter_garcia_2026.pdf`
+- [ ] `reports/developercv.cls`
+- [ ] `reports/dr_rodriguez_rna_fairness_outreach.md`
+- [ ] `reports/fontawesome.pdf`
+- [ ] `reports/job_posting.md`
+- [ ] `reports/leadership_essay.md`
+- [ ] `reports/leadership_essay.pdf`
+- [ ] `reports/main.pdf`
+- [ ] `reports/main.tex`
+- [ ] `reports/main2.pdf`
+- [ ] `reports/main2.tex`
+- [ ] `reports/main3.pdf`
+- [ ] `reports/main3.tex`
+- [ ] `reports/profile_master_source.md`
+- [ ] `reports/recommendation_request_packet.md`
+- [ ] `reports/resume.tex`
+- [ ] `reports/resume_AI_Hub.tex`
+- [ ] `reports/resume_revision_todo.md`
+- [ ] `reports/scholarship_resume.md`
+- [ ] `reports/strategy_plan.md`
+- [ ] `reports/update_packet.md`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Work-Projects / opw-madchefkitchen
+
+- GitHub: https://github.com/pzg8794/opw-madchefkitchen
+- Hub path: `Work-Projects/opw-madchefkitchen`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1tv_-3hrpdvVKQf-X0p0rNat90jzbQ5ge
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opw-madchefkitchen`.
+- [ ] Link the Overleaf project from `opw-madchefkitchen/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (85):
+- [ ] `reports/ABOUT_APACHE.txt`
+- [ ] `reports/Additional Forms (2015).pdf`
+- [ ] `reports/ApplicationParts.txt`
+- [ ] `reports/CHANGES--from-xampp-apache.txt`
+- [ ] `reports/Card-No1-Information.pdf`
+- [ ] `reports/Copy of index.txt`
+- [ ] `reports/Director of Marketing (Autosaved).docx`
+- [ ] `reports/Director of Marketing.docx`
+- [ ] `reports/Doc1.pdf`
+- [ ] `reports/Doc2.pdf`
+- [ ] `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use.pdf`
+- [ ] `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use2.pdf`
+- [ ] `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use3.pdf`
+- [ ] `reports/Gift Certificate Maker - make printable gift certificates for store, school, home or office use4.pdf`
+- [ ] `reports/HelpScript.txt`
+- [ ] `reports/INSTALL.txt`
+- [ ] `reports/Job Specifications.docx`
+- [ ] `reports/LICENSE--from-repo-font.txt`
+- [ ] `reports/LICENSE--from-starsofa-font.txt`
+- [ ] `reports/LICENSE--from-xampp-apache.txt`
+- [ ] `reports/MadChefKitchen--from-MadChefKichen-Work-2015-MadChefKitchen.pdf`
+- [ ] `reports/MadChefKitchen.pdf`
+- [ ] `reports/NOTICE.txt`
+- [ ] `reports/OPENSSL-NEWS.txt`
+- [ ] `reports/OPENSSL-README.txt`
+- [ ] `reports/Offer Letter Piter Z Garcia.docx`
+- [ ] `reports/Offer Letter Piter Z Garcia.pdf`
+- [ ] `reports/Offer_Letter_Piter_Z_Garcia.docx`
+- [ ] `reports/README--from-repo-font.txt`
+- [ ] `reports/README--from-starsofa-font.txt`
+- [ ] `reports/README--from-xampp-apache.txt`
+- [ ] `reports/Surfas Schedule v2.docx`
+- [ ] `reports/Surfas Schedule.docx`
+- [ ] `reports/TemplateForClasses.csv`
+- [ ] `reports/TemplateForRecipes.csv`
+- [ ] `reports/TemplateForRecipes2.csv`
+- [ ] `reports/U-0049-01_L.pdf`
+- [ ] `reports/U-0049-01_L2.pdf`
+- [ ] `reports/UPDATED CULVER CITY CLASS SCHEDULE.docx`
+- [ ] `reports/cbu.txt`
+- [ ] `reports/changelog--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/changelog--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/changelog.txt`
+- [ ] `reports/changes.txt`
+- [ ] `reports/draft1.txt`
+- [ ] `reports/draft2.txt`
+- [ ] `reports/draft3.txt`
+- [ ] `reports/draft4.txt`
+- [ ] `reports/draft5.txt`
+- [ ] `reports/draft6.txt`
+- [ ] `reports/draft7.txt`
+- [ ] `reports/explore.txt`
+- [ ] `reports/fbackup.txt`
+- [ ] `reports/gc2.pdf`
+- [ ] `reports/giftcertificate.pdf`
+- [ ] `reports/giftcertificate1.pdf`
+- [ ] `reports/giftcertificate1_edited-1.pdf`
+- [ ] `reports/giftcertificate1_edited-3.pdf`
+- [ ] `reports/giftcertificate2.pdf`
+- [ ] `reports/giftcertificate2_edited-1.pdf`
+- [ ] `reports/giftcertificate2_edited-3.pdf`
+- [ ] `reports/giftcertificate3.pdf`
+- [ ] `reports/giftcertificate3_edited-2.pdf`
+- [ ] `reports/giftcertificate4.pdf`
+- [ ] `reports/giftcertificate4_edited-2.pdf`
+- [ ] `reports/hbu.txt`
+- [ ] `reports/hw3 (for loops).pdf`
+- [ ] `reports/jbu.txt`
+- [ ] `reports/license--from-MadChefKichen-Work-2015-inkzine-plus.txt`
+- [ ] `reports/license--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/license--from-MadChefKitchen-starsofa.txt`
+- [ ] `reports/license--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/license.txt`
+- [ ] `reports/myscripts.txt`
+- [ ] `reports/mystyle.txt`
+- [ ] `reports/nav buttons.txt`
+- [ ] `reports/passwords.txt`
+- [ ] `reports/readme--from-MadChefKichen-Work-2015-MadChefKitchen.txt`
+- [ ] `reports/readme--from-MadChefKitchen-inkzine.txt`
+- [ ] `reports/readme--from-inkzine-plus-inkzine-plus.txt`
+- [ ] `reports/readme--from-inkzine-plus-languages.txt`
+- [ ] `reports/readme.txt`
+- [ ] `reports/readme_de.txt`
+- [ ] `reports/readme_en.txt`
+- [ ] `reports/simple-products.csv`
+
+Presentations (19):
+- [ ] `MadChefKichen Work-2015/inkzine-plus/image/slides/aircraft-479772_1280.jpg`
+- [ ] `MadChefKichen Work-2015/inkzine-plus/image/slides/beautiful-701678_1280.jpg`
+- [ ] `MadChefKichen Work-2015/inkzine-plus/image/slides/summer-192179_1280.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/1-prev.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/1.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/2-prev.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/2.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/3-prev.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/3.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/4-prev.jpg`
+- [ ] `MadChefKichen Work-2015/starsofa/images/slides/4.jpg`
+- [ ] `images/slides/1-prev.jpg`
+- [ ] `images/slides/1.jpg`
+- [ ] `images/slides/2-prev.jpg`
+- [ ] `images/slides/2.jpg`
+- [ ] `images/slides/3-prev.jpg`
+- [ ] `images/slides/3.jpg`
+- [ ] `images/slides/4-prev.jpg`
+- [ ] `images/slides/4.jpg`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Work-Projects / opw-qualitrol-projects
+
+- GitHub: https://github.com/pzg8794/opw-qualitrol-projects
+- Hub path: `Work-Projects/opw-qualitrol-projects`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1z8BLSeSc-9JYbfsleHmoF4bDL_HGv7Ny
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opw-qualitrol-projects`.
+- [ ] Link the Overleaf project from `opw-qualitrol-projects/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (1):
+- [ ] `papers/White+Paper+Volume+1.pdf`
+
+Reports and written documentation (102):
+- [ ] `reports/1.docx`
+- [ ] `reports/ADV-P-Application-Information-Definitions.pdf`
+- [ ] `reports/APPL CQCs MTD (2).pdf`
+- [ ] `reports/About Dissolved Gas Ratios--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- [ ] `reports/About Dissolved Gas Ratios.rtf`
+- [ ] `reports/BCM Lite HW Architecture Description (20131007) Rev 01.doc`
+- [ ] `reports/BCM Testing Procedure1.docx`
+- [ ] `reports/BCM Testing Procedures.docx`
+- [ ] `reports/BCMLite_TestPlan (Autosaved).doc`
+- [ ] `reports/BCM_Events and Records Pages _Test_plan (preliminary).doc`
+- [ ] `reports/BCM_Home_status_Test_plan (preliminary).doc`
+- [ ] `reports/Beattie.pdf`
+- [ ] `reports/Bug 14.docx`
+- [ ] `reports/BugZilla Bugs.docx`
+- [ ] `reports/CQC Analysis Form - APCQC.pdf`
+- [ ] `reports/CQC Analysis Form - DanielCQC.pdf`
+- [ ] `reports/CQC Analysis Form - DanielCQC2.pdf`
+- [ ] `reports/CQC Analysis Form - JanoCQC.pdf`
+- [ ] `reports/CQC Analysis Form - MikeCQC.pdf`
+- [ ] `reports/CQC Analysis Form - PeterCQC.pdf`
+- [ ] `reports/CQC Analysis Form - RaihanCQC.pdf`
+- [ ] `reports/Copy of Sales Territory Map - Sept 2013.xls`
+- [ ] `reports/CreationSql.install--from-Database-SqlScripts.txt`
+- [ ] `reports/CreationSql.install--from-Database-support-Creation-Scripts.txt`
+- [ ] `reports/CreationSql.install--from-SQL-Scripts-v1.0.txt`
+- [ ] `reports/CreationSql.install.txt`
+- [ ] `reports/FAQ.rtf`
+- [ ] `reports/How to turn on OPC--from-TM-View-5.2-How-to-turn-on-OPC.docx`
+- [ ] `reports/How to turn on OPC.docx`
+- [ ] `reports/I2T.docx`
+- [ ] `reports/Installation Manual.pdf`
+- [ ] `reports/IsqT.pdf`
+- [ ] `reports/IsquaredTCal.pdf`
+- [ ] `reports/Kronos Timekeeper Clock Guide.pdf`
+- [ ] `reports/Kronos locations.PDF`
+- [ ] `reports/License Terms.rtf`
+- [ ] `reports/OMICROM Issue.txt`
+- [ ] `reports/PSI Unit Test - Ambient Temperature.docx`
+- [ ] `reports/PSI Unit Test - Cons High Temperature.docx`
+- [ ] `reports/PSI Unit Test - Cons Low Temperature.docx`
+- [ ] `reports/PSI Unit Test - Low Temperature.docx`
+- [ ] `reports/PSP - Piter Garcia.xls`
+- [ ] `reports/Piter-PSP Prework.xlsx`
+- [ ] `reports/README--from-SQL-Scripts-v1.5.txt`
+- [ ] `reports/README--from-SQL-Scripts-v1.6.txt`
+- [ ] `reports/README--from-Updates-Update-1.5.txt`
+- [ ] `reports/README--from-Updates-Update-1.6.txt`
+- [ ] `reports/READ_ME--from-SQL-Scripts-v1.4.txt`
+- [ ] `reports/READ_ME--from-Updates-Update-1.4.txt`
+- [ ] `reports/READ_ME.txt`
+- [ ] `reports/REPORT_INITIAL.PDF`
+- [ ] `reports/Ratio Viewer Key Help--from-Diagnostics-and-utilities-2008-Serveron.Diagnostics.rtf`
+- [ ] `reports/Ratio Viewer Key Help.rtf`
+- [ ] `reports/Read me.txt`
+- [ ] `reports/Readme.txt`
+- [ ] `reports/ReleaseNotes.rtf`
+- [ ] `reports/Setup_ReadMe.txt`
+- [ ] `reports/TM View Software User's Manual.pdf`
+- [ ] `reports/The Graduate Advisor Handbook A Student-Centered Approach.pdf`
+- [ ] `reports/Tutoring Form.doc`
+- [ ] `reports/Update1_1.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_1.install--from-SQL-Scripts-v1.1.txt`
+- [ ] `reports/Update1_1.install--from-Updates-Update-1.1.txt`
+- [ ] `reports/Update1_1.install.txt`
+- [ ] `reports/Update1_2.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_2.install--from-SQL-Scripts-v1.2.txt`
+- [ ] `reports/Update1_2.install--from-Updates-Update-1.2.txt`
+- [ ] `reports/Update1_2.install.txt`
+- [ ] `reports/Update1_3.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_3.install--from-SQL-Scripts-v1.3.txt`
+- [ ] `reports/Update1_3.install--from-Updates-Update-1.3.txt`
+- [ ] `reports/Update1_3.install.txt`
+- [ ] `reports/Update1_4.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_4.install--from-SQL-Scripts-v1.4.txt`
+- [ ] `reports/Update1_4.install--from-Updates-Update-1.4.txt`
+- [ ] `reports/Update1_4.install.txt`
+- [ ] `reports/Update1_5.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_5.install--from-SQL-Scripts-v1.5.txt`
+- [ ] `reports/Update1_5.install--from-Updates-Update-1.5.txt`
+- [ ] `reports/Update1_5.install.txt`
+- [ ] `reports/Update1_6.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update1_6.install--from-SQL-Scripts-v1.6.txt`
+- [ ] `reports/Update1_6.install--from-Updates-Update-1.6.txt`
+- [ ] `reports/Update1_6.install.txt`
+- [ ] `reports/Update2_0.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update2_0.install--from-SQL-Scripts-v2.0.txt`
+- [ ] `reports/Update2_0.install--from-Updates-Update-2.0.txt`
+- [ ] `reports/Update2_0.install.txt`
+- [ ] `reports/Update2_1.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update2_1.install--from-SQL-Scripts-v2.1.txt`
+- [ ] `reports/Update2_1.install--from-Updates-Update-2.1.txt`
+- [ ] `reports/Update2_1.install.txt`
+- [ ] `reports/Update2_2.install--from-Database-SqlScripts.txt`
+- [ ] `reports/Update2_2.install--from-SQL-Scripts-v2.2.txt`
+- [ ] `reports/Update2_2.install--from-Updates-Update-2.2.txt`
+- [ ] `reports/Update2_2.install.txt`
+- [ ] `reports/fuseterm.pdf`
+- [ ] `reports/resume2.pdf`
+- [ ] `reports/sig-alternate.cls`
+- [ ] `reports/~$1.docx`
+- [ ] `reports/~$M Testing Procedures.docx`
+- [ ] `reports/~$rdware Instructions APGV Project.docx`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Work-Projects / opw-tiburonlockers
+
+- GitHub: https://github.com/pzg8794/opw-tiburonlockers
+- Hub path: `Work-Projects/opw-tiburonlockers`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/179pxwA-Gr1gGAHvn09ezeqOmjVMKgYre
+- Drive import status: `completed`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opw-tiburonlockers`.
+- [ ] Link the Overleaf project from `opw-tiburonlockers/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (0):
+- [ ] Confirm no paper-style files are needed for this item.
+
+Reports and written documentation (11):
+- [ ] `reports/AllDay_Multi-Day- Holiday- Peak Seaon-Time Decay.docx`
+- [ ] `reports/Feature Specs.docx`
+- [ ] `reports/Multidaywriteup DS.docx`
+- [ ] `reports/PeriodicW-O-OLF.docx`
+- [ ] `reports/Progressive.docx`
+- [ ] `reports/Ride Lockers.docx`
+- [ ] `reports/Visio-Progressive Flowchart.pdf`
+- [ ] `reports/designconcepts1.pdf`
+- [ ] `reports/designconcepts2.pdf.pdf`
+- [ ] `reports/designconcepts3.pdf.pdf`
+- [ ] `reports/designconcepts4.pdf`
+
+Presentations (0):
+- [ ] Confirm no presentation files are needed for this item.
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.
+
+### Work-Projects / opw-trueinteraction
+
+- GitHub: https://github.com/pzg8794/opw-trueinteraction
+- Hub path: `Work-Projects/opw-trueinteraction`
+- Visibility: `PUBLIC`
+- Drive source(s): https://drive.google.com/drive/folders/1Zfx8V3p4c5M-ZZb27_Xnjm_QRO8QkLGD
+- Drive import status: `needs Drive review`
+
+Project setup:
+
+- [ ] Create Overleaf project `old-portfolio/opw-trueinteraction`.
+- [ ] Link the Overleaf project from `opw-trueinteraction/README.md` and from this hub todo.
+- [ ] Add `main.tex`, `references.bib` when needed, and folders: `papers/`, `reports/`, `presentations/`, `assets/`, `exports/`, `source-originals/`.
+- [ ] Add an application-use note: what this item demonstrates, which applications it can support, and which files are strongest as evidence.
+
+Papers (13):
+- [ ] `papers/10.1.1.396.1519.pdf`
+- [ ] `papers/26-147.pdf`
+- [ ] `papers/6264820.pdf`
+- [ ] `papers/696.PDF`
+- [ ] `papers/JIPS_31.pdf`
+- [ ] `papers/Lovin.pdf`
+- [ ] `papers/P063.PDF`
+- [ ] `papers/P136.PDF`
+- [ ] `papers/UB_Tree_paper.pdf`
+- [ ] `papers/WH-TimeStudy.pdf`
+- [ ] `papers/fulltext.pdf`
+- [ ] `papers/p45.pdf`
+- [ ] `papers/wgz00.pdf`
+
+Reports and written documentation (250):
+- [ ] `reports/ MATERIAL RECORD - zmmtest1_19may2015 (Autosaved).csv`
+- [ ] `reports/01-14-2015.pdf`
+- [ ] `reports/0840037031_209383.doc`
+- [ ] `reports/128175 Lifetime Host Interface Specification with pickdownloadack.docx`
+- [ ] `reports/128175 Lifetime Software Functional Specification.docx`
+- [ ] `reports/370_46465_EY325_2012_1_2_1_1_Budgeting II.docx`
+- [ ] `reports/Academic Training Dept request template.doc`
+- [ ] `reports/AllNotes--from-Notes-PDFs.pdf`
+- [ ] `reports/AllNotes.pdf`
+- [ ] `reports/Architecture.pdf`
+- [ ] `reports/Cliff Proforma Example.csv`
+- [ ] `reports/Customers.txt`
+- [ ] `reports/DAILY EXTRACT FROM TOOL TO DS.TXT`
+- [ ] `reports/DAILY IMPORT FROM DS TO TOOL.TXT`
+- [ ] `reports/Data Analysis.docx`
+- [ ] `reports/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition-Mantesh.pdf`
+- [ ] `reports/Data_Exploration--from-DB-Schema-PDFs.pdf`
+- [ ] `reports/Data_Exploration--from-LTB---Sales-Portal-DB-Schema.docx`
+- [ ] `reports/Data_Exploration--from-System-Dev-Milestone2.docx`
+- [ ] `reports/Data_Exploration--from-repo-TI-Formal-Reports.docx`
+- [ ] `reports/Data_Exploration--from-repo-TI-Formal-Reports.pdf`
+- [ ] `reports/Data_Exploration--from-repo-Understaing_Data.docx`
+- [ ] `reports/Data_Exploration.docx`
+- [ ] `reports/Data_Exploration.pdf`
+- [ ] `reports/Dataset1-Media-Example-EDGES.csv`
+- [ ] `reports/Dataset1-Media-Example-NODES.csv`
+- [ ] `reports/Dataset2-Media-User-Example-EDGES.csv`
+- [ ] `reports/Dataset2-Media-User-Example-NODES.csv`
+- [ ] `reports/Doc Dec 04, 2015, 1313.pdf`
+- [ ] `reports/Doc Dec 30, 2015, 10-27 PM (1).pdf`
+- [ ] `reports/Doc Dec 30, 2015, 10-27 PM--from-Notes-PDFs.pdf`
+- [ ] `reports/Doc Dec 30, 2015, 10-27 PM.pdf`
+- [ ] `reports/Doc Jan 14, 2016, 9-47 PM.pdf`
+- [ ] `reports/Doc6.docx`
+- [ ] `reports/Doc6.pdf`
+- [ ] `reports/E-Commerce.docx`
+- [ ] `reports/ExcessReport--from-LTB---Sales-Portal-Client-Artifacts.txt`
+- [ ] `reports/ExcessReport--from-My_Notes-CSV-Files.csv`
+- [ ] `reports/ExcessReport--from-Notes-My_Notes.txt`
+- [ ] `reports/ExcessReport--from-Provided-ITEM.txt`
+- [ ] `reports/ExcessReport.csv`
+- [ ] `reports/ExcessReport.pdf`
+- [ ] `reports/ExcessReport.txt`
+- [ ] `reports/FCS HISTORY.TXT`
+- [ ] `reports/Fon Detail Pick Area.doc`
+- [ ] `reports/Fontana DC 7-16-13.pdf`
+- [ ] `reports/Fontana Detail Piece Pick Pictures.doc`
+- [ ] `reports/Forecast History Saves.docx`
+- [ ] `reports/Hungarian_j48_results_decimal_10.txt`
+- [ ] `reports/Hungarian_j48_results_decimal_e.txt`
+- [ ] `reports/Hungarian_j48_results_minmax.txt`
+- [ ] `reports/Hungarian_j48_results_unnormalized.txt`
+- [ ] `reports/INITIAL UPLOAD--from-PLANNING-Updated-Datafiles-as-of-20160224.TXT`
+- [ ] `reports/INITIAL UPLOAD.TXT`
+- [ ] `reports/ITEM - STATUS – products lifecycle status.txt`
+- [ ] `reports/Impactly Machine Learning Strategy.pdf`
+- [ ] `reports/LTB Sales Portal Functions Request--from-Understaing_Data-Analysis.docx`
+- [ ] `reports/LTB Sales Portal Functions Request.docx`
+- [ ] `reports/LTB Sales Portal-Requested Features--from-Documentation-Studied.docx`
+- [ ] `reports/LTB Sales Portal-Requested Features--from-LTB_Sales_Project-Introduction.docx`
+- [ ] `reports/LTB Sales Portal-Requested Features--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- [ ] `reports/LTB Sales Portal-Requested Features.docx`
+- [ ] `reports/LTB-SALES-WiresV6.pdf`
+- [ ] `reports/LTB-SALES-WiresV7--from-LTB_Sales_Project-GUI.pdf`
+- [ ] `reports/LTB-SALES-WiresV7.pdf`
+- [ ] `reports/LTBSP Current Status.pdf`
+- [ ] `reports/LTBSP M4 Progress.pdf`
+- [ ] `reports/LTBSP M5 Comprehensive Progress Report.pdf`
+- [ ] `reports/LTBSales.pdf`
+- [ ] `reports/LTBSalesPortal_Styleguide.pdf`
+- [ ] `reports/LTBSalesProtal_Styleguide.pdf`
+- [ ] `reports/LTBSales_Report--from-Client-Artifacts-DOCUMENTATION.docx`
+- [ ] `reports/LTBSales_Report--from-LTB---Sales-Portal-DB-Schema.docx`
+- [ ] `reports/LTBSales_Report--from-LTB_Sales_Project-Data-Analysis.docx`
+- [ ] `reports/LTBSales_Report--from-Notes-System-UML-Diagrams.docx`
+- [ ] `reports/LTBSales_Report--from-Provided-OTHERS.docx`
+- [ ] `reports/LTBSales_Report.docx`
+- [ ] `reports/LTBSales_Report.pdf`
+- [ ] `reports/LTBnotes.txt`
+- [ ] `reports/MATERIAL RECORD - zmmtest1_19may2015 (Autosaved).csv`
+- [ ] `reports/MOCA connection in vb dot net.rtf`
+- [ ] `reports/MP.csv`
+- [ ] `reports/MilestoneIV-Report.pdf`
+- [ ] `reports/MilestoneV-Report.docx`
+- [ ] `reports/MilestoneV-Report.pdf`
+- [ ] `reports/ModelIntegrationSystem.pdf`
+- [ ] `reports/My main duty is to provide technical direction for the development.docx`
+- [ ] `reports/NetSciX_2016_Workshop.pdf`
+- [ ] `reports/New_SAP_Exports.txt`
+- [ ] `reports/NoFraud Website Strategy__Final.pdf`
+- [ ] `reports/NoFraudNewLogos.pdf`
+- [ ] `reports/Notes-Dec-17,-2015.pdf`
+- [ ] `reports/NotesDec-17-2015--from-Notes-PDFs.pdf`
+- [ ] `reports/NotesDec-17-2015.pdf`
+- [ ] `reports/PDSLongText.txt`
+- [ ] `reports/PDSLongTextTest.txt`
+- [ ] `reports/PDSMaterialsTest.txt`
+- [ ] `reports/PLANNING - DS-DE-IU-2015.csv`
+- [ ] `reports/PLANNING - DS-DE1115.csv`
+- [ ] `reports/PLANNING - Demand Solutions Data Extract - Initial Upload.csv`
+- [ ] `reports/PLANNING - TabFields.csv`
+- [ ] `reports/PLANNING -DS1115.csv`
+- [ ] `reports/PLANNING--from-CSV-Files-Planning.docx`
+- [ ] `reports/PLANNOGRAM 12FT KITCHENWARE CUTLERY INLINE 3-25-15_SD.pdf`
+- [ ] `reports/PROFORMA - BP.csv`
+- [ ] `reports/PROFORMA - Cliff Proforma Example.pdf`
+- [ ] `reports/PROFORMA - CliffExample.csv`
+- [ ] `reports/PROFORMA - CliffExample2.csv`
+- [ ] `reports/PROFORMA - FExample.csv`
+- [ ] `reports/PROFORMA - FExample2.csv`
+- [ ] `reports/PROFORMA - Kmart Cutlery 2 and a half FT - MEGAN PROJECTIONS 11092015 (1).xlsx`
+- [ ] `reports/PROFORMA - Tabs Desc.csv`
+- [ ] `reports/PROFORMA - Template FY 2015.xls`
+- [ ] `reports/PROFORMA -- COMMISSIONS.csv`
+- [ ] `reports/PROFORMA -- REBATES - Condition Types.csv`
+- [ ] `reports/PROFORMA-1STKizmosColorECT.csv`
+- [ ] `reports/PROFORMA-KC2 FT-MP.csv`
+- [ ] `reports/PROFORMA-KC2.5 FT-MPcsv.csv`
+- [ ] `reports/PROFORMA-KC2FT2-MP.csv`
+- [ ] `reports/PROFORMA-RGrossZRSA12-2-15.csv`
+- [ ] `reports/PROFORMA-RRules ZSD039 12-2-15.csv`
+- [ ] `reports/PROFORMA-TKizmosColorEC .csv`
+- [ ] `reports/PROFORMA-TKizmosColorECT.csv`
+- [ ] `reports/PROFORMA-TempFY2015.csv`
+- [ ] `reports/PROFORMA.docx`
+- [ ] `reports/Performance.pdf`
+- [ ] `reports/Permissions - Cliff.docx`
+- [ ] `reports/Permissions_Based_System (Piter Garcia's conflicted copy 2016-01-13).docx`
+- [ ] `reports/Permissions_Based_System--from-LTB---Sales-Portal-DB-Schema.docx`
+- [ ] `reports/Permissions_Based_System--from-System-Dev-Milestone2.docx`
+- [ ] `reports/Permissions_Based_System--from-repo-TI-Formal-Reports.docx`
+- [ ] `reports/Permissions_Based_System--from-repo-Understaing_Data.docx`
+- [ ] `reports/Permissions_Based_System.docx`
+- [ ] `reports/Permissions_Based_System.pdf`
+- [ ] `reports/Piter Updated Academic Training.pdf`
+- [ ] `reports/Piter+Garcia+CV.doc`
+- [ ] `reports/PiterG.doc`
+- [ ] `reports/PiterGarciaCV.pdf`
+- [ ] `reports/Planning--from-LTB_Sales_Project-Data-Analysis.docx`
+- [ ] `reports/Planning.docx`
+- [ ] `reports/PlanningDraft--from-Client-Artifacts-DOCUMENTATION.docx`
+- [ ] `reports/PlanningDraft--from-Provided-OTHERS.docx`
+- [ ] `reports/PlanningDraft.docx`
+- [ ] `reports/Privacy_Policy.txt`
+- [ ] `reports/Product_Text.txt`
+- [ ] `reports/Proforma - Almost Final2.xlsx`
+- [ ] `reports/Progress_Report_MilestoneI.docx`
+- [ ] `reports/Progress_Report_MilestoneI.pdf`
+- [ ] `reports/Progress_Report_MilestoneII.pdf`
+- [ ] `reports/Progress_Report_MilestoneIII.pdf`
+- [ ] `reports/Project_Outline--from-LTB_Sales_Project-Introduction.docx`
+- [ ] `reports/Project_Outline--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- [ ] `reports/Project_Outline.docx`
+- [ ] `reports/Project_Outline.pdf`
+- [ ] `reports/Project_Overview--from-LTB_Sales_Project-Introduction.docx`
+- [ ] `reports/Project_Overview--from-TI_DropBox_Bkup-LTB---Sales-Portal.docx`
+- [ ] `reports/Project_Overview.docx`
+- [ ] `reports/Project_Overview.pdf`
+- [ ] `reports/ProximaNovaSupplementGuide.pdf`
+- [ ] `reports/Rplot26.pdf`
+- [ ] `reports/SKM_C654e16060702520.pdf`
+- [ ] `reports/SampleSystemFlow.pdf`
+- [ ] `reports/Sell--from-Client-Artifacts-DOCUMENTATION.docx`
+- [ ] `reports/Sell--from-Provided-OTHERS.docx`
+- [ ] `reports/Sell.docx`
+- [ ] `reports/Set up_process.txt`
+- [ ] `reports/Slipsheet Loads (Autosaved).docx`
+- [ ] `reports/Standard Operating Procedure Detail revised 052016.doc`
+- [ ] `reports/Strategy_Plan--from-System-Dev-Milestone2.docx`
+- [ ] `reports/Strategy_Plan--from-repo-Understaing_Data.docx`
+- [ ] `reports/Strategy_Plan.docx`
+- [ ] `reports/Styleguide.pdf`
+- [ ] `reports/Synaptik Sample.docx`
+- [ ] `reports/Synaptik.pdf`
+- [ ] `reports/SystemFlowV1.pdf`
+- [ ] `reports/SystemFlowV2.pdf`
+- [ ] `reports/SystemUI--from-LTB_Sales_Project-GUI.pdf`
+- [ ] `reports/SystemUI.docx`
+- [ ] `reports/SystemUI.pdf`
+- [ ] `reports/SystemUML and Flow Diagrams.pdf`
+- [ ] `reports/SystemUML.pdf`
+- [ ] `reports/SystemUMLnFlow Diagrams.pdf`
+- [ ] `reports/TI HISTFCS 201501.TXT`
+- [ ] `reports/TI HISTFCS 201502.TXT`
+- [ ] `reports/TI HISTFCS 201503.TXT`
+- [ ] `reports/TI HISTFCS 201504.TXT`
+- [ ] `reports/TI HISTFCS 201505.TXT`
+- [ ] `reports/TI HISTFCS 201506.TXT`
+- [ ] `reports/TI HISTFCS 201507.TXT`
+- [ ] `reports/TI HISTFCS 201508.TXT`
+- [ ] `reports/TI HISTFCS 201509.TXT`
+- [ ] `reports/TI HISTFCS 201510.TXT`
+- [ ] `reports/TI HISTFCS 201511.TXT`
+- [ ] `reports/TI HISTFCS 201512.TXT`
+- [ ] `reports/TI HISTFCS 201601.TXT`
+- [ ] `reports/TI HISTFCS 201602.TXT`
+- [ ] `reports/TeamSchema_20151209.pdf`
+- [ ] `reports/TeamStories_20151209.pdf`
+- [ ] `reports/UnderstandingSystem.docx`
+- [ ] `reports/UnderstandingTerms--from-LTB_Sales_Project-Data-Analysis.docx`
+- [ ] `reports/UnderstandingTerms--from-Understaing_Data-Analysis.docx`
+- [ ] `reports/UnderstandingTerms.docx`
+- [ ] `reports/Untitled 2.rtf`
+- [ ] `reports/Untitled 3.rtf`
+- [ ] `reports/Untitled 4.rtf`
+- [ ] `reports/Untitled 5.rtf`
+- [ ] `reports/Untitled 6.rtf`
+- [ ] `reports/Untitled 7.rtf`
+- [ ] `reports/Untitled.rtf`
+- [ ] `reports/UpdatedSystemUML.pdf`
+- [ ] `reports/WH-Data Analysis.pdf`
+- [ ] `reports/Warehouse--from-TI_DropBox_Bkup-LTB-Warehouse.docx`
+- [ ] `reports/Warehouse-Delivery.docx`
+- [ ] `reports/Warehouse-MachineLearning.docx`
+- [ ] `reports/Warehouse-MachineLearning.pdf`
+- [ ] `reports/Warehouse-PicKnPacK.docx`
+- [ ] `reports/Warehouse.docx`
+- [ ] `reports/WireFrames-Demo1_Notes.rtf`
+- [ ] `reports/YCMR7_Extract.txt`
+- [ ] `reports/YCMS7.txt`
+- [ ] `reports/course02.docx`
+- [ ] `reports/data_dictionary.txt`
+- [ ] `reports/datagathering.xlsx`
+- [ ] `reports/ds_extract.csv`
+- [ ] `reports/edges.csv`
+- [ ] `reports/edges1.csv`
+- [ ] `reports/edges2.csv`
+- [ ] `reports/edges3.csv`
+- [ ] `reports/hungarian.data.processed.csv`
+- [ ] `reports/insticator sample.odt`
+- [ ] `reports/knop.csv`
+- [ ] `reports/kote504.txt`
+- [ ] `reports/kote545.txt`
+- [ ] `reports/kote546.txt`
+- [ ] `reports/kote548.txt`
+- [ ] `reports/nodes.csv`
+- [ ] `reports/nodes1.csv`
+- [ ] `reports/nodes2.csv`
+- [ ] `reports/notes (Anthony Castiglia's conflicted copy 2014-04-03).txt`
+- [ ] `reports/notes.txt`
+- [ ] `reports/picknpack.csv`
+- [ ] `reports/retailers--from-LTB---Sales-Portal-data.txt`
+- [ ] `reports/retailers.txt`
+- [ ] `reports/temp.txt`
+- [ ] `reports/test.pdf`
+- [ ] `reports/~$0_46465_EY325_2012_1_2_1_1_Budgeting II.docx`
+- [ ] `reports/~$40037031_209383.doc`
+- [ ] `reports/~$BSales_Report.docx`
+- [ ] `reports/~$Sell.docx`
+- [ ] `reports/~$derstandingTerms.docx`
+
+Presentations (123):
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-01.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-02.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-03.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-04.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-05.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-06.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-07.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-08.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-09.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-10.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-11.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-12.jpg`
+- [ ] `TI Formal Reports/NoFrad-Basic Presentation V8/Basic Presentation V8-13.jpg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s1.a.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s1.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s10.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s11.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s12.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s13.b.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s2.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s3.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s4.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s5.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s6.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s7.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s8.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/s9.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/480x268/images-1/thumbnail.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-l.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-m.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/bezel-r.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_d.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_n.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/close_p.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-cap-left.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-cap-right.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_bg-fill.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_iwork_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_iwork_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_link_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_link_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_D.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_next_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_play-72_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_play-72_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_D.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_previous_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_D.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_restart_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-off_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-off_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-on_N.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/control_sound-on_P.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/doc_info_mobile_cut.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/index.css`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/index.html`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_d.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_n.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/left_arrow_p.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/player.js`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_d.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_n.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/right_arrow_p.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/spinner_dkgrey.gif`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/string.js`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/fallback/waiting_bezel.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s1.a.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s1.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s10.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s11.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s12.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s13.b.png`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s2.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s3.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s4.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s5.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s6.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s7.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s8.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/s9.b.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/images-1/thumbnail.jpeg`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/assets/kpf.json`
+- [ ] `TI_DropBox_Bkup/NoFraud - Marketing Site/PRESENTATIONS/Basic Presentation V8/index.html`
+- [ ] `presentations/Basic Presentation V1.key`
+- [ ] `presentations/Basic Presentation V1.ppt`
+- [ ] `presentations/Basic Presentation V3.ppt`
+- [ ] `presentations/Basic Presentation V5.pdf`
+- [ ] `presentations/Basic Presentation V6.pdf`
+- [ ] `presentations/Basic Presentation V6.ppt`
+- [ ] `presentations/Basic Presentation V7.pdf`
+- [ ] `presentations/Basic Presentation V7.ppt`
+- [ ] `presentations/Basic Presentation V8.pdf`
+- [ ] `presentations/Basic Presentation V8.ppt`
+- [ ] `presentations/Design Example.key`
+- [ ] `presentations/DesignSketchV1.key`
+- [ ] `presentations/Finance-Wires.key`
+- [ ] `presentations/LTB Proforma FINAL Cliff.key`
+- [ ] `presentations/LTB Proforma FINAL.key`
+- [ ] `presentations/LTB-SALES-WiresV2 copy.key`
+- [ ] `presentations/LTB-SALES-WiresV2.key`
+- [ ] `presentations/LTB-SALES-WiresV3.key`
+- [ ] `presentations/LTB-SALES-WiresV4 - piter copy.key`
+- [ ] `presentations/LTB-SALES-WiresV4 - piter.key`
+- [ ] `presentations/LTB-SALES-WiresV5 copy.key`
+- [ ] `presentations/LTB-SALES-WiresV5.key`
+- [ ] `presentations/LTB-SALES-WiresV6 copy.key`
+- [ ] `presentations/LTB-SALES-WiresV6--from-GUI-stuff.key`
+- [ ] `presentations/LTB-SALES-WiresV6.key`
+- [ ] `presentations/LTB-SALES-WiresV7--from-GUI-stuff.key`
+- [ ] `presentations/LTB-SALES-WiresV7--from-LTB_Sales_Project-GUI.key`
+- [ ] `presentations/LTB-SALES-WiresV7.key`
+- [ ] `presentations/LTB-SALES-WiresV7.pptx`
+- [ ] `presentations/Management-Wires.key`
+- [ ] `presentations/NoFraudNewLogos.key`
+- [ ] `presentations/Reseller Intro.pptx`
+- [ ] `presentations/Sales-Wires.key`
+- [ ] `presentations/Untitled 5.key`
+- [ ] `presentations/Visual picking potential views.pptx`
+- [ ] `presentations/chap10_slides.pdf`
+- [ ] `presentations/intro-dw3.ppt`
+
+Completion:
+
+- [ ] Compile Overleaf project successfully.
+- [ ] Export final PDF(s) and store/link outputs.
+- [ ] Update the item README and hub master index with the Overleaf link and final export location.

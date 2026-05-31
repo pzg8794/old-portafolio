@@ -28,3 +28,9 @@ This is the lightweight GitHub hub for the old pre-2024 Portafolio cleanup. The 
 
 Use [PORTFOLIO_MASTER_INDEX.md](PORTFOLIO_MASTER_INDEX.md) as the source of truth for project code repos, papers, reports, presentations, documentation indexes, and Drive-only heavy-file references.
 
+<!-- OVERLEAF_TODO_LINK -->
+
+## Overleaf Conversion TODO
+
+Use [OVERLEAF_PROJECT_TODO.md](OVERLEAF_PROJECT_TODO.md) to create one Overleaf project per portfolio item and convert every paper, report, and presentation into application-ready writing/work-sample sources.
+
