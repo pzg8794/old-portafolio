@@ -161,3 +161,7 @@
 [submodule "Work-Projects/old-portafolio-work-trueinteraction"]
 	path = Work-Projects/old-portafolio-work-trueinteraction
 	url = https://github.com/pzg8794/old-portafolio-work-trueinteraction.git
+
+[submodule "PHD/old-portafolio-phd"]
+	path = PHD/old-portafolio-phd
+	url = https://github.com/pzg8794/old-portafolio-phd.git

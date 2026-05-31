@@ -13,6 +13,8 @@ This is the lightweight GitHub hub for the old pre-2024 Portafolio cleanup. The 
 - [Persona](./Persona/README.md) - 2 linked repo(s).
 - [Work-Projects](./Work-Projects/README.md) - 4 linked repo(s).
 
+- [PHD](./PHD/README.md) - 1 linked repo.
+
 ## Use
 
 - Browse on GitHub for navigation without downloading everything.
